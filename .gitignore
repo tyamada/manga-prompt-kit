@@ -8,3 +8,4 @@ __pycache__/
 .release-staging/
 .review.html
 .review-bundle.zip
+.pdf-release-staging/

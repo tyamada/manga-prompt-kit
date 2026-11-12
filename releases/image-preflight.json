@@ -1,0 +1,355 @@
+{
+  "date": "2026-11-12",
+  "images_reviewed": 24,
+  "color_verified": 24,
+  "pixels_modified": false,
+  "github_changes": false,
+  "release_timing": "wait_until_pixiv_publication_confirmed",
+  "rows": [
+    {
+      "group": "pixiv-tameshibu-ep01-20261111-v1",
+      "file": "00_cover.jpg",
+      "title": "ためし部 第1話 表紙",
+      "size": [
+        1042,
+        1509
+      ],
+      "color": "ICCプロファイル sRGB",
+      "sha256": "c54e2161124f099af8bdee1fbeb2c99ffeba72d595fba0448eec15686188fbf9",
+      "technical_result": "pass",
+      "visual_result": "no_required_correction_found",
+      "pixiv_record": "投稿・差し替え済みのユーザー報告あり"
+    },
+    {
+      "group": "pixiv-tameshibu-ep01-20261111-v1",
+      "file": "01_strip.jpg",
+      "title": "ためし部 第1話 最初の依頼",
+      "size": [
+        767,
+        2050
+      ],
+      "color": "ICCプロファイル sRGB",
+      "sha256": "c578988ffccd75a14bff296949b25a586a1fe1334610f7f842f34321da8017a3",
+      "technical_result": "pass",
+      "visual_result": "no_required_correction_found",
+      "pixiv_record": "投稿・差し替え済みのユーザー報告あり"
+    },
+    {
+      "group": "pixiv-tameshibu-ep01-20261111-v1",
+      "file": "02_strip.jpg",
+      "title": "ためし部 第1話 役割分担",
+      "size": [
+        819,
+        1920
+      ],
+      "color": "ICCプロファイル sRGB",
+      "sha256": "520d8eb711417e9137d914ebca3ccfe73ab108dd6b7719e6cea46f98b0f3d779",
+      "technical_result": "pass",
+      "visual_result": "no_required_correction_found",
+      "pixiv_record": "投稿・差し替え済みのユーザー報告あり"
+    },
+    {
+      "group": "pixiv-tameshibu-ep01-20261111-v1",
+      "file": "03_strip.jpg",
+      "title": "ためし部 第1話 静かさの単位",
+      "size": [
+        767,
+        2050
+      ],
+      "color": "ICCプロファイル sRGB",
+      "sha256": "076883410032a5267312682f3c8f3f976c52ba69f4468f6080c0f0da5fb42bf6",
+      "technical_result": "pass",
+      "visual_result": "no_required_correction_found",
+      "pixiv_record": "投稿・差し替え済みのユーザー報告あり"
+    },
+    {
+      "group": "pixiv-tameshibu-ep01-20261111-v1",
+      "file": "04_strip.jpg",
+      "title": "ためし部 第1話 ひなたの長さ",
+      "size": [
+        819,
+        1920
+      ],
+      "color": "ICCプロファイル sRGB",
+      "sha256": "cbf13eb76de8eeb98f363c1b1545b53a0fe9dae0b821771a08309d1775621649",
+      "technical_result": "pass",
+      "visual_result": "no_required_correction_found",
+      "pixiv_record": "投稿・差し替え済みのユーザー報告あり"
+    },
+    {
+      "group": "pixiv-tameshibu-ep01-20261111-v1",
+      "file": "05_strip.jpg",
+      "title": "ためし部 第1話 持ち運べる休憩",
+      "size": [
+        819,
+        1920
+      ],
+      "color": "ICCプロファイル sRGB",
+      "sha256": "7ed1cdf830de05d9ea386d4319324e4709c194cad14a5c8c313933d47daef062",
+      "technical_result": "pass",
+      "visual_result": "no_required_correction_found",
+      "pixiv_record": "11月12日18時の予約登録報告あり、公開完了未確認"
+    },
+    {
+      "group": "pixiv-tameshibu-ep01-20261111-v1",
+      "file": "06_strip.jpg",
+      "title": "ためし部 第1話 名前の長さ",
+      "size": [
+        819,
+        1920
+      ],
+      "color": "ICCプロファイル sRGB",
+      "sha256": "d586e1a0c6e8adae188a756afa6545873f888ab9a915c6df30a778371a9d5005",
+      "technical_result": "pass",
+      "visual_result": "no_required_correction_found",
+      "pixiv_record": "投稿完了の報告未確認"
+    },
+    {
+      "group": "pixiv-tameshibu-ep01-20261111-v1",
+      "file": "07_strip.jpg",
+      "title": "ためし部 第1話 数字にできない",
+      "size": [
+        819,
+        1920
+      ],
+      "color": "ICCプロファイル sRGB",
+      "sha256": "1c2b9a26a91d8a702127157497e97d2e21a77ba5c1823b2afe6da4764c64d3c4",
+      "technical_result": "pass",
+      "visual_result": "no_required_correction_found",
+      "pixiv_record": "投稿完了の報告未確認"
+    },
+    {
+      "group": "pixiv-tameshibu-ep01-20261111-v1",
+      "file": "08_strip.jpg",
+      "title": "ためし部 第1話 窓のむこう",
+      "size": [
+        819,
+        1920
+      ],
+      "color": "ICCプロファイル sRGB",
+      "sha256": "779727ef38af8ca4523ff89f32bc38f35fbf8366bced2e70639449ebcb7433ea",
+      "technical_result": "pass",
+      "visual_result": "no_required_correction_found",
+      "pixiv_record": "投稿完了の報告未確認"
+    },
+    {
+      "group": "pixiv-tameshibu-ep01-20261111-v1",
+      "file": "09_strip.jpg",
+      "title": "ためし部 第1話 地図の盲点",
+      "size": [
+        767,
+        2050
+      ],
+      "color": "ICCプロファイル sRGB",
+      "sha256": "249c37fd5df910c33d17213a895b794fa3adae58731c06b93c87817739562a59",
+      "technical_result": "pass",
+      "visual_result": "no_required_correction_found",
+      "pixiv_record": "投稿完了の報告未確認"
+    },
+    {
+      "group": "pixiv-tameshibu-ep01-20261111-v1",
+      "file": "10_strip.jpg",
+      "title": "ためし部 第1話 案内上手",
+      "size": [
+        767,
+        2050
+      ],
+      "color": "ICCプロファイル sRGB",
+      "sha256": "e3560f86eb084405e467941374ba4f79f33e12bcf1d414bf92d47fb30b3f2b81",
+      "technical_result": "pass",
+      "visual_result": "no_required_correction_found",
+      "pixiv_record": "投稿完了の報告未確認"
+    },
+    {
+      "group": "pixiv-tameshibu-ep01-20261111-v1",
+      "file": "11_strip.jpg",
+      "title": "ためし部 第1話 満場一致",
+      "size": [
+        767,
+        2051
+      ],
+      "color": "ICCプロファイル sRGB",
+      "sha256": "ba1e7abe46148710e71f8a9e41060cb11892eb40224826283d7b18abbb53e88d",
+      "technical_result": "pass",
+      "visual_result": "no_required_correction_found",
+      "pixiv_record": "投稿完了の報告未確認"
+    },
+    {
+      "group": "pixiv-tameshibu-ep01-20261111-v1",
+      "file": "12_strip.jpg",
+      "title": "ためし部 第1話 地図の置き場所",
+      "size": [
+        819,
+        1920
+      ],
+      "color": "ICCプロファイル sRGB",
+      "sha256": "4676d99710f2c4896acd9ab68dd4186a18434e21c4c91dd3fd356efbb7cb64ce",
+      "technical_result": "pass",
+      "visual_result": "no_required_correction_found",
+      "pixiv_record": "投稿完了の報告未確認"
+    },
+    {
+      "group": "pixiv-tameshibu-ep01-20261111-v1",
+      "file": "13_strip.jpg",
+      "title": "ためし部 第1話 次の依頼",
+      "size": [
+        767,
+        2051
+      ],
+      "color": "ICCプロファイル sRGB",
+      "sha256": "b92a08c356db65609ff30d519120dddcaaa3ee785cb8116e8c798c315f96cec7",
+      "technical_result": "pass",
+      "visual_result": "no_required_correction_found",
+      "pixiv_record": "投稿完了の報告未確認"
+    },
+    {
+      "group": "pixiv-tameshibu-characters-20261109-v1",
+      "file": "koyomi_profile.jpg",
+      "title": "ためし部 小坂こよみ",
+      "size": [
+        1440,
+        2400
+      ],
+      "color": "ICCプロファイル sRGB",
+      "sha256": "ba5959a71d4c5c4797a7e93a6b726bf9f82ce1346c11d6f204e991ebd40640c4",
+      "technical_result": "pass",
+      "visual_result": "no_required_correction_found",
+      "pixiv_record": "投稿完了の報告未確認"
+    },
+    {
+      "group": "pixiv-tameshibu-characters-20261109-v1",
+      "file": "nagi_profile.jpg",
+      "title": "ためし部 瀬尾凪",
+      "size": [
+        1440,
+        2400
+      ],
+      "color": "ICCプロファイル sRGB",
+      "sha256": "c05e42b0b46d5620ae38f61971397da9b44ecc820cc2a4c2db2581bf697a6918",
+      "technical_result": "pass",
+      "visual_result": "no_required_correction_found",
+      "pixiv_record": "投稿完了の報告未確認"
+    },
+    {
+      "group": "pixiv-tameshibu-characters-20261109-v1",
+      "file": "kurumi_profile.jpg",
+      "title": "ためし部 三輪くるみ",
+      "size": [
+        1440,
+        2400
+      ],
+      "color": "ICCプロファイル sRGB",
+      "sha256": "7a313777a30b2a5df03687d49c79f60a89ac39f835db757c6ee88053e7bf9741",
+      "technical_result": "pass",
+      "visual_result": "no_required_correction_found",
+      "pixiv_record": "投稿完了の報告未確認"
+    },
+    {
+      "group": "pixiv-tameshibu-characters-20261109-v1",
+      "file": "sumire_profile.jpg",
+      "title": "ためし部 折原すみれ",
+      "size": [
+        1440,
+        2400
+      ],
+      "color": "ICCプロファイル sRGB",
+      "sha256": "078e0907bdf60a2be8d2a218a5da9663035ccf3964d9b2e368da629d830cbecf",
+      "technical_result": "pass",
+      "visual_result": "no_required_correction_found",
+      "pixiv_record": "11月12日18時の予約登録報告あり、公開完了未確認"
+    },
+    {
+      "group": "pixiv-seo-strips01-06-20261108-v1",
+      "file": "01_strip.jpg",
+      "title": "瀬尾家 三姉妹の中心",
+      "size": [
+        809,
+        1942
+      ],
+      "color": "EXIF ColorSpace=1 sRGB、ICC未埋込",
+      "sha256": "a8e21a903b3f55f4135a4b32b08a9d12eab043b61bf785bed8bce1961ef08868",
+      "technical_result": "pass",
+      "visual_result": "no_required_correction_found",
+      "pixiv_record": "投稿予定・投稿完了の確定記録なし"
+    },
+    {
+      "group": "pixiv-seo-strips01-06-20261108-v1",
+      "file": "02_strip.jpg",
+      "title": "瀬尾家 最後のアイス",
+      "size": [
+        809,
+        1942
+      ],
+      "color": "EXIF ColorSpace=1 sRGB、ICC未埋込",
+      "sha256": "e69d924b244eb30497a998eb6f318f56bd3cf5da36cd38ff71ec24872c257d3c",
+      "technical_result": "pass",
+      "visual_result": "no_required_correction_found",
+      "pixiv_record": "投稿予定・投稿完了の確定記録なし"
+    },
+    {
+      "group": "pixiv-seo-strips01-06-20261108-v1",
+      "file": "03_strip.jpg",
+      "title": "瀬尾家 お風呂の順番",
+      "size": [
+        808,
+        1945
+      ],
+      "color": "EXIF ColorSpace=1 sRGB、ICC未埋込",
+      "sha256": "bdc23b68517cabfe082f88ecf197760204a92ecb0be8aa8aefde0fe40dc4861f",
+      "technical_result": "pass",
+      "visual_result": "no_required_correction_found",
+      "pixiv_record": "投稿予定・投稿完了の確定記録なし"
+    },
+    {
+      "group": "pixiv-seo-strips01-06-20261108-v1",
+      "file": "04_strip.jpg",
+      "title": "瀬尾家 宿題の先生",
+      "size": [
+        809,
+        1942
+      ],
+      "color": "EXIF ColorSpace=1 sRGB、ICC未埋込",
+      "sha256": "251f815e8b61004ffcd2d291000919a4c7490d77b77dacdc734c61f4c9e4a9d2",
+      "technical_result": "pass",
+      "visual_result": "no_required_correction_found",
+      "pixiv_record": "投稿予定・投稿完了の確定記録なし"
+    },
+    {
+      "group": "pixiv-seo-strips01-06-20261108-v1",
+      "file": "05_strip.jpg",
+      "title": "瀬尾家 休日の予定",
+      "size": [
+        809,
+        1942
+      ],
+      "color": "EXIF ColorSpace=1 sRGB、ICC未埋込",
+      "sha256": "698330dea834f255943dd253724884acc829fecfb335b2fcbf6e784d3f05d0b5",
+      "technical_result": "pass",
+      "visual_result": "no_required_correction_found",
+      "pixiv_record": "投稿予定・投稿完了の確定記録なし"
+    },
+    {
+      "group": "pixiv-seo-strips01-06-20261108-v1",
+      "file": "06_strip.jpg",
+      "title": "瀬尾家 しっかり者のお願い",
+      "size": [
+        809,
+        1942
+      ],
+      "color": "EXIF ColorSpace=1 sRGB、ICC未埋込",
+      "sha256": "35e723ce9ceab7b201444024b0915ecdf68cbaf8e02928c1ab0ebe973be15821",
+      "technical_result": "pass",
+      "visual_result": "no_required_correction_found",
+      "pixiv_record": "投稿予定・投稿完了の確定記録なし"
+    }
+  ],
+  "publication_policy": {
+    "decided_on": "2026-11-12",
+    "rule": "wait_until_pixiv_publication_confirmed",
+    "scope": "each_image_release_group",
+    "requirement": "そのReleaseに含む全画像のpixiv投稿完了を公開URLまたはユーザー報告で確認してから公開する。予約時刻の経過だけでは公開済みと判定しない。",
+    "pdf_release": "画像の待機方針はPDF移行Releaseに適用しない。PDF公開は別工程。",
+    "existing_documentation_examples": "既存の資料内の実例画像は変更しない。",
+    "automatic_publication": false
+  }
+}
