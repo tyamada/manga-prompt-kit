@@ -6,7 +6,7 @@
   "groups": [
     {
       "status": "planned",
-      "repository": null,
+      "repository": "tyamada/manga-prompt-kit",
       "tag_candidate": "pixiv-tameshibu-ep01-20261111-v1",
       "release_url": null,
       "title": "ためし部 第1話 表紙と全13回",
@@ -238,7 +238,7 @@
     },
     {
       "status": "planned",
-      "repository": null,
+      "repository": "tyamada/manga-prompt-kit",
       "tag_candidate": "pixiv-tameshibu-characters-20261109-v1",
       "release_url": null,
       "title": "ためし部 人物紹介4枚",
@@ -320,7 +320,7 @@
     },
     {
       "status": "planned",
-      "repository": null,
+      "repository": "tyamada/manga-prompt-kit",
       "tag_candidate": "pixiv-seo-strips01-06-20261108-v1",
       "release_url": null,
       "title": "瀬尾家 全6回",
@@ -430,5 +430,6 @@
         "pixiv-seo-strips01-06-20261108-v1.zip"
       ]
     }
-  ]
+  ],
+  "repository": "tyamada/manga-prompt-kit"
 }

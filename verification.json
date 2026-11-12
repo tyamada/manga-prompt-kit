@@ -1,7 +1,6 @@
 {
   "date": "2026-11-12",
   "license": "CC-BY-4.0",
-  "github_uploaded": false,
   "legacy_releases_modified": false,
   "pdfs_matched_to_legacy_metadata": 51,
   "release_images_prepared": 24,
@@ -180,5 +179,7 @@
     "過去の採用稿を収録。新しい画像生成は行っていない。",
     "外部URLの全件再検証は行っていない。旧ReleaseはAPIメタデータを確認。",
     "目視確認範囲はREVIEW-RESULTS.mdに記載。"
-  ]
+  ],
+  "phase": "initial_documentation_publication",
+  "repository": "tyamada/manga-prompt-kit"
 }
