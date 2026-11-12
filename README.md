@@ -4,7 +4,7 @@
 
 プロンプトを一度送って完成を待つだけでなく、試作を読んで修正し、採用稿を選ぶ工程を重視しています。画像生成AIを使い、作品を自分で確認しながら作りたい方を対象にしています。
 
-**初版 2026年11月12日**。[GitHubリポジトリ](https://github.com/tyamada/manga-prompt-kit)で制作資料を公開しています。PDF・完成画像一式のReleases配布は準備中です。
+**初版 2026年11月12日**。[GitHubリポジトリ](https://github.com/tyamada/manga-prompt-kit)で制作資料を公開しています。アプリ用PDF51冊をReleasesで公開しています。完成画像一式はpixiv投稿後まで公開待機中です。
 
 ![こよみの人物紹介](examples/01-character/assets/adopted.jpg)
 
@@ -51,6 +51,8 @@
 
 ## 完成作品と制作記事
 
+- [最新版アプリ用PDF51冊をダウンロード](https://github.com/tyamada/manga-prompt-kit/releases/tag/manga-pdf-20261103-v1)
+
 - [ためし部の第1回をpixivで読む](https://www.pixiv.net/artworks/151828086)
 - [マンガ制作記事の連載一覧](https://qiita.com/tyamada22/stocks/ea14e9a9d04ec8292263)
 - [PDF改訂と配布を扱った記事](https://qiita.com/tyamada22/items/eee3433d069cbdd2db04)
@@ -59,7 +61,7 @@
 
 この資料集はPDFビューアアプリ本体を含みません。最新版のPDFと投稿用画像は、**この制作資料リポジトリのGitHub Releasesへ集約する計画**です。アプリ側の既存2つのReleaseは移行中の旧配布先で、将来廃止予定です。新しいReleaseの公開・検証と利用アプリの移行が終わるまでは旧URLを維持します。
 
-現時点ではアプリ用PDFは旧配布先で公開済み、新しい配布先への51冊の移行とpixiv用画像24枚は公開予定です。資料のリポジトリを公開し、PDF・画像のReleaseはまだ作成していません。[配布対象と移行手順](releases/README.md)を参照してください。
+アプリ用PDF51冊は[新しいPDF Release](https://github.com/tyamada/manga-prompt-kit/releases/tag/manga-pdf-20261103-v1)で公開済みです。全件の匿名ダウンロードと整合性を確認しました。pixiv用画像24枚のReleaseは投稿後まで公開待機中です。アプリ側の参照先更新と旧2配布先の廃止は未実施です。[配布対象と移行手順](releases/README.md)を参照してください。
 
 ## ライセンス
 

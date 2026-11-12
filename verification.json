@@ -4,7 +4,7 @@
   "legacy_releases_modified": false,
   "pdfs_matched_to_legacy_metadata": 51,
   "release_images_prepared": 24,
-  "release_status": "planned_this_repository",
+  "release_status": "pdf_published_images_waiting_for_pixiv",
   "local_links_checked": 158,
   "broken_local_links": [],
   "json_files_checked_before_report": 20,
@@ -181,5 +181,11 @@
     "目視確認範囲はREVIEW-RESULTS.mdに記載。"
   ],
   "phase": "initial_documentation_publication",
-  "repository": "tyamada/manga-prompt-kit"
+  "repository": "tyamada/manga-prompt-kit",
+  "pdf_release": {
+    "status": "published",
+    "url": "https://github.com/tyamada/manga-prompt-kit/releases/tag/manga-pdf-20261103-v1",
+    "anonymous_assets_verified": 55,
+    "pdfs_verified": 51
+  }
 }

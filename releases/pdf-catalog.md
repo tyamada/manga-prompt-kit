@@ -1,6 +1,6 @@
 # 新しいReleaseへ移すPDF一覧
 
-全51冊は公開予定です。各行は新配布先に採用するファイル名です。旧2配布先との対応は[pdf-migration.csv](pdf-migration.csv)、完全なハッシュは[pdf-manifest.json](pdf-manifest.json)で確認できます。既存の内容の版数は維持し、新しいURLだけを公開時に設定します。
+全51冊は[新しいPDF Release](https://github.com/tyamada/manga-prompt-kit/releases/tag/manga-pdf-20261103-v1)で公開済みです。各行は新配布先に採用するファイル名です。旧2配布先との対応は[pdf-migration.csv](pdf-migration.csv)、完全なハッシュは[pdf-manifest.json](pdf-manifest.json)で確認できます。既存の内容の版数を維持し、固定ダウンロードURLを設定済みです。
 
 | 話 | 言語キー | 地域 | 新配布ファイル名 | ページ | バイト数 |
 |---|---|---|---|---|---|
