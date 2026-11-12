@@ -1,0 +1,49 @@
+{
+  "title": "役割分担",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        {
+          "speaker": "こよみ",
+          "text": "歩いて探そう！ ひと息マップ、作る！"
+        }
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        {
+          "speaker": "凪",
+          "text": "私は記録。"
+        },
+        {
+          "speaker": "くるみ",
+          "text": "目印なら作れるよ！"
+        }
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        {
+          "speaker": "すみれ",
+          "text": "場所の名前、考えてみるね。"
+        },
+        {
+          "speaker": "こよみ",
+          "text": "私は？"
+        }
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        {
+          "speaker": "すみれ",
+          "text": "ひと息の実演、お願い。"
+        }
+      ]
+    }
+  ]
+}

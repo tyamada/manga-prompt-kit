@@ -1,0 +1,41 @@
+{
+  "title": "満場一致",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        {
+          "speaker": "こよみ",
+          "text": "今日いちばん、ほっとした場所に丸！"
+        }
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        {
+          "speaker": "くるみ",
+          "text": "せーの！"
+        }
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        {
+          "speaker": "凪",
+          "text": "全員、部室。"
+        }
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        {
+          "speaker": "すみれ",
+          "text": "みんながいると、ここが落ち着くね。"
+        }
+      ]
+    }
+  ]
+}

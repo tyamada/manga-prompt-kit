@@ -1,0 +1,184 @@
+{
+  "date": "2026-11-12",
+  "license": "CC-BY-4.0",
+  "github_uploaded": false,
+  "legacy_releases_modified": false,
+  "pdfs_matched_to_legacy_metadata": 51,
+  "release_images_prepared": 24,
+  "release_status": "planned_this_repository",
+  "local_links_checked": 158,
+  "broken_local_links": [],
+  "json_files_checked_before_report": 20,
+  "archived_files_verified": 56,
+  "image_files_decoded": 27,
+  "text_privacy_scan_matches": [],
+  "image_metadata": [
+    {
+      "file": "examples/03-name/assets/adopted.jpg",
+      "width": 819,
+      "height": 1920,
+      "profile": "sRGB built-in"
+    },
+    {
+      "file": "examples/03-name/assets/art-before-print.png",
+      "width": 819,
+      "height": 1920,
+      "profile": "not embedded"
+    },
+    {
+      "file": "examples/03-name/assets/print-layer.png",
+      "width": 2180,
+      "height": 150,
+      "profile": "not embedded"
+    },
+    {
+      "file": "examples/03-name/assets/reference-nov09.jpg",
+      "width": 898,
+      "height": 2400,
+      "profile": "sRGB built-in"
+    },
+    {
+      "file": "examples/02-roles/assets/adopted.jpg",
+      "width": 819,
+      "height": 1920,
+      "profile": "sRGB built-in"
+    },
+    {
+      "file": "examples/02-roles/assets/before-v1.jpg",
+      "width": 819,
+      "height": 1920,
+      "profile": "sRGB built-in"
+    },
+    {
+      "file": "examples/02-roles/assets/room-reference.jpg",
+      "width": 767,
+      "height": 2050,
+      "profile": "sRGB built-in"
+    },
+    {
+      "file": "examples/02-roles/assets/identity-reference.jpg",
+      "width": 898,
+      "height": 2400,
+      "profile": "sRGB built-in"
+    },
+    {
+      "file": "examples/04-unanimous/assets/adopted.jpg",
+      "width": 767,
+      "height": 2051,
+      "profile": "sRGB built-in"
+    },
+    {
+      "file": "examples/04-unanimous/assets/before-v1.jpg",
+      "width": 767,
+      "height": 2051,
+      "profile": "sRGB built-in"
+    },
+    {
+      "file": "examples/04-unanimous/assets/before-v2.jpg",
+      "width": 767,
+      "height": 2050,
+      "profile": "sRGB built-in"
+    },
+    {
+      "file": "examples/04-unanimous/assets/reference-nov09.jpg",
+      "width": 898,
+      "height": 2400,
+      "profile": "sRGB built-in"
+    },
+    {
+      "file": "examples/01-character/assets/adopted.jpg",
+      "width": 1440,
+      "height": 2400,
+      "profile": "sRGB built-in"
+    },
+    {
+      "file": "examples/01-character/assets/standing.png",
+      "width": 1024,
+      "height": 1536,
+      "profile": "not embedded"
+    },
+    {
+      "file": "examples/01-character/assets/expressions-initial.png",
+      "width": 1254,
+      "height": 1254,
+      "profile": "not embedded"
+    },
+    {
+      "file": "examples/01-character/assets/before-v9.jpg",
+      "width": 1440,
+      "height": 2400,
+      "profile": "sRGB built-in"
+    },
+    {
+      "file": "series/seo/assets/fullbody.png",
+      "width": 1536,
+      "height": 1024,
+      "profile": "not embedded"
+    },
+    {
+      "file": "series/seo/assets/sumi-expressions.png",
+      "width": 1536,
+      "height": 1024,
+      "profile": "not embedded"
+    },
+    {
+      "file": "series/seo/assets/homework-v12.jpg",
+      "width": 809,
+      "height": 1942,
+      "profile": "not embedded"
+    },
+    {
+      "file": "series/seo/assets/homework-v11.jpg",
+      "width": 810,
+      "height": 1941,
+      "profile": "not embedded"
+    },
+    {
+      "file": "series/seo/assets/nagi-expressions_A.png",
+      "width": 1536,
+      "height": 1024,
+      "profile": "not embedded"
+    },
+    {
+      "file": "series/seo/assets/haru-expressions.png",
+      "width": 1536,
+      "height": 1024,
+      "profile": "not embedded"
+    },
+    {
+      "file": "series/seo/assets/living-room.png",
+      "width": 1536,
+      "height": 1024,
+      "profile": "not embedded"
+    },
+    {
+      "file": "series/seo/assets/haru-expressions_A.png",
+      "width": 1536,
+      "height": 1024,
+      "profile": "not embedded"
+    },
+    {
+      "file": "series/seo/assets/sumi-expressions_A.png",
+      "width": 1536,
+      "height": 1024,
+      "profile": "not embedded"
+    },
+    {
+      "file": "series/seo/assets/nagi-expressions.png",
+      "width": 1536,
+      "height": 1024,
+      "profile": "not embedded"
+    },
+    {
+      "file": "series/seo/assets/deformation-v2.png",
+      "width": 1536,
+      "height": 1024,
+      "profile": "not embedded"
+    }
+  ],
+  "notes": [
+    "過去の採用稿を収録。新しい画像生成は行っていない。",
+    "外部URLの全件再検証は行っていない。旧ReleaseはAPIメタデータを確認。",
+    "目視確認範囲はREVIEW-RESULTS.mdに記載。"
+  ]
+}

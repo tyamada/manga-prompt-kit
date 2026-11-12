@@ -1,0 +1,10 @@
+.DS_Store
+__pycache__/
+*.pyc
+.env
+.env.*
+
+# Local review and release upload candidates
+.release-staging/
+.review.html
+.review-bundle.zip

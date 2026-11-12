@@ -1,0 +1,41 @@
+{
+  "title": "名前の長さ",
+  "panels": [
+    {
+      "panel": 1,
+      "dialogue": [
+        {
+          "speaker": "すみれ",
+          "text": "地図の名前、考えてみたの。"
+        }
+      ]
+    },
+    {
+      "panel": 2,
+      "dialogue": [
+        {
+          "speaker": "すみれ",
+          "text": "校内でほっとひと息つける場所をご案内するマップ……"
+        }
+      ]
+    },
+    {
+      "panel": 3,
+      "dialogue": [
+        {
+          "speaker": "凪",
+          "text": "読むほうにも休憩が要る。"
+        }
+      ]
+    },
+    {
+      "panel": 4,
+      "dialogue": [
+        {
+          "speaker": "すみれ",
+          "text": "じゃあ、ひと息マップ。"
+        }
+      ]
+    }
+  ]
+}

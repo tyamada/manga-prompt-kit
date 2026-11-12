@@ -1,0 +1,18 @@
+{
+  "使用手段": "内蔵画像生成・編集ツール。文字はNoto Sans JPで別途組版。",
+  "参照": [
+    "work/latest_art_faces.png（こよみは左上）",
+    "outputs/投稿用JPEG_著作権・ライセンス表示付き/表紙.jpg"
+  ],
+  "プロンプト": [
+    {
+      "対象": "全身立ち絵",
+      "指示": "Use case: identity-preserve / illustration-story. Produce a full-body standing character illustration for an introduction card. Character identity reference: ONLY the TOP LEFT girl in reference image1, Koyomi Kosaka, also the coral-cardigan girl on LEFT foreground of reference image2. Preserve existing Pixiv manga identity exactly: petite Japanese first-year high school girl (149cm), warm chestnut short rounded bob with small natural crown tuft, brown eyes, ONE rectangular open coral hairclip at HER RIGHT temple (viewer LEFT in frontal view), white collared shirt, coral cardigan, burgundy/coral-red ribbon, navy pleated school skirt. No new accessories. Clean fine weight-varied single ink lines; smooth flat cel color and crisp bounded cel shadows; no watercolor, sketchy double lines or blur. Same mature normal anime schoolgirl proportions, not chibi. Front three-quarter view, friendly modest smile, one hand lightly closed in a small enthusiastic fist at chest height, other arm relaxed beside body. Natural balanced stance, head to toes fully visible, petite normal approx6-head proportions, anatomically correct hands/legs. Navy pleated skirt, dark navy knee socks and simple brown school loafers. Whole figure large, unobstructed, no cropped hair or shoes, no pedestal, no props. Genuine TRANSPARENT background. NO text, lettering, labels, logos, speech balloons, decorative effects or other people. Full-body only."
+    },
+    {
+      "対象": "シリアス表情4点",
+      "指示": "Use case: identity-preserve / illustration-story. Produce a clean MODEL EXPRESSION SHEET with exactly FOUR equally sized bust portraits of Koyomi in a 2x2 grid on plain ivory background. Character identity reference: ONLY the TOP LEFT girl in reference image1, Koyomi Kosaka, also the coral-cardigan girl on LEFT foreground of reference image2. Preserve existing Pixiv manga identity exactly: petite Japanese first-year high school girl (149cm), warm chestnut short rounded bob with small natural crown tuft, brown eyes, ONE rectangular open coral hairclip at HER RIGHT temple (viewer LEFT in frontal view), white collared shirt, coral cardigan, burgundy/coral-red ribbon, navy pleated school skirt. No new accessories. Clean fine weight-varied single ink lines; smooth flat cel color and crisp bounded cel shadows; no watercolor, sketchy double lines or blur. Same mature normal anime schoolgirl proportions, not chibi. All FOUR portraits SAME person, SAME face/head size, SAME straight-on near-front camera and normal proportions, exact same hairstyle/hairclip/clothing. No panels/borders/text/labels. Keep ample ivory gutters and all heads/hair fully in their own quadrant, upper torso to chest, no hands. TOP LEFT: serious attentive, brows slightly gathered, closed mouth, looking straight ahead. TOP RIGHT: thoughtful, eyes gently lowered to one side, lips lightly pressed, not angry. BOTTOM LEFT: concerned empathy, inner brows slightly raised, soft worried eyes, mouth barely open. BOTTOM RIGHT: quiet determination, focused eyes and firm closed lips, not an angry scowl. These are SERIOUS NATURAL expressions, NO smiles, comedy, chibi, icons, sweat, effects, exaggerated eyes or yelling. Preserve face identity and exact hairclip in ALL four. Portraits must not overlap. No other characters."
+    }
+  ],
+  "状態": "ユーザー確認用。シリーズ投稿用ZIPへの追加・投稿・予約登録はしていない。"
+}

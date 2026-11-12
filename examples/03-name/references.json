@@ -1,0 +1,27 @@
+{
+  "license": "CC-BY-4.0",
+  "assets": [
+    {
+      "file": "assets/adopted.jpg",
+      "role": "採用画像"
+    },
+    {
+      "file": "assets/art-before-print.png",
+      "role": "参照 または途中画像"
+    },
+    {
+      "file": "assets/print-layer.png",
+      "role": "参照 または途中画像"
+    },
+    {
+      "file": "assets/reference-nov09.jpg",
+      "role": "参照 または途中画像"
+    }
+  ],
+  "historical_filename_aliases": {
+    "印字文字レイヤー_v1.png": "assets/print-layer.png",
+    "day07_strip06_art_v1.png": "assets/art-before-print.png",
+    "day07_strip06_prototype_v1.jpg": "assets/adopted.jpg"
+  },
+  "note": "当時の添付順・全中間素材を完全復元する一覧ではない。実際に使う参照の役割を本文で確認する。"
+}

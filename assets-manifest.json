@@ -1,0 +1,450 @@
+[
+  {
+    "file": "examples/01-character/assets/adopted.jpg",
+    "source_file": "こよみ_キャラクター紹介_採用版.jpg",
+    "source_group": "Pixivマンガ投稿",
+    "role": "採用画像 原本から変更なし",
+    "sha256": "ba5959a71d4c5c4797a7e93a6b726bf9f82ce1346c11d6f204e991ebd40640c4",
+    "license": "CC-BY-4.0"
+  },
+  {
+    "file": "examples/01-character/prompts/使用プロンプト_v10.txt",
+    "source_file": "使用プロンプト_v10.txt",
+    "source_group": "Pixivマンガ投稿",
+    "role": "保存された実使用の画像生成 編集指示",
+    "sha256": "34b83d8ddadf9679c468e6a7b2fae39d841d58863919fd06531a6b06401bdf88",
+    "license": "CC-BY-4.0"
+  },
+  {
+    "file": "examples/01-character/prompts/使用プロンプト_v8.txt",
+    "source_file": "使用プロンプト_v8.txt",
+    "source_group": "Pixivマンガ投稿",
+    "role": "保存された実使用の画像生成 編集指示",
+    "sha256": "3d28b93c481f08f79ffe29216c847f39893fd9da762bb9ee747e0d73b5e897bc",
+    "license": "CC-BY-4.0"
+  },
+  {
+    "file": "examples/01-character/prompts/使用プロンプト_v3.txt",
+    "source_file": "使用プロンプト_v3.txt",
+    "source_group": "Pixivマンガ投稿",
+    "role": "保存された実使用の画像生成 編集指示",
+    "sha256": "97b5b1e27f736ff793d83788bf48ab2fef28d7605d8bc78aaaef7bdf712620c0",
+    "license": "CC-BY-4.0"
+  },
+  {
+    "file": "examples/01-character/prompts/使用プロンプト_v2.txt",
+    "source_file": "使用プロンプト_v2.txt",
+    "source_group": "Pixivマンガ投稿",
+    "role": "保存された実使用の画像生成 編集指示",
+    "sha256": "4c47cf68e6020946d73af20f5c5898436eb1126a3803306a196a6727ac6fc2e5",
+    "license": "CC-BY-4.0"
+  },
+  {
+    "file": "examples/01-character/prompts/使用プロンプト_v6.txt",
+    "source_file": "使用プロンプト_v6.txt",
+    "source_group": "Pixivマンガ投稿",
+    "role": "保存された実使用の画像生成 編集指示",
+    "sha256": "a12c82975dec16de5226bf2323eed7ef55571eb240ec8f4b7a1bc66c5452643e",
+    "license": "CC-BY-4.0"
+  },
+  {
+    "file": "examples/01-character/prompts/使用プロンプト_v7.txt",
+    "source_file": "使用プロンプト_v7.txt",
+    "source_group": "Pixivマンガ投稿",
+    "role": "保存された実使用の画像生成 編集指示",
+    "sha256": "2002ce882c2112a437c152b0e81ed80fdc00b21196ca0ffaecfe672e8aa7b63f",
+    "license": "CC-BY-4.0"
+  },
+  {
+    "file": "examples/01-character/prompts/使用プロンプト_v5.txt",
+    "source_file": "使用プロンプト_v5.txt",
+    "source_group": "Pixivマンガ投稿",
+    "role": "保存された実使用の画像生成 編集指示",
+    "sha256": "3855e11dc8574fcd10385109f517276e4b4eb2a8df644d4b93d9f252216ccd18",
+    "license": "CC-BY-4.0"
+  },
+  {
+    "file": "examples/01-character/prompts/使用プロンプト_v4.txt",
+    "source_file": "使用プロンプト_v4.txt",
+    "source_group": "Pixivマンガ投稿",
+    "role": "保存された実使用の画像生成 編集指示",
+    "sha256": "24ca5072f09f32b309cc94075eae04e780e89883a8cc6f644263475fe69b4282",
+    "license": "CC-BY-4.0"
+  },
+  {
+    "file": "examples/02-roles/assets/adopted.jpg",
+    "source_file": "day03_strip02_prototype_v2.jpg",
+    "source_group": "Pixivマンガ投稿",
+    "role": "採用画像 原本から変更なし",
+    "sha256": "520d8eb711417e9137d914ebca3ccfe73ab108dd6b7719e6cea46f98b0f3d779",
+    "license": "CC-BY-4.0"
+  },
+  {
+    "file": "examples/02-roles/prompts/使用プロンプト_v1.txt",
+    "source_file": "使用プロンプト_v1.txt",
+    "source_group": "Pixivマンガ投稿",
+    "role": "保存された実使用の画像生成 編集指示",
+    "sha256": "56860c7ab56c8c20eb52826b63da860277bef87ddeb8ecb70b2e3492523c8a9d",
+    "license": "CC-BY-4.0"
+  },
+  {
+    "file": "examples/02-roles/prompts/使用プロンプト_v2.txt",
+    "source_file": "使用プロンプト_v2.txt",
+    "source_group": "Pixivマンガ投稿",
+    "role": "保存された実使用の画像生成 編集指示",
+    "sha256": "dedd69947f81b5a6e643e4a535792e7f29319d89b93a03d807c93f75a1255261",
+    "license": "CC-BY-4.0"
+  },
+  {
+    "file": "examples/03-name/assets/adopted.jpg",
+    "source_file": "day07_strip06_prototype_v1.jpg",
+    "source_group": "Pixivマンガ投稿",
+    "role": "採用画像 原本から変更なし",
+    "sha256": "d586e1a0c6e8adae188a756afa6545873f888ab9a915c6df30a778371a9d5005",
+    "license": "CC-BY-4.0"
+  },
+  {
+    "file": "examples/03-name/prompts/使用プロンプト_v1.txt",
+    "source_file": "使用プロンプト_v1.txt",
+    "source_group": "Pixivマンガ投稿",
+    "role": "保存された実使用の画像生成 編集指示",
+    "sha256": "711a4640fe2f1c39e330ec126080ca72fbb241532809ce3f350223a9f72bd2bc",
+    "license": "CC-BY-4.0"
+  },
+  {
+    "file": "examples/03-name/prompts/印字方向修正プロンプト_v1.txt",
+    "source_file": "印字方向修正プロンプト_v1.txt",
+    "source_group": "Pixivマンガ投稿",
+    "role": "保存された実使用の画像生成 編集指示",
+    "sha256": "c1d0826b9c77fb12a205871385232f55419aa2f3869f77373f51db5dcc44276c",
+    "license": "CC-BY-4.0"
+  },
+  {
+    "file": "examples/04-unanimous/assets/adopted.jpg",
+    "source_file": "day12_strip11_prototype_v3.jpg",
+    "source_group": "Pixivマンガ投稿",
+    "role": "採用画像 原本から変更なし",
+    "sha256": "ba1e7abe46148710e71f8a9e41060cb11892eb40224826283d7b18abbb53e88d",
+    "license": "CC-BY-4.0"
+  },
+  {
+    "file": "examples/04-unanimous/prompts/赤丸数修正プロンプト_v2.txt",
+    "source_file": "赤丸数修正プロンプト_v2.txt",
+    "source_group": "Pixivマンガ投稿",
+    "role": "保存された実使用の画像生成 編集指示",
+    "sha256": "a0258dfc627832d283884862b1cc679b3537b3a722be979832a171a0a71139ea",
+    "license": "CC-BY-4.0"
+  },
+  {
+    "file": "examples/04-unanimous/prompts/俯瞰構図修正プロンプト_v2.txt",
+    "source_file": "俯瞰構図修正プロンプト_v2.txt",
+    "source_group": "Pixivマンガ投稿",
+    "role": "保存された実使用の画像生成 編集指示",
+    "sha256": "46030c64183833c875d518bebc34a7d55fdd2083a6d42fefe697b7e9ab05df76",
+    "license": "CC-BY-4.0"
+  },
+  {
+    "file": "examples/04-unanimous/prompts/着色修正プロンプト_v3.txt",
+    "source_file": "着色修正プロンプト_v3.txt",
+    "source_group": "Pixivマンガ投稿",
+    "role": "保存された実使用の画像生成 編集指示",
+    "sha256": "3739746787b41fd78ceaecd34800bce7129002081e3da2bab5bbf53bf3050139",
+    "license": "CC-BY-4.0"
+  },
+  {
+    "file": "examples/04-unanimous/prompts/使用プロンプト_v1.txt",
+    "source_file": "使用プロンプト_v1.txt",
+    "source_group": "Pixivマンガ投稿",
+    "role": "保存された実使用の画像生成 編集指示",
+    "sha256": "1488e7d67c10e269b6766c0d5e1588dc58eee93a72951df5dec1f7cbcfeb899c",
+    "license": "CC-BY-4.0"
+  },
+  {
+    "file": "examples/04-unanimous/prompts/席順・赤丸修正プロンプト_v2.txt",
+    "source_file": "席順・赤丸修正プロンプト_v2.txt",
+    "source_group": "Pixivマンガ投稿",
+    "role": "保存された実使用の画像生成 編集指示",
+    "sha256": "7e7431c8c0ab97d3bf1a2e7ff88d6730d42bd71e9560342a90d1dd99fbe8221b",
+    "license": "CC-BY-4.0"
+  },
+  {
+    "file": "examples/04-unanimous/prompts/地図方向修正プロンプト_v1.txt",
+    "source_file": "地図方向修正プロンプト_v1.txt",
+    "source_group": "Pixivマンガ投稿",
+    "role": "保存された実使用の画像生成 編集指示",
+    "sha256": "62b359edde399a842f0b824361c2a2684c9b6d46cde48c1f1e7e5cbfbb48f1b3",
+    "license": "CC-BY-4.0"
+  },
+  {
+    "file": "examples/04-unanimous/prompts/吹き出し修正プロンプト_v2.txt",
+    "source_file": "吹き出し修正プロンプト_v2.txt",
+    "source_group": "Pixivマンガ投稿",
+    "role": "保存された実使用の画像生成 編集指示",
+    "sha256": "2f2e7fb2282b6fd590b206657ae5c700dc737c37af3314f9787ac5b1ce6bd375",
+    "license": "CC-BY-4.0"
+  },
+  {
+    "file": "examples/04-unanimous/prompts/配置修正プロンプト_v2.txt",
+    "source_file": "配置修正プロンプト_v2.txt",
+    "source_group": "Pixivマンガ投稿",
+    "role": "保存された実使用の画像生成 編集指示",
+    "sha256": "9c64a4c5ac66fc8d4c1e454157de073862e18329c2495ac5dd61df9b9656dcb1",
+    "license": "CC-BY-4.0"
+  },
+  {
+    "file": "examples/01-character/assets/before-v9.jpg",
+    "source_file": "koyomi_character_profile_v9.jpg",
+    "source_group": "Pixivマンガ投稿",
+    "role": "表情の更新前 紹介v9",
+    "sha256": "9859ac4f394dd3c7461439ee4e7513618c5d644744766dc1eb95a69d1ce8f9cd",
+    "license": "CC-BY-4.0"
+  },
+  {
+    "file": "examples/01-character/assets/standing.png",
+    "source_file": "koyomi_standing_v1.png",
+    "source_group": "Pixivマンガ投稿",
+    "role": "人物の立ち絵参照",
+    "sha256": "8b22c140753a9de99271bb73c43d3b905500483af3e0c430e9fc9c7f2adfb7f9",
+    "license": "CC-BY-4.0"
+  },
+  {
+    "file": "examples/01-character/assets/expressions-initial.png",
+    "source_file": "koyomi_expressions_v1.png",
+    "source_group": "Pixivマンガ投稿",
+    "role": "初期の表情参照",
+    "sha256": "dd29d4ea258853f22e3a0028d8460d1aad2fe5ab6213ae6b4114364ef6c142d9",
+    "license": "CC-BY-4.0"
+  },
+  {
+    "file": "examples/01-character/prompts/使用プロンプト_v1.json",
+    "source_file": "使用プロンプト_v1.json",
+    "source_group": "Pixivマンガ投稿",
+    "role": "初期設定画の実使用指示",
+    "sha256": "b6877b34c30ef1f93571764255d28426b6c89c8df483901e9617922ada847b6d",
+    "license": "CC-BY-4.0"
+  },
+  {
+    "file": "examples/02-roles/assets/before-v1.jpg",
+    "source_file": "day03_strip02_prototype_v1.jpg",
+    "source_group": "Pixivマンガ投稿",
+    "role": "背景修正前の試作",
+    "sha256": "eed0704f4e37de3fd7e8b0b50307bbe62d99faf5c3b9f67aa1e7bd3819789838",
+    "license": "CC-BY-4.0"
+  },
+  {
+    "file": "examples/02-roles/assets/room-reference.jpg",
+    "source_file": "day02_strip01_prototype_v1.jpg",
+    "source_group": "Pixivマンガ投稿",
+    "role": "部室と色の連続性を示す参照",
+    "sha256": "c578988ffccd75a14bff296949b25a586a1fe1334610f7f842f34321da8017a3",
+    "license": "CC-BY-4.0"
+  },
+  {
+    "file": "examples/02-roles/assets/identity-reference.jpg",
+    "source_file": "day03_strip02_v8.jpg",
+    "source_group": "Pixivマンガ投稿",
+    "role": "再利用の補助として収録した11月8日v8 当日のimage1と同一とは断定しない",
+    "sha256": "e8dedfe8a7254465b3689025ae23a46e9d6f5220e345610b36e2441da3a88abb",
+    "license": "CC-BY-4.0"
+  },
+  {
+    "file": "examples/03-name/assets/art-before-print.png",
+    "source_file": "day07_strip06_art_v1.png",
+    "source_group": "Pixivマンガ投稿",
+    "role": "長い紙の印字を合成する前の原稿",
+    "sha256": "db0c9b1ab8bfe305c84d91f53a0f73aaead940e0b55dbe4fd36dcf7cb8a5359b",
+    "license": "CC-BY-4.0"
+  },
+  {
+    "file": "examples/03-name/assets/print-layer.png",
+    "source_file": "印字文字レイヤー_v1.png",
+    "source_group": "Pixivマンガ投稿",
+    "role": "実制作で使った印字マスク 白字黒背景",
+    "sha256": "43ced8458f5c1e5f47556e94b187c69369438ea7252ac2d349d131305c01603f",
+    "license": "CC-BY-4.0"
+  },
+  {
+    "file": "examples/03-name/assets/reference-nov09.jpg",
+    "source_file": "day07_strip06_v4.jpg",
+    "source_group": "Pixivマンガ投稿",
+    "role": "11月11日の試作が参照した11月9日v4",
+    "sha256": "08b61123fe34b8e6149e45324d1c890d35f66c3fa705e926cf1171c9b5a08e2d",
+    "license": "CC-BY-4.0"
+  },
+  {
+    "file": "examples/04-unanimous/assets/before-v1.jpg",
+    "source_file": "day12_strip11_prototype_v1.jpg",
+    "source_group": "Pixivマンガ投稿",
+    "role": "途中の試作v1",
+    "sha256": "ade6cc015cb17774436b6b6a9395f36b2de93417a48678fa745ed89fe13c6e98",
+    "license": "CC-BY-4.0"
+  },
+  {
+    "file": "examples/04-unanimous/assets/before-v2.jpg",
+    "source_file": "day12_strip11_prototype_v2.jpg",
+    "source_group": "Pixivマンガ投稿",
+    "role": "途中の試作v2",
+    "sha256": "23f648e24568496c746933c969c4e1008b689667cbe5f035071fbe6eba8c63c0",
+    "license": "CC-BY-4.0"
+  },
+  {
+    "file": "examples/04-unanimous/assets/reference-nov09.jpg",
+    "source_file": "day12_strip11_v4.jpg",
+    "source_group": "Pixivマンガ投稿",
+    "role": "11月11日の試作が参照した11月9日v4",
+    "sha256": "e0b51a6b6fcf09513a61e92b9d4b348c893592ea7cde982a14e16bda66b97fb2",
+    "license": "CC-BY-4.0"
+  },
+  {
+    "file": "series/seo/assets/fullbody.png",
+    "source_file": "seo_sisters_fullbody.png",
+    "source_group": "瀬尾家4コマ漫画の計画を立てる",
+    "role": "三姉妹の通常全身設定",
+    "sha256": "9926f3b32242b290584443eb6eaf8fbbb3807a868aaba7fb91f8366c60416974",
+    "license": "CC-BY-4.0"
+  },
+  {
+    "file": "series/seo/assets/living-room.png",
+    "source_file": "seo_sisters_living_room.png",
+    "source_group": "瀬尾家4コマ漫画の計画を立てる",
+    "role": "リビングと姿勢の基準",
+    "sha256": "00b8157cd30af785a7ec5c68d43bdc26e3272380a9ab4b54b72e6dee79363091",
+    "license": "CC-BY-4.0"
+  },
+  {
+    "file": "series/seo/assets/deformation-v2.png",
+    "source_file": "seo_sisters_deformation_comparison_v2.png",
+    "source_group": "瀬尾家4コマ漫画の計画を立てる",
+    "role": "通常 A B Cの比較 最新v2",
+    "sha256": "1d2181f5dfc1c3c6f1663f3e2ee2afd5238790060e62b0eedb66de70319a9eb6",
+    "license": "CC-BY-4.0"
+  },
+  {
+    "file": "series/seo/assets/homework-v12.jpg",
+    "source_file": "seo_strip4_homework_v12.jpg",
+    "source_group": "瀬尾家4コマ漫画の計画を立てる",
+    "role": "元チャットが最新と指定した宿題の先生v12",
+    "sha256": "251f815e8b61004ffcd2d291000919a4c7490d77b77dacdc734c61f4c9e4a9d2",
+    "license": "CC-BY-4.0"
+  },
+  {
+    "file": "series/seo/assets/homework-v11.jpg",
+    "source_file": "seo_strip4_homework_v11.jpg",
+    "source_group": "瀬尾家4コマ漫画の計画を立てる",
+    "role": "顔だけギャグへ更新する前のv11",
+    "sha256": "e472317138c25f575c23b962ba68057efaa0f7253a4bdffb3746fab0728f9d0d",
+    "license": "CC-BY-4.0"
+  },
+  {
+    "file": "series/seo/prompts/制作プロンプト.txt",
+    "source_file": "制作プロンプト.txt",
+    "source_group": "瀬尾家4コマ漫画の計画を立てる",
+    "role": "保存された瀬尾家の実使用指示",
+    "sha256": "95a7de9ebacca449277977053f03c084bd23e3fec306bed40965f8f6644b22b7",
+    "license": "CC-BY-4.0"
+  },
+  {
+    "file": "series/seo/prompts/リビング_制作プロンプト.txt",
+    "source_file": "リビング_制作プロンプト.txt",
+    "source_group": "瀬尾家4コマ漫画の計画を立てる",
+    "role": "保存された瀬尾家の実使用指示",
+    "sha256": "93b62b7b6640386692d87ec54e9a5d6883b664a4cc0f5ab69633f64f6518059b",
+    "license": "CC-BY-4.0"
+  },
+  {
+    "file": "series/seo/prompts/デフォルメ比較_制作プロンプト.txt",
+    "source_file": "デフォルメ比較_制作プロンプト.txt",
+    "source_group": "瀬尾家4コマ漫画の計画を立てる",
+    "role": "保存された瀬尾家の実使用指示",
+    "sha256": "63b37b83237564ba59b714d6d7dc3ed4631a48dbba56abb1c7eefe266ae48a2d",
+    "license": "CC-BY-4.0"
+  },
+  {
+    "file": "series/seo/prompts/A案表情集_制作プロンプト.txt",
+    "source_file": "A案表情集_制作プロンプト.txt",
+    "source_group": "瀬尾家4コマ漫画の計画を立てる",
+    "role": "保存された瀬尾家の実使用指示",
+    "sha256": "32d9bdf20bbbdcf5ae8199be3661e914052ddf7d7375ed59bfcb8e1829213d68",
+    "license": "CC-BY-4.0"
+  },
+  {
+    "file": "series/seo/prompts/宿題の先生_最新作画方針_制作プロンプト.txt",
+    "source_file": "宿題の先生_最新作画方針_制作プロンプト.txt",
+    "source_group": "瀬尾家4コマ漫画の計画を立てる",
+    "role": "保存された瀬尾家の実使用指示",
+    "sha256": "a0868863cc856b2990acac0aa42b95772e6b3aee42e583db2777577563f51d49",
+    "license": "CC-BY-4.0"
+  },
+  {
+    "file": "series/seo/prompts/宿題の先生_レイアウト修正v7プロンプト.txt",
+    "source_file": "宿題の先生_レイアウト修正v7プロンプト.txt",
+    "source_group": "瀬尾家4コマ漫画の計画を立てる",
+    "role": "保存された瀬尾家の実使用指示",
+    "sha256": "32fc06f54b2741187852f9e004640eb4e24539b9bbd27ecc8b0f3302f35ca9c8",
+    "license": "CC-BY-4.0"
+  },
+  {
+    "file": "series/seo/prompts/宿題の先生_線画彩色修正プロンプト.txt",
+    "source_file": "宿題の先生_線画彩色修正プロンプト.txt",
+    "source_group": "瀬尾家4コマ漫画の計画を立てる",
+    "role": "保存された瀬尾家の実使用指示",
+    "sha256": "5430b83c0bfd7725238bc08889a7af3a47c0cdc3b11cc0ee08bb2baa238b948d",
+    "license": "CC-BY-4.0"
+  },
+  {
+    "file": "series/seo/assets/nagi-expressions.png",
+    "source_file": "seo_nagi_expressions.png",
+    "source_group": "瀬尾家4コマ漫画の計画を立てる",
+    "role": "人物別の通常表情",
+    "sha256": "26ff61dc101ff2ea504b2a696a378bf3d01fa36f42c35dbe5453b89218220e6d",
+    "license": "CC-BY-4.0"
+  },
+  {
+    "file": "series/seo/assets/nagi-expressions_A.png",
+    "source_file": "seo_nagi_expressions_A.png",
+    "source_group": "瀬尾家4コマ漫画の計画を立てる",
+    "role": "人物別のA案表情",
+    "sha256": "609287c118149305dbe7c38e9682702b2a2d0f2439f9b3a5b23fcab8d2b8a03b",
+    "license": "CC-BY-4.0"
+  },
+  {
+    "file": "series/seo/assets/haru-expressions.png",
+    "source_file": "seo_haru_expressions.png",
+    "source_group": "瀬尾家4コマ漫画の計画を立てる",
+    "role": "人物別の通常表情",
+    "sha256": "6e049d50b12a32728071bf9b549fe3efedf91bb8032b649d8b0e4833f392b715",
+    "license": "CC-BY-4.0"
+  },
+  {
+    "file": "series/seo/assets/haru-expressions_A.png",
+    "source_file": "seo_haru_expressions_A.png",
+    "source_group": "瀬尾家4コマ漫画の計画を立てる",
+    "role": "人物別のA案表情",
+    "sha256": "d2e29be948c62feb404e3d111c2575d2ff6a9949084072fce1b80900b7173963",
+    "license": "CC-BY-4.0"
+  },
+  {
+    "file": "series/seo/assets/sumi-expressions.png",
+    "source_file": "seo_sumi_expressions.png",
+    "source_group": "瀬尾家4コマ漫画の計画を立てる",
+    "role": "人物別の通常表情",
+    "sha256": "0448509606be5b842c100db80aeda360d1d8821b99502abc04decc922093ed13",
+    "license": "CC-BY-4.0"
+  },
+  {
+    "file": "series/seo/assets/sumi-expressions_A.png",
+    "source_file": "seo_sumi_expressions_A.png",
+    "source_group": "瀬尾家4コマ漫画の計画を立てる",
+    "role": "人物別のA案表情",
+    "sha256": "7feec9f1a358fe3a0d924c24226c2975685bf405ce859f104d79f3bf8612738e",
+    "license": "CC-BY-4.0"
+  },
+  {
+    "file": "series/seo/gag-policy.txt",
+    "source_file": "瀬尾家_ギャグ作画設定.txt",
+    "source_group": "瀬尾家4コマ漫画の計画を立てる",
+    "role": "最新ギャグ作画設定",
+    "sha256": "58cfb3c6bfb029f698e8ac6164f7ee9cd688956ca816dca123d409a4bbc9caa6",
+    "license": "CC-BY-4.0"
+  }
+]
