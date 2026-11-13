@@ -1,0 +1,63 @@
+{
+  "verified_on": "2026-11-13",
+  "release_url": "https://github.com/tyamada/manga-prompt-kit/releases/tag/pixiv-tameshibu-characters-20261109-v1",
+  "anonymous_https_download": true,
+  "assets": [
+    {
+      "filename": "koyomi_profile.jpg",
+      "http_status": 200,
+      "bytes": 770087,
+      "sha256": "ba5959a71d4c5c4797a7e93a6b726bf9f82ce1346c11d6f204e991ebd40640c4",
+      "matches_staged_file": true
+    },
+    {
+      "filename": "nagi_profile.jpg",
+      "http_status": 200,
+      "bytes": 643588,
+      "sha256": "c05e42b0b46d5620ae38f61971397da9b44ecc820cc2a4c2db2581bf697a6918",
+      "matches_staged_file": true
+    },
+    {
+      "filename": "kurumi_profile.jpg",
+      "http_status": 200,
+      "bytes": 820923,
+      "sha256": "7a313777a30b2a5df03687d49c79f60a89ac39f835db757c6ee88053e7bf9741",
+      "matches_staged_file": true
+    },
+    {
+      "filename": "sumire_profile.jpg",
+      "http_status": 200,
+      "bytes": 760215,
+      "sha256": "078e0907bdf60a2be8d2a218a5da9663035ccf3964d9b2e368da629d830cbecf",
+      "matches_staged_file": true
+    },
+    {
+      "filename": "manifest.json",
+      "http_status": 200,
+      "bytes": 7274,
+      "sha256": "f0e9f8d98cdd710b1c75713e7d9cffbebcdad56ee7cea09d5f558b586e3647e2",
+      "matches_staged_file": true
+    },
+    {
+      "filename": "SHA256SUMS",
+      "http_status": 200,
+      "bytes": 571,
+      "sha256": "c1b3b7a1268a2a989fee02841c91779968fc507d3097ad3b9bf56cef88dc1bb5",
+      "matches_staged_file": true
+    },
+    {
+      "filename": "LICENSE.md",
+      "http_status": 200,
+      "bytes": 2513,
+      "sha256": "f388e18a38ce023e033de2a1bed7aea2f9c6bee51ce2b1a800f404f0f69ec6bc",
+      "matches_staged_file": true
+    },
+    {
+      "filename": "pixiv-tameshibu-characters-20261109-v1.zip",
+      "http_status": 200,
+      "bytes": 2689311,
+      "sha256": "f1fdde86d3bc57f0c26484586137e5fb33f6eac7668729e1647314b196ebecb9",
+      "matches_staged_file": true
+    }
+  ]
+}
