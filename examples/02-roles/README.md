@@ -1,5 +1,7 @@
 # 実例2 役割分担
 
+公開作品：[pixiv](https://www.pixiv.net/artworks/151867715)。投稿完了はユーザー報告と提供URLに基づき、ページ本体はサイト制限により直接確認していません。[公開記録](../../releases/pixiv-publication-status.md)。
+
 『ためし部』第1話「ひと息マップ」のNo.02です。2026年11月11日の試作v1を修正し、背景を整理したv2が採用されています。
 
 ![採用版 v2](assets/adopted.jpg)

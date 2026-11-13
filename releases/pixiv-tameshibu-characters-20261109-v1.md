@@ -1,11 +1,7 @@
 # ためし部 人物紹介4枚
 
-状態：公開予定。公開先は制作資料リポジトリのGitHub Releasesです。まだReleaseを作成していません。
+状態：[公開済み](https://github.com/tyamada/manga-prompt-kit/releases/tag/pixiv-tameshibu-characters-20261109-v1)。こよみv10、凪・くるみ・すみれv1を収録します。
 
-タグ候補：`pixiv-tameshibu-characters-20261109-v1`。公開前に未使用であることを確認します。
+全4枚のpixiv投稿完了をユーザー報告と提供URLにより確認しました。pixivページ本体の直接確認はサイト制限により未実施です。[公開記録](pixiv-publication-status.md)。
 
-完成JPEG 4枚、manifest.json、SHA256SUMS、LICENSE.mdと、同内容の画像ZIPを配布する計画です。画像は元の採用稿を変更せず、配布用ファイル名で収録しています。各画像の元ファイル名と版はmanifestに記録しています。
-
-ライセンス：[CC BY 4.0](../LICENSE.md)。作画と修正に生成AIを使用しています。画像内の制作日を実際の公開日として扱いません。pixivの投稿状態と、このReleaseの公開状態は別です。
-
-公開時期：このReleaseに含む全画像のpixiv投稿完了を確認してから公開します。予約時刻の経過だけで公開しません。自動公開は設定していません。
+JPEG4枚、manifest.json、SHA256SUMS、LICENSE.md、画像ZIPを配布します。2026年11月12日に公開前確認した採用画像を変更していません。作者：こまいろ日和 / Komairo Hiyori。[CC BY 4.0](../LICENSE.md)。作画・修正に生成AIを使用しています。

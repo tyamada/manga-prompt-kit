@@ -4,7 +4,7 @@
 
 プロンプトを一度送って完成を待つだけでなく、試作を読んで修正し、採用稿を選ぶ工程を重視しています。画像生成AIを使い、作品を自分で確認しながら作りたい方を対象にしています。
 
-**初版 2026年11月12日**。[GitHubリポジトリ](https://github.com/tyamada/manga-prompt-kit)で制作資料を公開しています。アプリ用PDF51冊をReleasesで公開しています。完成画像一式はpixiv投稿後まで公開待機中です。
+**初版 2026年11月12日**。[GitHubリポジトリ](https://github.com/tyamada/manga-prompt-kit)で制作資料を公開しています。アプリ用PDF51冊をReleasesで公開しています。人物紹介4枚はReleasesで公開済み、本文画像一式はpixiv投稿後まで公開待機中です。
 
 ![こよみの人物紹介](examples/01-character/assets/adopted.jpg)
 
@@ -61,10 +61,16 @@
 
 この資料集はPDFビューアアプリ本体を含みません。最新版のPDFと投稿用画像は、**この制作資料リポジトリのGitHub Releasesへ集約する計画**です。アプリ側の既存2つのReleaseは移行中の旧配布先で、将来廃止予定です。新しいReleaseの公開・検証と利用アプリの移行が終わるまでは旧URLを維持します。
 
-アプリ用PDF51冊は[新しいPDF Release](https://github.com/tyamada/manga-prompt-kit/releases/tag/manga-pdf-20261103-v1)で公開済みです。全件の匿名ダウンロードと整合性を確認しました。pixiv用画像24枚のReleaseは投稿後まで公開待機中です。アプリ側の参照先更新と旧2配布先の廃止は未実施です。[配布対象と移行手順](releases/README.md)を参照してください。
+アプリ用PDF51冊は[新しいPDF Release](https://github.com/tyamada/manga-prompt-kit/releases/tag/manga-pdf-20261103-v1)で公開済みです。全件の匿名ダウンロードと整合性を確認しました。pixiv用人物紹介4枚をReleaseで公開済みです。残る本文20枚は投稿後まで待機中です。アプリ側の参照先更新と旧2配布先の廃止は未実施です。[配布対象と移行手順](releases/README.md)を参照してください。
 
 ## ライセンス
 
 本資料集は[CC BY 4.0](LICENSE.md)です。作者名と出典、ライセンスへのリンクを示し、変更があれば表示してください。アプリ本体や第三者フォントのライセンスは変更しません。
 
 作者名：こまいろ日和 / Komairo Hiyori。作画・修正には生成AIを使用しています。最終的な採用判断は制作者が行います。
+
+## 2026年11月13日の公開確認
+
+[公開済み11作品と採用版制作プロンプト](releases/pixiv-publication-status.md)を更新しました。本文は7/14枚、人物紹介は4/4枚の投稿完了をユーザー報告で確認しています。11月12日の確認記録は当時の状態として保持します。最新の画像配布状態はreleases/README.mdを参照してください。
+
+人物紹介4枚の完成JPEGは[GitHub Release](https://github.com/tyamada/manga-prompt-kit/releases/tag/pixiv-tameshibu-characters-20261109-v1)で配布しています。本文14枚と瀬尾家6枚のReleaseは待機中です。

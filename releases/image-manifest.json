@@ -1,5 +1,5 @@
 {
-  "status": "planned",
+  "status": "partially_published",
   "target": "this_documentation_repository_releases",
   "license": "CC-BY-4.0",
   "image_count": 24,
@@ -33,6 +33,18 @@
             "visual_review": "no_required_correction_found",
             "color_evidence": "ICCプロファイル sRGB",
             "release_timing": "wait_until_pixiv_publication_confirmed"
+          },
+          "pixiv_publication": {
+            "title": "表紙",
+            "pixiv_url": "https://www.pixiv.net/artworks/151828001",
+            "filename": "00_cover.jpg",
+            "sha256": "c54e2161124f099af8bdee1fbeb2c99ffeba72d595fba0448eec15686188fbf9",
+            "version": "最新制作方針 表紙試作v1",
+            "evidence": "user_report",
+            "direct_page_verified": false,
+            "recorded_on": "2026-11-13",
+            "latest_replacement_reported_on": "2026-11-11",
+            "production_document": "examples/published/ep01-00/README.md"
           }
         },
         {
@@ -55,6 +67,18 @@
             "visual_review": "no_required_correction_found",
             "color_evidence": "ICCプロファイル sRGB",
             "release_timing": "wait_until_pixiv_publication_confirmed"
+          },
+          "pixiv_publication": {
+            "title": "第1回「最初の依頼」",
+            "pixiv_url": "https://www.pixiv.net/artworks/151828086",
+            "filename": "01_strip.jpg",
+            "sha256": "c578988ffccd75a14bff296949b25a586a1fe1334610f7f842f34321da8017a3",
+            "version": "day02_strip01_prototype_v1.jpg",
+            "evidence": "user_report",
+            "direct_page_verified": false,
+            "recorded_on": "2026-11-13",
+            "latest_replacement_reported_on": "2026-11-11",
+            "production_document": "examples/published/ep01-01/README.md"
           }
         },
         {
@@ -77,6 +101,18 @@
             "visual_review": "no_required_correction_found",
             "color_evidence": "ICCプロファイル sRGB",
             "release_timing": "wait_until_pixiv_publication_confirmed"
+          },
+          "pixiv_publication": {
+            "title": "第2回「役割分担」",
+            "pixiv_url": "https://www.pixiv.net/artworks/151867715",
+            "filename": "02_strip.jpg",
+            "sha256": "520d8eb711417e9137d914ebca3ccfe73ab108dd6b7719e6cea46f98b0f3d779",
+            "version": "day03_strip02_prototype_v2.jpg",
+            "evidence": "user_report",
+            "direct_page_verified": false,
+            "recorded_on": "2026-11-13",
+            "latest_replacement_reported_on": "2026-11-11",
+            "production_document": "examples/02-roles/README.md"
           }
         },
         {
@@ -99,6 +135,18 @@
             "visual_review": "no_required_correction_found",
             "color_evidence": "ICCプロファイル sRGB",
             "release_timing": "wait_until_pixiv_publication_confirmed"
+          },
+          "pixiv_publication": {
+            "title": "第3回「静かさの単位」",
+            "pixiv_url": "https://www.pixiv.net/artworks/151901524",
+            "filename": "03_strip.jpg",
+            "sha256": "076883410032a5267312682f3c8f3f976c52ba69f4468f6080c0f0da5fb42bf6",
+            "version": "day04_strip03_prototype_v1.jpg",
+            "evidence": "user_report",
+            "direct_page_verified": false,
+            "recorded_on": "2026-11-13",
+            "latest_replacement_reported_on": "2026-11-11",
+            "production_document": "examples/published/ep01-03/README.md"
           }
         },
         {
@@ -121,6 +169,18 @@
             "visual_review": "no_required_correction_found",
             "color_evidence": "ICCプロファイル sRGB",
             "release_timing": "wait_until_pixiv_publication_confirmed"
+          },
+          "pixiv_publication": {
+            "title": "第4回「ひなたの長さ」",
+            "pixiv_url": "https://www.pixiv.net/artworks/151939479",
+            "filename": "04_strip.jpg",
+            "sha256": "cbf13eb76de8eeb98f363c1b1545b53a0fe9dae0b821771a08309d1775621649",
+            "version": "day05_strip04_prototype_v1.jpg",
+            "evidence": "user_report",
+            "direct_page_verified": false,
+            "recorded_on": "2026-11-13",
+            "latest_replacement_reported_on": "2026-11-11",
+            "production_document": "examples/published/ep01-04/README.md"
           }
         },
         {
@@ -143,6 +203,18 @@
             "visual_review": "no_required_correction_found",
             "color_evidence": "ICCプロファイル sRGB",
             "release_timing": "wait_until_pixiv_publication_confirmed"
+          },
+          "pixiv_publication": {
+            "title": "第5回「持ち運べる休憩」",
+            "pixiv_url": "https://www.pixiv.net/artworks/151977415",
+            "filename": "05_strip.jpg",
+            "sha256": "7ed1cdf830de05d9ea386d4319324e4709c194cad14a5c8c313933d47daef062",
+            "version": "day06_strip05_prototype_v1.jpg",
+            "evidence": "user_report",
+            "direct_page_verified": false,
+            "recorded_on": "2026-11-13",
+            "x_url": "https://x.com/komairo_hiyori/status/2120815537668452408",
+            "production_document": "examples/published/ep01-05/README.md"
           }
         },
         {
@@ -165,6 +237,18 @@
             "visual_review": "no_required_correction_found",
             "color_evidence": "ICCプロファイル sRGB",
             "release_timing": "wait_until_pixiv_publication_confirmed"
+          },
+          "pixiv_publication": {
+            "title": "第6回「名前の長さ」",
+            "pixiv_url": "https://www.pixiv.net/artworks/152012825",
+            "filename": "06_strip.jpg",
+            "sha256": "d586e1a0c6e8adae188a756afa6545873f888ab9a915c6df30a778371a9d5005",
+            "version": "day07_strip06_prototype_v1.jpg",
+            "evidence": "user_report",
+            "direct_page_verified": false,
+            "recorded_on": "2026-11-13",
+            "x_url": "https://x.com/komairo_hiyori/status/2121169481947099480",
+            "production_document": "examples/03-name/README.md"
           }
         },
         {
@@ -359,13 +443,15 @@
         "pdf_release": "画像の待機方針はPDF移行Releaseに適用しない。PDF公開は別工程。",
         "existing_documentation_examples": "既存の資料内の実例画像は変更しない。",
         "automatic_publication": false
-      }
+      },
+      "pixiv_confirmed_count": 7,
+      "publication_status_record": "pixiv-publication-status.json"
     },
     {
-      "status": "planned",
+      "status": "published",
       "repository": "tyamada/manga-prompt-kit",
       "tag_candidate": "pixiv-tameshibu-characters-20261109-v1",
-      "release_url": null,
+      "release_url": "https://github.com/tyamada/manga-prompt-kit/releases/tag/pixiv-tameshibu-characters-20261109-v1",
       "title": "ためし部 人物紹介4枚",
       "image_count": 4,
       "license": "CC-BY-4.0",
@@ -381,7 +467,7 @@
           "bytes": 770087,
           "sha256": "ba5959a71d4c5c4797a7e93a6b726bf9f82ce1346c11d6f204e991ebd40640c4",
           "license": "CC-BY-4.0",
-          "status": "planned_github_release",
+          "status": "published_github_release",
           "source_file": "こよみ_キャラクター紹介_採用版.jpg",
           "preflight": {
             "date": "2026-11-12",
@@ -390,7 +476,19 @@
             "visual_review": "no_required_correction_found",
             "color_evidence": "ICCプロファイル sRGB",
             "release_timing": "wait_until_pixiv_publication_confirmed"
-          }
+          },
+          "pixiv_publication": {
+            "title": "小坂こよみ キャラクター紹介",
+            "pixiv_url": "https://www.pixiv.net/artworks/151867841",
+            "filename": "koyomi_profile.jpg",
+            "sha256": "ba5959a71d4c5c4797a7e93a6b726bf9f82ce1346c11d6f204e991ebd40640c4",
+            "version": "v10 前向きな表情集",
+            "evidence": "user_report",
+            "direct_page_verified": false,
+            "recorded_on": "2026-11-13",
+            "production_document": "examples/01-character/README.md"
+          },
+          "download_url": "https://github.com/tyamada/manga-prompt-kit/releases/download/pixiv-tameshibu-characters-20261109-v1/koyomi_profile.jpg"
         },
         {
           "filename": "nagi_profile.jpg",
@@ -403,7 +501,7 @@
           "bytes": 643588,
           "sha256": "c05e42b0b46d5620ae38f61971397da9b44ecc820cc2a4c2db2581bf697a6918",
           "license": "CC-BY-4.0",
-          "status": "planned_github_release",
+          "status": "published_github_release",
           "source_file": "凪_キャラクター紹介_採用版.jpg",
           "preflight": {
             "date": "2026-11-12",
@@ -412,7 +510,19 @@
             "visual_review": "no_required_correction_found",
             "color_evidence": "ICCプロファイル sRGB",
             "release_timing": "wait_until_pixiv_publication_confirmed"
-          }
+          },
+          "pixiv_publication": {
+            "title": "瀬尾凪 キャラクター紹介",
+            "pixiv_url": "https://www.pixiv.net/artworks/151901586",
+            "filename": "nagi_profile.jpg",
+            "sha256": "c05e42b0b46d5620ae38f61971397da9b44ecc820cc2a4c2db2581bf697a6918",
+            "version": "v1",
+            "evidence": "user_report",
+            "direct_page_verified": false,
+            "recorded_on": "2026-11-13",
+            "production_document": "examples/published/nagi-profile/README.md"
+          },
+          "download_url": "https://github.com/tyamada/manga-prompt-kit/releases/download/pixiv-tameshibu-characters-20261109-v1/nagi_profile.jpg"
         },
         {
           "filename": "kurumi_profile.jpg",
@@ -425,7 +535,7 @@
           "bytes": 820923,
           "sha256": "7a313777a30b2a5df03687d49c79f60a89ac39f835db757c6ee88053e7bf9741",
           "license": "CC-BY-4.0",
-          "status": "planned_github_release",
+          "status": "published_github_release",
           "source_file": "くるみ_キャラクター紹介_採用版.jpg",
           "preflight": {
             "date": "2026-11-12",
@@ -434,7 +544,19 @@
             "visual_review": "no_required_correction_found",
             "color_evidence": "ICCプロファイル sRGB",
             "release_timing": "wait_until_pixiv_publication_confirmed"
-          }
+          },
+          "pixiv_publication": {
+            "title": "三輪くるみ キャラクター紹介",
+            "pixiv_url": "https://www.pixiv.net/artworks/151939759",
+            "filename": "kurumi_profile.jpg",
+            "sha256": "7a313777a30b2a5df03687d49c79f60a89ac39f835db757c6ee88053e7bf9741",
+            "version": "v1",
+            "evidence": "user_report",
+            "direct_page_verified": false,
+            "recorded_on": "2026-11-13",
+            "production_document": "examples/published/kurumi-profile/README.md"
+          },
+          "download_url": "https://github.com/tyamada/manga-prompt-kit/releases/download/pixiv-tameshibu-characters-20261109-v1/kurumi_profile.jpg"
         },
         {
           "filename": "sumire_profile.jpg",
@@ -447,7 +569,7 @@
           "bytes": 760215,
           "sha256": "078e0907bdf60a2be8d2a218a5da9663035ccf3964d9b2e368da629d830cbecf",
           "license": "CC-BY-4.0",
-          "status": "planned_github_release",
+          "status": "published_github_release",
           "source_file": "すみれ_キャラクター紹介_採用版.jpg",
           "preflight": {
             "date": "2026-11-12",
@@ -456,13 +578,26 @@
             "visual_review": "no_required_correction_found",
             "color_evidence": "ICCプロファイル sRGB",
             "release_timing": "wait_until_pixiv_publication_confirmed"
-          }
+          },
+          "pixiv_publication": {
+            "title": "折原すみれ キャラクター紹介",
+            "pixiv_url": "https://www.pixiv.net/artworks/151977416",
+            "filename": "sumire_profile.jpg",
+            "sha256": "078e0907bdf60a2be8d2a218a5da9663035ccf3964d9b2e368da629d830cbecf",
+            "version": "v1",
+            "evidence": "user_report",
+            "direct_page_verified": false,
+            "recorded_on": "2026-11-13",
+            "production_document": "examples/published/sumire-profile/README.md",
+            "x_url": "https://x.com/komairo_hiyori/status/2120816018759238064"
+          },
+          "download_url": "https://github.com/tyamada/manga-prompt-kit/releases/download/pixiv-tameshibu-characters-20261109-v1/sumire_profile.jpg"
         }
       ],
       "bundle_asset": {
         "filename": "pixiv-tameshibu-characters-20261109-v1.zip",
-        "bytes": 2688598,
-        "sha256": "bb6b30b6045a820e4b45fa062849eec54e366d405ea75657c447281162e970ed"
+        "bytes": 2689311,
+        "sha256": "f1fdde86d3bc57f0c26484586137e5fb33f6eac7668729e1647314b196ebecb9"
       },
       "attachment_names": [
         "koyomi_profile.jpg",
@@ -477,7 +612,7 @@
       "preflight_date": "2026-11-12",
       "technical_review": "passed",
       "visual_review": "no_required_correction_found",
-      "release_timing": "wait_until_group_pixiv_publication_confirmed",
+      "release_timing": "group_pixiv_publication_confirmed",
       "publication_policy": {
         "decided_on": "2026-11-12",
         "rule": "wait_until_pixiv_publication_confirmed",
@@ -486,7 +621,10 @@
         "pdf_release": "画像の待機方針はPDF移行Releaseに適用しない。PDF公開は別工程。",
         "existing_documentation_examples": "既存の資料内の実例画像は変更しない。",
         "automatic_publication": false
-      }
+      },
+      "pixiv_confirmed_count": 4,
+      "publication_status_record": "pixiv-publication-status.json",
+      "published_on": "2026-11-13"
     },
     {
       "status": "planned",
@@ -665,7 +803,9 @@
         "pdf_release": "画像の待機方針はPDF移行Releaseに適用しない。PDF公開は別工程。",
         "existing_documentation_examples": "既存の資料内の実例画像は変更しない。",
         "automatic_publication": false
-      }
+      },
+      "pixiv_confirmed_count": 0,
+      "publication_status_record": "pixiv-publication-status.json"
     }
   ],
   "repository": "tyamada/manga-prompt-kit",

@@ -1,5 +1,9 @@
 # 実例3 名前の長さ
 
+公開作品：[pixiv](https://www.pixiv.net/artworks/152012825)。投稿完了はユーザー報告と提供URLに基づき、ページ本体はサイト制限により直接確認していません。[公開記録](../../releases/pixiv-publication-status.md)。
+
+[X告知](https://x.com/komairo_hiyori/status/2121169481947099480)。
+
 『ためし部』第1話のNo.06です。すみれが考えた長い名前を、ラベルプリンターの長い紙と短い名前の対比で見せます。2026年11月11日の採用稿です。
 
 ![採用版](assets/adopted.jpg)
