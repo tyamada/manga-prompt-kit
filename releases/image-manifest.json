@@ -271,6 +271,19 @@
             "visual_review": "no_required_correction_found",
             "color_evidence": "ICCプロファイル sRGB",
             "release_timing": "wait_until_pixiv_publication_confirmed"
+          },
+          "pixiv_publication": {
+            "title": "第7回「数字にできない」",
+            "pixiv_url": "https://www.pixiv.net/artworks/152053580",
+            "filename": "07_strip.jpg",
+            "sha256": "1c2b9a26a91d8a702127157497e97d2e21a77ba5c1823b2afe6da4764c64d3c4",
+            "version": "day08_strip07_prototype_v1.jpg",
+            "evidence": "user_report",
+            "direct_page_verified": false,
+            "recorded_on": "2026-11-14",
+            "production_document": "examples/published/ep01-07/README.md",
+            "scheduled_for": "2026-11-14T18:00:00+09:00",
+            "x_announcement": "not_performed"
           }
         },
         {
@@ -444,7 +457,7 @@
         "existing_documentation_examples": "既存の資料内の実例画像は変更しない。",
         "automatic_publication": false
       },
-      "pixiv_confirmed_count": 7,
+      "pixiv_confirmed_count": 8,
       "publication_status_record": "pixiv-publication-status.json"
     },
     {

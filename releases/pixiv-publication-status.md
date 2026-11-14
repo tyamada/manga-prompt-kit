@@ -1,6 +1,6 @@
 # pixiv公開記録と採用版制作資料
 
-2026年11月13日更新。公開根拠はユーザーの投稿完了報告と提供URLです。pixivページ本体の直接確認はサイト制限により未実施です。公開日時を予約時刻から推定していません。
+2026年11月14日更新。公開根拠はユーザーの投稿完了報告と提供URLです。pixivページ本体の直接確認はサイト制限により未実施です。公開日時を予約時刻から推定していません。
 
 表紙と第1〜4回は11月11日に採用最新版へ差し替え済みとの報告を反映しています。表紙は151828001を使用します。
 
@@ -17,7 +17,11 @@
 | 瀬尾凪 キャラクター紹介 | [pixiv](https://www.pixiv.net/artworks/151901586) | [プロンプトと工程](../examples/published/nagi-profile/README.md) | v1 |
 | 三輪くるみ キャラクター紹介 | [pixiv](https://www.pixiv.net/artworks/151939759) | [プロンプトと工程](../examples/published/kurumi-profile/README.md) | v1 |
 | 折原すみれ キャラクター紹介 | [pixiv](https://www.pixiv.net/artworks/151977416) | [プロンプトと工程](../examples/published/sumire-profile/README.md) | v1 |
+| 第7回「数字にできない」 | [pixiv](https://www.pixiv.net/artworks/152053580) | [プロンプトと工程](../examples/published/ep01-07/README.md) | day08_strip07_prototype_v1.jpg |
+| 11月季節イラスト「秋をひとつ、持ち帰ろう。」 | [pixiv](https://www.pixiv.net/artworks/152042238) | [プロンプトと工程](../examples/published/november-bookmark/README.md) | 文字入りv1・2026-11-14採用 |
 
-本文は表紙＋第1〜6回の7/14枚、人物紹介は4/4枚の投稿完了を確認しています。本文の第7〜13回と瀬尾家6枚は今回の公開確認対象外で、画像Releaseは待機します。人物紹介は全4枚が条件を満たしました。配布状態は[Release一覧](README.md)を参照してください。既存の解説用実例と完成画像一式のReleaseは別です。
+本文は表紙＋第1〜7回の8/14枚、人物紹介は4/4枚の投稿完了を確認しています。本文の第8〜13回と瀬尾家6枚は今回の公開確認対象外で、画像Releaseは待機します。人物紹介は全4枚が条件を満たしました。配布状態は[Release一覧](README.md)を参照してください。既存の解説用実例と完成画像一式のReleaseは別です。
 
 第5回・第6回・すみれ紹介のX告知URLは[機械可読記録](pixiv-publication-status.json)に収録しています。X投稿の画面確認は投稿担当チャットの記録に基づきます。
+
+11月14日追加の2作品のX告知は未実施です。季節イラストの画像Releaseは今回作成していません。公開予定時刻と、ユーザーによる公開報告を区別しています。

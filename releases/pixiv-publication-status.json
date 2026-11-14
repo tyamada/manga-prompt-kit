@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-13",
+  "as_of": "2026-11-14",
   "evidence": "user_report",
   "direct_pixiv_page_verified": false,
   "note": "投稿完了報告と提供URLによる確認。サイト制限を迂回しない。予約日時を公開完了の根拠にしない。",
@@ -132,6 +132,35 @@
       "recorded_on": "2026-11-13",
       "production_document": "examples/published/sumire-profile/README.md",
       "x_url": "https://x.com/komairo_hiyori/status/2120816018759238064"
+    },
+    {
+      "title": "第7回「数字にできない」",
+      "pixiv_url": "https://www.pixiv.net/artworks/152053580",
+      "filename": "07_strip.jpg",
+      "sha256": "1c2b9a26a91d8a702127157497e97d2e21a77ba5c1823b2afe6da4764c64d3c4",
+      "version": "day08_strip07_prototype_v1.jpg",
+      "evidence": "user_report",
+      "direct_page_verified": false,
+      "recorded_on": "2026-11-14",
+      "production_document": "examples/published/ep01-07/README.md",
+      "scheduled_for": "2026-11-14T18:00:00+09:00",
+      "x_announcement": "not_performed"
+    },
+    {
+      "title": "11月季節イラスト「秋をひとつ、持ち帰ろう。」",
+      "pixiv_url": "https://www.pixiv.net/artworks/152042238",
+      "filename": "ためし部_11月季節イラスト_投稿用.jpg",
+      "sha256": "cef6c5669cdcb5979ba34d38990ef041675fbf7eb888cb02d370ad01a2a83d9f",
+      "version": "文字入りv1・2026-11-14採用",
+      "evidence": "user_report",
+      "direct_page_verified": false,
+      "recorded_on": "2026-11-14",
+      "production_document": "examples/published/november-bookmark/README.md",
+      "scheduled_for": "2026-11-14T11:00:00+09:00",
+      "x_announcement": "not_performed",
+      "width": 1024,
+      "height": 1536,
+      "github_image_release": "not_created"
     }
   ]
 }

@@ -71,3 +71,7 @@ PDFの公開と全件取得検証まで完了しました。次は[アプリ側�
 [公開済み11作品と採用版制作プロンプト](pixiv-publication-status.md)を更新しました。本文は7/14枚、人物紹介は4/4枚の投稿完了をユーザー報告で確認しています。11月12日の確認記録は当時の状態として保持します。最新の画像配布状態はreleases/README.mdを参照してください。
 
 人物紹介4枚の完成JPEGは[GitHub Release](https://github.com/tyamada/manga-prompt-kit/releases/tag/pixiv-tameshibu-characters-20261109-v1)で配布しています。本文14枚と瀬尾家6枚のReleaseは待機中です。
+
+## 2026年11月14日の公開確認
+
+第7回「数字にできない」と11月季節イラスト「秋をひとつ、持ち帰ろう。」の公開URL・採用版プロンプト・制作工程を[公開記録](pixiv-publication-status.md)へ追加しました。本文は8/14枚の投稿完了をユーザー報告で確認。第8〜13回の投稿完了まで本文Releaseは待機中です。季節イラストの画像Releaseは今回作成していません。
