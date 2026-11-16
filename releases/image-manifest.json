@@ -306,6 +306,22 @@
             "visual_review": "no_required_correction_found",
             "color_evidence": "ICCプロファイル sRGB",
             "release_timing": "wait_until_pixiv_publication_confirmed"
+          },
+          "pixiv_publication": {
+            "title": "第8回「窓のむこう」",
+            "pixiv_url": "https://www.pixiv.net/artworks/152096922",
+            "filename": "08_strip.jpg",
+            "sha256": "779727ef38af8ca4523ff89f32bc38f35fbf8366bced2e70639449ebcb7433ea",
+            "version": "day09_strip08_prototype_v1.jpg",
+            "evidence": "user_report",
+            "direct_page_verified": false,
+            "reported_on": "2026-11-15",
+            "recorded_on": "2026-11-16",
+            "source_chat": "pixivマンガ投稿",
+            "production_document": "examples/published/ep01-08/README.md",
+            "scheduled_for": "2026-11-15T18:00:00+09:00",
+            "actual_publication_time": null,
+            "x_announcement": "not_performed_in_reviewed_chat_turn"
           }
         },
         {
@@ -471,7 +487,7 @@
         "existing_documentation_examples": "既存の資料内の実例画像は変更しない。",
         "automatic_publication": false
       },
-      "pixiv_confirmed_count": 9,
+      "pixiv_confirmed_count": 10,
       "publication_status_record": "pixiv-publication-status.json"
     },
     {
