@@ -44,7 +44,8 @@
             "direct_page_verified": false,
             "recorded_on": "2026-11-13",
             "latest_replacement_reported_on": "2026-11-11",
-            "production_document": "examples/published/ep01-00/README.md"
+            "production_document": "examples/published/ep01-00/README.md",
+            "x_announcement": "completion_not_confirmed_in_reviewed_records"
           }
         },
         {
@@ -78,7 +79,8 @@
             "direct_page_verified": false,
             "recorded_on": "2026-11-13",
             "latest_replacement_reported_on": "2026-11-11",
-            "production_document": "examples/published/ep01-01/README.md"
+            "production_document": "examples/published/ep01-01/README.md",
+            "x_announcement": "completion_not_confirmed_in_reviewed_records"
           }
         },
         {
@@ -112,7 +114,8 @@
             "direct_page_verified": false,
             "recorded_on": "2026-11-13",
             "latest_replacement_reported_on": "2026-11-11",
-            "production_document": "examples/02-roles/README.md"
+            "production_document": "examples/02-roles/README.md",
+            "x_announcement": "completion_not_confirmed_in_reviewed_records"
           }
         },
         {
@@ -146,7 +149,8 @@
             "direct_page_verified": false,
             "recorded_on": "2026-11-13",
             "latest_replacement_reported_on": "2026-11-11",
-            "production_document": "examples/published/ep01-03/README.md"
+            "production_document": "examples/published/ep01-03/README.md",
+            "x_announcement": "completion_not_confirmed_in_reviewed_records"
           }
         },
         {
@@ -180,7 +184,8 @@
             "direct_page_verified": false,
             "recorded_on": "2026-11-13",
             "latest_replacement_reported_on": "2026-11-11",
-            "production_document": "examples/published/ep01-04/README.md"
+            "production_document": "examples/published/ep01-04/README.md",
+            "x_announcement": "completion_not_confirmed_in_reviewed_records"
           }
         },
         {
@@ -214,7 +219,10 @@
             "direct_page_verified": false,
             "recorded_on": "2026-11-13",
             "x_url": "https://x.com/komairo_hiyori/status/2120815537668452408",
-            "production_document": "examples/published/ep01-05/README.md"
+            "production_document": "examples/published/ep01-05/README.md",
+            "x_announcement": "completed",
+            "x_announced_at": "2026-11-12T18:49:12.050232+09:00",
+            "x_evidence": "posting_chat_record_with_individual_post_and_image_confirmation"
           }
         },
         {
@@ -248,7 +256,10 @@
             "direct_page_verified": false,
             "recorded_on": "2026-11-13",
             "x_url": "https://x.com/komairo_hiyori/status/2121169481947099480",
-            "production_document": "examples/03-name/README.md"
+            "production_document": "examples/03-name/README.md",
+            "x_announcement": "completed",
+            "x_announced_at": "2026-11-13T18:13:29.778642+09:00",
+            "x_evidence": "posting_chat_record_with_individual_post_and_image_confirmation"
           }
         },
         {
@@ -283,7 +294,10 @@
             "recorded_on": "2026-11-14",
             "production_document": "examples/published/ep01-07/README.md",
             "scheduled_for": "2026-11-14T18:00:00+09:00",
-            "x_announcement": "not_performed"
+            "x_announcement": "completed",
+            "x_url": "https://x.com/komairo_hiyori/status/2121533621605671018",
+            "x_announced_at": "2026-11-14T18:21:53.170227+09:00",
+            "x_evidence": "posting_chat_record_with_individual_post_and_image_confirmation"
           }
         },
         {
@@ -360,7 +374,10 @@
             "production_document": "examples/published/ep01-09/README.md",
             "scheduled_for": "2026-11-16T18:00:00+09:00",
             "actual_publication_time": null,
-            "x_announcement": "in_progress_unconfirmed"
+            "x_announcement": "completed",
+            "x_url": "https://x.com/komairo_hiyori/status/2122260137541017614",
+            "x_announced_at": "2026-11-16T18:27:23.812434+09:00",
+            "x_evidence": "posting_chat_record_with_individual_post_and_image_confirmation"
           }
         },
         {
@@ -532,7 +549,8 @@
             "evidence": "user_report",
             "direct_page_verified": false,
             "recorded_on": "2026-11-13",
-            "production_document": "examples/01-character/README.md"
+            "production_document": "examples/01-character/README.md",
+            "x_announcement": "completion_not_confirmed_in_reviewed_records"
           },
           "download_url": "https://github.com/tyamada/manga-prompt-kit/releases/download/pixiv-tameshibu-characters-20261109-v1/koyomi_profile.jpg"
         },
@@ -566,7 +584,8 @@
             "evidence": "user_report",
             "direct_page_verified": false,
             "recorded_on": "2026-11-13",
-            "production_document": "examples/published/nagi-profile/README.md"
+            "production_document": "examples/published/nagi-profile/README.md",
+            "x_announcement": "completion_not_confirmed_in_reviewed_records"
           },
           "download_url": "https://github.com/tyamada/manga-prompt-kit/releases/download/pixiv-tameshibu-characters-20261109-v1/nagi_profile.jpg"
         },
@@ -600,7 +619,8 @@
             "evidence": "user_report",
             "direct_page_verified": false,
             "recorded_on": "2026-11-13",
-            "production_document": "examples/published/kurumi-profile/README.md"
+            "production_document": "examples/published/kurumi-profile/README.md",
+            "x_announcement": "completion_not_confirmed_in_reviewed_records"
           },
           "download_url": "https://github.com/tyamada/manga-prompt-kit/releases/download/pixiv-tameshibu-characters-20261109-v1/kurumi_profile.jpg"
         },
@@ -635,7 +655,10 @@
             "direct_page_verified": false,
             "recorded_on": "2026-11-13",
             "production_document": "examples/published/sumire-profile/README.md",
-            "x_url": "https://x.com/komairo_hiyori/status/2120816018759238064"
+            "x_url": "https://x.com/komairo_hiyori/status/2120816018759238064",
+            "x_announcement": "completed",
+            "x_announced_at": "2026-11-12T18:49:12.050232+09:00",
+            "x_evidence": "posting_chat_record_with_individual_post_and_image_confirmation"
           },
           "download_url": "https://github.com/tyamada/manga-prompt-kit/releases/download/pixiv-tameshibu-characters-20261109-v1/sumire_profile.jpg"
         }

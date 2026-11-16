@@ -1,0 +1,136 @@
+{
+  "date": "2026-11-16",
+  "scope": "current_adopted_public_works",
+  "work_count": 15,
+  "x_announcement_count": 7,
+  "missing_x_urls_added": [
+    "第7回「数字にできない」",
+    "11月季節イラスト「秋をひとつ、持ち帰ろう。」",
+    "第9回「地図の盲点」"
+  ],
+  "checks": [
+    {
+      "title": "表紙",
+      "pixiv_url": "https://www.pixiv.net/artworks/151828001",
+      "adopted_image_sha256_match": true,
+      "production_document_exists": true,
+      "source_prompt_files_or_extractions_match": 1,
+      "x_url": null
+    },
+    {
+      "title": "第1回「最初の依頼」",
+      "pixiv_url": "https://www.pixiv.net/artworks/151828086",
+      "adopted_image_sha256_match": true,
+      "production_document_exists": true,
+      "source_prompt_files_or_extractions_match": 1,
+      "x_url": null
+    },
+    {
+      "title": "第2回「役割分担」",
+      "pixiv_url": "https://www.pixiv.net/artworks/151867715",
+      "adopted_image_sha256_match": true,
+      "production_document_exists": true,
+      "source_prompt_files_or_extractions_match": 2,
+      "x_url": null
+    },
+    {
+      "title": "第3回「静かさの単位」",
+      "pixiv_url": "https://www.pixiv.net/artworks/151901524",
+      "adopted_image_sha256_match": true,
+      "production_document_exists": true,
+      "source_prompt_files_or_extractions_match": 1,
+      "x_url": null
+    },
+    {
+      "title": "第4回「ひなたの長さ」",
+      "pixiv_url": "https://www.pixiv.net/artworks/151939479",
+      "adopted_image_sha256_match": true,
+      "production_document_exists": true,
+      "source_prompt_files_or_extractions_match": 1,
+      "x_url": null
+    },
+    {
+      "title": "第5回「持ち運べる休憩」",
+      "pixiv_url": "https://www.pixiv.net/artworks/151977415",
+      "adopted_image_sha256_match": true,
+      "production_document_exists": true,
+      "source_prompt_files_or_extractions_match": 1,
+      "x_url": "https://x.com/komairo_hiyori/status/2120815537668452408"
+    },
+    {
+      "title": "第6回「名前の長さ」",
+      "pixiv_url": "https://www.pixiv.net/artworks/152012825",
+      "adopted_image_sha256_match": true,
+      "production_document_exists": true,
+      "source_prompt_files_or_extractions_match": 2,
+      "x_url": "https://x.com/komairo_hiyori/status/2121169481947099480"
+    },
+    {
+      "title": "小坂こよみ キャラクター紹介",
+      "pixiv_url": "https://www.pixiv.net/artworks/151867841",
+      "adopted_image_sha256_match": true,
+      "production_document_exists": true,
+      "source_prompt_files_or_extractions_match": 9,
+      "x_url": null
+    },
+    {
+      "title": "瀬尾凪 キャラクター紹介",
+      "pixiv_url": "https://www.pixiv.net/artworks/151901586",
+      "adopted_image_sha256_match": true,
+      "production_document_exists": true,
+      "source_prompt_files_or_extractions_match": 1,
+      "x_url": null
+    },
+    {
+      "title": "三輪くるみ キャラクター紹介",
+      "pixiv_url": "https://www.pixiv.net/artworks/151939759",
+      "adopted_image_sha256_match": true,
+      "production_document_exists": true,
+      "source_prompt_files_or_extractions_match": 1,
+      "x_url": null
+    },
+    {
+      "title": "折原すみれ キャラクター紹介",
+      "pixiv_url": "https://www.pixiv.net/artworks/151977416",
+      "adopted_image_sha256_match": true,
+      "production_document_exists": true,
+      "source_prompt_files_or_extractions_match": 1,
+      "x_url": "https://x.com/komairo_hiyori/status/2120816018759238064"
+    },
+    {
+      "title": "第7回「数字にできない」",
+      "pixiv_url": "https://www.pixiv.net/artworks/152053580",
+      "adopted_image_sha256_match": true,
+      "production_document_exists": true,
+      "source_prompt_files_or_extractions_match": 1,
+      "x_url": "https://x.com/komairo_hiyori/status/2121533621605671018"
+    },
+    {
+      "title": "11月季節イラスト「秋をひとつ、持ち帰ろう。」",
+      "pixiv_url": "https://www.pixiv.net/artworks/152042238",
+      "adopted_image_sha256_match": true,
+      "production_document_exists": true,
+      "source_prompt_files_or_extractions_match": 2,
+      "x_url": "https://x.com/komairo_hiyori/status/2121533961461752151"
+    },
+    {
+      "title": "第9回「地図の盲点」",
+      "pixiv_url": "https://www.pixiv.net/artworks/152135766",
+      "adopted_image_sha256_match": true,
+      "production_document_exists": true,
+      "source_prompt_files_or_extractions_match": 1,
+      "x_url": "https://x.com/komairo_hiyori/status/2122260137541017614"
+    },
+    {
+      "title": "第8回「窓のむこう」",
+      "pixiv_url": "https://www.pixiv.net/artworks/152096922",
+      "adopted_image_sha256_match": true,
+      "production_document_exists": true,
+      "source_prompt_files_or_extractions_match": 1,
+      "x_url": "https://x.com/komairo_hiyori/status/2122267206813937898"
+    }
+  ],
+  "unpublished_works_added": false,
+  "image_releases_modified": false,
+  "history_review_limit": "初期公開報告までの取得可能なチャット履歴と公開・採用台帳を照合。一部の過去の大きな制作ターンはチャット取得上限で読めないため、全会話本文を完全取得したとはしていない。"
+}

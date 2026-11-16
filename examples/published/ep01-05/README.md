@@ -9,3 +9,5 @@
 完成JPEG一式のReleaseは全13回の投稿完了まで待機します。[制作手順](../../../docs/color-workflow.md)と[公開記録](../../../releases/pixiv-publication-status.md)を参照してください。
 
 [CC BY 4.0](../../../LICENSE.md)。作者：こまいろ日和 / Komairo Hiyori。
+
+画像付き[X告知](https://x.com/komairo_hiyori/status/2120815537668452408)は2026-11-12に完了。投稿担当チャットの個別ポストURL・画像確認記録に基づきます。

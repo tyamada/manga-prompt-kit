@@ -14,7 +14,8 @@
       "direct_page_verified": false,
       "recorded_on": "2026-11-13",
       "latest_replacement_reported_on": "2026-11-11",
-      "production_document": "examples/published/ep01-00/README.md"
+      "production_document": "examples/published/ep01-00/README.md",
+      "x_announcement": "completion_not_confirmed_in_reviewed_records"
     },
     {
       "title": "第1回「最初の依頼」",
@@ -26,7 +27,8 @@
       "direct_page_verified": false,
       "recorded_on": "2026-11-13",
       "latest_replacement_reported_on": "2026-11-11",
-      "production_document": "examples/published/ep01-01/README.md"
+      "production_document": "examples/published/ep01-01/README.md",
+      "x_announcement": "completion_not_confirmed_in_reviewed_records"
     },
     {
       "title": "第2回「役割分担」",
@@ -38,7 +40,8 @@
       "direct_page_verified": false,
       "recorded_on": "2026-11-13",
       "latest_replacement_reported_on": "2026-11-11",
-      "production_document": "examples/02-roles/README.md"
+      "production_document": "examples/02-roles/README.md",
+      "x_announcement": "completion_not_confirmed_in_reviewed_records"
     },
     {
       "title": "第3回「静かさの単位」",
@@ -50,7 +53,8 @@
       "direct_page_verified": false,
       "recorded_on": "2026-11-13",
       "latest_replacement_reported_on": "2026-11-11",
-      "production_document": "examples/published/ep01-03/README.md"
+      "production_document": "examples/published/ep01-03/README.md",
+      "x_announcement": "completion_not_confirmed_in_reviewed_records"
     },
     {
       "title": "第4回「ひなたの長さ」",
@@ -62,7 +66,8 @@
       "direct_page_verified": false,
       "recorded_on": "2026-11-13",
       "latest_replacement_reported_on": "2026-11-11",
-      "production_document": "examples/published/ep01-04/README.md"
+      "production_document": "examples/published/ep01-04/README.md",
+      "x_announcement": "completion_not_confirmed_in_reviewed_records"
     },
     {
       "title": "第5回「持ち運べる休憩」",
@@ -74,7 +79,10 @@
       "direct_page_verified": false,
       "recorded_on": "2026-11-13",
       "x_url": "https://x.com/komairo_hiyori/status/2120815537668452408",
-      "production_document": "examples/published/ep01-05/README.md"
+      "production_document": "examples/published/ep01-05/README.md",
+      "x_announcement": "completed",
+      "x_announced_at": "2026-11-12T18:49:12.050232+09:00",
+      "x_evidence": "posting_chat_record_with_individual_post_and_image_confirmation"
     },
     {
       "title": "第6回「名前の長さ」",
@@ -86,7 +94,10 @@
       "direct_page_verified": false,
       "recorded_on": "2026-11-13",
       "x_url": "https://x.com/komairo_hiyori/status/2121169481947099480",
-      "production_document": "examples/03-name/README.md"
+      "production_document": "examples/03-name/README.md",
+      "x_announcement": "completed",
+      "x_announced_at": "2026-11-13T18:13:29.778642+09:00",
+      "x_evidence": "posting_chat_record_with_individual_post_and_image_confirmation"
     },
     {
       "title": "小坂こよみ キャラクター紹介",
@@ -97,7 +108,8 @@
       "evidence": "user_report",
       "direct_page_verified": false,
       "recorded_on": "2026-11-13",
-      "production_document": "examples/01-character/README.md"
+      "production_document": "examples/01-character/README.md",
+      "x_announcement": "completion_not_confirmed_in_reviewed_records"
     },
     {
       "title": "瀬尾凪 キャラクター紹介",
@@ -108,7 +120,8 @@
       "evidence": "user_report",
       "direct_page_verified": false,
       "recorded_on": "2026-11-13",
-      "production_document": "examples/published/nagi-profile/README.md"
+      "production_document": "examples/published/nagi-profile/README.md",
+      "x_announcement": "completion_not_confirmed_in_reviewed_records"
     },
     {
       "title": "三輪くるみ キャラクター紹介",
@@ -119,7 +132,8 @@
       "evidence": "user_report",
       "direct_page_verified": false,
       "recorded_on": "2026-11-13",
-      "production_document": "examples/published/kurumi-profile/README.md"
+      "production_document": "examples/published/kurumi-profile/README.md",
+      "x_announcement": "completion_not_confirmed_in_reviewed_records"
     },
     {
       "title": "折原すみれ キャラクター紹介",
@@ -131,7 +145,10 @@
       "direct_page_verified": false,
       "recorded_on": "2026-11-13",
       "production_document": "examples/published/sumire-profile/README.md",
-      "x_url": "https://x.com/komairo_hiyori/status/2120816018759238064"
+      "x_url": "https://x.com/komairo_hiyori/status/2120816018759238064",
+      "x_announcement": "completed",
+      "x_announced_at": "2026-11-12T18:49:12.050232+09:00",
+      "x_evidence": "posting_chat_record_with_individual_post_and_image_confirmation"
     },
     {
       "title": "第7回「数字にできない」",
@@ -144,7 +161,10 @@
       "recorded_on": "2026-11-14",
       "production_document": "examples/published/ep01-07/README.md",
       "scheduled_for": "2026-11-14T18:00:00+09:00",
-      "x_announcement": "not_performed"
+      "x_announcement": "completed",
+      "x_url": "https://x.com/komairo_hiyori/status/2121533621605671018",
+      "x_announced_at": "2026-11-14T18:21:53.170227+09:00",
+      "x_evidence": "posting_chat_record_with_individual_post_and_image_confirmation"
     },
     {
       "title": "11月季節イラスト「秋をひとつ、持ち帰ろう。」",
@@ -157,10 +177,13 @@
       "recorded_on": "2026-11-14",
       "production_document": "examples/published/november-bookmark/README.md",
       "scheduled_for": "2026-11-14T11:00:00+09:00",
-      "x_announcement": "not_performed",
+      "x_announcement": "completed",
       "width": 1024,
       "height": 1536,
-      "github_image_release": "not_created"
+      "github_image_release": "not_created",
+      "x_url": "https://x.com/komairo_hiyori/status/2121533961461752151",
+      "x_announced_at": "2026-11-14T18:21:53.170227+09:00",
+      "x_evidence": "posting_chat_record_with_individual_post_and_image_confirmation"
     },
     {
       "title": "第9回「地図の盲点」",
@@ -174,7 +197,10 @@
       "production_document": "examples/published/ep01-09/README.md",
       "scheduled_for": "2026-11-16T18:00:00+09:00",
       "actual_publication_time": null,
-      "x_announcement": "in_progress_unconfirmed"
+      "x_announcement": "completed",
+      "x_url": "https://x.com/komairo_hiyori/status/2122260137541017614",
+      "x_announced_at": "2026-11-16T18:27:23.812434+09:00",
+      "x_evidence": "posting_chat_record_with_individual_post_and_image_confirmation"
     },
     {
       "title": "第8回「窓のむこう」",
@@ -194,6 +220,26 @@
       "x_url": "https://x.com/komairo_hiyori/status/2122267206813937898",
       "x_announced_at": "2026-11-16T18:55:48.348216+09:00",
       "x_evidence": "posting_chat_record_with_individual_post_and_image_confirmation"
+    }
+  ],
+  "reconciliation": {
+    "date": "2026-11-16",
+    "current_adopted_works": 15,
+    "confirmed_x_announcements": 7,
+    "missing_x_announcement_urls_added": [
+      "第7回「数字にできない」",
+      "11月季節イラスト「秋をひとつ、持ち帰ろう。」",
+      "第9回「地図の盲点」"
+    ],
+    "evidence": "user_publication_reports_and_posting_chat_records",
+    "pixiv_direct_page_verified": false
+  },
+  "superseded_publication_links": [
+    {
+      "title": "旧表紙",
+      "pixiv_url": "https://www.pixiv.net/artworks/151788274",
+      "current_pixiv_url": "https://www.pixiv.net/artworks/151828001",
+      "note": "初期の投稿報告として履歴のみ保持。現行採用表紙の制作資料は151828001へ対応付ける。旧ページの現在の公開状態は未確認。"
     }
   ]
 }

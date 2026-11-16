@@ -9,3 +9,5 @@
 公開根拠はユーザーの投稿完了報告とURLです。サイト制限によりpixivページ本体は直接確認していません。[公開記録と完成画像の配布先](../../../releases/pixiv-publication-status.md)。
 
 [CC BY 4.0](../../../LICENSE.md)。作者：こまいろ日和 / Komairo Hiyori。
+
+画像付き[X告知](https://x.com/komairo_hiyori/status/2120816018759238064)は2026-11-12に完了。投稿担当チャットの個別ポストURL・画像確認記録に基づきます。
