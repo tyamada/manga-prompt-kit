@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-14",
+  "as_of": "2026-11-16",
   "evidence": "user_report",
   "direct_pixiv_page_verified": false,
   "note": "投稿完了報告と提供URLによる確認。サイト制限を迂回しない。予約日時を公開完了の根拠にしない。",
@@ -161,6 +161,20 @@
       "width": 1024,
       "height": 1536,
       "github_image_release": "not_created"
+    },
+    {
+      "title": "第9回「地図の盲点」",
+      "pixiv_url": "https://www.pixiv.net/artworks/152135766",
+      "filename": "09_strip.jpg",
+      "sha256": "249c37fd5df910c33d17213a895b794fa3adae58731c06b93c87817739562a59",
+      "version": "day10_strip09_prototype_v1.jpg",
+      "evidence": "user_report",
+      "direct_page_verified": false,
+      "recorded_on": "2026-11-16",
+      "production_document": "examples/published/ep01-09/README.md",
+      "scheduled_for": "2026-11-16T18:00:00+09:00",
+      "actual_publication_time": null,
+      "x_announcement": "in_progress_unconfirmed"
     }
   ]
 }
