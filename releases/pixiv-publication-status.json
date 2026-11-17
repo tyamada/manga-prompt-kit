@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-16",
+  "as_of": "2026-11-17",
   "evidence": "user_report",
   "direct_pixiv_page_verified": false,
   "note": "投稿完了報告と提供URLによる確認。サイト制限を迂回しない。予約日時を公開完了の根拠にしない。",
@@ -220,6 +220,22 @@
       "x_url": "https://x.com/komairo_hiyori/status/2122267206813937898",
       "x_announced_at": "2026-11-16T18:55:48.348216+09:00",
       "x_evidence": "posting_chat_record_with_individual_post_and_image_confirmation"
+    },
+    {
+      "title": "第10回「案内上手」",
+      "pixiv_url": "https://www.pixiv.net/artworks/152171565",
+      "filename": "10_strip.jpg",
+      "sha256": "e3560f86eb084405e467941374ba4f79f33e12bcf1d414bf92d47fb30b3f2b81",
+      "version": "day11_strip10_prototype_v1.jpg",
+      "evidence": "user_report",
+      "direct_page_verified": false,
+      "reported_on": "2026-11-17",
+      "recorded_on": "2026-11-17",
+      "source_chat": "pixivマンガ投稿",
+      "production_document": "examples/published/ep01-10/README.md",
+      "scheduled_for": "2026-11-17T18:00:00+09:00",
+      "actual_publication_time": null,
+      "x_announcement": "not_performed_at_publication_report"
     }
   ],
   "reconciliation": {
