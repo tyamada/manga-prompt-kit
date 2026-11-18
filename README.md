@@ -33,6 +33,7 @@
 
 - [プロンプト一覧](prompts/README.md)：他作品にも使える編集済みテンプレート9本。
 - [ためし部の設定](series/tameshibu.md)：主役4人、追加4人、季節と小物。
+- [採用衣装6案と4人の最新設定](series/tameshibu/wardrobe-20261118/README.md)：夏冬制服・防寒コート・体育着、JPEG/PNG設定画。
 - [瀬尾家の設定](series/seo/README.md)：三姉妹、家庭内の服装と呼び方。
 - [共通の作画方針](docs/art-direction.md)：通常版とギャグ表現、人物と背景の塗り分け。
 - [文字と吹き出し](docs/lettering.md)：縦書き、発言順、紙上の印字。

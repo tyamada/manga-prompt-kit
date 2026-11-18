@@ -1,0 +1,51 @@
+{
+  "採用日": "2026-11-18",
+  "状態": "全6案採用",
+  "設定正本": "series/tameshibu/wardrobe-20261118/character-settings.json",
+  "画像": {
+    "夏服": {
+      "JPEG": "series/tameshibu/wardrobe-20261118/assets/ためし部_制服設定案_夏服.jpg",
+      "PNG": "series/tameshibu/wardrobe-20261118/assets/ためし部_制服設定案_夏服.png",
+      "SHA256": "5b5a07193948643241cebbf9604f560b5069c45c99655f85367789a7cda6a777",
+      "状態": "採用",
+      "採用日": "2026-11-18"
+    },
+    "冬服・室内": {
+      "JPEG": "series/tameshibu/wardrobe-20261118/assets/ためし部_制服設定案_冬服.jpg",
+      "PNG": "series/tameshibu/wardrobe-20261118/assets/ためし部_制服設定案_冬服.png",
+      "SHA256": "d46b7b48d7b4af2c199b9715426dd938391fd8af1335a02bc7596b33364379af",
+      "状態": "採用",
+      "採用日": "2026-11-18"
+    },
+    "冬服・ブレザー": {
+      "JPEG": "series/tameshibu/wardrobe-20261118/assets/ためし部_制服設定案_冬服_上着あり.jpg",
+      "PNG": "series/tameshibu/wardrobe-20261118/assets/ためし部_制服設定案_冬服_上着あり.png",
+      "SHA256": "c6e5daad52852265a3678cb2c5aa97bb753abc37e5d2e07c3dfc2cd10b3c9999",
+      "状態": "採用",
+      "採用日": "2026-11-18"
+    },
+    "冬の外出着": {
+      "JPEG": "series/tameshibu/wardrobe-20261118/assets/ためし部_冬の外出着_設定案.jpg",
+      "PNG": "series/tameshibu/wardrobe-20261118/assets/ためし部_冬の外出着_設定案.png",
+      "SHA256": "e4a936fbc50ee79da128b4614162314ab038707d24e837c420890749837b4965",
+      "状態": "採用",
+      "採用日": "2026-11-18"
+    },
+    "体育・長袖ジャージ": {
+      "JPEG": "series/tameshibu/wardrobe-20261118/assets/ためし部_体育用トレーニングウェア_設定案.jpg",
+      "PNG": "series/tameshibu/wardrobe-20261118/assets/ためし部_体育用トレーニングウェア_設定案.png",
+      "SHA256": "1c8218df1f14f89b2ac11b49d7ddccd9551fd073a07b4b89ae566062ecdd3734",
+      "状態": "採用",
+      "採用日": "2026-11-18"
+    },
+    "体育・夏用": {
+      "JPEG": "series/tameshibu/wardrobe-20261118/assets/ためし部_夏の体育着_設定案.jpg",
+      "PNG": "series/tameshibu/wardrobe-20261118/assets/ためし部_夏の体育着_設定案.png",
+      "SHA256": "ee60ad88f96fb19c7b88804b557a1b61cff82d78f5e8a32af16f0f3dfda95ee8",
+      "状態": "採用",
+      "採用日": "2026-11-18"
+    }
+  },
+  "公開版パス基準": "リポジトリルート相対",
+  "表示と採用状態": "画像の設定案・確認用と制作メモの未採用は制作時の記述。全6案は2026-11-18ユーザー採用済み。"
+}

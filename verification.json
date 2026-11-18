@@ -187,5 +187,14 @@
     "url": "https://github.com/tyamada/manga-prompt-kit/releases/tag/manga-pdf-20261103-v1",
     "anonymous_assets_verified": 55,
     "pdfs_verified": 51
+  },
+  "wardrobe_20261118": {
+    "date": "2026-11-18",
+    "designs": 6,
+    "image_files": 12,
+    "characters": 4,
+    "report": "series/tameshibu/wardrobe-20261118/verification.json",
+    "all_source_image_bytes_unchanged": true,
+    "new_release_created": false
   }
 }

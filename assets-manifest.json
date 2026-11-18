@@ -446,5 +446,189 @@
     "role": "最新ギャグ作画設定",
     "sha256": "58cfb3c6bfb029f698e8ac6164f7ee9cd688956ca816dca123d409a4bbc9caa6",
     "license": "CC-BY-4.0"
+  },
+  {
+    "file": "series/tameshibu/wardrobe-20261118/README.md",
+    "source_file": "README.md",
+    "source_group": "pixivマンガ投稿 2026-11-18採用衣装",
+    "role": "公開用設定・採用台帳・案内・検証記録",
+    "sha256": "973396476a3368858a10f23fafef4399b6f3ba3651205d4ca07479d59114ab41",
+    "license": "CC-BY-4.0"
+  },
+  {
+    "file": "series/tameshibu/wardrobe-20261118/adopted.json",
+    "source_file": "adopted.json",
+    "source_group": "pixivマンガ投稿 2026-11-18採用衣装",
+    "role": "公開用設定・採用台帳・案内・検証記録",
+    "sha256": "17b72c3292964cef7128e129b6b4962496e667b9b309a933326b47fd0807f41b",
+    "license": "CC-BY-4.0"
+  },
+  {
+    "file": "series/tameshibu/wardrobe-20261118/assets/ためし部_体育用トレーニングウェア_設定案.jpg",
+    "source_file": "ためし部_体育用トレーニングウェア_設定案.jpg",
+    "source_group": "pixivマンガ投稿 2026-11-18採用衣装",
+    "role": "採用設定画 原本から変更なし",
+    "sha256": "1c8218df1f14f89b2ac11b49d7ddccd9551fd073a07b4b89ae566062ecdd3734",
+    "license": "CC-BY-4.0"
+  },
+  {
+    "file": "series/tameshibu/wardrobe-20261118/assets/ためし部_体育用トレーニングウェア_設定案.png",
+    "source_file": "ためし部_体育用トレーニングウェア_設定案.png",
+    "source_group": "pixivマンガ投稿 2026-11-18採用衣装",
+    "role": "採用設定画 原本から変更なし",
+    "sha256": "8a9dd6ab2d0b3b4f95fae8acc4458921d22e4afb55f5eb52e6afdfdecce12f1c",
+    "license": "CC-BY-4.0"
+  },
+  {
+    "file": "series/tameshibu/wardrobe-20261118/assets/ためし部_冬の外出着_設定案.jpg",
+    "source_file": "ためし部_冬の外出着_設定案.jpg",
+    "source_group": "pixivマンガ投稿 2026-11-18採用衣装",
+    "role": "採用設定画 原本から変更なし",
+    "sha256": "e4a936fbc50ee79da128b4614162314ab038707d24e837c420890749837b4965",
+    "license": "CC-BY-4.0"
+  },
+  {
+    "file": "series/tameshibu/wardrobe-20261118/assets/ためし部_冬の外出着_設定案.png",
+    "source_file": "ためし部_冬の外出着_設定案.png",
+    "source_group": "pixivマンガ投稿 2026-11-18採用衣装",
+    "role": "採用設定画 原本から変更なし",
+    "sha256": "073c4d84fa51b5e1c03e2ab0dcbccec25356d71005a8577b0f6d754fdbbb7e16",
+    "license": "CC-BY-4.0"
+  },
+  {
+    "file": "series/tameshibu/wardrobe-20261118/assets/ためし部_制服設定案_冬服.jpg",
+    "source_file": "ためし部_制服設定案_冬服.jpg",
+    "source_group": "pixivマンガ投稿 2026-11-18採用衣装",
+    "role": "採用設定画 原本から変更なし",
+    "sha256": "d46b7b48d7b4af2c199b9715426dd938391fd8af1335a02bc7596b33364379af",
+    "license": "CC-BY-4.0"
+  },
+  {
+    "file": "series/tameshibu/wardrobe-20261118/assets/ためし部_制服設定案_冬服.png",
+    "source_file": "ためし部_制服設定案_冬服.png",
+    "source_group": "pixivマンガ投稿 2026-11-18採用衣装",
+    "role": "採用設定画 原本から変更なし",
+    "sha256": "ac030a749db7c5eff47353d6458727987828b613bc15edf19cc267f661e81656",
+    "license": "CC-BY-4.0"
+  },
+  {
+    "file": "series/tameshibu/wardrobe-20261118/assets/ためし部_制服設定案_冬服_上着あり.jpg",
+    "source_file": "ためし部_制服設定案_冬服_上着あり.jpg",
+    "source_group": "pixivマンガ投稿 2026-11-18採用衣装",
+    "role": "採用設定画 原本から変更なし",
+    "sha256": "c6e5daad52852265a3678cb2c5aa97bb753abc37e5d2e07c3dfc2cd10b3c9999",
+    "license": "CC-BY-4.0"
+  },
+  {
+    "file": "series/tameshibu/wardrobe-20261118/assets/ためし部_制服設定案_冬服_上着あり.png",
+    "source_file": "ためし部_制服設定案_冬服_上着あり.png",
+    "source_group": "pixivマンガ投稿 2026-11-18採用衣装",
+    "role": "採用設定画 原本から変更なし",
+    "sha256": "7855d2304c31f64addbd0a33cc917fc89908c1fe58c41707649136595a49729c",
+    "license": "CC-BY-4.0"
+  },
+  {
+    "file": "series/tameshibu/wardrobe-20261118/assets/ためし部_制服設定案_夏服.jpg",
+    "source_file": "ためし部_制服設定案_夏服.jpg",
+    "source_group": "pixivマンガ投稿 2026-11-18採用衣装",
+    "role": "採用設定画 原本から変更なし",
+    "sha256": "5b5a07193948643241cebbf9604f560b5069c45c99655f85367789a7cda6a777",
+    "license": "CC-BY-4.0"
+  },
+  {
+    "file": "series/tameshibu/wardrobe-20261118/assets/ためし部_制服設定案_夏服.png",
+    "source_file": "ためし部_制服設定案_夏服.png",
+    "source_group": "pixivマンガ投稿 2026-11-18採用衣装",
+    "role": "採用設定画 原本から変更なし",
+    "sha256": "166c2421f2d898c61289750ad543b944723ae5a6926d99bf5cac8ab2fc70ff93",
+    "license": "CC-BY-4.0"
+  },
+  {
+    "file": "series/tameshibu/wardrobe-20261118/assets/ためし部_夏の体育着_設定案.jpg",
+    "source_file": "ためし部_夏の体育着_設定案.jpg",
+    "source_group": "pixivマンガ投稿 2026-11-18採用衣装",
+    "role": "採用設定画 原本から変更なし",
+    "sha256": "ee60ad88f96fb19c7b88804b557a1b61cff82d78f5e8a32af16f0f3dfda95ee8",
+    "license": "CC-BY-4.0"
+  },
+  {
+    "file": "series/tameshibu/wardrobe-20261118/assets/ためし部_夏の体育着_設定案.png",
+    "source_file": "ためし部_夏の体育着_設定案.png",
+    "source_group": "pixivマンガ投稿 2026-11-18採用衣装",
+    "role": "採用設定画 原本から変更なし",
+    "sha256": "d238334b826bee36b5f24a3b094036ee390299db913b62882b987f7314ef3957",
+    "license": "CC-BY-4.0"
+  },
+  {
+    "file": "series/tameshibu/wardrobe-20261118/character-settings-20261118.txt",
+    "source_file": "character-settings-20261118.txt",
+    "source_group": "pixivマンガ投稿 2026-11-18採用衣装",
+    "role": "公開用設定・採用台帳・案内・検証記録",
+    "sha256": "c6b62e9512778989a52a74f0289747c889e8cfadfc500c5d39f69445fe519694",
+    "license": "CC-BY-4.0"
+  },
+  {
+    "file": "series/tameshibu/wardrobe-20261118/character-settings.json",
+    "source_file": "character-settings.json",
+    "source_group": "pixivマンガ投稿 2026-11-18採用衣装",
+    "role": "公開用設定・採用台帳・案内・検証記録",
+    "sha256": "06f04b3e33769c9abc0a38cbad4f38c37093f61e9e87afeca9487b3f9a6c3ddf",
+    "license": "CC-BY-4.0"
+  },
+  {
+    "file": "series/tameshibu/wardrobe-20261118/manifest.json",
+    "source_file": "manifest.json",
+    "source_group": "pixivマンガ投稿 2026-11-18採用衣装",
+    "role": "公開用設定・採用台帳・案内・検証記録",
+    "sha256": "12991b4e04a0ea48747f593bfb5d3ae2ae12f9207a9a32c90fb3e236f5ce3258",
+    "license": "CC-BY-4.0"
+  },
+  {
+    "file": "series/tameshibu/wardrobe-20261118/production-notes/体育用トレーニングウェア_制作指示.txt",
+    "source_file": "体育用トレーニングウェア_制作指示.txt",
+    "source_group": "pixivマンガ投稿 2026-11-18採用衣装",
+    "role": "制作指示の要約記録 原文プロンプト全文ではない",
+    "sha256": "6fdc2a68f16aac246009f5222bc0dcdcc5f8beae8138b43a458445f8e17eb5c6",
+    "license": "CC-BY-4.0"
+  },
+  {
+    "file": "series/tameshibu/wardrobe-20261118/production-notes/冬の外出着_制作指示.txt",
+    "source_file": "冬の外出着_制作指示.txt",
+    "source_group": "pixivマンガ投稿 2026-11-18採用衣装",
+    "role": "制作指示の要約記録 原文プロンプト全文ではない",
+    "sha256": "b538f8b73f88d2110364ec9ddb3c0d3a59ebdc0508d40b855449acad7dbaab5c",
+    "license": "CC-BY-4.0"
+  },
+  {
+    "file": "series/tameshibu/wardrobe-20261118/production-notes/冬服上着あり_制作指示.txt",
+    "source_file": "冬服上着あり_制作指示.txt",
+    "source_group": "pixivマンガ投稿 2026-11-18採用衣装",
+    "role": "制作指示の要約記録 原文プロンプト全文ではない",
+    "sha256": "4f4d15df289cde036f20fe2600f136ff72908788124f357422349acfd21ca9d0",
+    "license": "CC-BY-4.0"
+  },
+  {
+    "file": "series/tameshibu/wardrobe-20261118/production-notes/制作メモとプロンプト.txt",
+    "source_file": "制作メモとプロンプト.txt",
+    "source_group": "pixivマンガ投稿 2026-11-18採用衣装",
+    "role": "制作指示の要約記録 原文プロンプト全文ではない",
+    "sha256": "dab72cc10e022fefaeb29fc040bb041f13f6c634b09c10e29585b3dddf7f2d85",
+    "license": "CC-BY-4.0"
+  },
+  {
+    "file": "series/tameshibu/wardrobe-20261118/production-notes/夏の体育着_制作指示.txt",
+    "source_file": "夏の体育着_制作指示.txt",
+    "source_group": "pixivマンガ投稿 2026-11-18採用衣装",
+    "role": "制作指示の要約記録 原文プロンプト全文ではない",
+    "sha256": "e0f651ad9c83cf6fa7e56342bfdfdff399d2b81cb1d25dd07dfe268914b10046",
+    "license": "CC-BY-4.0"
+  },
+  {
+    "file": "series/tameshibu/wardrobe-20261118/verification.json",
+    "source_file": "verification.json",
+    "source_group": "pixivマンガ投稿 2026-11-18採用衣装",
+    "role": "公開用設定・採用台帳・案内・検証記録",
+    "sha256": "c8e55d0185e01fb32ab856a102e7da748572b97e0370d58b6d40162e947ceb20",
+    "license": "CC-BY-4.0"
   }
 ]
