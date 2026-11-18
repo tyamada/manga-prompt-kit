@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-17",
+  "as_of": "2026-11-18",
   "evidence": "user_report",
   "direct_pixiv_page_verified": false,
   "note": "投稿完了報告と提供URLによる確認。サイト制限を迂回しない。予約日時を公開完了の根拠にしない。",
@@ -236,6 +236,23 @@
       "scheduled_for": "2026-11-17T18:00:00+09:00",
       "actual_publication_time": null,
       "x_announcement": "not_performed_at_publication_report"
+    },
+    {
+      "title": "第11回「満場一致」",
+      "pixiv_url": "https://www.pixiv.net/artworks/152207050",
+      "filename": "11_strip.jpg",
+      "sha256": "ba1e7abe46148710e71f8a9e41060cb11892eb40224826283d7b18abbb53e88d",
+      "version": "day12_strip11_prototype_v3.jpg",
+      "evidence": "user_report",
+      "direct_page_verified": false,
+      "reported_on": "2026-11-18",
+      "recorded_on": "2026-11-18",
+      "source_chat": "pixivマンガ投稿",
+      "production_document": "examples/04-unanimous/README.md",
+      "scheduled_for": "2026-11-18T18:00:00+09:00",
+      "actual_publication_time": null,
+      "x_announcement": "not_posted_at_publication_report",
+      "x_url": null
     }
   ],
   "reconciliation": {
