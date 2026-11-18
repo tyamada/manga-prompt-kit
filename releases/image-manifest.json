@@ -453,8 +453,10 @@
             "production_document": "examples/04-unanimous/README.md",
             "scheduled_for": "2026-11-18T18:00:00+09:00",
             "actual_publication_time": null,
-            "x_announcement": "not_posted_at_publication_report",
-            "x_url": null
+            "x_announcement": "completed",
+            "x_url": "https://x.com/komairo_hiyori/status/2122986595477545221",
+            "x_announced_at": "2026-11-18T18:34:14.640268+09:00",
+            "x_evidence": "posting_chat_record_with_individual_post_and_image_confirmation"
           }
         },
         {

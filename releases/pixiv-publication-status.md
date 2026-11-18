@@ -22,7 +22,7 @@
 | 折原すみれ キャラクター紹介 | [pixiv](https://www.pixiv.net/artworks/151977416) | [プロンプトと工程](../examples/published/sumire-profile/README.md) | v1 | [告知ポスト](https://x.com/komairo_hiyori/status/2120816018759238064) |
 | 11月季節イラスト「秋をひとつ、持ち帰ろう。」 | [pixiv](https://www.pixiv.net/artworks/152042238) | [プロンプトと工程](../examples/published/november-bookmark/README.md) | 文字入りv1・2026-11-14採用 | [告知ポスト](https://x.com/komairo_hiyori/status/2121533961461752151) |
 | 第10回「案内上手」 | [pixiv](https://www.pixiv.net/artworks/152171565) | [プロンプトと工程](../examples/published/ep01-10/README.md) | day11_strip10_prototype_v1.jpg | 報告時点で未実施 |
-| 第11回「満場一致」 | [pixiv](https://www.pixiv.net/artworks/152207050) | [プロンプトと工程](../examples/04-unanimous/README.md) | day12_strip11_prototype_v3.jpg | 報告時点で未投稿 |
+| 第11回「満場一致」 | [pixiv](https://www.pixiv.net/artworks/152207050) | [プロンプトと工程](../examples/04-unanimous/README.md) | day12_strip11_prototype_v3.jpg | [告知ポスト](https://x.com/komairo_hiyori/status/2122986595477545221) |
 
 ## 照合結果
 
@@ -42,4 +42,6 @@
 
 ## 2026年11月18日の追加
 
-第11回「満場一致」の公開報告を既存の制作実例へ反映しました。採用稿は11月11日試作v3着色修正版で、投稿用JPEGと収録画像のSHA-256一致、収録済み全プロンプトと原文の一致を確認しています。現在の公開済み採用版は17作品です。X告知は報告時点で未投稿・URLなし。本文Releaseは第12〜13回の投稿完了まで待機中です。
+第11回「満場一致」の公開報告を既存の制作実例へ反映しました。採用稿は11月11日試作v3着色修正版で、投稿用JPEGと収録画像のSHA-256一致、収録済み全プロンプトと原文の一致を確認しています。現在の公開済み採用版は17作品です。X告知は初回報告後、11月18日18:34 JSTに完了しました。本文Releaseは第12〜13回の投稿完了まで待機中です。
+
+第11回の[画像付きX告知](https://x.com/komairo_hiyori/status/2122986595477545221)を追記しました。初回報告時の未投稿状態から完了へ更新しています。
