@@ -50,6 +50,12 @@
 
 『瀬尾家』は三姉妹の家庭での日常を描く別作品です。瀬尾凪は共通の人物ですが、妹や普段着を学校の漫画へ自動的に持ち込みません。『ためし部』のすみれと『瀬尾家』の澄は別人です。
 
+## サンプルPDFをダウンロード
+
+[日本語のダウンロードページ](https://tyamada.github.io/manga-prompt-kit/samples/ja/)・[English](https://tyamada.github.io/manga-prompt-kit/samples/en/)・[全14言語](https://tyamada.github.io/manga-prompt-kit/samples/)。各ページで話数・言語地域・容量を確認してPDFを選べます。PDF実体は既存Releasesで配布し、アプリ向け最新版一覧JSONのURLも維持します。
+
+[ページの更新手順](docs/sample-download-maintenance.md)。
+
 ## 完成作品と制作記事
 
 - [最新版アプリ用PDF51冊をダウンロード](https://github.com/tyamada/manga-prompt-kit/releases/tag/manga-pdf-20261103-v1)

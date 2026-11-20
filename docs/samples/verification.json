@@ -1,0 +1,11 @@
+{
+  "date": "2026-11-20",
+  "language_pages": 14,
+  "pdf_links_per_page": 51,
+  "local_links_checked": 224,
+  "published_release_asset_metadata_matched": 51,
+  "source": "releases/pdf-manifest.json",
+  "source_sha256": "4ffcdc152b18fe631b7db4f749907caa1ccf5888511137784d23774abf5d7ed4",
+  "pdf_files_added_to_docs": 0,
+  "app_pdf_files_deleted": 0
+}

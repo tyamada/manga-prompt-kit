@@ -1,0 +1,22 @@
+{
+  "source": "releases/pdf-manifest.json",
+  "source_sha256": "4ffcdc152b18fe631b7db4f749907caa1ccf5888511137784d23774abf5d7ed4",
+  "pdf_count": 51,
+  "languages": [
+    "ja",
+    "en",
+    "ko",
+    "zh-Hans",
+    "zh-Hant",
+    "de",
+    "fr",
+    "es",
+    "pt",
+    "vi",
+    "fil",
+    "ne",
+    "id",
+    "it"
+  ],
+  "pages": 14
+}
