@@ -2,6 +2,10 @@
 
 **最新版のPDFとpixiv用画像の公開先は、この制作資料リポジトリのGitHub Releasesに統一します。** 制作資料と[PDF用Release](https://github.com/tyamada/manga-prompt-kit/releases/tag/manga-pdf-20261103-v1)を公開済みです。人物紹介4枚のReleaseは公開済み、本文画像Releaseは投稿後まで待機中です。旧アプリ用2配布先は現在公開中ですが、移行後に廃止する予定です。廃止日は未定です。
 
+## PDFダウンロードページ
+
+[日本語](https://tyamada.github.io/manga-prompt-kit/samples/ja/)・[English](https://tyamada.github.io/manga-prompt-kit/samples/en/)・[全14言語](https://tyamada.github.io/manga-prompt-kit/samples/)で、話数と言語地域を選んでダウンロードできます。PDF実体は下記Releaseへ維持し、アプリ向けJSONのURLは変更していません。
+
 ## 配布対象と状態
 
 | 対象 | 新しい配布先の状態 | 内容 | タグ候補 |
