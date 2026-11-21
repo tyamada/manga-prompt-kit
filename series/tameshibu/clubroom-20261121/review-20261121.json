@@ -1,0 +1,62 @@
+{
+  "reviewed_on": "2026-11-21",
+  "scope": [
+    "series/tameshibu.md",
+    "series/tameshibu/clubroom-20261121",
+    "series/tameshibu/wardrobe-20261118",
+    "docs/quickstart.md",
+    "docs/art-direction.md",
+    "docs/color-workflow.md",
+    "docs/versioning.md",
+    "docs/sources.md",
+    "prompts/01-character.md",
+    "prompts/02-expression.md",
+    "prompts/03-script.md",
+    "prompts/04-color-art.md",
+    "prompts/05-local-edit.md",
+    "prompts/06-lettering.md",
+    "prompts/07-color-repair.md",
+    "prompts/08-pdf-translation.md",
+    "prompts/09-review.md",
+    "examples"
+  ],
+  "findings": [
+    {
+      "issue": "脚本のカメラ方向・机開閉と前後の連続性の指定不足",
+      "resolution": "脚本テンプレートの入力・表項目を補完"
+    },
+    {
+      "issue": "背景最終確認と私用保存・公開ZIPの区分不足",
+      "resolution": "壁面・鏡像反転・家具縮尺・開閉の確認と、未公開参照の公開除外を追記"
+    },
+    {
+      "issue": "準備・作画方針・彩色修復の現行舞台への導線不足",
+      "resolution": "v2参照と対象外を維持する修正範囲を明記"
+    },
+    {
+      "issue": "版管理の全4コマが11月11日稿と読める記述",
+      "resolution": "第1話・第2話・部室設定の採用日を区別"
+    },
+    {
+      "issue": "設定値・参照画・脚本・旧稿の優先関係の明確化不足",
+      "resolution": "文書とsettings.jsonに用途別の優先関係を追記"
+    },
+    {
+      "issue": "初版素材一覧の網羅範囲が不明確",
+      "resolution": "後発採用資料の正本への導線を追記"
+    }
+  ],
+  "dimension_or_camera_conflict_found": false,
+  "historical_originals_and_examples_preserved": 102,
+  "checks": {
+    "source_dimensions_and_cameras_match": true,
+    "room_area_and_plan_clearances_match": true,
+    "unpublished_background_images_not_added": true,
+    "image_release_changed": false,
+    "publication_counts_changed": false
+  },
+  "limits": [
+    "文書・数値・原文とGit差分の照合。背景画像の厳密な透視投影・寸法精度の検証ではない。",
+    "既存の公開原稿をv2へ改稿していない。"
+  ]
+}
