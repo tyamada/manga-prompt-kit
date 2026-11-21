@@ -1,15 +1,13 @@
 # ためし部 第1話 表紙と全13回
 
-状態：公開予定。公開先は制作資料リポジトリのGitHub Releasesです。まだReleaseを作成していません。
+2026年11月21日公開。11月11日採用版の表紙1枚と全13回、計14枚の完成JPEGを配布します。pixiv投稿完了報告が全14枚そろったことを確認しています。採用画像は変更・再圧縮していません。
 
-タグ候補：`pixiv-tameshibu-ep01-20261111-v1`。公開前に未使用であることを確認します。
+個別JPEG14枚、画像一覧のmanifest.json、SHA256SUMS、LICENSE.mdと、READMEを含めた同内容のZIPを添付しています。画像の版・寸法・容量・SHA-256・pixiv公開URLはmanifest.jsonで確認できます。ZIP内のSHA256SUMSは画像・manifest・LICENSE・READMEを対象にしています。
 
-完成JPEG 14枚、manifest.json、SHA256SUMS、LICENSE.mdと、同内容の画像ZIPを配布する計画です。画像は元の採用稿を変更せず、配布用ファイル名で収録しています。各画像の元ファイル名と版はmanifestに記録しています。
+作者：こまいろ日和 / Komairo Hiyori。ライセンス：CC BY 4.0（https://creativecommons.org/licenses/by/4.0/）。作画と修正に生成AIを使用しています。画像内の制作日と公開日は別です。
 
-ライセンス：[CC BY 4.0](../LICENSE.md)。作画と修正に生成AIを使用しています。画像内の制作日を実際の公開日として扱いません。pixivの投稿状態と、このReleaseの公開状態は別です。
+第2話・制服設定・瀬尾家の未公開作品は含めていません。このReleaseはpixivリメイクのカラー画像で、アプリ用PDFとは別の制作版です。アプリ用PDFの最新版Releaseは変更しません。
 
-公開時期：このReleaseに含む全画像のpixiv投稿完了を確認してから公開します。予約時刻の経過だけで公開しません。自動公開は設定していません。
+制作資料・公開記録：https://github.com/tyamada/manga-prompt-kit/blob/main/releases/pixiv-publication-status.md
 
-## 2026年11月21日確認
-
-表紙と全13回のpixiv投稿完了報告がそろい、投稿待ち条件は満たしました。GitHub Release自体はまだ作成していません。[公開記録](pixiv-publication-status.md)。
+[公開Release](https://github.com/tyamada/manga-prompt-kit/releases/tag/pixiv-tameshibu-ep01-20261111-v1)・[全18件の匿名取得検証](ep01-public-verification.json)。全件HTTP 200、容量・SHA-256一致、ZIP内18ファイルの一致を確認しました。

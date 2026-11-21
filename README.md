@@ -1,12 +1,12 @@
 # 4コママンガのプロンプトと制作手順
 
-**最新状況（2026年11月21日）**：[公開記録](releases/pixiv-publication-status.md)は19作品・X告知11件。第1話の表紙と全13回（14/14枚）のpixiv投稿完了報告がそろいました。本文画像Releaseの投稿待ち条件は満たしていますが、Release自体は未作成です。以下の日付付き更新欄は各日時点の履歴です。
+**最新状況（2026年11月21日）**：[公開記録](releases/pixiv-publication-status.md)は19作品・X告知11件。第1話の表紙と全13回（14/14枚）のpixiv投稿完了報告がそろいました。[第1話の本文画像Release](https://github.com/tyamada/manga-prompt-kit/releases/tag/pixiv-tameshibu-ep01-20261111-v1)を公開し、全18添付の匿名取得・整合性検証を完了しました。以下の日付付き更新欄は各日時点の履歴です。
 
 『ためし部』と『瀬尾家』の制作を実例に、人物設定、4コマ脚本、作画、縦書き、部分修正、投稿用画像の準備をまとめた資料集です。検索できる冊子PDFと多言語版の作り方も扱います。
 
 プロンプトを一度送って完成を待つだけでなく、試作を読んで修正し、採用稿を選ぶ工程を重視しています。画像生成AIを使い、作品を自分で確認しながら作りたい方を対象にしています。
 
-**初版 2026年11月12日**。[GitHubリポジトリ](https://github.com/tyamada/manga-prompt-kit)で制作資料を公開しています。アプリ用PDF51冊をReleasesで公開しています。人物紹介4枚はReleasesで公開済み、第1話本文画像一式は投稿完了報告がそろい、Release未作成です。
+**初版 2026年11月12日**。[GitHubリポジトリ](https://github.com/tyamada/manga-prompt-kit)で制作資料を公開しています。アプリ用PDF51冊をReleasesで公開しています。人物紹介4枚はReleasesで公開済み、[第1話本文画像14枚](https://github.com/tyamada/manga-prompt-kit/releases/tag/pixiv-tameshibu-ep01-20261111-v1)もReleasesで公開済みです。
 
 ![こよみの人物紹介](examples/01-character/assets/adopted.jpg)
 
@@ -60,6 +60,8 @@
 
 ## 完成作品と制作記事
 
+- [第1話の表紙と全13回のカラー画像・ZIPをダウンロード](https://github.com/tyamada/manga-prompt-kit/releases/tag/pixiv-tameshibu-ep01-20261111-v1)
+
 - [最新版アプリ用PDF51冊をダウンロード](https://github.com/tyamada/manga-prompt-kit/releases/tag/manga-pdf-20261103-v1)
 
 - [ためし部の第1回をpixivで読む](https://www.pixiv.net/artworks/151828086)
@@ -70,7 +72,7 @@
 
 この資料集はPDFビューアアプリ本体を含みません。最新版のPDFと投稿用画像は、**この制作資料リポジトリのGitHub Releasesへ集約する計画**です。アプリ側の既存2つのReleaseは移行中の旧配布先で、将来廃止予定です。新しいReleaseの公開・検証と利用アプリの移行が終わるまでは旧URLを維持します。
 
-アプリ用PDF51冊は[新しいPDF Release](https://github.com/tyamada/manga-prompt-kit/releases/tag/manga-pdf-20261103-v1)で公開済みです。全件の匿名ダウンロードと整合性を確認しました。pixiv用人物紹介4枚をReleaseで公開済みです。残る本文20枚は投稿後まで待機中です。アプリ側の参照先更新と旧2配布先の廃止は未実施です。[配布対象と移行手順](releases/README.md)を参照してください。
+アプリ用PDF51冊は[新しいPDF Release](https://github.com/tyamada/manga-prompt-kit/releases/tag/manga-pdf-20261103-v1)で公開済みです。全件の匿名ダウンロードと整合性を確認しました。pixiv用人物紹介4枚をReleaseで公開済みです。第1話本文画像14枚も公開済みで、瀬尾家6枚は投稿完了未確認のため待機中です。アプリ側の参照先更新と旧2配布先の廃止は未実施です。[配布対象と移行手順](releases/README.md)を参照してください。
 
 ## ライセンス
 
@@ -113,3 +115,7 @@
 ## 2026年11月21日の公開記録更新
 
 第13回「次の依頼」の制作資料・公開URL・画像付きX告知を追加しました。第10回「案内上手」のX告知URLも補完しました。第2話・制服設定の予約報告は公開済み一覧に追加していません。
+
+## 2026年11月21日 第1話画像Release公開
+
+[表紙と全13回の完成JPEG14枚・ZIP](https://github.com/tyamada/manga-prompt-kit/releases/tag/pixiv-tameshibu-ep01-20261111-v1)を公開しました。付属資料を含む18添付すべてを匿名取得し、HTTP 200・容量・SHA-256一致とZIP内18ファイルの一致を確認しました。[検証記録](releases/ep01-public-verification.json)。CC BY 4.0。アプリ用PDFの最新版Releaseは維持し、第2話・制服設定・瀬尾家の未公開作品は追加していません。

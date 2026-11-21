@@ -6,7 +6,7 @@
 
 公開根拠は11月14日のユーザー提供URLと作品同定報告です。pixivページ本体はサイト制限により直接確認していません。公開予定は11月14日18:00 JSTですが、実際の公開時刻をその予定から推定していません。旧採用記録の「予約登録済み」は途中時点の状態です。X告知は当初未実施でしたが、現在は完了しています。
 
-完成本文画像一式のReleaseは第8〜13回の投稿完了まで待機します。[公開記録](../../../releases/pixiv-publication-status.md)。
+[完成画像一式のRelease](https://github.com/tyamada/manga-prompt-kit/releases/tag/pixiv-tameshibu-ep01-20261111-v1)は11月21日に公開済みです。[公開記録](../../../releases/pixiv-publication-status.md)。
 
 [CC BY 4.0](../../../LICENSE.md)。作者：こまいろ日和 / Komairo Hiyori。生成AIを作画・修正に使用しています。
 

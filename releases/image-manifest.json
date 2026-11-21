@@ -5,10 +5,10 @@
   "image_count": 24,
   "groups": [
     {
-      "status": "planned",
+      "status": "published",
       "repository": "tyamada/manga-prompt-kit",
       "tag_candidate": "pixiv-tameshibu-ep01-20261111-v1",
-      "release_url": null,
+      "release_url": "https://github.com/tyamada/manga-prompt-kit/releases/tag/pixiv-tameshibu-ep01-20261111-v1",
       "title": "ためし部 第1話 表紙と全13回",
       "image_count": 14,
       "license": "CC-BY-4.0",
@@ -24,7 +24,7 @@
           "bytes": 1145514,
           "sha256": "c54e2161124f099af8bdee1fbeb2c99ffeba72d595fba0448eec15686188fbf9",
           "license": "CC-BY-4.0",
-          "status": "planned_github_release",
+          "status": "published_github_release",
           "source_file": "表紙.jpg",
           "preflight": {
             "date": "2026-11-12",
@@ -46,7 +46,8 @@
             "latest_replacement_reported_on": "2026-11-11",
             "production_document": "examples/published/ep01-00/README.md",
             "x_announcement": "completion_not_confirmed_in_reviewed_records"
-          }
+          },
+          "download_url": "https://github.com/tyamada/manga-prompt-kit/releases/download/pixiv-tameshibu-ep01-20261111-v1/00_cover.jpg"
         },
         {
           "filename": "01_strip.jpg",
@@ -59,7 +60,7 @@
           "bytes": 1114705,
           "sha256": "c578988ffccd75a14bff296949b25a586a1fe1334610f7f842f34321da8017a3",
           "license": "CC-BY-4.0",
-          "status": "planned_github_release",
+          "status": "published_github_release",
           "source_file": "day02_strip01.jpg",
           "preflight": {
             "date": "2026-11-12",
@@ -81,7 +82,8 @@
             "latest_replacement_reported_on": "2026-11-11",
             "production_document": "examples/published/ep01-01/README.md",
             "x_announcement": "completion_not_confirmed_in_reviewed_records"
-          }
+          },
+          "download_url": "https://github.com/tyamada/manga-prompt-kit/releases/download/pixiv-tameshibu-ep01-20261111-v1/01_strip.jpg"
         },
         {
           "filename": "02_strip.jpg",
@@ -94,7 +96,7 @@
           "bytes": 1064896,
           "sha256": "520d8eb711417e9137d914ebca3ccfe73ab108dd6b7719e6cea46f98b0f3d779",
           "license": "CC-BY-4.0",
-          "status": "planned_github_release",
+          "status": "published_github_release",
           "source_file": "day03_strip02.jpg",
           "preflight": {
             "date": "2026-11-12",
@@ -116,7 +118,8 @@
             "latest_replacement_reported_on": "2026-11-11",
             "production_document": "examples/02-roles/README.md",
             "x_announcement": "completion_not_confirmed_in_reviewed_records"
-          }
+          },
+          "download_url": "https://github.com/tyamada/manga-prompt-kit/releases/download/pixiv-tameshibu-ep01-20261111-v1/02_strip.jpg"
         },
         {
           "filename": "03_strip.jpg",
@@ -129,7 +132,7 @@
           "bytes": 925950,
           "sha256": "076883410032a5267312682f3c8f3f976c52ba69f4468f6080c0f0da5fb42bf6",
           "license": "CC-BY-4.0",
-          "status": "planned_github_release",
+          "status": "published_github_release",
           "source_file": "day04_strip03.jpg",
           "preflight": {
             "date": "2026-11-12",
@@ -151,7 +154,8 @@
             "latest_replacement_reported_on": "2026-11-11",
             "production_document": "examples/published/ep01-03/README.md",
             "x_announcement": "completion_not_confirmed_in_reviewed_records"
-          }
+          },
+          "download_url": "https://github.com/tyamada/manga-prompt-kit/releases/download/pixiv-tameshibu-ep01-20261111-v1/03_strip.jpg"
         },
         {
           "filename": "04_strip.jpg",
@@ -164,7 +168,7 @@
           "bytes": 960310,
           "sha256": "cbf13eb76de8eeb98f363c1b1545b53a0fe9dae0b821771a08309d1775621649",
           "license": "CC-BY-4.0",
-          "status": "planned_github_release",
+          "status": "published_github_release",
           "source_file": "day05_strip04.jpg",
           "preflight": {
             "date": "2026-11-12",
@@ -186,7 +190,8 @@
             "latest_replacement_reported_on": "2026-11-11",
             "production_document": "examples/published/ep01-04/README.md",
             "x_announcement": "completion_not_confirmed_in_reviewed_records"
-          }
+          },
+          "download_url": "https://github.com/tyamada/manga-prompt-kit/releases/download/pixiv-tameshibu-ep01-20261111-v1/04_strip.jpg"
         },
         {
           "filename": "05_strip.jpg",
@@ -199,7 +204,7 @@
           "bytes": 906721,
           "sha256": "7ed1cdf830de05d9ea386d4319324e4709c194cad14a5c8c313933d47daef062",
           "license": "CC-BY-4.0",
-          "status": "planned_github_release",
+          "status": "published_github_release",
           "source_file": "day06_strip05.jpg",
           "preflight": {
             "date": "2026-11-12",
@@ -223,7 +228,8 @@
             "x_announcement": "completed",
             "x_announced_at": "2026-11-12T18:49:12.050232+09:00",
             "x_evidence": "posting_chat_record_with_individual_post_and_image_confirmation"
-          }
+          },
+          "download_url": "https://github.com/tyamada/manga-prompt-kit/releases/download/pixiv-tameshibu-ep01-20261111-v1/05_strip.jpg"
         },
         {
           "filename": "06_strip.jpg",
@@ -236,7 +242,7 @@
           "bytes": 924228,
           "sha256": "d586e1a0c6e8adae188a756afa6545873f888ab9a915c6df30a778371a9d5005",
           "license": "CC-BY-4.0",
-          "status": "planned_github_release",
+          "status": "published_github_release",
           "source_file": "day07_strip06.jpg",
           "preflight": {
             "date": "2026-11-12",
@@ -260,7 +266,8 @@
             "x_announcement": "completed",
             "x_announced_at": "2026-11-13T18:13:29.778642+09:00",
             "x_evidence": "posting_chat_record_with_individual_post_and_image_confirmation"
-          }
+          },
+          "download_url": "https://github.com/tyamada/manga-prompt-kit/releases/download/pixiv-tameshibu-ep01-20261111-v1/06_strip.jpg"
         },
         {
           "filename": "07_strip.jpg",
@@ -273,7 +280,7 @@
           "bytes": 842534,
           "sha256": "1c2b9a26a91d8a702127157497e97d2e21a77ba5c1823b2afe6da4764c64d3c4",
           "license": "CC-BY-4.0",
-          "status": "planned_github_release",
+          "status": "published_github_release",
           "source_file": "day08_strip07.jpg",
           "preflight": {
             "date": "2026-11-12",
@@ -298,7 +305,8 @@
             "x_url": "https://x.com/komairo_hiyori/status/2121533621605671018",
             "x_announced_at": "2026-11-14T18:21:53.170227+09:00",
             "x_evidence": "posting_chat_record_with_individual_post_and_image_confirmation"
-          }
+          },
+          "download_url": "https://github.com/tyamada/manga-prompt-kit/releases/download/pixiv-tameshibu-ep01-20261111-v1/07_strip.jpg"
         },
         {
           "filename": "08_strip.jpg",
@@ -311,7 +319,7 @@
           "bytes": 975767,
           "sha256": "779727ef38af8ca4523ff89f32bc38f35fbf8366bced2e70639449ebcb7433ea",
           "license": "CC-BY-4.0",
-          "status": "planned_github_release",
+          "status": "published_github_release",
           "source_file": "day09_strip08.jpg",
           "preflight": {
             "date": "2026-11-12",
@@ -339,7 +347,8 @@
             "x_url": "https://x.com/komairo_hiyori/status/2122267206813937898",
             "x_announced_at": "2026-11-16T18:55:48.348216+09:00",
             "x_evidence": "posting_chat_record_with_individual_post_and_image_confirmation"
-          }
+          },
+          "download_url": "https://github.com/tyamada/manga-prompt-kit/releases/download/pixiv-tameshibu-ep01-20261111-v1/08_strip.jpg"
         },
         {
           "filename": "09_strip.jpg",
@@ -352,7 +361,7 @@
           "bytes": 925353,
           "sha256": "249c37fd5df910c33d17213a895b794fa3adae58731c06b93c87817739562a59",
           "license": "CC-BY-4.0",
-          "status": "planned_github_release",
+          "status": "published_github_release",
           "source_file": "day10_strip09.jpg",
           "preflight": {
             "date": "2026-11-12",
@@ -378,7 +387,8 @@
             "x_url": "https://x.com/komairo_hiyori/status/2122260137541017614",
             "x_announced_at": "2026-11-16T18:27:23.812434+09:00",
             "x_evidence": "posting_chat_record_with_individual_post_and_image_confirmation"
-          }
+          },
+          "download_url": "https://github.com/tyamada/manga-prompt-kit/releases/download/pixiv-tameshibu-ep01-20261111-v1/09_strip.jpg"
         },
         {
           "filename": "10_strip.jpg",
@@ -391,7 +401,7 @@
           "bytes": 889459,
           "sha256": "e3560f86eb084405e467941374ba4f79f33e12bcf1d414bf92d47fb30b3f2b81",
           "license": "CC-BY-4.0",
-          "status": "planned_github_release",
+          "status": "published_github_release",
           "source_file": "day11_strip10.jpg",
           "preflight": {
             "date": "2026-11-12",
@@ -419,7 +429,8 @@
             "x_url": "https://x.com/komairo_hiyori/status/2122648060786626706",
             "x_announced_at": "2026-11-17T20:08:54.360614+09:00",
             "x_evidence": "posting_chat_record_with_individual_post_and_image_confirmation"
-          }
+          },
+          "download_url": "https://github.com/tyamada/manga-prompt-kit/releases/download/pixiv-tameshibu-ep01-20261111-v1/10_strip.jpg"
         },
         {
           "filename": "11_strip.jpg",
@@ -432,7 +443,7 @@
           "bytes": 990662,
           "sha256": "ba1e7abe46148710e71f8a9e41060cb11892eb40224826283d7b18abbb53e88d",
           "license": "CC-BY-4.0",
-          "status": "planned_github_release",
+          "status": "published_github_release",
           "source_file": "day12_strip11.jpg",
           "preflight": {
             "date": "2026-11-12",
@@ -460,7 +471,8 @@
             "x_url": "https://x.com/komairo_hiyori/status/2122986595477545221",
             "x_announced_at": "2026-11-18T18:34:14.640268+09:00",
             "x_evidence": "posting_chat_record_with_individual_post_and_image_confirmation"
-          }
+          },
+          "download_url": "https://github.com/tyamada/manga-prompt-kit/releases/download/pixiv-tameshibu-ep01-20261111-v1/11_strip.jpg"
         },
         {
           "filename": "12_strip.jpg",
@@ -473,7 +485,7 @@
           "bytes": 1109398,
           "sha256": "4676d99710f2c4896acd9ab68dd4186a18434e21c4c91dd3fd356efbb7cb64ce",
           "license": "CC-BY-4.0",
-          "status": "planned_github_release",
+          "status": "published_github_release",
           "source_file": "day13_strip12.jpg",
           "preflight": {
             "date": "2026-11-12",
@@ -501,7 +513,8 @@
             "x_url": "https://x.com/komairo_hiyori/status/2123342736732610985",
             "x_evidence": "posting_chat_record_with_individual_post_and_image_confirmation",
             "x_announced_at": "2026-11-19T18:09:41.981811+09:00"
-          }
+          },
+          "download_url": "https://github.com/tyamada/manga-prompt-kit/releases/download/pixiv-tameshibu-ep01-20261111-v1/12_strip.jpg"
         },
         {
           "filename": "13_strip.jpg",
@@ -514,7 +527,7 @@
           "bytes": 966143,
           "sha256": "b92a08c356db65609ff30d519120dddcaaa3ee785cb8116e8c798c315f96cec7",
           "license": "CC-BY-4.0",
-          "status": "planned_github_release",
+          "status": "published_github_release",
           "source_file": "day14_strip13.jpg",
           "preflight": {
             "date": "2026-11-12",
@@ -542,14 +555,10 @@
             "x_url": "https://x.com/komairo_hiyori/status/2123704631532638240",
             "x_announced_at": "2026-11-20T18:07:35.173704+09:00",
             "x_evidence": "posting_chat_record_with_individual_post_and_image_confirmation"
-          }
+          },
+          "download_url": "https://github.com/tyamada/manga-prompt-kit/releases/download/pixiv-tameshibu-ep01-20261111-v1/13_strip.jpg"
         }
       ],
-      "bundle_asset": {
-        "filename": "pixiv-tameshibu-ep01-20261111-v1.zip",
-        "bytes": 13668467,
-        "sha256": "e9c460635c105626dae40f6a41c6b57031959502ea16197609a7a0bbf33dd57a"
-      },
       "attachment_names": [
         "00_cover.jpg",
         "01_strip.jpg",
@@ -573,7 +582,7 @@
       "preflight_date": "2026-11-12",
       "technical_review": "passed",
       "visual_review": "no_required_correction_found",
-      "release_timing": "group_pixiv_publication_confirmed_release_not_created",
+      "release_timing": "group_pixiv_publication_confirmed",
       "publication_policy": {
         "decided_on": "2026-11-12",
         "rule": "wait_until_pixiv_publication_confirmed",
@@ -584,7 +593,14 @@
         "automatic_publication": false
       },
       "pixiv_confirmed_count": 14,
-      "publication_status_record": "pixiv-publication-status.json"
+      "publication_status_record": "pixiv-publication-status.json",
+      "published_on": "2026-11-21",
+      "bundle_asset": {
+        "filename": "pixiv-tameshibu-ep01-20261111-v1.zip",
+        "bytes": 13669961,
+        "sha256": "875f954539064d57888f8863332e2b176cfbd042385612030943effa6bc674f1"
+      },
+      "public_verification_record": "ep01-public-verification.json"
     },
     {
       "status": "published",

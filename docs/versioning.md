@@ -26,7 +26,7 @@ reference-map.json
 
 ## 公開前の区切り
 
-採用した画像でも、pixivなどで公開済みとは限りません。予約投稿で見せる時期を優先する場合は、GitHubに含める作例の公開時期も合わせます。制作資料を公開した段階で、PDF51冊のReleaseは公開済み、完成画像一式はpixiv投稿後まで公開待機中です。
+採用した画像でも、pixivなどで公開済みとは限りません。予約投稿で見せる時期を優先する場合は、GitHubに含める作例の公開時期も合わせます。2026年11月21日現在、PDF51冊・人物紹介4枚・[第1話本文画像14枚](https://github.com/tyamada/manga-prompt-kit/releases/tag/pixiv-tameshibu-ep01-20261111-v1)のReleaseは公開済みです。瀬尾家6枚はpixiv投稿完了未確認のため公開待機中です。
 
 ## 内容の版と配布先の移行
 

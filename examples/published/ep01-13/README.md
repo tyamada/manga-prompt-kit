@@ -14,6 +14,6 @@
 
 11月20日のユーザー提供URLと投稿担当チャットの記録が公開根拠です。pixiv本体は直接確認していません。予約は11月20日18:00 JST、実際の公開時刻は未検証です。[画像付きX告知](https://x.com/komairo_hiyori/status/2123704631532638240)は同日18:07 JSTに完了し、担当チャットで個別URL・画像リンクを確認した記録があります。
 
-投稿用JPEGのSHA-256は `b92a08c356db65609ff30d519120dddcaaa3ee785cb8116e8c798c315f96cec7` で、採用台帳と配布予定一覧に一致しました。第1話は表紙と全13回の投稿完了報告がそろいました。GitHub本文画像Releaseはまだ作成していません。[公開記録](../../../releases/pixiv-publication-status.md)。
+投稿用JPEGのSHA-256は `b92a08c356db65609ff30d519120dddcaaa3ee785cb8116e8c798c315f96cec7` で、採用台帳と配布予定一覧に一致しました。第1話は表紙と全13回の投稿完了報告がそろいました。[GitHub本文画像Release](https://github.com/tyamada/manga-prompt-kit/releases/tag/pixiv-tameshibu-ep01-20261111-v1)は11月21日に公開しました。[公開記録](../../../releases/pixiv-publication-status.md)。
 
 [CC BY 4.0](../../../LICENSE.md)。作者：こまいろ日和 / Komairo Hiyori。作画・修正に生成AIを使用しています。

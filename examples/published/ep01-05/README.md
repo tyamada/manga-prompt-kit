@@ -6,7 +6,7 @@
 
 表紙と第1〜4回は2026年11月11日の最新版への差し替え報告を採用しています。公開根拠はユーザーの投稿完了報告とURLです。pixivページ本体の直接確認はサイト制限により未実施です。
 
-完成JPEG一式のReleaseは全13回の投稿完了まで待機します。[制作手順](../../../docs/color-workflow.md)と[公開記録](../../../releases/pixiv-publication-status.md)を参照してください。
+[完成画像一式のRelease](https://github.com/tyamada/manga-prompt-kit/releases/tag/pixiv-tameshibu-ep01-20261111-v1)は11月21日に公開済みです。[制作手順](../../../docs/color-workflow.md)と[公開記録](../../../releases/pixiv-publication-status.md)を参照してください。
 
 [CC BY 4.0](../../../LICENSE.md)。作者：こまいろ日和 / Komairo Hiyori。
 

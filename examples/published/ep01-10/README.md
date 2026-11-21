@@ -14,7 +14,7 @@
 
 2026年11月17日のユーザー提供URLによる公開報告を根拠としています。pixivページ本体はサイト制限により直接確認していません。公開予定は11月17日18:00 JST、実際の公開時刻は未確認です。X告知は今回の報告時点で未実施です。
 
-投稿用JPEGのSHA-256は `e3560f86eb084405e467941374ba4f79f33e12bcf1d414bf92d47fb30b3f2b81` で、採用記録と配布予定画像一覧に一致しました。完成本文画像一式のReleaseは全画像の投稿完了まで待機します。[公開記録](../../../releases/pixiv-publication-status.md)。
+投稿用JPEGのSHA-256は `e3560f86eb084405e467941374ba4f79f33e12bcf1d414bf92d47fb30b3f2b81` で、採用記録と配布予定画像一覧に一致しました。[完成画像一式のRelease](https://github.com/tyamada/manga-prompt-kit/releases/tag/pixiv-tameshibu-ep01-20261111-v1)は11月21日に公開済みです。[公開記録](../../../releases/pixiv-publication-status.md)。
 
 [CC BY 4.0](../../../LICENSE.md)。作者：こまいろ日和 / Komairo Hiyori。作画・修正に生成AIを使用しています。
 
