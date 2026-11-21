@@ -16,6 +16,6 @@
 
 2026年11月19日のユーザー提供URLを公開根拠としています。pixivページ本体はサイト制限により直接確認していません。公開予定は11月19日18:00 JST、実際の公開時刻は未検証です。[画像付きX告知](https://x.com/komairo_hiyori/status/2123342736732610985)は投稿担当チャットで本文・添付プレビューと投稿後の個別URL・画像リンクを確認した記録に基づきます。
 
-投稿用JPEGのSHA-256は `4676d99710f2c4896acd9ab68dd4186a18434e21c4c91dd3fd356efbb7cb64ce` で、採用台帳と配布予定一覧に一致しました。本文画像Releaseは第13回の投稿完了まで待機します。[公開記録](../../../releases/pixiv-publication-status.md)。
+投稿用JPEGのSHA-256は `4676d99710f2c4896acd9ab68dd4186a18434e21c4c91dd3fd356efbb7cb64ce` で、採用台帳と配布予定一覧に一致しました。11月21日追記：第13回の投稿完了報告もそろいました。本文画像Releaseは未作成です。[公開記録](../../../releases/pixiv-publication-status.md)。
 
 [CC BY 4.0](../../../LICENSE.md)。作者：こまいろ日和 / Komairo Hiyori。作画・修正に生成AIを使用しています。

@@ -415,7 +415,10 @@
             "production_document": "examples/published/ep01-10/README.md",
             "scheduled_for": "2026-11-17T18:00:00+09:00",
             "actual_publication_time": null,
-            "x_announcement": "not_performed_at_publication_report"
+            "x_announcement": "completed",
+            "x_url": "https://x.com/komairo_hiyori/status/2122648060786626706",
+            "x_announced_at": "2026-11-17T20:08:54.360614+09:00",
+            "x_evidence": "posting_chat_record_with_individual_post_and_image_confirmation"
           }
         },
         {
@@ -496,7 +499,8 @@
             "actual_publication_time": null,
             "x_announcement": "completed",
             "x_url": "https://x.com/komairo_hiyori/status/2123342736732610985",
-            "x_evidence": "posting_chat_record_with_individual_post_and_image_confirmation"
+            "x_evidence": "posting_chat_record_with_individual_post_and_image_confirmation",
+            "x_announced_at": "2026-11-19T18:09:41.981811+09:00"
           }
         },
         {
@@ -519,6 +523,25 @@
             "visual_review": "no_required_correction_found",
             "color_evidence": "ICCプロファイル sRGB",
             "release_timing": "wait_until_pixiv_publication_confirmed"
+          },
+          "pixiv_publication": {
+            "title": "第13回「次の依頼」",
+            "pixiv_url": "https://www.pixiv.net/artworks/152278036",
+            "filename": "13_strip.jpg",
+            "sha256": "b92a08c356db65609ff30d519120dddcaaa3ee785cb8116e8c798c315f96cec7",
+            "version": "day14_strip13_prototype_v1.jpg",
+            "evidence": "user_report",
+            "direct_page_verified": false,
+            "reported_on": "2026-11-20",
+            "recorded_on": "2026-11-21",
+            "source_chat": "pixivマンガ投稿",
+            "production_document": "examples/published/ep01-13/README.md",
+            "scheduled_for": "2026-11-20T18:00:00+09:00",
+            "actual_publication_time": null,
+            "x_announcement": "completed",
+            "x_url": "https://x.com/komairo_hiyori/status/2123704631532638240",
+            "x_announced_at": "2026-11-20T18:07:35.173704+09:00",
+            "x_evidence": "posting_chat_record_with_individual_post_and_image_confirmation"
           }
         }
       ],
@@ -550,7 +573,7 @@
       "preflight_date": "2026-11-12",
       "technical_review": "passed",
       "visual_review": "no_required_correction_found",
-      "release_timing": "wait_until_group_pixiv_publication_confirmed",
+      "release_timing": "group_pixiv_publication_confirmed_release_not_created",
       "publication_policy": {
         "decided_on": "2026-11-12",
         "rule": "wait_until_pixiv_publication_confirmed",
@@ -560,7 +583,7 @@
         "existing_documentation_examples": "既存の資料内の実例画像は変更しない。",
         "automatic_publication": false
       },
-      "pixiv_confirmed_count": 13,
+      "pixiv_confirmed_count": 14,
       "publication_status_record": "pixiv-publication-status.json"
     },
     {
@@ -778,6 +801,19 @@
             "visual_review": "no_required_correction_found",
             "color_evidence": "EXIF ColorSpace=1 sRGB、ICC未埋込",
             "release_timing": "wait_until_pixiv_publication_confirmed"
+          },
+          "pixiv_publication": {
+            "title": "第1回「最初の依頼」",
+            "pixiv_url": "https://www.pixiv.net/artworks/151828086",
+            "filename": "01_strip.jpg",
+            "sha256": "c578988ffccd75a14bff296949b25a586a1fe1334610f7f842f34321da8017a3",
+            "version": "day02_strip01_prototype_v1.jpg",
+            "evidence": "user_report",
+            "direct_page_verified": false,
+            "recorded_on": "2026-11-13",
+            "latest_replacement_reported_on": "2026-11-11",
+            "production_document": "examples/published/ep01-01/README.md",
+            "x_announcement": "completion_not_confirmed_in_reviewed_records"
           }
         },
         {
@@ -801,6 +837,19 @@
             "visual_review": "no_required_correction_found",
             "color_evidence": "EXIF ColorSpace=1 sRGB、ICC未埋込",
             "release_timing": "wait_until_pixiv_publication_confirmed"
+          },
+          "pixiv_publication": {
+            "title": "第2回「役割分担」",
+            "pixiv_url": "https://www.pixiv.net/artworks/151867715",
+            "filename": "02_strip.jpg",
+            "sha256": "520d8eb711417e9137d914ebca3ccfe73ab108dd6b7719e6cea46f98b0f3d779",
+            "version": "day03_strip02_prototype_v2.jpg",
+            "evidence": "user_report",
+            "direct_page_verified": false,
+            "recorded_on": "2026-11-13",
+            "latest_replacement_reported_on": "2026-11-11",
+            "production_document": "examples/02-roles/README.md",
+            "x_announcement": "completion_not_confirmed_in_reviewed_records"
           }
         },
         {
@@ -824,6 +873,19 @@
             "visual_review": "no_required_correction_found",
             "color_evidence": "EXIF ColorSpace=1 sRGB、ICC未埋込",
             "release_timing": "wait_until_pixiv_publication_confirmed"
+          },
+          "pixiv_publication": {
+            "title": "第3回「静かさの単位」",
+            "pixiv_url": "https://www.pixiv.net/artworks/151901524",
+            "filename": "03_strip.jpg",
+            "sha256": "076883410032a5267312682f3c8f3f976c52ba69f4468f6080c0f0da5fb42bf6",
+            "version": "day04_strip03_prototype_v1.jpg",
+            "evidence": "user_report",
+            "direct_page_verified": false,
+            "recorded_on": "2026-11-13",
+            "latest_replacement_reported_on": "2026-11-11",
+            "production_document": "examples/published/ep01-03/README.md",
+            "x_announcement": "completion_not_confirmed_in_reviewed_records"
           }
         },
         {
@@ -847,6 +909,19 @@
             "visual_review": "no_required_correction_found",
             "color_evidence": "EXIF ColorSpace=1 sRGB、ICC未埋込",
             "release_timing": "wait_until_pixiv_publication_confirmed"
+          },
+          "pixiv_publication": {
+            "title": "第4回「ひなたの長さ」",
+            "pixiv_url": "https://www.pixiv.net/artworks/151939479",
+            "filename": "04_strip.jpg",
+            "sha256": "cbf13eb76de8eeb98f363c1b1545b53a0fe9dae0b821771a08309d1775621649",
+            "version": "day05_strip04_prototype_v1.jpg",
+            "evidence": "user_report",
+            "direct_page_verified": false,
+            "recorded_on": "2026-11-13",
+            "latest_replacement_reported_on": "2026-11-11",
+            "production_document": "examples/published/ep01-04/README.md",
+            "x_announcement": "completion_not_confirmed_in_reviewed_records"
           }
         },
         {
@@ -870,6 +945,21 @@
             "visual_review": "no_required_correction_found",
             "color_evidence": "EXIF ColorSpace=1 sRGB、ICC未埋込",
             "release_timing": "wait_until_pixiv_publication_confirmed"
+          },
+          "pixiv_publication": {
+            "title": "第5回「持ち運べる休憩」",
+            "pixiv_url": "https://www.pixiv.net/artworks/151977415",
+            "filename": "05_strip.jpg",
+            "sha256": "7ed1cdf830de05d9ea386d4319324e4709c194cad14a5c8c313933d47daef062",
+            "version": "day06_strip05_prototype_v1.jpg",
+            "evidence": "user_report",
+            "direct_page_verified": false,
+            "recorded_on": "2026-11-13",
+            "x_url": "https://x.com/komairo_hiyori/status/2120815537668452408",
+            "production_document": "examples/published/ep01-05/README.md",
+            "x_announcement": "completed",
+            "x_announced_at": "2026-11-12T18:49:12.050232+09:00",
+            "x_evidence": "posting_chat_record_with_individual_post_and_image_confirmation"
           }
         },
         {
@@ -893,6 +983,21 @@
             "visual_review": "no_required_correction_found",
             "color_evidence": "EXIF ColorSpace=1 sRGB、ICC未埋込",
             "release_timing": "wait_until_pixiv_publication_confirmed"
+          },
+          "pixiv_publication": {
+            "title": "第6回「名前の長さ」",
+            "pixiv_url": "https://www.pixiv.net/artworks/152012825",
+            "filename": "06_strip.jpg",
+            "sha256": "d586e1a0c6e8adae188a756afa6545873f888ab9a915c6df30a778371a9d5005",
+            "version": "day07_strip06_prototype_v1.jpg",
+            "evidence": "user_report",
+            "direct_page_verified": false,
+            "recorded_on": "2026-11-13",
+            "x_url": "https://x.com/komairo_hiyori/status/2121169481947099480",
+            "production_document": "examples/03-name/README.md",
+            "x_announcement": "completed",
+            "x_announced_at": "2026-11-13T18:13:29.778642+09:00",
+            "x_evidence": "posting_chat_record_with_individual_post_and_image_confirmation"
           }
         }
       ],

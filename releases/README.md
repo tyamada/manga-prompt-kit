@@ -1,6 +1,8 @@
 # GitHub Releasesの公開と移行計画
 
-**最新版のPDFとpixiv用画像の公開先は、この制作資料リポジトリのGitHub Releasesに統一します。** 制作資料と[PDF用Release](https://github.com/tyamada/manga-prompt-kit/releases/tag/manga-pdf-20261103-v1)を公開済みです。人物紹介4枚のReleaseは公開済み、本文画像Releaseは投稿後まで待機中です。旧アプリ用2配布先は現在公開中ですが、移行後に廃止する予定です。廃止日は未定です。
+**最新状況（2026年11月21日）**：[公開記録](pixiv-publication-status.md)は19作品・X告知11件。第1話の表紙と全13回（14/14枚）のpixiv投稿完了報告がそろいました。本文画像Releaseの投稿待ち条件は満たしていますが、Release自体は未作成です。以下の日付付き更新欄は各日時点の履歴です。
+
+**最新版のPDFとpixiv用画像の公開先は、この制作資料リポジトリのGitHub Releasesに統一します。** 制作資料と[PDF用Release](https://github.com/tyamada/manga-prompt-kit/releases/tag/manga-pdf-20261103-v1)を公開済みです。人物紹介4枚のReleaseは公開済み、第1話本文画像Releaseは投稿完了報告がそろい、Release未作成です。旧アプリ用2配布先は現在公開中ですが、移行後に廃止する予定です。廃止日は未定です。
 
 ## PDFダウンロードページ
 
@@ -101,3 +103,7 @@ PDFの公開と全件取得検証まで完了しました。次は[アプリ側�
 ## 2026年11月19日の公開確認
 
 第12回「地図の置き場所」の[制作資料・公開記録・X告知URL](pixiv-publication-status.md)を追加しました。公開済み採用版は18作品、本文は表紙＋第1〜12回の13/14枚です。本文Releaseは第13回の投稿完了まで待機します。
+
+## 2026年11月21日の公開記録更新
+
+第13回「次の依頼」の制作資料・公開URL・画像付きX告知を追加しました。第10回「案内上手」のX告知URLも補完しました。第2話・制服設定の予約報告は公開済み一覧に追加していません。

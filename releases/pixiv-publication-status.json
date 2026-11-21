@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-19",
+  "as_of": "2026-11-21",
   "evidence": "user_report",
   "direct_pixiv_page_verified": false,
   "note": "投稿完了報告と提供URLによる確認。サイト制限を迂回しない。予約日時を公開完了の根拠にしない。",
@@ -235,7 +235,10 @@
       "production_document": "examples/published/ep01-10/README.md",
       "scheduled_for": "2026-11-17T18:00:00+09:00",
       "actual_publication_time": null,
-      "x_announcement": "not_performed_at_publication_report"
+      "x_announcement": "completed",
+      "x_url": "https://x.com/komairo_hiyori/status/2122648060786626706",
+      "x_announced_at": "2026-11-17T20:08:54.360614+09:00",
+      "x_evidence": "posting_chat_record_with_individual_post_and_image_confirmation"
     },
     {
       "title": "第11回「満場一致」",
@@ -272,6 +275,26 @@
       "actual_publication_time": null,
       "x_announcement": "completed",
       "x_url": "https://x.com/komairo_hiyori/status/2123342736732610985",
+      "x_evidence": "posting_chat_record_with_individual_post_and_image_confirmation",
+      "x_announced_at": "2026-11-19T18:09:41.981811+09:00"
+    },
+    {
+      "title": "第13回「次の依頼」",
+      "pixiv_url": "https://www.pixiv.net/artworks/152278036",
+      "filename": "13_strip.jpg",
+      "sha256": "b92a08c356db65609ff30d519120dddcaaa3ee785cb8116e8c798c315f96cec7",
+      "version": "day14_strip13_prototype_v1.jpg",
+      "evidence": "user_report",
+      "direct_page_verified": false,
+      "reported_on": "2026-11-20",
+      "recorded_on": "2026-11-21",
+      "source_chat": "pixivマンガ投稿",
+      "production_document": "examples/published/ep01-13/README.md",
+      "scheduled_for": "2026-11-20T18:00:00+09:00",
+      "actual_publication_time": null,
+      "x_announcement": "completed",
+      "x_url": "https://x.com/komairo_hiyori/status/2123704631532638240",
+      "x_announced_at": "2026-11-20T18:07:35.173704+09:00",
       "x_evidence": "posting_chat_record_with_individual_post_and_image_confirmation"
     }
   ],
@@ -294,5 +317,13 @@
       "current_pixiv_url": "https://www.pixiv.net/artworks/151828001",
       "note": "初期の投稿報告として履歴のみ保持。現行採用表紙の制作資料は151828001へ対応付ける。旧ページの現在の公開状態は未確認。"
     }
-  ]
+  ],
+  "latest_reconciliation": {
+    "date": "2026-11-21",
+    "current_adopted_works": 19,
+    "confirmed_x_announcements": 11,
+    "excluded": "第2話・制服設定の予約報告は公開完了の根拠とせず、公開済み一覧へ追加しない。",
+    "source_chat": "pixivマンガ投稿",
+    "direct_pixiv_page_verified": false
+  }
 }
