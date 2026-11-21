@@ -320,8 +320,11 @@
       "scheduled_for": "2026-11-21T18:00:00+09:00",
       "actual_publication_time": null,
       "production_document": "examples/published/ep02-00/README.md",
-      "x_announcement": "not_performed_at_publication_report",
-      "github_image_release": "not_created"
+      "x_announcement": "completed",
+      "github_image_release": "not_created",
+      "x_url": "https://x.com/komairo_hiyori/status/2124094455884218487",
+      "x_announced_at": "2026-11-21T19:57:27.107354+09:00",
+      "x_evidence": "posting_chat_record_with_individual_post_and_image_confirmation"
     },
     {
       "work_id": "tameshibu-ep02-01",
@@ -346,8 +349,11 @@
       "scheduled_for": "2026-11-21T18:00:00+09:00",
       "actual_publication_time": null,
       "production_document": "examples/published/ep02-01/README.md",
-      "x_announcement": "not_performed_at_publication_report",
-      "github_image_release": "not_created"
+      "x_announcement": "completed",
+      "github_image_release": "not_created",
+      "x_url": "https://x.com/komairo_hiyori/status/2124094747925233992",
+      "x_announced_at": "2026-11-21T19:57:27.107354+09:00",
+      "x_evidence": "posting_chat_record_with_individual_post_and_image_confirmation"
     }
   ],
   "reconciliation": {
@@ -373,7 +379,7 @@
   "latest_reconciliation": {
     "date": "2026-11-21",
     "current_adopted_works": 21,
-    "confirmed_x_announcements": 11,
+    "confirmed_x_announcements": 13,
     "excluded": "第2話第2〜13回・制服設定の予約作品は公開済み一覧へ追加しない。",
     "source_chat": "pixivマンガ投稿",
     "direct_pixiv_page_verified": false

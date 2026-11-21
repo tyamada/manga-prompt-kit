@@ -1,6 +1,6 @@
 # GitHub Releasesの公開と移行計画
 
-**最新状況（2026年11月21日）**：[公開記録](pixiv-publication-status.md)は21作品・X告知11件。第1話の表紙と全13回（14/14枚）のpixiv投稿完了報告がそろいました。[第1話の本文画像Release](https://github.com/tyamada/manga-prompt-kit/releases/tag/pixiv-tameshibu-ep01-20261111-v1)を公開し、全18添付の匿名取得・整合性検証を完了しました。以下の日付付き更新欄は各日時点の履歴です。
+**最新状況（2026年11月21日）**：[公開記録](pixiv-publication-status.md)は21作品・X告知13件。第1話の表紙と全13回（14/14枚）のpixiv投稿完了報告がそろいました。[第1話の本文画像Release](https://github.com/tyamada/manga-prompt-kit/releases/tag/pixiv-tameshibu-ep01-20261111-v1)を公開し、全18添付の匿名取得・整合性検証を完了しました。以下の日付付き更新欄は各日時点の履歴です。
 
 **最新版のPDFとpixiv用画像の公開先は、この制作資料リポジトリのGitHub Releasesに統一します。** 制作資料と[PDF用Release](https://github.com/tyamada/manga-prompt-kit/releases/tag/manga-pdf-20261103-v1)を公開済みです。人物紹介4枚のReleaseは公開済み、[第1話本文画像14枚](https://github.com/tyamada/manga-prompt-kit/releases/tag/pixiv-tameshibu-ep01-20261111-v1)も公開済みです。旧アプリ用2配布先は現在公開中ですが、移行後に廃止する予定です。廃止日は未定です。
 
@@ -114,4 +114,4 @@ PDFの公開と全件取得検証まで完了しました。次は[アプリ側�
 
 ## 2026年11月21日 第2話の初回公開
 
-第2話「机、ひろがる。」の表紙と第1回「ひらく机」の[制作資料・実使用プロンプト・公開記録](pixiv-publication-status.md)を追加しました。ユーザー提供URLと対応の明示確認が根拠です。公開済み採用版は21作品、X告知完了は11件で、この2件のX告知は未実施です。第2話第2〜13回の資料・画像は追加せず、第2話の画像Releaseも未作成です。
+第2話「机、ひろがる。」の表紙と第1回「ひらく机」の[制作資料・実使用プロンプト・公開記録](pixiv-publication-status.md)を追加しました。ユーザー提供URLと対応の明示確認が根拠です。公開済み採用版は21作品です。この2件の画像付きX告知は同日19:57 JSTに完了し、X告知完了は13件になりました。第2話第2〜13回の資料・画像は追加せず、第2話の画像Releaseも未作成です。
