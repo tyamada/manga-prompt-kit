@@ -165,5 +165,20 @@
   ],
   "production_notes_kind": "summary_records_not_verbatim_generation_prompts",
   "profile_identity": "existing_face_personality_role_preserved",
-  "new_release_created": false
+  "new_release_created": false,
+  "pixiv_publication_records": [
+    {
+      "design": "夏服",
+      "source_file": "ためし部_制服設定案_夏服.jpg",
+      "pixiv_url": "https://www.pixiv.net/artworks/152359656",
+      "sha256": "5b5a07193948643241cebbf9604f560b5069c45c99655f85367789a7cda6a777",
+      "evidence": "user_report",
+      "direct_page_verified": false,
+      "reported_on": "2026-11-22",
+      "x_url": "https://x.com/komairo_hiyori/status/2124430280627016049",
+      "x_announcement": "completed",
+      "x_announced_at": "2026-11-22T18:10:57.526247+09:00"
+    }
+  ],
+  "pixiv_publication_note": "夏服1案のみ投稿完了確認。他5案の採用・GitHub収録はpixiv公開確認を意味しない。"
 }
