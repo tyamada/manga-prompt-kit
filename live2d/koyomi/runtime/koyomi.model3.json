@@ -1,0 +1,36 @@
+{
+  "Version": 3,
+  "FileReferences": {
+    "Moc": "koyomi.moc3",
+    "Textures": [
+      "textures/texture_00.png"
+    ],
+    "DisplayInfo": "koyomi.cdi3.json",
+    "Motions": {
+      "Greeting": [
+        {
+          "File": "motions/self-introduction.motion3.json",
+          "FadeInTime": 0,
+          "FadeOutTime": 0
+        }
+      ]
+    }
+  },
+  "Groups": [
+    {
+      "Target": "Parameter",
+      "Name": "EyeBlink",
+      "Ids": [
+        "ParamEyeLOpen",
+        "ParamEyeROpen"
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Name": "LipSync",
+      "Ids": [
+        "ParamMouthOpenY"
+      ]
+    }
+  ]
+}

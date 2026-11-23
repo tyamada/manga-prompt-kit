@@ -1,0 +1,3 @@
+# Generated locally; do not redistribute synthesized voice as a standalone asset.
+runtime/sounds/*.wav
+.DS_Store

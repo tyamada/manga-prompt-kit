@@ -1,0 +1,32 @@
+{
+  "layers": [
+    "00_HeadBase_WithHair",
+    "01_Hair_Back",
+    "02_Body_Neck",
+    "03_Skin_Head",
+    "04_Nose",
+    "10_Brow_R",
+    "11_Brow_L",
+    "20_Eye_R_Sclera",
+    "21_Eye_R_Iris",
+    "22_Eye_R_Pupil",
+    "23_Eye_R_Highlight",
+    "24_Eye_R_UpperLid",
+    "25_Eye_R_LowerLid",
+    "30_Eye_L_Sclera",
+    "31_Eye_L_Iris",
+    "32_Eye_L_Pupil",
+    "33_Eye_L_Highlight",
+    "34_Eye_L_UpperLid",
+    "35_Eye_L_LowerLid",
+    "40_Mouth_Closed",
+    "41_Mouth_Inside",
+    "42_Mouth_Teeth",
+    "43_Mouth_Tongue",
+    "50_Eye_R_Closed",
+    "51_Eye_L_Closed",
+    "60_Hair_Front"
+  ],
+  "original_visible_pixels": "SVG vector masks retain original visible hair, face, ears, body and nose. v16 underpainting fills hidden regions only.",
+  "hidden_reference": "00_HeadBase_WithHair"
+}
