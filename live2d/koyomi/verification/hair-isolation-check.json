@@ -1,0 +1,32 @@
+{
+  "hair_side": {
+    "max_abs_shift_px": [
+      1,
+      1
+    ]
+  },
+  "hair_front": {
+    "max_abs_shift_px": [
+      1,
+      1
+    ]
+  },
+  "face_skin": {
+    "max_abs_shift_px": [
+      0,
+      0
+    ]
+  },
+  "shoulder_l": {
+    "max_abs_shift_px": [
+      0,
+      0
+    ]
+  },
+  "shoulder_r": {
+    "max_abs_shift_px": [
+      0,
+      0
+    ]
+  }
+}

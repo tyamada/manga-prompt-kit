@@ -1,5 +1,5 @@
 {
-  "version": "v19",
+  "version": "v20",
   "date": "2026-11-23",
   "files": [
     {
@@ -10,12 +10,12 @@
     {
       "path": "LICENSE.md",
       "bytes": 1973,
-      "sha256": "93ef05156da81c6753519f2476a3383b3ebdeaaa2dd8c86c2740d2bab0ff7942"
+      "sha256": "947dceea8758fca3f436e3bb2187614409ff9727a5ffd5ca01a86919182049be"
     },
     {
       "path": "README.md",
-      "bytes": 2722,
-      "sha256": "30ef4149e742f1320d59a07a59678be6555222e63d197b5bfb234e8fd0cba84f"
+      "bytes": 3293,
+      "sha256": "67eee8598ad18bfcf5076717589c91d01bdd86af3ffc4217a5064cd10e6dcd77"
     },
     {
       "path": "audio/README.md",
@@ -39,8 +39,8 @@
     },
     {
       "path": "docs/production.md",
-      "bytes": 3765,
-      "sha256": "d9a4ede49063d3dabe5a64a6e6c08889f158c62ed9bfc3c049ae321eef2aad17"
+      "bytes": 3676,
+      "sha256": "62b0ad89849e9ea259744d494e5c1b5629ac3276f645e5e4f93715070988fd14"
     },
     {
       "path": "preview/front.jpg",
@@ -48,19 +48,29 @@
       "sha256": "d9b57efa213cf105ff31bc67967227adad7761c7346d01e75a7c3373039c9dee"
     },
     {
+      "path": "preview/hair-comparison.jpg",
+      "bytes": 105618,
+      "sha256": "8bd61f87453e2a6dc87f02a33f9d70b2cc530f117af353c06b59ac3bf148d83e"
+    },
+    {
+      "path": "preview/hair-test.mp4",
+      "bytes": 379479,
+      "sha256": "d2ca35ac87eb788d4b5d9faff6d396ab9c7b061bb2f919dfe4b5abf16032c566"
+    },
+    {
       "path": "preview/motion-contact-sheet.jpg",
-      "bytes": 187987,
-      "sha256": "a566a374a8ae29ab382aaa4f0834c22c93fbb7cda78e92c52bed664674cd7b27"
+      "bytes": 187905,
+      "sha256": "10812a293ca6d5f8060845e9a10ebb0465393a0068338f9964918f992d63afbb"
     },
     {
       "path": "preview/self-introduction-silent.mp4",
-      "bytes": 907839,
-      "sha256": "fadf162a507a9f2f5cf3732655b9c11efc0031f16d1e7883f66c9cf399f0c270"
+      "bytes": 1027344,
+      "sha256": "1392fb770822fb9a38580bc4979069ef4e91cd6872730cb229da969a266725df"
     },
     {
       "path": "preview/self-introduction.mp4",
-      "bytes": 1062234,
-      "sha256": "04dbdba109fd026f12f69e4dc75f94760b3754f4bc1d23b04231179d67788905"
+      "bytes": 1182523,
+      "sha256": "ede20b340cfeb19a238adab8ee3e503fa80a8454224daef6ffd660f880140707"
     },
     {
       "path": "runtime/koyomi.cdi3.json",
@@ -69,18 +79,23 @@
     },
     {
       "path": "runtime/koyomi.moc3",
-      "bytes": 67008,
-      "sha256": "026dad8ce5a097ecf9db11aade69512474e356a7afd476826a595562fd19947d"
+      "bytes": 67456,
+      "sha256": "c344771370ae5e1c34ecc8d37f58eea7ed3310e0ae739f9a9f767bb7eb1b6a6f"
     },
     {
       "path": "runtime/koyomi.model3.json",
-      "bytes": 627,
-      "sha256": "4d62e90347c0523d3f0692ffc52dbf154a00383e2483d55b5cc7835cdc4ba4bf"
+      "bytes": 782,
+      "sha256": "b91d0ad07e4060af6a4f926fe0876ae6ee83e6145b17c574a0f161db78a3797e"
+    },
+    {
+      "path": "runtime/motions/hair-test.motion3.json",
+      "bytes": 577,
+      "sha256": "0aa54fa23e45d5a130412b3f55304d0b3883d9977de9596b346171f71222f287"
     },
     {
       "path": "runtime/motions/self-introduction.motion3.json",
-      "bytes": 13993,
-      "sha256": "1e5e5ef262174698a98144cbb6a3947f2d039a7ca4da916fbfe3db010ad9c825"
+      "bytes": 20284,
+      "sha256": "b150a92adae41b8903d89c4668ad54e8642c68e78fe3a89c329f6188b8231edc"
     },
     {
       "path": "runtime/sounds/README.md",
@@ -93,14 +108,14 @@
       "sha256": "d42e49cc4fc35f248dbb21946a18f2faff353bfc787f570290d5254939f9a6aa"
     },
     {
-      "path": "source/koyomi-v17.cmo3",
-      "bytes": 8011381,
-      "sha256": "b1e7ae9ff793624e4e8364ac30862c1df256579ee16ec9f335cde8630b27ea98"
-    },
-    {
       "path": "source/koyomi-v17.psd",
       "bytes": 11825246,
       "sha256": "5d2d0f73a9d254029fda6867915e8d10ab7f6329fb91d8902a6dfb69466f885b"
+    },
+    {
+      "path": "source/koyomi-v20.cmo3",
+      "bytes": 8012503,
+      "sha256": "f5b556690c06c527e64bfb8dea054c9688825515c6ea2fd70126cc0cab45955c"
     },
     {
       "path": "source/layers.json",
@@ -258,19 +273,24 @@
       "sha256": "8ef97822f05586467501c867e925b35cf5bf5c568b6463d26bae8efade198fe7"
     },
     {
-      "path": "verification/runtime-check.json",
-      "bytes": 1201,
-      "sha256": "7e1fb0b34ccbc3e2be9edf5d32ff6c1c3f8a6a927d55d3c66188ee3d2492e60f"
+      "path": "verification/hair-isolation-check.json",
+      "bytes": 360,
+      "sha256": "dbad8962c92c84451d2598630e149315a0bdedddbbbcd9e2520d3208046d3cf9"
     },
     {
-      "path": "verification/sync-diagnosis.json",
+      "path": "verification/history/v19/sync-diagnosis.json",
       "bytes": 1133,
       "sha256": "e2b962577ed30b90753e32110c9ed68857e0116db38f7b5addffe87c4d829815"
     },
     {
-      "path": "verification/sync-trial-1.json",
+      "path": "verification/history/v19/sync-trial-1.json",
       "bytes": 1198,
       "sha256": "f3852da947d1296450e9fc12df2b78dd8154e599b5ff7acb060517927bd961ff"
+    },
+    {
+      "path": "verification/runtime-check.json",
+      "bytes": 1198,
+      "sha256": "cb37d9861312bd7b999e9ac1c0dc96b3138c53058ead8b8002612cade0dd27e1"
     }
   ]
 }
