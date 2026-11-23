@@ -1,10 +1,12 @@
 {
-  "frames": 483,
-  "mouth_motion_start_fit_seconds": 6.80637641723353,
-  "mouth_area_curve_correlation": 0.9638596650682145,
-  "audio_start_seconds": 6.78437641723356,
-  "source_audio_correlation": 0.9847759040049009,
-  "audio_minus_mouth_start_seconds": -0.021999999999970044,
+  "frames": 481,
+  "mouth_motion_start_fit_seconds": 6.768426303854845,
+  "mouth_area_curve_correlation": 0.9541929039293529,
+  "audio_start_seconds": 6.7424263038548755,
+  "audio_sample_lag_seconds": 6.7424263038548755,
+  "audio_track_start_seconds": 0.0,
+  "source_audio_correlation": 0.9909805486327319,
+  "audio_minus_mouth_start_seconds": -0.025999999999969603,
   "shoulders": [
     {
       "region": [
@@ -17,7 +19,7 @@
         0,
         0
       ],
-      "min_correlation": 0.9996410012245178
+      "min_correlation": 0.9996526837348938
     },
     {
       "region": [
@@ -30,7 +32,7 @@
         0,
         0
       ],
-      "min_correlation": 0.9992505311965942
+      "min_correlation": 0.9992766976356506
     },
     {
       "region": [
@@ -43,7 +45,7 @@
         0,
         0
       ],
-      "min_correlation": 0.9993942975997925
+      "min_correlation": 0.9993777275085449
     },
     {
       "region": [
@@ -56,11 +58,11 @@
         0,
         0
       ],
-      "min_correlation": 0.9997271299362183
+      "min_correlation": 0.9996974468231201
     }
   ],
   "mouth_area_min_max": [
     0,
-    2232
+    1984
   ]
 }

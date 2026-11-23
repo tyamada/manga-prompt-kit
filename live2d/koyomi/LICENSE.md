@@ -20,7 +20,7 @@ AI生成・補完部分を含みます。著作権が成立しない部分につ
 ## クレジット例
 
 ```text
-『ためし部』小坂こよみ Live2Dモデル v17
+『ためし部』小坂こよみ Live2Dモデル v19
 © こまいろ日和／校内くらし試作部
 出典：https://github.com/tyamada/manga-prompt-kit/tree/main/live2d/koyomi
 CC BY 4.0 https://creativecommons.org/licenses/by/4.0/

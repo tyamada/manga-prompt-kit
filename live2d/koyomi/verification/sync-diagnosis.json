@@ -1,0 +1,20 @@
+{
+  "previous_reported_lag_ms": 92,
+  "previous_audio_track_start_ms": 16.292,
+  "previous_corrected_lag_ms": 75.708,
+  "single_model_trials_lag_ms": [
+    26,
+    26
+  ],
+  "measurement_uncertainty_ms": 33.4,
+  "viewer_cpu_snapshot_percent_before": 86,
+  "viewer_cpu_snapshot_percent_after": 44.4,
+  "change": "Close 5 saved old-model Viewer windows; keep one renderer; reliably target model window for playback. No installed app patch or timing offsets added.",
+  "interpretation": "Repeated same-data playback supports render load as main cause; CPU snapshots are indicative, not controlled benchmark. Prior estimate also omitted audio stream start timestamp.",
+  "unchanged_payload_sha256": {
+    "こよみ_自己紹介_v18.motion3.json": "1e5e5ef262174698a98144cbb6a3947f2d039a7ca4da916fbfe3db010ad9c825",
+    "こよみ_自己紹介.wav": "08f05eeb739bdc143658fd44346623878f6cb75c65c091c7621ad23354486947",
+    "こよみ_分割統合_v17.moc3": "026dad8ce5a097ecf9db11aade69512474e356a7afd476826a595562fd19947d",
+    "こよみ_分割統合_v17.cmo3": "b1e7ae9ff793624e4e8364ac30862c1df256579ee16ec9f335cde8630b27ea98"
+  }
+}

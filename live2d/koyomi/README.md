@@ -1,10 +1,10 @@
 # こよみ Live2Dモデル
 
-『ためし部』の小坂こよみのLive2D制作データです。元絵の顔立ちを使ってパーツ境界を調整した **v17** を収録しています。
+『ためし部』の小坂こよみのLive2D制作データです。同期確認済みの **v19** を収録しています。形状・編集素材はv17、自然な動きはv18を継承し、v19でViewerの再生負荷と同期の確認手順を改善しました。
 
 ![正面](preview/front.jpg)
 
-[音声付き確認動画（9.5秒）](preview/self-introduction.mp4) · [動きの比較画像](preview/motion-contact-sheet.jpg)
+[音声付き確認動画（9.4秒）](preview/self-introduction.mp4) · [動きの比較画像](preview/motion-contact-sheet.jpg)
 
 ## フォルダー構成
 
@@ -17,11 +17,14 @@
 | `docs/` | 制作・再生・利用条件の説明 |
 | `verification/` | 実機確認結果、各ファイルの容量・SHA-256 |
 
+[モデル・編集素材・確認動画のZIP](https://github.com/tyamada/manga-prompt-kit/releases/tag/koyomi-live2d-v19-20261123)
+
 ## 再生・編集
 
 1. Live2D Cubism Viewerで [`runtime/koyomi.model3.json`](runtime/koyomi.model3.json) を開きます。
 2. `motions > Greeting > self-introduction` を選択して再生します。配布モデルは無音で動きます。音声の追加は[audio/README.md](audio/README.md)を参照してください。
-3. 編集にはCubism Editorで [`source/koyomi-v17.cmo3`](source/koyomi-v17.cmo3) を開きます。原画の変更にはPSD・分割素材を使います。
+3. Viewerは対象モデル1つだけを開いて再生します。旧版の確認ウィンドウが複数開いていると、描画負荷によって口の表示が遅れる場合があります。
+4. 編集にはCubism Editorで [`source/koyomi-v17.cmo3`](source/koyomi-v17.cmo3) を開きます。原画の変更にはPSD・分割素材を使います。
 
 書き出し・確認環境はCubism 5.3.04 FREE、SDK 5.3対応です。Editorから再書き出しした場合は、モーション・音声の参照設定も保持または再設定してください。
 

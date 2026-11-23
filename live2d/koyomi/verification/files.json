@@ -1,5 +1,5 @@
 {
-  "version": "v17",
+  "version": "v19",
   "date": "2026-11-23",
   "files": [
     {
@@ -10,12 +10,12 @@
     {
       "path": "LICENSE.md",
       "bytes": 1973,
-      "sha256": "22b405ec9acdb108f1e4e9391269074a8cc0d7aa4ccb06e7fc75bd59026b6663"
+      "sha256": "93ef05156da81c6753519f2476a3383b3ebdeaaa2dd8c86c2740d2bab0ff7942"
     },
     {
       "path": "README.md",
-      "bytes": 2286,
-      "sha256": "b098acfe159e46601d812b6ff937c44e161af85f1b7a38ce4c72dc353894740a"
+      "bytes": 2722,
+      "sha256": "30ef4149e742f1320d59a07a59678be6555222e63d197b5bfb234e8fd0cba84f"
     },
     {
       "path": "audio/README.md",
@@ -39,8 +39,8 @@
     },
     {
       "path": "docs/production.md",
-      "bytes": 2844,
-      "sha256": "5d50f24c95a1590dafe0b33437bd5def11daa1414272b2bcdacc483c5534bacf"
+      "bytes": 3765,
+      "sha256": "d9a4ede49063d3dabe5a64a6e6c08889f158c62ed9bfc3c049ae321eef2aad17"
     },
     {
       "path": "preview/front.jpg",
@@ -49,18 +49,18 @@
     },
     {
       "path": "preview/motion-contact-sheet.jpg",
-      "bytes": 187752,
-      "sha256": "9a9a2a766b0e279a3fe2ba82c79e93e1af3d87e07b11fb7ea84111bac199f341"
+      "bytes": 187987,
+      "sha256": "a566a374a8ae29ab382aaa4f0834c22c93fbb7cda78e92c52bed664674cd7b27"
     },
     {
       "path": "preview/self-introduction-silent.mp4",
-      "bytes": 975839,
-      "sha256": "29a5305047bc0227c7124b262c237478e17b5cc3b9f34d654745548b64b9d69d"
+      "bytes": 907839,
+      "sha256": "fadf162a507a9f2f5cf3732655b9c11efc0031f16d1e7883f66c9cf399f0c270"
     },
     {
       "path": "preview/self-introduction.mp4",
-      "bytes": 1129937,
-      "sha256": "5488aff713e19ecfeee22364f6f743dfb3cb877a117d7c813d8cd8ae9b131014"
+      "bytes": 1062234,
+      "sha256": "04dbdba109fd026f12f69e4dc75f94760b3754f4bc1d23b04231179d67788905"
     },
     {
       "path": "runtime/koyomi.cdi3.json",
@@ -79,8 +79,8 @@
     },
     {
       "path": "runtime/motions/self-introduction.motion3.json",
-      "bytes": 12887,
-      "sha256": "76cfff1f9bb2dd3c118bcf6cddc6457ab7a0d3243ae3f53e6cf89d09e388f174"
+      "bytes": 13993,
+      "sha256": "1e5e5ef262174698a98144cbb6a3947f2d039a7ca4da916fbfe3db010ad9c825"
     },
     {
       "path": "runtime/sounds/README.md",
@@ -259,8 +259,18 @@
     },
     {
       "path": "verification/runtime-check.json",
-      "bytes": 1112,
-      "sha256": "0e245bc41090119da0aa0c3fdc9bc0cb2e290b9f66fd509ff27b7a5223878d03"
+      "bytes": 1201,
+      "sha256": "7e1fb0b34ccbc3e2be9edf5d32ff6c1c3f8a6a927d55d3c66188ee3d2492e60f"
+    },
+    {
+      "path": "verification/sync-diagnosis.json",
+      "bytes": 1133,
+      "sha256": "e2b962577ed30b90753e32110c9ed68857e0116db38f7b5addffe87c4d829815"
+    },
+    {
+      "path": "verification/sync-trial-1.json",
+      "bytes": 1198,
+      "sha256": "f3852da947d1296450e9fc12df2b78dd8154e599b5ff7acb060517927bd961ff"
     }
   ]
 }
