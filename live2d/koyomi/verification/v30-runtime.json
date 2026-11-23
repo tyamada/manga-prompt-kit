@@ -1,0 +1,276 @@
+{
+  "version": "v30",
+  "verified_at": "2026-11-23T20:18:17.023590+09:00",
+  "editor": "Cubism Editor 5.3.05 FREE",
+  "viewer": "Cubism Viewer for OW 5.3.05",
+  "runtime_core_checks": {
+    "parameters": [
+      "ParamAngleX",
+      "ParamAngleY",
+      "ParamAngleZ",
+      "ParamEyeLOpen",
+      "ParamEyeLSmile",
+      "ParamEyeROpen",
+      "ParamEyeBallX",
+      "ParamEyeBallY",
+      "ParamBrowLY",
+      "ParamMouthForm",
+      "ParamMouthOpenY",
+      "ParamHairFront",
+      "ParamHairOuterL",
+      "ParamHairSideL",
+      "ParamHairBangC",
+      "ParamHairBangR",
+      "ParamHairSideR",
+      "ParamHairOuterR",
+      "ParamBrowLAdjustY",
+      "ParamBrowRAdjustY",
+      "ParamBrowLAngle",
+      "ParamBrowRAngle"
+    ],
+    "angle_checks": [
+      {
+        "parameter": "ParamBrowLAngle",
+        "value": -1,
+        "changed": {
+          "ArtMesh17": 0.008748926222324371
+        },
+        "rotation_degrees": 6.000000476837158,
+        "scale": 0.9999999403953552
+      },
+      {
+        "parameter": "ParamBrowLAngle",
+        "value": -0.5,
+        "changed": {
+          "ArtMesh17": 0.004360392689704895
+        },
+        "rotation_degrees": 2.999999523162842,
+        "scale": 1.0
+      },
+      {
+        "parameter": "ParamBrowLAngle",
+        "value": 1,
+        "changed": {
+          "ArtMesh17": 0.00874897837638855
+        },
+        "rotation_degrees": -6.0,
+        "scale": 1.0
+      },
+      {
+        "parameter": "ParamBrowRAngle",
+        "value": -1,
+        "changed": {
+          "ArtMesh18": 0.007848486304283142
+        },
+        "rotation_degrees": 5.999999523162842,
+        "scale": 1.0
+      },
+      {
+        "parameter": "ParamBrowRAngle",
+        "value": -0.5,
+        "changed": {
+          "ArtMesh18": 0.003914825618267059
+        },
+        "rotation_degrees": 2.999999761581421,
+        "scale": 1.0
+      },
+      {
+        "parameter": "ParamBrowRAngle",
+        "value": 1,
+        "changed": {
+          "ArtMesh18": 0.007861658930778503
+        },
+        "rotation_degrees": -6.0,
+        "scale": 1.0
+      }
+    ],
+    "preservation": [
+      {
+        "settings": {},
+        "non_brow_max_delta": 0.0,
+        "brow_max_source_px": 0.0013885498046875
+      },
+      {
+        "settings": {
+          "ParamAngleX": 8,
+          "ParamAngleY": -6,
+          "ParamAngleZ": 4
+        },
+        "non_brow_max_delta": 0.0,
+        "brow_max_source_px": 0.32183837890625
+      },
+      {
+        "settings": {
+          "ParamAngleX": -8,
+          "ParamAngleY": 6,
+          "ParamAngleZ": -4
+        },
+        "non_brow_max_delta": 0.0,
+        "brow_max_source_px": 0.309539794921875
+      },
+      {
+        "settings": {
+          "ParamEyeLOpen": 0,
+          "ParamEyeROpen": 0,
+          "ParamEyeLSmile": 1
+        },
+        "non_brow_max_delta": 0.0,
+        "brow_max_source_px": 0.0013885498046875
+      },
+      {
+        "settings": {
+          "ParamMouthOpenY": 0.2
+        },
+        "non_brow_max_delta": 0.0,
+        "brow_max_source_px": 0.0013885498046875
+      },
+      {
+        "settings": {
+          "ParamMouthOpenY": 1,
+          "ParamMouthForm": 1,
+          "ParamEyeBallX": 1,
+          "ParamEyeBallY": -1
+        },
+        "non_brow_max_delta": 0.0,
+        "brow_max_source_px": 0.0013885498046875
+      }
+    ],
+    "opacity_identical_in_preservation_states": true
+  },
+  "brow_angles": {
+    "parameters": [
+      "ParamBrowLAngle",
+      "ParamBrowRAngle"
+    ],
+    "range": [
+      -1,
+      1
+    ],
+    "default": 0,
+    "rotation": "Each native rotation parent has -6/0/+6 degree keys; corresponding brow only; scale unchanged.",
+    "expression_values_normal_happy_surprise_idea_lets_try_noticed": [
+      [
+        0,
+        0
+      ],
+      [
+        0.25,
+        -0.25
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0.5,
+        -0.15
+      ],
+      [
+        -0.6,
+        0.6
+      ],
+      [
+        0.35,
+        0.1
+      ]
+    ],
+    "greeting": "Both added angles remain zero through 9.6 seconds."
+  },
+  "preservation": "v29 mouth fix, all existing motion curves, original audio, existing expression values, texture and physics retained. Non-brow vertices match v29 exactly in representative states. Added parents change eyebrow coordinates by up to 0.322 source px with tested head angles, frontal approximately 0.0014px.",
+  "mouth_audio_measurement": {
+    "frames": 280,
+    "mouth_motion_start_fit_seconds": 0.20000000000000018,
+    "mouth_area_curve_correlation": 0.9633259022336641,
+    "audio_start_seconds": 0.16999999999999993,
+    "audio_minus_mouth_start_seconds": -0.03000000000000025,
+    "shoulders": [
+      {
+        "region": [
+          150,
+          650,
+          60,
+          60
+        ],
+        "max_abs_shift_px": [
+          0,
+          0
+        ],
+        "min_correlation": 0.9998419880867004
+      },
+      {
+        "region": [
+          210,
+          650,
+          45,
+          60
+        ],
+        "max_abs_shift_px": [
+          0,
+          0
+        ],
+        "min_correlation": 0.9996359348297119
+      },
+      {
+        "region": [
+          470,
+          650,
+          45,
+          60
+        ],
+        "max_abs_shift_px": [
+          0,
+          0
+        ],
+        "min_correlation": 0.9997154474258423
+      },
+      {
+        "region": [
+          530,
+          650,
+          60,
+          60
+        ],
+        "max_abs_shift_px": [
+          0,
+          0
+        ],
+        "min_correlation": 0.9998607635498047
+      }
+    ],
+    "mouth_area_min_max": [
+      0,
+      2292
+    ]
+  },
+  "audio_capture": {
+    "audio_onset": 2.6539455782312924,
+    "correlation": 0.9885031249691829,
+    "common_trim_seconds": 2.4839455782312925
+  },
+  "audio_video_individual_offset_correction": false,
+  "audio_replacement": false,
+  "measurement_limit": "30fps mouth area-curve fit, uncertainty about 33ms, not phoneme alignment. Core tests cover representative states, not all simultaneous extremes.",
+  "reference_videos": "MouthCheck v29, eyebrow vertical v28, physics v27 and gaze/direct strands v26 retained as earlier related checks.",
+  "limitations": [
+    "Right brow partly hidden by bangs; restrained angle changes.",
+    "Independent eyebrow shape, large profile, full body/ribbon/hand motions and VTube Studio tracking remain unfinished."
+  ],
+  "deliverables": {
+    "koyomi-v30.cmo3": {
+      "bytes": 8166335,
+      "sha256": "ee9be968b055b732fcaf2e6c0e819da7e9fa04eb89534469e39a29ed94d57da9"
+    },
+    "koyomi-v30.moc3": {
+      "bytes": 83520,
+      "sha256": "6b462788a2833c7bc42b1cc59e4aa919b7d15cf18e2a64d996a0da1e5fed2767"
+    },
+    "showcase-30s.mp4": {
+      "bytes": 1526085,
+      "sha256": "0fc157ffa736ac51166f2b24ab68ca6b498a92ebe44a0815ca3cc37d4eabdc24"
+    },
+    "brow-angle-check.mp4": {
+      "bytes": 295532,
+      "sha256": "eb054f6d24245822f827b3751ddce11209b7839d007d9d46a0fe033d0f9f9ff8"
+    }
+  }
+}

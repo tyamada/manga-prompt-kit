@@ -47,6 +47,16 @@
       "Id": "ParamBrowRAdjustY",
       "Value": -0.1,
       "Blend": "Overwrite"
+    },
+    {
+      "Id": "ParamBrowLAngle",
+      "Value": 0.35,
+      "Blend": "Overwrite"
+    },
+    {
+      "Id": "ParamBrowRAngle",
+      "Value": 0.1,
+      "Blend": "Overwrite"
     }
   ]
 }

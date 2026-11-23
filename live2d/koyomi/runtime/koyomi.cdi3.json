@@ -100,6 +100,16 @@
 			"Id": "ParamBrowRAdjustY",
 			"GroupId": "",
 			"Name": "Brow_R_Adjust_v28"
+		},
+		{
+			"Id": "ParamBrowLAngle",
+			"GroupId": "",
+			"Name": "Brow_L_Angle_v30"
+		},
+		{
+			"Id": "ParamBrowRAngle",
+			"GroupId": "",
+			"Name": "Brow_R_Angle_v30"
 		}
 	],
 	"ParameterGroups": [],

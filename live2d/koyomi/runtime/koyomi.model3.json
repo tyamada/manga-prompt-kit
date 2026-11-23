@@ -67,6 +67,13 @@
           "FadeInTime": 0,
           "FadeOutTime": 0
         }
+      ],
+      "BrowAngleCheck": [
+        {
+          "File": "motions/brow-angle-check.motion3.json",
+          "FadeInTime": 0,
+          "FadeOutTime": 0
+        }
       ]
     },
     "Expressions": [
