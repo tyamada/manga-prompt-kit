@@ -1,5 +1,5 @@
 {
-  "version": "v20",
+  "version": "v21",
   "date": "2026-11-23",
   "files": [
     {
@@ -10,12 +10,12 @@
     {
       "path": "LICENSE.md",
       "bytes": 1973,
-      "sha256": "947dceea8758fca3f436e3bb2187614409ff9727a5ffd5ca01a86919182049be"
+      "sha256": "376c51913569e660bfdffc3f1b7c366fdd7e0776576a91f589af2d4e807c6937"
     },
     {
       "path": "README.md",
-      "bytes": 3293,
-      "sha256": "67eee8598ad18bfcf5076717589c91d01bdd86af3ffc4217a5064cd10e6dcd77"
+      "bytes": 3801,
+      "sha256": "8138ea10e81aae4160d51c39fe97d8b78076323057b6242e5661ac0dff594c77"
     },
     {
       "path": "audio/README.md",
@@ -39,8 +39,18 @@
     },
     {
       "path": "docs/production.md",
-      "bytes": 3676,
-      "sha256": "62b0ad89849e9ea259744d494e5c1b5629ac3276f645e5e4f93715070988fd14"
+      "bytes": 6008,
+      "sha256": "56a9e840bc4796c7a4e8ef4c0589e6c459bd26f59111d20c5fb5ab91032b7532"
+    },
+    {
+      "path": "preview/expression-comparison.jpg",
+      "bytes": 64389,
+      "sha256": "1acb7808428c986d449ab97e4f08dfe16a43136c24f18be28ca04ed127bef7de"
+    },
+    {
+      "path": "preview/expression-test.mp4",
+      "bytes": 91359,
+      "sha256": "a9a7bd9d4412700871d30555d81a48fb018029ed018e81653e8a2f8fede44b35"
     },
     {
       "path": "preview/front.jpg",
@@ -59,18 +69,33 @@
     },
     {
       "path": "preview/motion-contact-sheet.jpg",
-      "bytes": 187905,
-      "sha256": "10812a293ca6d5f8060845e9a10ebb0465393a0068338f9964918f992d63afbb"
+      "bytes": 187790,
+      "sha256": "270c4816b7ce2229f303e3205e612961decc4711640d50fd339121f370bde113"
     },
     {
       "path": "preview/self-introduction-silent.mp4",
-      "bytes": 1027344,
-      "sha256": "1392fb770822fb9a38580bc4979069ef4e91cd6872730cb229da969a266725df"
+      "bytes": 1025913,
+      "sha256": "ab2e5bd63190a5245f7f2ee46e03309ef06cf98fad2e5c465d09cf2e7048cd58"
     },
     {
       "path": "preview/self-introduction.mp4",
-      "bytes": 1182523,
-      "sha256": "ede20b340cfeb19a238adab8ee3e503fa80a8454224daef6ffd660f880140707"
+      "bytes": 1179075,
+      "sha256": "ab613b439cc60eac3c59defe44ffe9240a54046fa6858cbad869c2dcb410c062"
+    },
+    {
+      "path": "runtime/expressions/笑顔.exp3.json",
+      "bytes": 278,
+      "sha256": "21a649073a617fa064829de0373740f7577a58c9a0a22e6b7163f2f921ba05dc"
+    },
+    {
+      "path": "runtime/expressions/通常.exp3.json",
+      "bytes": 273,
+      "sha256": "bf3c0ea3f9f8734028be0e1e477a96d1a27e6e4624ec41a2c573fa96d9411457"
+    },
+    {
+      "path": "runtime/expressions/驚き.exp3.json",
+      "bytes": 279,
+      "sha256": "d7d1367dffe6e59bc2e3a76c726c00db7ce93089899b1dd9f86292760602b64a"
     },
     {
       "path": "runtime/koyomi.cdi3.json",
@@ -79,13 +104,18 @@
     },
     {
       "path": "runtime/koyomi.moc3",
-      "bytes": 67456,
-      "sha256": "c344771370ae5e1c34ecc8d37f58eea7ed3310e0ae739f9a9f767bb7eb1b6a6f"
+      "bytes": 69056,
+      "sha256": "7e3b8cf4cce09a636635caad4a7ca0a76d7c43f7d1ba1234668189cf67a6e380"
     },
     {
       "path": "runtime/koyomi.model3.json",
-      "bytes": 782,
-      "sha256": "b91d0ad07e4060af6a4f926fe0876ae6ee83e6145b17c574a0f161db78a3797e"
+      "bytes": 1246,
+      "sha256": "47f7c16e84bdbb631de9a5e651a53e0c127b2471b4a4ed85c76870b0d0c6f88f"
+    },
+    {
+      "path": "runtime/motions/expression-test.motion3.json",
+      "bytes": 1142,
+      "sha256": "d2c84b4f367a6ee49714db8d4ad274f092d817c35e8ba4d72d2796f880a65527"
     },
     {
       "path": "runtime/motions/hair-test.motion3.json",
@@ -94,8 +124,8 @@
     },
     {
       "path": "runtime/motions/self-introduction.motion3.json",
-      "bytes": 20284,
-      "sha256": "b150a92adae41b8903d89c4668ad54e8642c68e78fe3a89c329f6188b8231edc"
+      "bytes": 22463,
+      "sha256": "425265b540deb73281f2bab1c1166799fa73ffdfa28b599d70f241b7edc71992"
     },
     {
       "path": "runtime/sounds/README.md",
@@ -113,9 +143,9 @@
       "sha256": "5d2d0f73a9d254029fda6867915e8d10ab7f6329fb91d8902a6dfb69466f885b"
     },
     {
-      "path": "source/koyomi-v20.cmo3",
-      "bytes": 8012503,
-      "sha256": "f5b556690c06c527e64bfb8dea054c9688825515c6ea2fd70126cc0cab45955c"
+      "path": "source/koyomi-v21.cmo3",
+      "bytes": 8015757,
+      "sha256": "02e04fab1c1fdab92235c6e7c58f0bc5fdb3347d0e9657edbf1323f66dcabd38"
     },
     {
       "path": "source/layers.json",
@@ -273,6 +303,11 @@
       "sha256": "8ef97822f05586467501c867e925b35cf5bf5c568b6463d26bae8efade198fe7"
     },
     {
+      "path": "verification/expression-check.json",
+      "bytes": 457,
+      "sha256": "960566f7047756e72337cb57b99e8f8dcf36399790ba4cad61cf34ebcd193646"
+    },
+    {
       "path": "verification/hair-isolation-check.json",
       "bytes": 360,
       "sha256": "dbad8962c92c84451d2598630e149315a0bdedddbbbcd9e2520d3208046d3cf9"
@@ -289,8 +324,8 @@
     },
     {
       "path": "verification/runtime-check.json",
-      "bytes": 1198,
-      "sha256": "cb37d9861312bd7b999e9ac1c0dc96b3138c53058ead8b8002612cade0dd27e1"
+      "bytes": 1199,
+      "sha256": "f3c6c67170d50a13102c08542b7f0c7af3e608bca3f445134b25331d3fda2280"
     }
   ]
 }

@@ -1,0 +1,24 @@
+{
+  "motion_start_estimate_seconds": 7.166666666666667,
+  "same_mouth_open_parameter": 0.55,
+  "expressions": [
+    {
+      "name": "Neutral",
+      "frame": 245,
+      "mouth_width_px": 74,
+      "mouth_height_px": 26
+    },
+    {
+      "name": "Smile",
+      "frame": 305,
+      "mouth_width_px": 76,
+      "mouth_height_px": 34
+    },
+    {
+      "name": "Surprise",
+      "frame": 365,
+      "mouth_width_px": 48,
+      "mouth_height_px": 32
+    }
+  ]
+}

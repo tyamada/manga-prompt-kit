@@ -20,8 +20,29 @@
           "FadeInTime": 0,
           "FadeOutTime": 0
         }
+      ],
+      "ExpressionTest": [
+        {
+          "File": "motions/expression-test.motion3.json",
+          "FadeInTime": 0,
+          "FadeOutTime": 0
+        }
       ]
-    }
+    },
+    "Expressions": [
+      {
+        "Name": "通常",
+        "File": "expressions/通常.exp3.json"
+      },
+      {
+        "Name": "笑顔",
+        "File": "expressions/笑顔.exp3.json"
+      },
+      {
+        "Name": "驚き",
+        "File": "expressions/驚き.exp3.json"
+      }
+    ]
   },
   "Groups": [
     {
