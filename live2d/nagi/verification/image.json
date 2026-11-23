@@ -1,0 +1,25 @@
+{
+  "version": "source-art-v1",
+  "date": "2026-11-23",
+  "file": "source/nagi-front-winter-indoor-v1.png",
+  "format": "PNG",
+  "mode": "RGBA",
+  "width": 1024,
+  "height": 1536,
+  "alpha_extrema": [
+    0,
+    254
+  ],
+  "alpha_bbox": [
+    63,
+    9,
+    1004,
+    1523
+  ],
+  "transparent_pixels": 1192886,
+  "bytes": 1307697,
+  "sha256": "425321d96a4ddc34d28aff130bf47a0f3b828117084bc4f49c6336bbcc910a5d",
+  "layered": false,
+  "rigged": false,
+  "visual_review": "front full body, crown and soles within canvas, empty hands, winter indoor outfit, white alpha-composite preview checked"
+}
