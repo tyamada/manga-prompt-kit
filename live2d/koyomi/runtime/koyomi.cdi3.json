@@ -140,6 +140,10 @@
 	"ParameterGroups": [],
 	"Parts": [
 		{
+			"Id": "Part2",
+			"Name": "happy-eyes.psd"
+		},
+		{
 			"Id": "Part",
 			"Name": "こよみ_元絵境界分割_v17.psd（対応無し）"
 		}

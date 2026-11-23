@@ -25,8 +25,13 @@
     "43_Mouth_Tongue",
     "50_Eye_R_Closed",
     "51_Eye_L_Closed",
-    "60_Hair_Front"
+    "60_Hair_Front",
+    "52_Eye_R_Happy",
+    "53_Eye_L_Happy"
   ],
   "original_visible_pixels": "SVG vector masks retain original visible hair, face, ears, body and nose. v16 underpainting fills hidden regions only.",
-  "hidden_reference": "00_HeadBase_WithHair"
+  "hidden_reference": "00_HeadBase_WithHair",
+  "editable_psd": "koyomi-v25.psd",
+  "native_model": "koyomi-v25.cmo3",
+  "happy_eyes_default_visibility": false
 }

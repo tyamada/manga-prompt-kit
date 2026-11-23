@@ -12,10 +12,10 @@
 
 ## こよみLive2Dモデル
 
-『ためし部』小坂こよみの[Live2Dモデル v21・編集素材・再生手順](live2d/koyomi/README.md)を公開しています。穏やかな顔向き・傾き、まばたき、口の開閉と、前髪・横髪の控えめな揺れ、通常・笑顔・驚きの表情に対応しています。
+『ためし部』小坂こよみの[Live2Dモデル v25・編集素材・再生手順](live2d/koyomi/README.md)を公開しています。穏やかな顔向き・傾き、まばたき、口の開閉と、前髪・横髪の控えめな揺れ、専用の笑顔目・上下左右の視線・6表情に対応しています。
 
-- [モデル・PSD・CMO3・確認動画をZIPでダウンロード](https://github.com/tyamada/manga-prompt-kit/releases/tag/koyomi-live2d-v21-20261123)
-- [音声付き確認動画](live2d/koyomi/preview/self-introduction.mp4)／[無音版動画](live2d/koyomi/preview/self-introduction-silent.mp4)
+- [モデル・PSD・CMO3・確認動画をZIPでダウンロード](https://github.com/tyamada/manga-prompt-kit/releases/tag/koyomi-live2d-v25-20261123)
+- [音声付き確認動画](live2d/koyomi/preview/showcase-30s.mp4)／[無音版動画](live2d/koyomi/preview/showcase-30s-silent.mp4)
 - **CC BY 4.0**：独自のモデル、編集素材、画像、モーション、文章、動画の映像部分。[適用範囲](live2d/koyomi/LICENSE.md)を参照してください。
 - **音声の例外**：音声付き動画の「VOICEVOX:春日部つむぎ」の音声部分はCC BY 4.0の対象外です。公式規約に従います。音声単体WAVは同梱せず、配布モデルは無音で再生します。[音声の追加手順](live2d/koyomi/audio/README.md)を用意しています。
 
@@ -138,4 +138,4 @@
 
 第2話第2回「もうひとつの新居」の制作資料・実使用プロンプトと、既存の夏服設定資料へpixiv公開URL・画像付きX告知URLを反映しました。[公開記録](releases/pixiv-publication-status.md)は23作品、X告知完了15件です。第2話第3〜13回・他の衣装・部室背景v2は公開済み扱いにせず、画像Releaseも追加していません。
 
-こよみLive2Dの[全体計画・残作業](live2d/koyomi/docs/roadmap.md)と[6表情・全身・手の開発資料](live2d/koyomi/development/README.md)を追加しました。安定配布はv21、開発資料は試作です。
+こよみLive2Dの[全体計画・残作業](live2d/koyomi/docs/roadmap.md)と[6表情・全身・手の開発資料](live2d/koyomi/development/README.md)を追加しました。安定配布はv25（顔の6表情・専用笑顔目・視線）、全身や手などの開発資料は試作です。

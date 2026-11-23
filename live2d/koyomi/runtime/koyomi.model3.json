@@ -27,20 +27,46 @@
           "FadeInTime": 0,
           "FadeOutTime": 0
         }
+      ],
+      "Showcase": [
+        {
+          "File": "motions/showcase-30s.motion3.json",
+          "FadeInTime": 0,
+          "FadeOutTime": 0
+        }
+      ],
+      "GazeCheck": [
+        {
+          "File": "motions/gaze-check.motion3.json",
+          "FadeInTime": 0,
+          "FadeOutTime": 0
+        }
       ]
     },
     "Expressions": [
       {
-        "Name": "通常",
-        "File": "expressions/通常.exp3.json"
+        "Name": "ノーマル",
+        "File": "expressions/01_normal.exp3.json"
       },
       {
-        "Name": "笑顔",
-        "File": "expressions/笑顔.exp3.json"
+        "Name": "嬉しい",
+        "File": "expressions/02_happy.exp3.json"
       },
       {
-        "Name": "驚き",
-        "File": "expressions/驚き.exp3.json"
+        "Name": "びっくり",
+        "File": "expressions/03_surprised.exp3.json"
+      },
+      {
+        "Name": "ひらめき",
+        "File": "expressions/04_idea.exp3.json"
+      },
+      {
+        "Name": "やってみよう！",
+        "File": "expressions/05_lets_try.exp3.json"
+      },
+      {
+        "Name": "気づいた",
+        "File": "expressions/06_noticed.exp3.json"
       }
     ]
   },
