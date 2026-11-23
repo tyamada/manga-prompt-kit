@@ -1,5 +1,5 @@
 {
-  "version": "v26 + earlier development/history",
+  "version": "v27 + earlier development/history",
   "date": "2026-11-23",
   "files": [
     {
@@ -9,13 +9,13 @@
     },
     {
       "path": "LICENSE.md",
-      "bytes": 2170,
-      "sha256": "1a119a3ea47c41a156ee54ceb3851a380e3e623a323ae7fc48ffde417a4bf90c"
+      "bytes": 2225,
+      "sha256": "f3d41ae0a9c38c8f4eeed14394090370716fee20c87727ae99d6888ad00505d3"
     },
     {
       "path": "README.md",
-      "bytes": 4938,
-      "sha256": "86298cb11812d86ce5df69b1bb6cf26b45cb55eb3c815e19286b194afca46bdb"
+      "bytes": 5427,
+      "sha256": "587a8c2e0649d4e858d79892d0dadc0c6a8d209d68277896ebad5d33847e5e80"
     },
     {
       "path": "audio/README.md",
@@ -249,13 +249,13 @@
     },
     {
       "path": "docs/production.md",
-      "bytes": 9188,
-      "sha256": "dc0ffd5eb0111b3b83d434bd2b1caf4fadf25341ed5fc0768733369d564f5ccf"
+      "bytes": 11266,
+      "sha256": "52b2b77e696f44d7970c1ab2f0c1a7f855b8285989e4dfc50efa1437c7fa2217"
     },
     {
       "path": "docs/roadmap.md",
-      "bytes": 7837,
-      "sha256": "7e95daad9e12a7f6e8a59a770d816e960c19db58ea4eeb2710b497d0442ad2d8"
+      "bytes": 7955,
+      "sha256": "7e8cd23f39c49f9915183018bdd09c0749ecff653f561b5418b343599d50f799"
     },
     {
       "path": "preview/expression-comparison.jpg",
@@ -303,6 +303,21 @@
       "sha256": "270c4816b7ce2229f303e3205e612961decc4711640d50fd339121f370bde113"
     },
     {
+      "path": "preview/physics-comparison.jpg",
+      "bytes": 174594,
+      "sha256": "ef6c74ce5c04cc624989af0fe61fa575f935bfd9bf4f0db91e2a74158722fae9"
+    },
+    {
+      "path": "preview/physics-off.mp4",
+      "bytes": 812681,
+      "sha256": "b35106ef2bd38b898771788b715536a33147f27d5c03a89459fc254009ab35f6"
+    },
+    {
+      "path": "preview/physics-on.mp4",
+      "bytes": 821506,
+      "sha256": "b0a8bad171fdbefa60eb4f4f2d23a6326a5075542b05c825bbf9bfc7f8d6cbe4"
+    },
+    {
       "path": "preview/self-introduction-silent.mp4",
       "bytes": 1025913,
       "sha256": "ab2e5bd63190a5245f7f2ee46e03309ef06cf98fad2e5c465d09cf2e7048cd58"
@@ -314,18 +329,18 @@
     },
     {
       "path": "preview/showcase-30s-silent.mp4",
-      "bytes": 2186147,
-      "sha256": "1e73ae521e7701646dc029220801b698e8103c34b43df502b9306a36fbc30fb0"
+      "bytes": 1388909,
+      "sha256": "2f56a1b6dbe49f52ac7ac2243224f9bdb1d45007693f05ffb0a3435b8de24536"
     },
     {
       "path": "preview/showcase-30s.mp4",
-      "bytes": 2360376,
-      "sha256": "5ba21c273fc2369d84b26f9eb8689a1869d842b08acc44581723a77a7e7c8147"
+      "bytes": 1562887,
+      "sha256": "1d5028c8272dee750a8afaaf4d41d1fa4e2e4fd0a7ec8ad925354e520a1fc48e"
     },
     {
       "path": "preview/six-expressions.jpg",
-      "bytes": 129923,
-      "sha256": "723ca8ae7df581c127e369af09e2159bf2278b43b92a3cb3a8abc87aca8403dc"
+      "bytes": 130023,
+      "sha256": "e6f5185b676650516347b2afeaa0ae1db8339868af31d02aa4e5224cf1312a90"
     },
     {
       "path": "runtime/expressions/01_normal.exp3.json",
@@ -384,8 +399,13 @@
     },
     {
       "path": "runtime/koyomi.model3.json",
-      "bytes": 2066,
-      "sha256": "2639f8b3063ee909b77a0634073b97e55101ca31dbb4d3803b279f953a34b000"
+      "bytes": 2213,
+      "sha256": "96aae92f35111b90ec7105fcfb766ffc87c6e3029ba19f88a29d7801957b62e3"
+    },
+    {
+      "path": "runtime/koyomi.physics3.json",
+      "bytes": 8243,
+      "sha256": "845a8490d16d6ebabde515df8e22eb0ad3168a9fdf6e7cee4d372ffdbb887af0"
     },
     {
       "path": "runtime/motions/expression-test.motion3.json",
@@ -408,14 +428,19 @@
       "sha256": "0aa54fa23e45d5a130412b3f55304d0b3883d9977de9596b346171f71222f287"
     },
     {
+      "path": "runtime/motions/physics-check.motion3.json",
+      "bytes": 1472,
+      "sha256": "633841e3bbd84fa4d9bd00d2f8e21a4d9d000396ed710fac03e087011fd0dd2a"
+    },
+    {
       "path": "runtime/motions/self-introduction.motion3.json",
       "bytes": 22463,
       "sha256": "425265b540deb73281f2bab1c1166799fa73ffdfa28b599d70f241b7edc71992"
     },
     {
       "path": "runtime/motions/showcase-30s.motion3.json",
-      "bytes": 278488,
-      "sha256": "3968cba80dee17c056a5f4a63de5d94593425a4d25c4939309f562a326c369f2"
+      "bytes": 27318,
+      "sha256": "b3bd667edcc85ac96c75a2e17ec955bbbcb036cb1cc8f5b5f50eec624c80db8c"
     },
     {
       "path": "runtime/sounds/README.md",
@@ -468,9 +493,19 @@
       "sha256": "56036dad75278a2ad52d70723037732a4be112498fd0db2018cec6aa74365307"
     },
     {
+      "path": "source/koyomi-v27.cmo3",
+      "bytes": 8160330,
+      "sha256": "7d4436ee82aff5a409b7c6a1a026826bbc3fa056b400fca532b09b20c545856c"
+    },
+    {
+      "path": "source/koyomi-v27.psd",
+      "bytes": 13282810,
+      "sha256": "56036dad75278a2ad52d70723037732a4be112498fd0db2018cec6aa74365307"
+    },
+    {
       "path": "source/layers.json",
-      "bytes": 1236,
-      "sha256": "2c59b51a1847a3f30705dd49a436e7983563ca0251ecb5b617a8d0b3c9fc1952"
+      "bytes": 1311,
+      "sha256": "cf3679c9fcd55ecb55c7b02ce7ed213b5a381ef297f717f7d66569520e3b4548"
     },
     {
       "path": "source/parts/01_Hair_Back.png",
@@ -716,6 +751,11 @@
       "path": "verification/v26-runtime.json",
       "bytes": 9161,
       "sha256": "81e0633970bd164e42198753cecf2e0eb9d0ccde1ec651e13371799243ba7056"
+    },
+    {
+      "path": "verification/v27-runtime.json",
+      "bytes": 5641,
+      "sha256": "33493ad14ed9caa08ddd79e24166da34086e114fdc36ddad54376f1dff0a529b"
     }
   ]
 }

@@ -48,6 +48,11 @@
           "FadeInTime": 0,
           "FadeOutTime": 0
         }
+      ],
+      "PhysicsCheck": [
+        {
+          "File": "motions/physics-check.motion3.json"
+        }
       ]
     },
     "Expressions": [
@@ -75,7 +80,8 @@
         "Name": "気づいた",
         "File": "expressions/06_noticed.exp3.json"
       }
-    ]
+    ],
+    "Physics": "koyomi.physics3.json"
   },
   "Groups": [
     {

@@ -1,0 +1,171 @@
+{
+  "version": "v27",
+  "verified_at": "2026-11-23T18:44:41.277476+09:00",
+  "editor": "Cubism Editor 5.3.05 FREE",
+  "viewer": "Cubism Viewer for OW 5.3.05",
+  "v26_mesh_texture_unchanged": true,
+  "v25_showcase_curves_unchanged": true,
+  "six_expression_settings_unchanged": true,
+  "native_physics_import_export_values_unchanged": true,
+  "physics_groups": 6,
+  "physics_fps": 60,
+  "physics_output_parameters": [
+    "ParamHairOuterL",
+    "ParamHairSideL",
+    "ParamHairBangC",
+    "ParamHairBangR",
+    "ParamHairSideR",
+    "ParamHairOuterR"
+  ],
+  "mouth_audio_measurement": {
+    "frames": 280,
+    "mouth_motion_start_fit_seconds": 0.2120000000000002,
+    "mouth_area_curve_correlation": 0.9392566833900543,
+    "audio_start_seconds": 0.16999999999999993,
+    "audio_minus_mouth_start_seconds": -0.04200000000000026,
+    "shoulders": [
+      {
+        "region": [
+          150,
+          650,
+          60,
+          60
+        ],
+        "max_abs_shift_px": [
+          0,
+          0
+        ],
+        "min_correlation": 0.9998108148574829
+      },
+      {
+        "region": [
+          210,
+          650,
+          45,
+          60
+        ],
+        "max_abs_shift_px": [
+          0,
+          0
+        ],
+        "min_correlation": 0.999638020992279
+      },
+      {
+        "region": [
+          470,
+          650,
+          45,
+          60
+        ],
+        "max_abs_shift_px": [
+          0,
+          0
+        ],
+        "min_correlation": 0.9996576309204102
+      },
+      {
+        "region": [
+          530,
+          650,
+          60,
+          60
+        ],
+        "max_abs_shift_px": [
+          0,
+          0
+        ],
+        "min_correlation": 0.9998449087142944
+      }
+    ],
+    "mouth_area_min_max": [
+      0,
+      2315
+    ]
+  },
+  "physics_on_off_measurement": {
+    "silent_recording_alignment_frames": 0,
+    "face_alignment_mse": 0.0007906156708310186,
+    "motion_start_estimate_seconds": 1.9333333333333331,
+    "regions": {
+      "OuterL": {
+        "max_on_off_mean_pixel_difference": 0.2578512396694215,
+        "mean_difference_while_settling": 0.05637773079633545,
+        "mean_difference_at_rest": 0.004157943067033976
+      },
+      "SideL": {
+        "max_on_off_mean_pixel_difference": 0.35537190082644626,
+        "mean_difference_while_settling": 0.031148696264975333,
+        "mean_difference_at_rest": 0.016940312213039484
+      },
+      "BangC": {
+        "max_on_off_mean_pixel_difference": 2.7712396694214876,
+        "mean_difference_while_settling": 0.2380370299186367,
+        "mean_difference_at_rest": 0.015253137434955617
+      },
+      "BangR": {
+        "max_on_off_mean_pixel_difference": 3.181046831955923,
+        "mean_difference_while_settling": 0.3074738932667051,
+        "mean_difference_at_rest": 0.018292011019283745
+      },
+      "SideR": {
+        "max_on_off_mean_pixel_difference": 0.3528374655647383,
+        "mean_difference_while_settling": 0.03487731436991479,
+        "mean_difference_at_rest": 0.015093970003060916
+      },
+      "OuterR": {
+        "max_on_off_mean_pixel_difference": 0.6164187327823691,
+        "mean_difference_while_settling": 0.08952014863219936,
+        "mean_difference_at_rest": 0.0056051423324150595
+      }
+    }
+  },
+  "audio_video_individual_offset_correction": false,
+  "audio_replacement": false,
+  "common_trim_seconds": 1.795170068027211,
+  "audio_waveform_correlation": 0.9889639510665948,
+  "original_audio_sha256": "08f05eeb739bdc143658fd44346623878f6cb75c65c091c7621ad23354486947",
+  "measurement_limit": "Image-area mouth estimate: 42 ms lag, approximately 33 ms uncertainty at 30 fps; not phoneme alignment. Physics on/off comparison uses silent recordings aligned by face pixels. Pixel differences are not displacement measurements.",
+  "runtime_visual_checks": [
+    "Six expressions and dedicated smile eyes reviewed in fresh physics-enabled recording",
+    "Head-only motion contains no hair parameter curves; on/off recordings show restrained hair response and convergence",
+    "No visible seam gaps in reviewed samples; shoulders remain stationary"
+  ],
+  "reference_videos": [
+    "gaze-check.mp4 and hair-strands-check.mp4 retained from v26: same mesh/texture; direct hair test requires physics OFF"
+  ],
+  "limitations": [
+    "Large profile, independent brows, body/ribbon/hand animation and VTube Studio tracking remain incomplete",
+    "Only representative motion combinations reviewed; not every simultaneous parameter extreme"
+  ],
+  "viewer_launch_note": "Task-local Viewer with previously verified audio-start fix and Java21; no app, SDK, JRE or patched library distributed.",
+  "deliverables": {
+    "koyomi-v27.cmo3": {
+      "bytes": 8160330,
+      "sha256": "7d4436ee82aff5a409b7c6a1a026826bbc3fa056b400fca532b09b20c545856c"
+    },
+    "koyomi-v27.moc3": {
+      "bytes": 78400,
+      "sha256": "c99dd4e908ecb534342b49334012e855fdcef27ba0a2b99b543a964d54946b7f"
+    },
+    "koyomi-v27.physics3.json": {
+      "bytes": 8243,
+      "sha256": "845a8490d16d6ebabde515df8e22eb0ad3168a9fdf6e7cee4d372ffdbb887af0"
+    },
+    "source/koyomi-v27.psd": {
+      "bytes": 13282810,
+      "sha256": "56036dad75278a2ad52d70723037732a4be112498fd0db2018cec6aa74365307"
+    },
+    "showcase-30s.mp4": {
+      "bytes": 1562887,
+      "sha256": "1d5028c8272dee750a8afaaf4d41d1fa4e2e4fd0a7ec8ad925354e520a1fc48e"
+    },
+    "physics-on.mp4": {
+      "bytes": 821506,
+      "sha256": "b0a8bad171fdbefa60eb4f4f2d23a6326a5075542b05c825bbf9bfc7f8d6cbe4"
+    },
+    "physics-off.mp4": {
+      "bytes": 812681,
+      "sha256": "b35106ef2bd38b898771788b715536a33147f27d5c03a89459fc254009ab35f6"
+    }
+  }
+}

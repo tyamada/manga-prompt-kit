@@ -38,10 +38,11 @@
   ],
   "original_visible_pixels": "SVG vector masks retain original visible hair, face, ears, body and nose. v16 underpainting fills hidden regions only.",
   "hidden_reference": "00_HeadBase_WithHair",
-  "editable_psd": "koyomi-v26.psd",
-  "native_model": "koyomi-v26.cmo3",
+  "editable_psd": "koyomi-v27.psd",
+  "native_model": "koyomi-v27.cmo3",
   "happy_eyes_default_visibility": false,
   "hair_addition_psd": "hair-strands-add.psd",
   "original_front_hair_default_visibility": false,
-  "layer_count": 35
+  "layer_count": 35,
+  "physics": "Native CMO3 physics settings; runtime/koyomi.physics3.json"
 }
