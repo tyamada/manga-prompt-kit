@@ -185,11 +185,12 @@
       "evidence": "user_report",
       "direct_page_verified": false,
       "reported_on": "2026-11-23",
-      "x_announcement": "pending_safari_in_use_by_other_work",
-      "x_status_recorded_on": "2026-11-23",
+      "x_announcement": "completed",
       "design": "冬服・室内",
-      "source_file": "ためし部_制服設定案_冬服.jpg"
+      "source_file": "ためし部_制服設定案_冬服.jpg",
+      "x_url": "https://x.com/komairo_hiyori/status/2124794466385137917",
+      "x_announced_at": "2026-11-23T18:17:53.969085+09:00"
     }
   ],
-  "pixiv_publication_note": "夏服と冬服室内の2案はpixiv公開報告確認。冬服室内のX告知は待機中。他4案の採用・GitHub収録はpixiv公開確認を意味しない。"
+  "pixiv_publication_note": "夏服と冬服室内の2案はpixiv公開報告・画像付きX告知完了を確認。他4案の採用・GitHub収録はpixiv公開確認を意味しない。"
 }

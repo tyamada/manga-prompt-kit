@@ -2,7 +2,7 @@
 
 2026年11月23日、チャット「pixivマンガ投稿」の最新状況と担当チャットの公開・X告知台帳を照合しました。公開根拠はユーザー報告と提供URLです。pixiv本体の直接確認は未実施で、予約日時を公開完了の根拠にしていません。X告知は担当チャットの個別URL・画像確認記録に基づきます。
 
-公開済み採用版は25作品、X告知完了は15件です。11月23日追加の2件は他作業のSafari利用により告知待機中、従来の8件は完了記録・URL未確認です。表紙と第1〜4回には11月11日の採用最新版への差し替え報告を反映しています。
+公開済み採用版は25作品、X告知完了は17件です。11月23日追加の2件も画像付き告知を完了し、従来の8件は完了記録・URL未確認です。表紙と第1〜4回には11月11日の採用最新版への差し替え報告を反映しています。
 
 | 作品 | 公開作品 | 制作資料 | X告知 |
 |---|---|---|---|
@@ -29,8 +29,8 @@
 | 第2話「机、ひろがる。」第1回「ひらく机」 | [pixiv](https://www.pixiv.net/artworks/152318216) | [プロンプトと工程](../examples/published/ep02-01/README.md) | [告知ポスト](https://x.com/komairo_hiyori/status/2124094747925233992) |
 | 第2話「机、ひろがる。」第2回「もうひとつの新居」 | [pixiv](https://www.pixiv.net/artworks/152359654) | [プロンプトと工程](../examples/published/ep02-02/README.md) | [告知ポスト](https://x.com/komairo_hiyori/status/2124429952506638515) |
 | 4人の制服設定・夏服 | [pixiv](https://www.pixiv.net/artworks/152359656) | [プロンプトと工程](../series/tameshibu/wardrobe-20261118/README.md) | [告知ポスト](https://x.com/komairo_hiyori/status/2124430280627016049) |
-| 第2話「机、ひろがる。」第3回「最初の一個」 | [pixiv](https://www.pixiv.net/artworks/152401922) | [プロンプトと工程](../examples/published/ep02-03/README.md) | Safari他作業のため待機・URL未確認 |
-| 4人の制服設定・冬服（室内） | [pixiv](https://www.pixiv.net/artworks/152401916) | [プロンプトと工程](../series/tameshibu/wardrobe-20261118/README.md) | Safari他作業のため待機・URL未確認 |
+| 第2話「机、ひろがる。」第3回「最初の一個」 | [pixiv](https://www.pixiv.net/artworks/152401922) | [プロンプトと工程](../examples/published/ep02-03/README.md) | [告知ポスト](https://x.com/komairo_hiyori/status/2124794067875926524) |
+| 4人の制服設定・冬服（室内） | [pixiv](https://www.pixiv.net/artworks/152401916) | [プロンプトと工程](../series/tameshibu/wardrobe-20261118/README.md) | [告知ポスト](https://x.com/komairo_hiyori/status/2124794466385137917) |
 
 ## 最新の照合結果
 
@@ -50,4 +50,4 @@
 
 ## 2026年11月23日の追加
 
-第2話第3回の実使用プロンプト・組版資料を追加し、冬服室内は既存の制作メモ・採用資料へ公開URLを反映しました。両JPEGの採用台帳・既存収録画像との一致を確認しました。X告知は他作業のSafari利用により待機中で、今回X操作・投稿を行っていません。未公開作品と背景画像は追加せず、新しい画像Releaseは作成していません。
+第2話第3回の実使用プロンプト・組版資料を追加し、冬服室内は既存の制作メモ・採用資料へ公開URLを反映しました。両JPEGの採用台帳・既存収録画像との一致を確認しました。X告知は初回報告時の待機状態から、11月23日18:17 JSTの完了へ更新しました。担当チャットの個別URL・添付画像確認記録が根拠です。このGitHub更新作業で新たなX操作・投稿は行っていません。未公開作品と背景画像は追加せず、新しい画像Releaseは作成していません。
