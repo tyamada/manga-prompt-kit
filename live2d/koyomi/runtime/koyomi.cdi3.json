@@ -90,6 +90,16 @@
 			"Id": "ParamHairOuterR",
 			"GroupId": "",
 			"Name": "Strand_Outer_R_v26"
+		},
+		{
+			"Id": "ParamBrowLAdjustY",
+			"GroupId": "",
+			"Name": "Brow_L_Adjust_v28"
+		},
+		{
+			"Id": "ParamBrowRAdjustY",
+			"GroupId": "",
+			"Name": "Brow_R_Adjust_v28"
 		}
 	],
 	"ParameterGroups": [],

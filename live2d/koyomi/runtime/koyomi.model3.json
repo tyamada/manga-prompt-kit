@@ -53,6 +53,13 @@
         {
           "File": "motions/physics-check.motion3.json"
         }
+      ],
+      "BrowCheck": [
+        {
+          "File": "motions/brow-check.motion3.json",
+          "FadeInTime": 0,
+          "FadeOutTime": 0
+        }
       ]
     },
     "Expressions": [

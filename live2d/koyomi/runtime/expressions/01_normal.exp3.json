@@ -37,6 +37,16 @@
       "Id": "ParamEyeBallY",
       "Value": 0,
       "Blend": "Overwrite"
+    },
+    {
+      "Id": "ParamBrowLAdjustY",
+      "Value": 0,
+      "Blend": "Overwrite"
+    },
+    {
+      "Id": "ParamBrowRAdjustY",
+      "Value": 0,
+      "Blend": "Overwrite"
     }
   ]
 }

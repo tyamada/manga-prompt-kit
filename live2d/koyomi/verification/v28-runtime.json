@@ -1,0 +1,226 @@
+{
+  "version": "v28",
+  "verified_at": "2026-11-23T19:23:09.060761+09:00",
+  "editor": "Cubism Editor 5.3.05 FREE",
+  "viewer": "Cubism Viewer for OW 5.3.05",
+  "runtime_core_checks": {
+    "parameters": [
+      "ParamAngleX",
+      "ParamAngleY",
+      "ParamAngleZ",
+      "ParamEyeLOpen",
+      "ParamEyeLSmile",
+      "ParamEyeROpen",
+      "ParamEyeBallX",
+      "ParamEyeBallY",
+      "ParamBrowLY",
+      "ParamMouthForm",
+      "ParamMouthOpenY",
+      "ParamHairFront",
+      "ParamHairOuterL",
+      "ParamHairSideL",
+      "ParamHairBangC",
+      "ParamHairBangR",
+      "ParamHairSideR",
+      "ParamHairOuterR",
+      "ParamBrowLAdjustY",
+      "ParamBrowRAdjustY"
+    ],
+    "independent_brows": [
+      {
+        "parameter": "ParamBrowLAdjustY",
+        "value": -1,
+        "changed": {
+          "ArtMesh17": 0.006911367177963257
+        }
+      },
+      {
+        "parameter": "ParamBrowLAdjustY",
+        "value": 1,
+        "changed": {
+          "ArtMesh17": 0.006911367177963257
+        }
+      },
+      {
+        "parameter": "ParamBrowRAdjustY",
+        "value": -1,
+        "changed": {
+          "ArtMesh18": 0.006911367177963257
+        }
+      },
+      {
+        "parameter": "ParamBrowRAdjustY",
+        "value": 1,
+        "changed": {
+          "ArtMesh18": 0.006911434233188629
+        }
+      }
+    ],
+    "preservation": [
+      {
+        "settings": {},
+        "max_delta": 0.0
+      },
+      {
+        "settings": {
+          "ParamAngleX": -10,
+          "ParamAngleY": 8,
+          "ParamAngleZ": -4
+        },
+        "max_delta": 0.0
+      },
+      {
+        "settings": {
+          "ParamAngleX": 10,
+          "ParamAngleY": -8,
+          "ParamAngleZ": 4
+        },
+        "max_delta": 0.0
+      },
+      {
+        "settings": {
+          "ParamEyeLOpen": 0,
+          "ParamEyeROpen": 0
+        },
+        "max_delta": 0.0
+      },
+      {
+        "settings": {
+          "ParamEyeLOpen": 0,
+          "ParamEyeROpen": 0,
+          "ParamEyeLSmile": 1
+        },
+        "max_delta": 0.0
+      },
+      {
+        "settings": {
+          "ParamMouthOpenY": 1,
+          "ParamMouthForm": 1,
+          "ParamEyeBallX": 1,
+          "ParamEyeBallY": -1
+        },
+        "max_delta": 0.0
+      }
+    ]
+  },
+  "v27_existing_showcase_curves_unchanged": true,
+  "source_texture_unchanged": true,
+  "v27_physics_settings_unchanged": true,
+  "six_expressions": "Existing eye/gaze/mouth/common-brow values retained; independent brow offsets added, zero through original greeting. No mouth-open expression override.",
+  "brow_parameters": {
+    "ParamBrowLAdjustY": "subject left, ArtMesh17 only",
+    "ParamBrowRAdjustY": "subject right, ArtMesh18 only",
+    "range": [
+      -1,
+      1
+    ],
+    "default": 0,
+    "movement": "translation about 7 source px, additional to existing common brow warp"
+  },
+  "mouth_audio_measurement": {
+    "frames": 280,
+    "mouth_motion_start_fit_seconds": 0.18200000000000016,
+    "mouth_area_curve_correlation": 0.9242280894791653,
+    "audio_start_seconds": 0.16999999999999993,
+    "audio_minus_mouth_start_seconds": -0.012000000000000233,
+    "shoulders": [
+      {
+        "region": [
+          150,
+          650,
+          60,
+          60
+        ],
+        "max_abs_shift_px": [
+          0,
+          0
+        ],
+        "min_correlation": 0.9998008608818054
+      },
+      {
+        "region": [
+          210,
+          650,
+          45,
+          60
+        ],
+        "max_abs_shift_px": [
+          0,
+          0
+        ],
+        "min_correlation": 0.9995944499969482
+      },
+      {
+        "region": [
+          470,
+          650,
+          45,
+          60
+        ],
+        "max_abs_shift_px": [
+          0,
+          0
+        ],
+        "min_correlation": 0.9996728301048279
+      },
+      {
+        "region": [
+          530,
+          650,
+          60,
+          60
+        ],
+        "max_abs_shift_px": [
+          0,
+          0
+        ],
+        "min_correlation": 0.9998546242713928
+      }
+    ],
+    "mouth_area_min_max": [
+      0,
+      2301
+    ]
+  },
+  "brow_video_measurement": {
+    "left_visible_brow_centroid_motion_correlation": 0.9997879779373288,
+    "silent_recording_motion_start_fit_seconds": 1.820000000000001,
+    "left_brow_centroid_range_px": [
+      12.592233009708737,
+      21.553398058252426
+    ],
+    "note": "Visible left eyebrow measured in skin-only ROI; subject right eyebrow mostly hidden by bangs. Both channels separately verified in exported Core mesh data."
+  },
+  "audio_capture": {
+    "audio_onset": 1.7766439909297052,
+    "correlation": 0.9952800756074973,
+    "common_trim_seconds": 1.6066439909297052
+  },
+  "audio_video_individual_offset_correction": false,
+  "audio_replacement": false,
+  "measurement_limit": "Mouth image-area fit at 30fps; uncertainty about 33ms; not phoneme alignment. Core comparison covers representative states, not every simultaneous extreme.",
+  "reference_videos": "Gaze and direct strand videos from v26; physics on/off videos from v27, same related geometry and physics settings.",
+  "limitations": [
+    "Body/posture/ribbon/hand motion, large profiles and VTube Studio tracking remain incomplete",
+    "Right eyebrow is partially hidden by bangs; independent motion is intentionally restrained"
+  ],
+  "original_audio_sha256": "08f05eeb739bdc143658fd44346623878f6cb75c65c091c7621ad23354486947",
+  "deliverables": {
+    "koyomi-v28.cmo3": {
+      "bytes": 8162620,
+      "sha256": "001e55ad13ef0dbc18caadd2e4f80bd4bd93318aa7c5930cc498d7585d3567d3"
+    },
+    "koyomi-v28.moc3": {
+      "bytes": 80512,
+      "sha256": "8adeb4e078514b67458df1d9015969198f16c350f4e65558c641fd73904286a5"
+    },
+    "showcase-30s.mp4": {
+      "bytes": 1528268,
+      "sha256": "1826744ee3cffcb76573e74cce47499acc857b5715b88415c97a1ef4f9b2726c"
+    },
+    "brow-check.mp4": {
+      "bytes": 206775,
+      "sha256": "0441d4f4d65692a6e91b94554afd8e5f97d7aaa5c49e91a8b9887f51e48f68ad"
+    }
+  }
+}
