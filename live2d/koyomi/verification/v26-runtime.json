@@ -1,0 +1,376 @@
+{
+  "version": "v26",
+  "verified_at": "2026-11-23T18:19:16.978119+09:00",
+  "editor": "Cubism Editor 5.3.05 FREE",
+  "viewer": "Cubism Viewer for OW 5.3.05",
+  "format": "SDK 5.3/Cubism 5.3",
+  "runtime_core_checks": {
+    "parameters": [
+      "ParamAngleX",
+      "ParamAngleY",
+      "ParamAngleZ",
+      "ParamEyeLOpen",
+      "ParamEyeLSmile",
+      "ParamEyeROpen",
+      "ParamEyeBallX",
+      "ParamEyeBallY",
+      "ParamBrowLY",
+      "ParamMouthForm",
+      "ParamMouthOpenY",
+      "ParamHairFront",
+      "ParamHairOuterL",
+      "ParamHairSideL",
+      "ParamHairBangC",
+      "ParamHairBangR",
+      "ParamHairSideR",
+      "ParamHairOuterR"
+    ],
+    "drawables": [
+      "ArtMesh",
+      "ArtMesh0",
+      "ArtMesh1",
+      "ArtMesh2",
+      "ArtMesh3",
+      "ArtMesh4",
+      "ArtMesh5",
+      "ArtMesh6",
+      "ArtMesh7",
+      "ArtMesh8",
+      "ArtMesh9",
+      "ArtMesh10",
+      "ArtMesh11",
+      "ArtMesh12",
+      "ArtMesh13",
+      "ArtMesh14",
+      "ArtMesh15",
+      "ArtMesh16",
+      "ArtMesh17",
+      "ArtMesh18",
+      "ArtMesh21",
+      "ArtMesh22",
+      "ArtMesh23",
+      "ArtMesh24",
+      "ArtMesh19",
+      "ArtMesh25",
+      "ArtMesh26",
+      "ArtMesh27",
+      "ArtMesh28",
+      "ArtMesh29",
+      "ArtMesh30",
+      "ArtMesh31",
+      "ArtMesh32"
+    ],
+    "individual_hair": [
+      {
+        "parameter": "ParamHairOuterL",
+        "changed_drawables": {
+          "-1": {
+            "ArtMesh26": 0.008062899112701416
+          },
+          "1": {
+            "ArtMesh26": 0.009139537811279297
+          }
+        }
+      },
+      {
+        "parameter": "ParamHairSideL",
+        "changed_drawables": {
+          "-1": {
+            "ArtMesh27": 0.005787581205368042
+          },
+          "1": {
+            "ArtMesh27": 0.005787566304206848
+          }
+        }
+      },
+      {
+        "parameter": "ParamHairBangC",
+        "changed_drawables": {
+          "-1": {
+            "ArtMesh28": 0.004414256662130356
+          },
+          "1": {
+            "ArtMesh28": 0.004414255730807781
+          }
+        }
+      },
+      {
+        "parameter": "ParamHairBangR",
+        "changed_drawables": {
+          "-1": {
+            "ArtMesh29": 0.004414260387420654
+          },
+          "1": {
+            "ArtMesh29": 0.0044142454862594604
+          }
+        }
+      },
+      {
+        "parameter": "ParamHairSideR",
+        "changed_drawables": {
+          "-1": {
+            "ArtMesh30": 0.005633234977722168
+          },
+          "1": {
+            "ArtMesh30": 0.005633249878883362
+          }
+        }
+      },
+      {
+        "parameter": "ParamHairOuterR",
+        "changed_drawables": {
+          "-1": {
+            "ArtMesh31": 0.008090078830718994
+          },
+          "1": {
+            "ArtMesh31": 0.008188426494598389
+          }
+        }
+      }
+    ],
+    "v25_preservation": [
+      {
+        "settings": {},
+        "max_common_drawable_delta": 0.0,
+        "changed": {}
+      },
+      {
+        "settings": {
+          "ParamAngleX": -10,
+          "ParamAngleY": 8,
+          "ParamAngleZ": -4
+        },
+        "max_common_drawable_delta": 0.0,
+        "changed": {}
+      },
+      {
+        "settings": {
+          "ParamAngleX": 10,
+          "ParamAngleY": -8,
+          "ParamAngleZ": 4
+        },
+        "max_common_drawable_delta": 0.0,
+        "changed": {}
+      },
+      {
+        "settings": {
+          "ParamEyeLOpen": 0,
+          "ParamEyeROpen": 0
+        },
+        "max_common_drawable_delta": 0.0,
+        "changed": {}
+      },
+      {
+        "settings": {
+          "ParamEyeLOpen": 0,
+          "ParamEyeROpen": 0,
+          "ParamEyeLSmile": 1
+        },
+        "max_common_drawable_delta": 0.0,
+        "changed": {}
+      },
+      {
+        "settings": {
+          "ParamMouthOpenY": 1,
+          "ParamMouthForm": 1,
+          "ParamEyeBallX": 1,
+          "ParamEyeBallY": -1
+        },
+        "max_common_drawable_delta": 0.0,
+        "changed": {}
+      }
+    ]
+  },
+  "mouth_audio_measurement": {
+    "frames": 280,
+    "mouth_motion_start_fit_seconds": 0.20400000000000018,
+    "mouth_area_curve_correlation": 0.8931467341738771,
+    "audio_start_seconds": 0.16999999999999993,
+    "audio_minus_mouth_start_seconds": -0.03400000000000025,
+    "shoulders": [
+      {
+        "region": [
+          150,
+          650,
+          60,
+          60
+        ],
+        "max_abs_shift_px": [
+          0,
+          0
+        ],
+        "min_correlation": 0.9998339414596558
+      },
+      {
+        "region": [
+          210,
+          650,
+          45,
+          60
+        ],
+        "max_abs_shift_px": [
+          0,
+          0
+        ],
+        "min_correlation": 0.9996078610420227
+      },
+      {
+        "region": [
+          470,
+          650,
+          45,
+          60
+        ],
+        "max_abs_shift_px": [
+          0,
+          0
+        ],
+        "min_correlation": 0.9996634721755981
+      },
+      {
+        "region": [
+          530,
+          650,
+          60,
+          60
+        ],
+        "max_abs_shift_px": [
+          0,
+          0
+        ],
+        "min_correlation": 0.9998324513435364
+      }
+    ],
+    "mouth_area_min_max": [
+      0,
+      2298
+    ]
+  },
+  "measurement_limit": "Mouth fit is an image-area proxy; 30 fps video timing uncertainty approximately one frame (33 ms). Not a phoneme alignment measurement.",
+  "audio_video_individual_offset_correction": false,
+  "audio_replacement": false,
+  "common_trim_seconds": 1.5427210884353741,
+  "original_audio_sha256": "08f05eeb739bdc143658fd44346623878f6cb75c65c091c7621ad23354486947",
+  "v25_showcase_curves_unchanged": true,
+  "six_expression_settings_unchanged": true,
+  "hair": "Seven source regions: fixed crown plus six independently keyed strands; existing head XYZ and common hair parent retained. Six channels have distinct motion phases. Motion-driven, not physics3-based.",
+  "neutral_source_check": {
+    "neutral_alpha_exact": true,
+    "neutral_premultiplied_rgb_exact": true,
+    "opaque_seam_overlap_px": 8,
+    "disconnected_fixed_fragments_reassigned": [
+      {
+        "pixels": 30761,
+        "reason": "all lower disconnected and connected crown fragments assigned to neighboring movable strands"
+      }
+    ],
+    "layers": [
+      {
+        "name": "60_Hair_Crown_Fixed",
+        "bbox": [
+          201,
+          48,
+          826,
+          349
+        ]
+      },
+      {
+        "name": "61_Hair_Outer_R",
+        "bbox": [
+          36,
+          192,
+          248,
+          838
+        ]
+      },
+      {
+        "name": "62_Hair_Side_R",
+        "bbox": [
+          126,
+          252,
+          436,
+          930
+        ]
+      },
+      {
+        "name": "63_Hair_Bang_R",
+        "bbox": [
+          238,
+          212,
+          478,
+          573
+        ]
+      },
+      {
+        "name": "64_Hair_Bang_C",
+        "bbox": [
+          395,
+          192,
+          653,
+          551
+        ]
+      },
+      {
+        "name": "65_Hair_Side_L",
+        "bbox": [
+          617,
+          232,
+          831,
+          930
+        ]
+      },
+      {
+        "name": "66_Hair_Outer_L",
+        "bbox": [
+          766,
+          242,
+          964,
+          891
+        ]
+      }
+    ]
+  },
+  "runtime_visual_checks": [
+    "neutral and six expressions reviewed",
+    "individual hair test played in Viewer and recorded",
+    "face and shoulder stationary during hair-only test",
+    "small hair movement; no visible seam gaps in reviewed samples",
+    "gaze and dedicated happy eyes played and recorded"
+  ],
+  "limitations": [
+    "Large profile/full body/independent brow/ribbon/hand motions/VTube Studio tracking not completed",
+    "Hair uses prepared motion curves; real-time physics response is not included",
+    "No claim of every possible simultaneous parameter extreme being visually tested"
+  ],
+  "viewer_launch_note": "Existing verified audio-start patch was used in a task-local Viewer copy because installed application update restored its original audio library. Task-local Java 21 runtime avoided repeated editing crashes. Application/SDK/JRE binaries are not distributed.",
+  "deliverables": {
+    "koyomi-v26.cmo3": {
+      "bytes": 8157664,
+      "sha256": "5c8aa84fd10f2b315757e0087736d24abefc905e3278251bbc7ccc9c06659030"
+    },
+    "source/koyomi-v26.psd": {
+      "bytes": 13282810,
+      "sha256": "56036dad75278a2ad52d70723037732a4be112498fd0db2018cec6aa74365307"
+    },
+    "koyomi-v26.moc3": {
+      "bytes": 78400,
+      "sha256": "c99dd4e908ecb534342b49334012e855fdcef27ba0a2b99b543a964d54946b7f"
+    },
+    "showcase-30s.mp4": {
+      "bytes": 2360376,
+      "sha256": "5ba21c273fc2369d84b26f9eb8689a1869d842b08acc44581723a77a7e7c8147"
+    },
+    "showcase-30s-silent.mp4": {
+      "bytes": 2186147,
+      "sha256": "1e73ae521e7701646dc029220801b698e8103c34b43df502b9306a36fbc30fb0"
+    },
+    "hair-strands-check.mp4": {
+      "bytes": 400091,
+      "sha256": "b4163f81191507702fca2fb9f5a436461dff9eff131457bfea3ccfa2c50ab2ad"
+    },
+    "gaze-check.mp4": {
+      "bytes": 260354,
+      "sha256": "b783b7e20078bbdb269abea91b63c556ba5e82c0eecb85152b3dd95a94e3eea2"
+    }
+  }
+}

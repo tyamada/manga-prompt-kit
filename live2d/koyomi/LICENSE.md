@@ -13,14 +13,14 @@ AI生成・補完部分を含みます。著作権が成立しない部分につ
 
 ## 例外：合成音声
 
-`preview/showcase-30s.mp4`、`preview/self-introduction.mp4` および `development/v23-expression-study/preview/showcase-30s.mp4` に含まれる音声はCC BY 4.0の対象外です。音声にはVOICEVOXおよび春日部つむぎの規約が適用されます。音声を含めた動画全体をCC BY 4.0のみで再利用できると解釈しないでください。音声のない `preview/showcase-30s-silent.mp4`、`preview/gaze-check.mp4`、`preview/self-introduction-silent.mp4` は上記のCC BY 4.0で利用できます。音声単体のWAVは配布していません。
+`preview/showcase-30s.mp4`、`preview/self-introduction.mp4` および `development/v23-expression-study/preview/showcase-30s.mp4` に含まれる音声はCC BY 4.0の対象外です。音声にはVOICEVOXおよび春日部つむぎの規約が適用されます。音声を含めた動画全体をCC BY 4.0のみで再利用できると解釈しないでください。音声のない `preview/showcase-30s-silent.mp4`、`preview/gaze-check.mp4`、`preview/hair-strands-check.mp4`、`preview/self-introduction-silent.mp4` は上記のCC BY 4.0で利用できます。音声単体のWAVは配布していません。
 
 [第三者クレジットと規約](docs/credits.md)も確認してください。
 
 ## クレジット例
 
 ```text
-『ためし部』小坂こよみ Live2Dモデル v25
+『ためし部』小坂こよみ Live2Dモデル v26
 © こまいろ日和／校内くらし試作部
 出典：https://github.com/tyamada/manga-prompt-kit/tree/main/live2d/koyomi
 CC BY 4.0 https://creativecommons.org/licenses/by/4.0/

@@ -41,6 +41,13 @@
           "FadeInTime": 0,
           "FadeOutTime": 0
         }
+      ],
+      "HairStrandsCheck": [
+        {
+          "File": "motions/hair-strands-check.motion3.json",
+          "FadeInTime": 0,
+          "FadeOutTime": 0
+        }
       ]
     },
     "Expressions": [
