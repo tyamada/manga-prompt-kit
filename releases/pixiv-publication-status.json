@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-22",
+  "as_of": "2026-11-23",
   "evidence": "user_report",
   "direct_pixiv_page_verified": false,
   "note": "投稿完了報告と提供URLによる確認。サイト制限を迂回しない。予約日時を公開完了の根拠にしない。",
@@ -410,6 +410,58 @@
       "x_url": "https://x.com/komairo_hiyori/status/2124430280627016049",
       "x_announced_at": "2026-11-22T18:10:57.526247+09:00",
       "x_evidence": "posting_chat_record_with_individual_post_and_image_confirmation"
+    },
+    {
+      "work_id": "tameshibu-ep02-03",
+      "series": "ためし部",
+      "episode": 2,
+      "strip": 3,
+      "title": "第2話「机、ひろがる。」第3回「最初の一個」",
+      "filename": "ep02_03_strip.jpg",
+      "source_filename": "第03回_最初の一個.jpg",
+      "version": "最新共通ルール・背景整理版2026-11-21",
+      "adopted_on": "2026-11-21",
+      "production_document": "examples/published/ep02-03/README.md",
+      "pixiv_url": "https://www.pixiv.net/artworks/152401922",
+      "sha256": "306a25443582287085d2d3a527b91bd393014a7e6223c0533fe9e4392399465a",
+      "bytes": 744136,
+      "width": 800,
+      "height": 2400,
+      "evidence": "user_report",
+      "direct_page_verified": false,
+      "reported_on": "2026-11-23",
+      "recorded_on": "2026-11-23",
+      "source_chat": "pixivマンガ投稿",
+      "scheduled_for": "2026-11-23T18:00:00+09:00",
+      "actual_publication_time": null,
+      "x_announcement": "pending_safari_in_use_by_other_work",
+      "x_status_recorded_on": "2026-11-23",
+      "github_image_release": "not_created"
+    },
+    {
+      "work_id": "tameshibu-winter-uniform-20261118",
+      "series": "ためし部",
+      "title": "4人の制服設定・冬服（室内）",
+      "filename": "ためし部_制服設定案_冬服.jpg",
+      "version": "2026-11-18採用・冬服室内設定",
+      "adopted_on": "2026-11-18",
+      "production_document": "series/tameshibu/wardrobe-20261118/README.md",
+      "github_documentation_image": "series/tameshibu/wardrobe-20261118/assets/ためし部_制服設定案_冬服.jpg",
+      "pixiv_url": "https://www.pixiv.net/artworks/152401916",
+      "sha256": "d46b7b48d7b4af2c199b9715426dd938391fd8af1335a02bc7596b33364379af",
+      "bytes": 466994,
+      "width": 1536,
+      "height": 1024,
+      "evidence": "user_report",
+      "direct_page_verified": false,
+      "reported_on": "2026-11-23",
+      "recorded_on": "2026-11-23",
+      "source_chat": "pixivマンガ投稿",
+      "scheduled_for": "2026-11-23T18:00:00+09:00",
+      "actual_publication_time": null,
+      "x_announcement": "pending_safari_in_use_by_other_work",
+      "x_status_recorded_on": "2026-11-23",
+      "github_image_release": "not_created"
     }
   ],
   "reconciliation": {
@@ -433,11 +485,12 @@
     }
   ],
   "latest_reconciliation": {
-    "date": "2026-11-22",
-    "current_adopted_works": 23,
+    "date": "2026-11-23",
+    "current_adopted_works": 25,
     "confirmed_x_announcements": 15,
-    "excluded": "第2話第3〜13回・夏服以外の衣装・部室背景v2は公開済み一覧へ追加しない。",
+    "excluded": "第2話第4〜13回・夏服と冬服室内以外の衣装・部室背景v2は公開済み一覧へ追加しない。",
     "source_chat": "pixivマンガ投稿",
-    "direct_pixiv_page_verified": false
+    "direct_pixiv_page_verified": false,
+    "pending_x_announcements": 2
   }
 }

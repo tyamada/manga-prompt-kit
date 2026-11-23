@@ -1,6 +1,6 @@
 # GitHub Releasesの公開と移行計画
 
-**最新状況（2026年11月22日）**：[公開記録](pixiv-publication-status.md)は23作品・X告知15件。第1話の表紙と全13回（14/14枚）のpixiv投稿完了報告がそろいました。[第1話の本文画像Release](https://github.com/tyamada/manga-prompt-kit/releases/tag/pixiv-tameshibu-ep01-20261111-v1)を公開し、全18添付の匿名取得・整合性検証を完了しました。以下の日付付き更新欄は各日時点の履歴です。
+**最新状況（2026年11月23日）**：[公開記録](pixiv-publication-status.md)は25作品・X告知15件（新規2件は告知待機中）。第1話の表紙と全13回（14/14枚）のpixiv投稿完了報告がそろいました。[第1話の本文画像Release](https://github.com/tyamada/manga-prompt-kit/releases/tag/pixiv-tameshibu-ep01-20261111-v1)を公開し、全18添付の匿名取得・整合性検証を完了しました。以下の日付付き更新欄は各日時点の履歴です。
 
 **最新版のPDFとpixiv用画像の公開先は、この制作資料リポジトリのGitHub Releasesに統一します。** 制作資料と[PDF用Release](https://github.com/tyamada/manga-prompt-kit/releases/tag/manga-pdf-20261103-v1)を公開済みです。人物紹介4枚のReleaseは公開済み、[第1話本文画像14枚](https://github.com/tyamada/manga-prompt-kit/releases/tag/pixiv-tameshibu-ep01-20261111-v1)も公開済みです。旧アプリ用2配布先は現在公開中ですが、移行後に廃止する予定です。廃止日は未定です。
 
@@ -119,3 +119,7 @@ PDFの公開と全件取得検証まで完了しました。次は[アプリ側�
 ## 2026年11月22日 第2回と夏服の公開確認
 
 第2話第2回「もうひとつの新居」の制作資料・実使用プロンプトと、既存の夏服設定資料へpixiv公開URL・画像付きX告知URLを反映しました。[公開記録](pixiv-publication-status.md)は23作品、X告知完了15件です。第2話第3〜13回・他の衣装・部室背景v2は公開済み扱いにせず、画像Releaseも追加していません。
+
+## 2026年11月23日 第3回と冬服の公開確認
+
+第2話第3回「最初の一個」の制作資料・実使用プロンプトと、冬服室内設定のpixiv公開URLを[公開記録](pixiv-publication-status.md)へ反映しました。公開25作品、X告知完了15件。新規2件のX告知は他作業のSafari利用により待機中で、未確認の告知URLは記載していません。他の回・衣装・部室背景v2は公開済み扱いせず、画像・Releaseの追加も行っていません。
