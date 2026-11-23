@@ -1,0 +1,62 @@
+{
+  "status": "6表情プリセット試作・Viewerで30秒の録画確認済み。採用表情の完成版ではない。",
+  "duration": 30,
+  "native_model": "v21 MOC3をそのまま継承。大きな横顔・個別毛束・全身・新しい笑顔の目・視線・手は未実装。",
+  "greeting_original_curves_preserved_to_seconds": 9.033,
+  "audio_offset_seconds": 0,
+  "sections": [
+    {
+      "start": 0,
+      "end": 9.6,
+      "name": "v21音声同期・顔・表情・まばたき・髪揺れ"
+    },
+    {
+      "start": 10,
+      "end": 12.65,
+      "name": "ノーマル",
+      "mouth_form": 0,
+      "brow": 0,
+      "eye_multiplier": 1
+    },
+    {
+      "start": 13,
+      "end": 15.65,
+      "name": "嬉しい",
+      "mouth_form": 0.9,
+      "brow": 0.25,
+      "eye_multiplier": 0
+    },
+    {
+      "start": 16,
+      "end": 18.65,
+      "name": "びっくり",
+      "mouth_form": -0.9,
+      "brow": 0.95,
+      "eye_multiplier": 1
+    },
+    {
+      "start": 19,
+      "end": 21.65,
+      "name": "ひらめき",
+      "mouth_form": 0.65,
+      "brow": 0.8,
+      "eye_multiplier": 1
+    },
+    {
+      "start": 22,
+      "end": 24.65,
+      "name": "やってみよう！",
+      "mouth_form": 1,
+      "brow": 0.1,
+      "eye_multiplier": 1
+    },
+    {
+      "start": 25,
+      "end": 27.65,
+      "name": "気づいた",
+      "mouth_form": -0.65,
+      "brow": 0.45,
+      "eye_multiplier": 0.85
+    }
+  ]
+}

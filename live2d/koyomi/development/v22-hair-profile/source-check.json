@@ -1,0 +1,112 @@
+{
+  "version": "v22 source draft",
+  "status": "7枚の髪素材をCubismのv22作業モデルへ追加済み。新規素材フォルダーは非表示で保存。個別の揺れ・大きな横顔は未実装。",
+  "neutral_hair_premultiplied_max_error": 0,
+  "neutral_alpha_equal": true,
+  "padding_opaque_pixels": 6,
+  "layers": [
+    {
+      "layer": "60_Hair_Crown_Fixed",
+      "bbox": [
+        200,
+        48,
+        868,
+        930
+      ],
+      "motion": "固定",
+      "root_source_px": [
+        512,
+        200
+      ]
+    },
+    {
+      "layer": "61_Hair_Outer_R",
+      "bbox": [
+        36,
+        194,
+        246,
+        837
+      ],
+      "motion": "独立変形予定",
+      "root_source_px": [
+        210,
+        400
+      ]
+    },
+    {
+      "layer": "62_Hair_Side_R",
+      "bbox": [
+        127,
+        254,
+        401,
+        921
+      ],
+      "motion": "独立変形予定",
+      "root_source_px": [
+        300,
+        300
+      ]
+    },
+    {
+      "layer": "63_Hair_Bang_R",
+      "bbox": [
+        240,
+        214,
+        474,
+        572
+      ],
+      "motion": "独立変形予定",
+      "root_source_px": [
+        420,
+        240
+      ]
+    },
+    {
+      "layer": "64_Hair_Bang_C",
+      "bbox": [
+        395,
+        194,
+        651,
+        551
+      ],
+      "motion": "独立変形予定",
+      "root_source_px": [
+        550,
+        220
+      ]
+    },
+    {
+      "layer": "65_Hair_Side_L",
+      "bbox": [
+        629,
+        234,
+        829,
+        920
+      ],
+      "motion": "独立変形予定",
+      "root_source_px": [
+        680,
+        270
+      ]
+    },
+    {
+      "layer": "66_Hair_Outer_L",
+      "bbox": [
+        768,
+        244,
+        964,
+        892
+      ],
+      "motion": "独立変形予定",
+      "root_source_px": [
+        820,
+        400
+      ]
+    }
+  ],
+  "warning": "大きな変形時の隠れ領域・境界露出は未検証。実行用モデルではありません。",
+  "native_model": "source/koyomi-v22-work.cmo3",
+  "native_parent": "顔の傾き_肩固定",
+  "new_draw_order": 600,
+  "new_folder_visible": false
+}

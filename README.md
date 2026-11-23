@@ -137,3 +137,5 @@
 ## 2026年11月22日 第2回と夏服の公開確認
 
 第2話第2回「もうひとつの新居」の制作資料・実使用プロンプトと、既存の夏服設定資料へpixiv公開URL・画像付きX告知URLを反映しました。[公開記録](releases/pixiv-publication-status.md)は23作品、X告知完了15件です。第2話第3〜13回・他の衣装・部室背景v2は公開済み扱いにせず、画像Releaseも追加していません。
+
+こよみLive2Dの[全体計画・残作業](live2d/koyomi/docs/roadmap.md)と[6表情・全身・手の開発資料](live2d/koyomi/development/README.md)を追加しました。安定配布はv21、開発資料は試作です。

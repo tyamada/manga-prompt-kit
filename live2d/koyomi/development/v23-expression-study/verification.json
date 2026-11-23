@@ -1,0 +1,112 @@
+{
+  "status": "Viewerで30秒再生・録画。6表情プリセットの試作比較。",
+  "audio_recording_source_correlation": 0.9895828979469499,
+  "audio_onset_in_raw_seconds": 9.458344671201814,
+  "shared_video_audio_trim_seconds": 9.288344671201815,
+  "separate_audio_video_sync_correction": false,
+  "duration_seconds": 30,
+  "fps": 30,
+  "original_v21_greeting_curves_preserved": true,
+  "model_moc3_sha256": "7e3b8cf4cce09a636635caad4a7ca0a76d7c43f7d1ba1234668189cf67a6e380",
+  "uses_unchanged_v21_native_model": true,
+  "sampled_expressions": [
+    {
+      "name": "ノーマル",
+      "video_seconds": 11.17
+    },
+    {
+      "name": "嬉しい",
+      "video_seconds": 14.17
+    },
+    {
+      "name": "びっくり",
+      "video_seconds": 17.17
+    },
+    {
+      "name": "ひらめき",
+      "video_seconds": 20.17
+    },
+    {
+      "name": "やってみよう！",
+      "video_seconds": 23.17
+    },
+    {
+      "name": "気づいた",
+      "video_seconds": 26.17
+    }
+  ],
+  "limitations": [
+    "ひらめき・やってみよう・気づいたは既存の口形と共通眉パラメータによる近似。専用目・独立眉・視線は未実装。",
+    "嬉しいは既存の閉じ目を使用。採用画像の笑顔目の専用形状は未実装。",
+    "大きな横顔・個別毛束・全身・体とリボン・手・VTube Studioは未完了。",
+    "口遅延は冒頭280フレームの面積曲線による推定約18ms、測定精度約33ms。他環境の同期精度は保証しない。"
+  ],
+  "greeting_sync_check": {
+    "frames": 280,
+    "mouth_motion_start_fit_seconds": 0.18800000000000017,
+    "mouth_area_curve_correlation": 0.9332739784517412,
+    "audio_start_seconds": 0.16999999999999993,
+    "audio_minus_mouth_start_seconds": -0.018000000000000238,
+    "shoulders": [
+      {
+        "region": [
+          150,
+          650,
+          60,
+          60
+        ],
+        "max_abs_shift_px": [
+          0,
+          0
+        ],
+        "min_correlation": 0.9998433589935303
+      },
+      {
+        "region": [
+          210,
+          650,
+          45,
+          60
+        ],
+        "max_abs_shift_px": [
+          0,
+          0
+        ],
+        "min_correlation": 0.9996537566184998
+      },
+      {
+        "region": [
+          470,
+          650,
+          45,
+          60
+        ],
+        "max_abs_shift_px": [
+          0,
+          0
+        ],
+        "min_correlation": 0.9997039437294006
+      },
+      {
+        "region": [
+          530,
+          650,
+          60,
+          60
+        ],
+        "max_abs_shift_px": [
+          0,
+          0
+        ],
+        "min_correlation": 0.9998778700828552
+      }
+    ],
+    "mouth_area_min_max": [
+      0,
+      2268
+    ]
+  },
+  "mouth_delay_estimate_seconds": 0.018,
+  "timing_precision_seconds": 0.03333333333333333,
+  "shoulder_check_scope": "冒頭280フレーム（約9.33秒）"
+}

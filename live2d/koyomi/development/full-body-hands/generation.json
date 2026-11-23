@@ -1,0 +1,8 @@
+{
+  "tool": "built-in image_gen",
+  "reference": "こよみ_正面全身原画_v1.png",
+  "accepted_output": "hand-pose-guide.png",
+  "prompt": "One wide clean model-sheet on pure white: three anatomical RIGHT ARM-only gestures matching coral cardigan and fine cel-shaded anime ink. Left to right: modest fist pump; one index finger upward, other fingers curled; greeting wave palm toward viewer, five fingers. Same scale, shoulder at upper right, elbow below, forearm raised to image left. Include coral shoulder overlap tab, no head/torso/hair/ribbon/text/glow/shadow.",
+  "status": "作画候補。切り抜き・肩接続・モデル化・モーションは未実施。",
+  "rejected_local_trials": "透過腕素材2案は外側の光と不透明度が不適切のため採用せず、GitHubには保存しない。"
+}
