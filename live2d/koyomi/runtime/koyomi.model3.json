@@ -60,6 +60,13 @@
           "FadeInTime": 0,
           "FadeOutTime": 0
         }
+      ],
+      "MouthCheck": [
+        {
+          "File": "motions/mouth-check.motion3.json",
+          "FadeInTime": 0,
+          "FadeOutTime": 0
+        }
       ]
     },
     "Expressions": [

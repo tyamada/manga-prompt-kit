@@ -1,5 +1,5 @@
 {
-  "version": "v28 + earlier development/history",
+  "version": "v29 + earlier development/history",
   "date": "2026-11-23",
   "files": [
     {
@@ -9,13 +9,13 @@
     },
     {
       "path": "LICENSE.md",
-      "bytes": 2252,
-      "sha256": "1cdf34ef827a7f1fdf15d2920a678b9c4520fc2fb838b69c8143895b09e9dd64"
+      "bytes": 2280,
+      "sha256": "2d8e1d99ab35fa3a4b06ab4b548e1b0bc68bba220f9f2953c0e12a834f86771c"
     },
     {
       "path": "README.md",
-      "bytes": 6076,
-      "sha256": "d82b6e080e9b7e7eca4cd89d9d6209aa80dcfb5a77055c0a41be3b2e27d6dfc2"
+      "bytes": 7370,
+      "sha256": "c290f018aedfd1bec9af688bdd53de3e1c81b201b8ebe1641c939b7bec09c732"
     },
     {
       "path": "audio/README.md",
@@ -249,13 +249,13 @@
     },
     {
       "path": "docs/production.md",
-      "bytes": 12687,
-      "sha256": "5ce825e04e5cb88662105d5809cf6701a7e67610497838605054db17d8abd0de"
+      "bytes": 13950,
+      "sha256": "36d9c08946513b5db3995a8c7f633e76f25942d6717d4dcbb3dd383c856f4072"
     },
     {
       "path": "docs/roadmap.md",
-      "bytes": 8133,
-      "sha256": "ac2a9f7bc3fbddf7d131a2325f2adea1ceaa01c2dd8da7d0970e61cf93269839"
+      "bytes": 8275,
+      "sha256": "418ab2e05e8569217598bc689687ab9db87f9d3e6daf6430daf433d8ee132568"
     },
     {
       "path": "preview/brow-check.mp4",
@@ -313,6 +313,16 @@
       "sha256": "270c4816b7ce2229f303e3205e612961decc4711640d50fd339121f370bde113"
     },
     {
+      "path": "preview/mouth-check.mp4",
+      "bytes": 350616,
+      "sha256": "2ad584606cabddc5224dc4892ee249e87052f9bf58e1d273414ab4450abdc92b"
+    },
+    {
+      "path": "preview/mouth-comparison.jpg",
+      "bytes": 113784,
+      "sha256": "79a1d9a0af8a00d4d98d17e8ee48b6e9edf42d03e1f0ea0f501e160edb7ebc93"
+    },
+    {
       "path": "preview/physics-comparison.jpg",
       "bytes": 174594,
       "sha256": "ef6c74ce5c04cc624989af0fe61fa575f935bfd9bf4f0db91e2a74158722fae9"
@@ -339,18 +349,18 @@
     },
     {
       "path": "preview/showcase-30s-silent.mp4",
-      "bytes": 1353169,
-      "sha256": "0847edb7ae746b10fd5b77cb5d16068a9479084e770fe2abce4b14767eb4af83"
+      "bytes": 1384506,
+      "sha256": "17d755d10b807c1b7e582865fcaffbc6bc330cfb3b9162101b20a7f42e67ffc5"
     },
     {
       "path": "preview/showcase-30s.mp4",
-      "bytes": 1528268,
-      "sha256": "1826744ee3cffcb76573e74cce47499acc857b5715b88415c97a1ef4f9b2726c"
+      "bytes": 1559151,
+      "sha256": "7e0cf200dcdea4019820f1eddc560e28557d0e4028d4965a9acedf337e2b4eb1"
     },
     {
       "path": "preview/six-expressions.jpg",
-      "bytes": 129953,
-      "sha256": "c7a9fbc66e89055e3ba722ca07043b9b1388d38dda9b10fee56630f55ee8f164"
+      "bytes": 129942,
+      "sha256": "dc801a7e11ced771b4e41457f879bb482d36937eaa52cb52ebc5bc9269c5eebc"
     },
     {
       "path": "runtime/expressions/01_normal.exp3.json",
@@ -404,13 +414,13 @@
     },
     {
       "path": "runtime/koyomi.moc3",
-      "bytes": 80512,
-      "sha256": "8adeb4e078514b67458df1d9015969198f16c350f4e65558c641fd73904286a5"
+      "bytes": 82304,
+      "sha256": "8215aa01cfe82530b66278a35daad81167456ec3efe45fa90ad0d2c74188b2d1"
     },
     {
       "path": "runtime/koyomi.model3.json",
-      "bytes": 2370,
-      "sha256": "be92d47f0a8ca10b3c753fdb1c9765e82f8557c51c40a94629c988dd19751082"
+      "bytes": 2529,
+      "sha256": "6a8e9ee12843b1c772f9131a70a73f3efce8a82aa093dddbd5468511fbe1f159"
     },
     {
       "path": "runtime/koyomi.physics3.json",
@@ -441,6 +451,11 @@
       "path": "runtime/motions/hair-test.motion3.json",
       "bytes": 577,
       "sha256": "0aa54fa23e45d5a130412b3f55304d0b3883d9977de9596b346171f71222f287"
+    },
+    {
+      "path": "runtime/motions/mouth-check.motion3.json",
+      "bytes": 1374,
+      "sha256": "f1c910cf6f37aad459ec7813e7d5158429c4d1b82033d9f744328b00468241f5"
     },
     {
       "path": "runtime/motions/physics-check.motion3.json",
@@ -523,9 +538,14 @@
       "sha256": "001e55ad13ef0dbc18caadd2e4f80bd4bd93318aa7c5930cc498d7585d3567d3"
     },
     {
+      "path": "source/koyomi-v29.cmo3",
+      "bytes": 8164140,
+      "sha256": "2d9161154ad7025b315efda97585e24cf694b30267e70f6e204a9ee6e4648153"
+    },
+    {
       "path": "source/layers.json",
       "bytes": 1311,
-      "sha256": "4cb0247df37b16539187d558fbc999e13606397e6b8394bc152a6672976b9e40"
+      "sha256": "75fdbc465a894357b15cd45b05117d420aa71130ea55ceacb2ca2b7be0f8e9ff"
     },
     {
       "path": "source/parts/01_Hair_Back.png",
@@ -781,6 +801,11 @@
       "path": "verification/v28-runtime.json",
       "bytes": 5963,
       "sha256": "732edaff6dae11171ef00fa74db93281431189ec344deef6545490436a1742e7"
+    },
+    {
+      "path": "verification/v29-runtime.json",
+      "bytes": 8722,
+      "sha256": "7913ce8c8802e0395b43d8b5ba2212a8ffd0d91b448e5bec586ebc958e665cf2"
     }
   ]
 }

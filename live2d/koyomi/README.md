@@ -1,6 +1,6 @@
 # こよみ Live2Dモデル
 
-『ためし部』の小坂こよみのLive2D制作データ **v28** です。v27の顔立ち・音声同期・笑顔目・視線・6毛束の物理演算を保ち、**左右独立の眉調整を6表情に追加**しました。
+『ためし部』の小坂こよみのLive2D制作データ **v29** です。v28の顔立ち・音声同期・6表情・独立眉上下・6毛束の物理演算を保ち、**開いた口に閉じ口の線が残る問題と、笑顔の口角の左右差を修正**しました。
 
 ![6表情](preview/six-expressions.jpg)
 
@@ -8,15 +8,24 @@
 
 音声：**VOICEVOX:春日部つむぎ**。最初の約9秒が自己紹介、続いて6表情を比較します。動画の音声・映像を別々にずらす同期補正は行っていません。
 
-[モデル・PSD・CMO3・確認動画のZIP](https://github.com/tyamada/manga-prompt-kit/releases/tag/koyomi-live2d-v28-20261123)
+[モデル・PSD・CMO3・確認動画のZIP](https://github.com/tyamada/manga-prompt-kit/releases/tag/koyomi-live2d-v29-20261123)
 
 ## 再生・編集
 
 1. Cubism Viewerで [`runtime/koyomi.model3.json`](runtime/koyomi.model3.json) を開きます。SDK 5.3対応です。
-2. `motions > HairStrandsCheck` は6毛束の個別確認、`motions > Showcase` は30秒の自己紹介動作と6表情、`GazeCheck` は上下左右・斜めの視線と閉眼・笑顔目、`BrowCheck` は左右の眉の単独確認です。配布モデルは無音です。[音声を自分の環境で追加する手順](audio/README.md)を参照してください。
+2. `motions > HairStrandsCheck` は6毛束の個別確認、`motions > Showcase` は30秒の自己紹介動作と6表情、`GazeCheck` は上下左右・斜めの視線と閉眼・笑顔目、`BrowCheck` は左右の眉、`MouthCheck` は通常・笑顔・驚きの口開閉の単独確認です。配布モデルは無音です。[音声を自分の環境で追加する手順](audio/README.md)を参照してください。
 3. `Showcase` と `PhysicsCheck` は**物理演算をオン**にします。`HairStrandsCheck` は直接パラメータを動かすため**物理演算をオフ**にします。自動目パチ・カーソル追従・呼吸・アイドリングモーションと手動表情は解除してください。別版の確認ウィンドウを閉じると描画負荷を減らせます。
 4. 手動の `expressions` ではノーマル・嬉しい・びっくり・ひらめき・やってみよう！・気づいたを選べます。表情を有効にし、モーションを停止して切り替えてください。表情設定は口の開閉値を上書きしないため、音声の口開閉と併用できます。
-5. 編集は [`source/koyomi-v28.cmo3`](source/koyomi-v28.cmo3) をCubism Editorで開きます。原画は [`source/koyomi-v27.psd`](source/koyomi-v27.psd)（35層）と分割PNG・SVGです。追加笑顔目のみのPSDと、髪7パーツだけのPSD・分割PNGも保存しています。PSDはv27から変更していません。以前のCMO3は履歴参照用です。
+5. 編集は [`source/koyomi-v29.cmo3`](source/koyomi-v29.cmo3) をCubism Editorで開きます。原画は [`source/koyomi-v27.psd`](source/koyomi-v27.psd)（35層）と分割PNG・SVGです。追加笑顔目のみのPSDと、髪7パーツだけのPSD・分割PNGも保存しています。PSDはv27から変更していません。以前のCMO3は履歴参照用です。
+
+## v29の口表示修正
+
+[口だけの実行確認動画](preview/mouth-check.mp4) · [口形の比較画像](preview/mouth-comparison.jpg)
+
+- v28では閉じ口の線が開閉0.2で60%、0.4で20%残っていました。v29では0〜0.1の短い切替区間で消し、0.1以上では表示しません。
+- 元の通常口・丸い驚き口は水平でしたが、笑顔の変形に約13原画pxの口角差がありました。意図された非対称という承認記録はなく、笑顔に応じた親回転で約1pxまで揃えました。測定は正面・全開・原画1024px換算、精度約1pxです。
+- 正面の通常口・驚き口の形は維持しています。親回転の追加により、確認した顔向きの組合せでは口の位置に最大約2.2原画pxの差があります。口以外の形状・表示率は84条件でv28と一致しました。
+- 音声原本・30秒モーション・6表情設定・物理演算・テクスチャはv28と同一。音声付き実行動画を再収録し、口の推定遅れは約26ms（30fps測定の誤差約33ms）、肩の移動は0pxでした。動画の音声と映像を別々にずらしていません。
 
 ## 目・表情・眉と髪揺れ
 
@@ -30,7 +39,7 @@
 - `ParamBrowLAdjustY/RAdjustY`（本人基準、各-1〜1、初期値0）は左右の眉だけを約7原画px上下させる追加調整です。既存の共通眉制御は維持しています。[左右単独確認動画](preview/brow-check.mp4)と[比較画像](preview/brow-comparison.jpg)を保存しました。右眉は前髪に隠れる部分があります。
 - 大きな横顔、眉の独立した角度・形状、体・リボン・手の演技、VTube Studio追従は未完了です。
 
-[実機確認記録](verification/v28-runtime.json) · [制作記録](docs/production.md) · [全体計画と残作業](docs/roadmap.md) · [開発資料](development/README.md)
+[実機確認記録](verification/v29-runtime.json) · [制作記録](docs/production.md) · [全体計画と残作業](docs/roadmap.md) · [開発資料](development/README.md)
 
 ## フォルダー構成と利用条件
 
