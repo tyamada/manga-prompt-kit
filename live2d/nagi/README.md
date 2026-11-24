@@ -2,6 +2,12 @@
 
 『ためし部』瀬尾凪の冬の室内制服モデルです。正面全身の原画、分割PSD、編集用CMO3、Cubism Viewerで再生できる口リグ試作を収録しています。
 
+## ナレーションv2の口パク調整版
+
+[Viewer用モデル一式](development/front-separation/nagi-narration-v2-sync-v2/runtime/) · [発音境界の比較CSV](development/front-separation/nagi-narration-v2-sync-v2/phoneme-boundaries.csv)
+
+`nagi-narration-v2-sync-v2.model3.json` の `Narration` で約13秒のモーションを再生できます。促音・休止などの境目で閉口するよう調整し、母音が切り替わるときの口幅を合わせました。音声を合わせる場合は、下記のナレーションv2の手順で同じWAVを合成して指定してください。
+
 ## 波音リツのナレーション改稿
 
 [原稿](development/voice-audition/narration-v2.txt) · [合成クエリ](development/front-separation/nagi-narration-v2/narration-v2-query.json) · [Viewer用モデル一式](development/front-separation/nagi-narration-v2/runtime/)
