@@ -1,0 +1,24 @@
+{
+  "byte_preserved": [
+    {
+      "file": "source/koyomi-v35.psd",
+      "sha256": "c592800d8de5d8bc76b40fc3cff9621bcb0773132befd93bfca095385b7c8c2e"
+    },
+    {
+      "file": "koyomi-v35.2048/texture_00.png",
+      "sha256": "5fd394a524f460e23feebd7c6bcf949706cbd769541eefaf8cd923a4be4b2178"
+    },
+    {
+      "file": "koyomi-v35.physics3.json",
+      "sha256": "845a8490d16d6ebabde515df8e22eb0ad3168a9fdf6e7cee4d372ffdbb887af0"
+    },
+    {
+      "file": "こよみ_自己紹介.wav",
+      "sha256": "08f05eeb739bdc143658fd44346623878f6cb75c65c091c7621ad23354486947"
+    }
+  ],
+  "gaze_expression_hair_cases": 1620,
+  "mouth_closed_only_cases": 2000,
+  "right_overlays_hidden_on_left": true,
+  "original_motions_and_six_expressions_unchanged": true
+}

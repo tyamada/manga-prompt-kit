@@ -1,0 +1,154 @@
+{
+  "Version": 3,
+  "FileReferences": {
+    "Moc": "koyomi-v35.moc3",
+    "Textures": [
+      "textures/texture_00.png"
+    ],
+    "DisplayInfo": "koyomi-v35.cdi3.json",
+    "Motions": {
+      "Showcase": [
+        {
+          "File": "motions/showcase-front.motion3.json",
+          "FadeInTime": 0,
+          "FadeOutTime": 0
+        }
+      ],
+      "HairStrandsCheck": [
+        {
+          "File": "motions/hair-strands-check.motion3.json",
+          "FadeInTime": 0,
+          "FadeOutTime": 0
+        }
+      ],
+      "GazeCheck": [
+        {
+          "File": "motions/gaze-check.motion3.json",
+          "FadeInTime": 0,
+          "FadeOutTime": 0
+        }
+      ],
+      "PhysicsCheck": [
+        {
+          "File": "motions/physics-check.motion3.json",
+          "FadeInTime": 0,
+          "FadeOutTime": 0
+        }
+      ],
+      "BrowCheck": [
+        {
+          "File": "motions/brow-check.motion3.json",
+          "FadeInTime": 0,
+          "FadeOutTime": 0
+        }
+      ],
+      "MouthCheck": [
+        {
+          "File": "motions/mouth-check.motion3.json",
+          "FadeInTime": 0,
+          "FadeOutTime": 0
+        }
+      ],
+      "BrowAngleCheck": [
+        {
+          "File": "motions/brow-angle-check.motion3.json",
+          "FadeInTime": 0,
+          "FadeOutTime": 0
+        }
+      ],
+      "HeadTurnCheck": [
+        {
+          "File": "motions/head-turn-check.motion3.json",
+          "FadeInTime": 0,
+          "FadeOutTime": 0
+        }
+      ],
+      "ShowcaseTurn": [
+        {
+          "File": "motions/showcase-turn.motion3.json",
+          "FadeInTime": 0,
+          "FadeOutTime": 0
+        }
+      ],
+      "ShowcaseR45": [
+        {
+          "File": "motions/showcase-r45.motion3.json",
+          "FadeInTime": 0,
+          "FadeOutTime": 0
+        }
+      ],
+      "SmoothTurnCheck": [
+        {
+          "File": "motions/smooth-turn-check.motion3.json",
+          "FadeInTime": 0,
+          "FadeOutTime": 0
+        }
+      ],
+      "ShowcaseBoth": [
+        {
+          "File": "motions/showcase-both.motion3.json",
+          "FadeInTime": 0,
+          "FadeOutTime": 0
+        }
+      ],
+      "ShowcaseL45": [
+        {
+          "File": "motions/showcase-l45.motion3.json",
+          "FadeInTime": 0,
+          "FadeOutTime": 0
+        }
+      ],
+      "SmoothLeftCheck": [
+        {
+          "File": "motions/smooth-left-check.motion3.json",
+          "FadeInTime": 0,
+          "FadeOutTime": 0
+        }
+      ]
+    },
+    "Expressions": [
+      {
+        "Name": "ノーマル",
+        "File": "expressions/01_normal.exp3.json"
+      },
+      {
+        "Name": "嬉しい",
+        "File": "expressions/02_happy.exp3.json"
+      },
+      {
+        "Name": "びっくり",
+        "File": "expressions/03_surprised.exp3.json"
+      },
+      {
+        "Name": "ひらめき",
+        "File": "expressions/04_idea.exp3.json"
+      },
+      {
+        "Name": "やってみよう！",
+        "File": "expressions/05_lets_try.exp3.json"
+      },
+      {
+        "Name": "気づいた",
+        "File": "expressions/06_noticed.exp3.json"
+      }
+    ],
+    "Physics": "koyomi-v35.physics3.json"
+  },
+  "Groups": [
+    {
+      "Target": "Parameter",
+      "Name": "EyeBlink",
+      "Ids": [
+        "ParamEyeLOpen",
+        "ParamEyeROpen"
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Name": "LipSync",
+      "Ids": [
+        "ParamMouthOpenY"
+      ]
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "version": "v31 stable + v34 depth refinement and earlier development",
+  "version": "v31 stable + v35 left-turn base and earlier development",
   "date": "2026-11-24",
   "files": [
     {
@@ -9,13 +9,13 @@
     },
     {
       "path": "LICENSE.md",
-      "bytes": 2664,
-      "sha256": "582ddbb7b304724541ccefe02fbe526364813903340f3666050cca0946a9234e"
+      "bytes": 2865,
+      "sha256": "2947117a14fe2e73ea2cab7c7f82501c654f028000d01f898b8a8ab55b5600ee"
     },
     {
       "path": "README.md",
-      "bytes": 11578,
-      "sha256": "c12c0ae0f762079d20c7a6f225291f89ce6626eb2f506469998f094ab90982b9"
+      "bytes": 12019,
+      "sha256": "a6a79bca48170f73735bf040116e78f17d46dfc631419b0be3449b2f61372dcb"
     },
     {
       "path": "audio/README.md",
@@ -34,8 +34,8 @@
     },
     {
       "path": "development/README.md",
-      "bytes": 1044,
-      "sha256": "9f41d9d5b54b5a14cfbe9f95441c49e37391ae54e031dcd823b7ad337304cbf1"
+      "bytes": 1132,
+      "sha256": "39cd0d45bcf4246230e43af6111c5a9129ab57cdbc72f4ac1856dc9aa35a79d7"
     },
     {
       "path": "development/full-body-hands/README.md",
@@ -1093,19 +1093,264 @@
       "sha256": "299a23515e49ce21f363e7e7056cf48f5c27b52e7969fd1384bd6619c509a17e"
     },
     {
+      "path": "development/v35-left-turn-study/CREDITS.md",
+      "bytes": 1592,
+      "sha256": "028acdadf317ce793a10ccdcc61f4da257b5aa78944abe6c78947d7e454abfd0"
+    },
+    {
+      "path": "development/v35-left-turn-study/LICENSE.md",
+      "bytes": 1761,
+      "sha256": "55d6678bd746d6aacb445e8edab7e42323702e941d6055c6c49b1c7e95965690"
+    },
+    {
+      "path": "development/v35-left-turn-study/README.md",
+      "bytes": 4645,
+      "sha256": "107e34d5146186de1c461380b1106ad5993712e7d86f35b8a04c5b382dec7d3d"
+    },
+    {
+      "path": "development/v35-left-turn-study/preview/profile-both-six-expressions.jpg",
+      "bytes": 129735,
+      "sha256": "5d9636a9db0bf6cfaceaa51a2bf2f7b6c9b267edaaea41cca88f8a9f5117d6d9"
+    },
+    {
+      "path": "development/v35-left-turn-study/preview/profile-l45-six-expressions.jpg",
+      "bytes": 131043,
+      "sha256": "943d99a1a3bb2b38a1be527ef5ee71eaf59ff3b98e3da19bd646197064c6a009"
+    },
+    {
+      "path": "development/v35-left-turn-study/preview/showcase-both-30s-silent.mp4",
+      "bytes": 2772744,
+      "sha256": "b1d7cee12c1a58ef062cc35bf4c3701eb38c4239fbc4562da558c5f5cfcd6da5"
+    },
+    {
+      "path": "development/v35-left-turn-study/preview/showcase-both-30s.mp4",
+      "bytes": 2946765,
+      "sha256": "d2f3c151f75f83c0a07175f60906f9a5024f743a2d59d594966876af68607d42"
+    },
+    {
+      "path": "development/v35-left-turn-study/preview/showcase-l45-30s-silent.mp4",
+      "bytes": 1626113,
+      "sha256": "4d83eec40d625b2b08330c2ccd66d295c938a5c1ae2cda25c2623e2c10edbcdc"
+    },
+    {
+      "path": "development/v35-left-turn-study/preview/showcase-l45-30s.mp4",
+      "bytes": 1800597,
+      "sha256": "439f153633fa7a6ad264c408531c12411ac99b4590d0002960454e0a129caa98"
+    },
+    {
+      "path": "development/v35-left-turn-study/preview/smooth-left-check.mp4",
+      "bytes": 1383150,
+      "sha256": "ec0eb427299db700638553172b97bd02f1862496edc3a6df11da71171564374a"
+    },
+    {
+      "path": "development/v35-left-turn-study/preview/smooth-left-comparison.jpg",
+      "bytes": 108362,
+      "sha256": "7b5c07a04c64e949a8b0cb3630bae4d5a955d24fcf8d945c21b502919cb19260"
+    },
+    {
+      "path": "development/v35-left-turn-study/runtime/expressions/01_normal.exp3.json",
+      "bytes": 1066,
+      "sha256": "60df07353446c4f4fe2348e17f6ebfdac755366d22c2ade1013d9e4f8b2717ee"
+    },
+    {
+      "path": "development/v35-left-turn-study/runtime/expressions/02_happy.exp3.json",
+      "bytes": 1082,
+      "sha256": "5c2dc0d4a137376f01048eba7a3c2c02f26452768875af45831d22cf87d2461a"
+    },
+    {
+      "path": "development/v35-left-turn-study/runtime/expressions/03_surprised.exp3.json",
+      "bytes": 1076,
+      "sha256": "cd35fb24cd70ee978cf8dd063f1f274a2c04195c8b2da734301833f60981bb09"
+    },
+    {
+      "path": "development/v35-left-turn-study/runtime/expressions/04_idea.exp3.json",
+      "bytes": 1086,
+      "sha256": "4f7402d5becf909c6f754a771641f99507c7024a41aa5eed87a4b9eef9c5a281"
+    },
+    {
+      "path": "development/v35-left-turn-study/runtime/expressions/05_lets_try.exp3.json",
+      "bytes": 1088,
+      "sha256": "c499a7f1c61d6dd76cc56b4c20f5eafe9e86bf58974fae088a3ca198032afee5"
+    },
+    {
+      "path": "development/v35-left-turn-study/runtime/expressions/06_noticed.exp3.json",
+      "bytes": 1095,
+      "sha256": "f3069b2d68767c558a8ad78ab027f17a9fa3dda12a9dd40d881b0b60a357bd8e"
+    },
+    {
+      "path": "development/v35-left-turn-study/runtime/koyomi-v35.cdi3.json",
+      "bytes": 2239,
+      "sha256": "344f1d9b56d09ffab5a50a84c3f63950bf68b5778ecc40c75a824f2f52df0b13"
+    },
+    {
+      "path": "development/v35-left-turn-study/runtime/koyomi-v35.moc3",
+      "bytes": 97600,
+      "sha256": "691edada03b3dab04cda2c0cd2a1cc39c476806cb79b44e6b612c9d2120cbc88"
+    },
+    {
+      "path": "development/v35-left-turn-study/runtime/koyomi-v35.model3.json",
+      "bytes": 3435,
+      "sha256": "0fd979fafa1088ae0f5d9c8ed1e1ce3ec58cdebff0b5a2777015ec8bf1ff1529"
+    },
+    {
+      "path": "development/v35-left-turn-study/runtime/koyomi-v35.physics3.json",
+      "bytes": 8243,
+      "sha256": "845a8490d16d6ebabde515df8e22eb0ad3168a9fdf6e7cee4d372ffdbb887af0"
+    },
+    {
+      "path": "development/v35-left-turn-study/runtime/motions/brow-angle-check.motion3.json",
+      "bytes": 1484,
+      "sha256": "ba1c8758270af7f98739b12a64afb67a360200315ba71a09210b50dfa908e16d"
+    },
+    {
+      "path": "development/v35-left-turn-study/runtime/motions/brow-check.motion3.json",
+      "bytes": 1301,
+      "sha256": "e5e32dd1c70efe520dfff1cd3e77f92af1801c5d73cf0a3f2f88c071142b038e"
+    },
+    {
+      "path": "development/v35-left-turn-study/runtime/motions/gaze-check.motion3.json",
+      "bytes": 2775,
+      "sha256": "63e1326959b50bd3edead07b3aee91622fad181ab020ec07e0129631e3c44cb5"
+    },
+    {
+      "path": "development/v35-left-turn-study/runtime/motions/hair-strands-check.motion3.json",
+      "bytes": 130594,
+      "sha256": "6879c296f288e4915e5077e211cfdeeaae0e4ffa2193d0f0b1601a984094ebec"
+    },
+    {
+      "path": "development/v35-left-turn-study/runtime/motions/head-turn-check.motion3.json",
+      "bytes": 4000,
+      "sha256": "a98ab5970429924944784540a3a6be1f9410cb0d6c4ae1b74246c243d5bb6d3d"
+    },
+    {
+      "path": "development/v35-left-turn-study/runtime/motions/mouth-check.motion3.json",
+      "bytes": 1374,
+      "sha256": "f1c910cf6f37aad459ec7813e7d5158429c4d1b82033d9f744328b00468241f5"
+    },
+    {
+      "path": "development/v35-left-turn-study/runtime/motions/physics-check.motion3.json",
+      "bytes": 1472,
+      "sha256": "633841e3bbd84fa4d9bd00d2f8e21a4d9d000396ed710fac03e087011fd0dd2a"
+    },
+    {
+      "path": "development/v35-left-turn-study/runtime/motions/showcase-30s.motion3.json",
+      "bytes": 30028,
+      "sha256": "c5164b80d0863e4859d8964206444108b730fe00db54f54c93463b4e20aff560"
+    },
+    {
+      "path": "development/v35-left-turn-study/runtime/motions/showcase-both.motion3.json",
+      "bytes": 31437,
+      "sha256": "6e6ed2e88cf4e918de9ea775f492fd52291ff3d2dc7126298dad13586befd5aa"
+    },
+    {
+      "path": "development/v35-left-turn-study/runtime/motions/showcase-front.motion3.json",
+      "bytes": 30184,
+      "sha256": "48ec6b27232d880b8fae6c17e6db186746133c9bb63dc2a406c0805eb9fa07a3"
+    },
+    {
+      "path": "development/v35-left-turn-study/runtime/motions/showcase-l45.motion3.json",
+      "bytes": 30186,
+      "sha256": "53cff57237c2d3f1f863701eda2c5a49f383e38b14dcbd93f905f932b1919b63"
+    },
+    {
+      "path": "development/v35-left-turn-study/runtime/motions/showcase-r45.motion3.json",
+      "bytes": 30184,
+      "sha256": "513913e3a6915f0d89b754853d1ac9075fbde2ad1bbc9c7c6b798ce8fb501cb4"
+    },
+    {
+      "path": "development/v35-left-turn-study/runtime/motions/showcase-turn.motion3.json",
+      "bytes": 30985,
+      "sha256": "f8f1c9447f4f4839583d5f712acc291b90f92757d2f56368eb4953e1213004cf"
+    },
+    {
+      "path": "development/v35-left-turn-study/runtime/motions/smooth-left-check.motion3.json",
+      "bytes": 3697,
+      "sha256": "c795716b113443d83f57ea70a1eaade315c4ffbffceb2ad359568efdc97938bb"
+    },
+    {
+      "path": "development/v35-left-turn-study/runtime/motions/smooth-turn-check.motion3.json",
+      "bytes": 3689,
+      "sha256": "801b9eeace0e3581172fe34de1b5f0e3d6ef3e6ced27576b7ae33a0a97a13f3b"
+    },
+    {
+      "path": "development/v35-left-turn-study/runtime/textures/texture_00.png",
+      "bytes": 2166731,
+      "sha256": "5fd394a524f460e23feebd7c6bcf949706cbd769541eefaf8cd923a4be4b2178"
+    },
+    {
+      "path": "development/v35-left-turn-study/source/koyomi-v35.cmo3",
+      "bytes": 22447171,
+      "sha256": "1155013d9daf05e64b17b50f446739ecd8449e8afb0669b18b3624de2ae2ca73"
+    },
+    {
+      "path": "development/v35-left-turn-study/source/koyomi-v35.psd",
+      "bytes": 13299162,
+      "sha256": "c592800d8de5d8bc76b40fc3cff9621bcb0773132befd93bfca095385b7c8c2e"
+    },
+    {
+      "path": "development/v35-left-turn-study/source/rig-notes-v35.json",
+      "bytes": 1212,
+      "sha256": "9af2e465fcf6b2f8be7d5cf4281e665d650a4032b78b2787167288ef593bacf0"
+    },
+    {
+      "path": "development/v35-left-turn-study/source/v35-preservation.json",
+      "bytes": 758,
+      "sha256": "f7d7c72637a04a96a9888d9757536eb63b6fe7f7ebc8cb090270984e9cb1aff0"
+    },
+    {
+      "path": "development/v35-left-turn-study/verification/audio-capture-both.json",
+      "bytes": 111,
+      "sha256": "6c39bc77524dbf4f647ea006e6af7ae701f45f3e87a207c89b508019cda55778"
+    },
+    {
+      "path": "development/v35-left-turn-study/verification/audio-capture-l45.json",
+      "bytes": 113,
+      "sha256": "9fb96b28b9b4337c6129be75141d1834fede02d86d76c085ef3350585c37e20e"
+    },
+    {
+      "path": "development/v35-left-turn-study/verification/both-video-verification.json",
+      "bytes": 1067,
+      "sha256": "dcdd9e1ce256c0b89c0a27bed18f401bc88fb2b5370a2285836bfa09339ffc45"
+    },
+    {
+      "path": "development/v35-left-turn-study/verification/core.json",
+      "bytes": 284,
+      "sha256": "5bef7099882e1a8a8d1e5d5fe72b9ece1ecd26fadefc65f0dd1c515f9f12ed2f"
+    },
+    {
+      "path": "development/v35-left-turn-study/verification/editor-roundtrip.json",
+      "bytes": 437,
+      "sha256": "84d0567c8d8decedc1cf76c9e0d5d716789d0d6cc34b6aece09fa8300bc24f4d"
+    },
+    {
+      "path": "development/v35-left-turn-study/verification/invariants.json",
+      "bytes": 758,
+      "sha256": "f7d7c72637a04a96a9888d9757536eb63b6fe7f7ebc8cb090270984e9cb1aff0"
+    },
+    {
+      "path": "development/v35-left-turn-study/verification/l45-video-verification.json",
+      "bytes": 1068,
+      "sha256": "94ee3c99e6b0efb6e9c2ceddd5265316ba83943340742e30eff9de6b34bb8ac0"
+    },
+    {
+      "path": "development/v35-left-turn-study/verification/sweep-verification.json",
+      "bytes": 344,
+      "sha256": "b90782f5b51e014ca3163016c09652433e92abde204602770ccf8695244350b3"
+    },
+    {
       "path": "docs/credits.md",
-      "bytes": 3460,
-      "sha256": "79c108ba8a338419791d623328dad61eb16a4853ffccc74551c581b04ffdf564"
+      "bytes": 3667,
+      "sha256": "3bf812986d617b18d16a0316a92f4d130012e382e38b70ad6d57b939aba9b112"
     },
     {
       "path": "docs/production.md",
-      "bytes": 20548,
-      "sha256": "ac3cd9e11224dee9b1f4455070bb70e4e52fd5b546f0b95986f58f1d8c4937c0"
+      "bytes": 21666,
+      "sha256": "0bc9c4be931152a05ece9889a8769da2b6ff375f8715d1debd17110ecbd46aab"
     },
     {
       "path": "docs/roadmap.md",
-      "bytes": 10684,
-      "sha256": "93f2f0183b2cab01d01e3c2fb242779cf9e432657ccf79d4bffae3100efc89ac"
+      "bytes": 11241,
+      "sha256": "40fb57cf2c45bcf6301da1ac24d6520db1a8492fc4c74f3a21d841b82e81951b"
     },
     {
       "path": "preview/brow-angle-check.mp4",

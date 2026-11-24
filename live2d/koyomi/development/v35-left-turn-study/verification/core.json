@@ -1,0 +1,13 @@
+{
+  "parameter_range": [
+    -1.0,
+    1.0
+  ],
+  "preservation_cases": 2160,
+  "max_geometry_delta_source_px": 0.018463134765625,
+  "max_opacity_delta": 0.0,
+  "left_cases": 2160,
+  "visible_triangle_inversions": 0,
+  "hidden_triangle_inversions": 12,
+  "closed_line_when_open": 0
+}

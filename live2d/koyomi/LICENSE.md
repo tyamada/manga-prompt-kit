@@ -24,10 +24,12 @@ AI生成・補完部分を含みます。著作権が成立しない部分につ
 - `development/v33-smooth-turn/preview/showcase-r45-30s.mp4`
 - `development/v34-depth-study/preview/showcase-turn-30s.mp4`
 - `development/v34-depth-study/preview/showcase-r45-30s.mp4`
+- `development/v35-left-turn-study/preview/showcase-both-30s.mp4`
+- `development/v35-left-turn-study/preview/showcase-l45-30s.mp4`
 
 音声にはVOICEVOXおよび春日部つむぎの規約が適用されます。音声を含めた動画全体をCC BY 4.0のみで再利用できると解釈しないでください。映像部分と各フォルダーの無音版は上記のCC BY 4.0で利用できます。音声単体のWAVは配布していません。
 
-[第三者クレジットと規約](docs/credits.md)および[v32横顔試作の個別クレジット](development/v32-profile-rig/CREDITS.md)、[v33のクレジット](development/v33-smooth-turn/CREDITS.md)、[v34のクレジット](development/v34-depth-study/CREDITS.md)も確認してください。
+[第三者クレジットと規約](docs/credits.md)および[v32横顔試作の個別クレジット](development/v32-profile-rig/CREDITS.md)、[v33のクレジット](development/v33-smooth-turn/CREDITS.md)、[v34のクレジット](development/v34-depth-study/CREDITS.md)、[v35のクレジット](development/v35-left-turn-study/CREDITS.md)も確認してください。
 
 ## クレジット例
 

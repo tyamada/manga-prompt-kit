@@ -1,0 +1,24 @@
+{
+  "basis": "v34 preserved; copied native CMO3, original37-layer PSD unchanged",
+  "parameter": {
+    "id": "ParamProfileR45",
+    "range": [
+      -1,
+      1
+    ],
+    "default": 0,
+    "compatibility": "0..1 retains v34 right-turn input; -1..0 adds left turn"
+  },
+  "changed_deformers": {
+    "Warp2": "head X parent: mirrored v34 positive profile key to negative endpoint",
+    "Warp4": "hair sway parent: mirrored positive profile key; original 6-strand children and physics retained"
+  },
+  "right_only_objects": "Negative endpoint initialized from frontal pose for existing profile-linked objects; v34 far-eye/nose/ear local adjustments are not mirrored as images. Right overlays hidden on left.",
+  "artwork": "No new image generation. Hair clip remains attached to original strand; no full-image flip.",
+  "limitations": [
+    "Oblique angles are artistic targets, not measured physical45 degrees.",
+    "Left-turn nasal/far-eye/ear dedicated local detailing is less complete than right v34; this is a left-turn base study.",
+    "No finished80-degree profile, full-body/hand animation or VTube Studio tracking."
+  ],
+  "reference": "https://docs.live2d.com/cubism-editor-manual/motion-mirroring/"
+}
