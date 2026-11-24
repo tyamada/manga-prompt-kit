@@ -1,6 +1,6 @@
 {
-  "version": "v30 + earlier development/history",
-  "date": "2026-11-23",
+  "version": "v31 + earlier development/history",
+  "date": "2026-11-24",
   "files": [
     {
       "path": ".gitignore",
@@ -9,13 +9,13 @@
     },
     {
       "path": "LICENSE.md",
-      "bytes": 2313,
-      "sha256": "ab05b199d4284f5bd05edf19f52a0b1a95f483682f568ccf32ea1818736f6d07"
+      "bytes": 2345,
+      "sha256": "6ec15d12c1fe26add78ad7e7ac22504dc4b041783f99fbd62dd4a96ee22c8f7b"
     },
     {
       "path": "README.md",
-      "bytes": 8520,
-      "sha256": "3c3316d3d6780b81cf60c1ac925d4d12d6630bc394f349a8b392a73524b789a1"
+      "bytes": 10039,
+      "sha256": "d1c05d279ddc59eec81795958aec99053d0bc637540c04b114e5d72b43254a9e"
     },
     {
       "path": "audio/README.md",
@@ -35,7 +35,7 @@
     {
       "path": "development/README.md",
       "bytes": 633,
-      "sha256": "79f2fbae4f5f653a73ae0cebd5fed0fdc4ccbc4dcc4ce1293cc01e29591fe621"
+      "sha256": "478438f3e75207bb57fcfd5e312f72fe5c1a00189b36e3d474961e13934db625"
     },
     {
       "path": "development/full-body-hands/README.md",
@@ -249,13 +249,13 @@
     },
     {
       "path": "docs/production.md",
-      "bytes": 15198,
-      "sha256": "e125b5bd3702c25a561775cc773a1b057358ef24fc108a4fa74cf5d35d2c7fcd"
+      "bytes": 16522,
+      "sha256": "0d2390124a48cf79db4d67c671d52c2dbcb0744ec7431402e38e70c01c8eda67"
     },
     {
       "path": "docs/roadmap.md",
-      "bytes": 8385,
-      "sha256": "1e29edd98a42bbe1c2df0ab18ba1a2292ce9f57244e64ffe483fcad4aec2ef1b"
+      "bytes": 8588,
+      "sha256": "eb86d6f50298e19c338f6ec133368a54de588935c76f27e52da7390a30add25c"
     },
     {
       "path": "preview/brow-angle-check.mp4",
@@ -318,6 +318,16 @@
       "sha256": "d2ca35ac87eb788d4b5d9faff6d396ab9c7b061bb2f919dfe4b5abf16032c566"
     },
     {
+      "path": "preview/head-turn-check.mp4",
+      "bytes": 1826891,
+      "sha256": "0c6f87f9cf29687a137c645c1aedd12e1fe1f802bfa04c3860f8caa3235d41bf"
+    },
+    {
+      "path": "preview/head-turn-comparison.jpg",
+      "bytes": 206217,
+      "sha256": "395354e9d7e0f95dccd3fedec5eea73a3c5b67f831b96f24cbacd7ce8082e668"
+    },
+    {
       "path": "preview/motion-contact-sheet.jpg",
       "bytes": 187790,
       "sha256": "270c4816b7ce2229f303e3205e612961decc4711640d50fd339121f370bde113"
@@ -359,18 +369,18 @@
     },
     {
       "path": "preview/showcase-30s-silent.mp4",
-      "bytes": 1351393,
-      "sha256": "cd1c34998305800122ab18ed4596c1942e888089ca7926a145bc131f8a399934"
+      "bytes": 1447803,
+      "sha256": "f2feda449ce5a7e1a242c142588a026a9d18506947dcc065c1b5642e223acf83"
     },
     {
       "path": "preview/showcase-30s.mp4",
-      "bytes": 1526085,
-      "sha256": "0fc157ffa736ac51166f2b24ab68ca6b498a92ebe44a0815ca3cc37d4eabdc24"
+      "bytes": 1622209,
+      "sha256": "405b340b1fd68ed09148bdce1fdebae635a289ad3b25bfd55e76561e3e196bc2"
     },
     {
       "path": "preview/six-expressions.jpg",
-      "bytes": 129961,
-      "sha256": "c33086a03ca7579062fa813280ae8a56e2bf52465972094a3fe0fd82b9a6e22f"
+      "bytes": 129881,
+      "sha256": "e5a5fc649d3ae8288303ce4a4428390b7d4567aeacade9ce2fb5917db8dfbfae"
     },
     {
       "path": "runtime/expressions/01_normal.exp3.json",
@@ -424,13 +434,13 @@
     },
     {
       "path": "runtime/koyomi.moc3",
-      "bytes": 83520,
-      "sha256": "6b462788a2833c7bc42b1cc59e4aa919b7d15cf18e2a64d996a0da1e5fed2767"
+      "bytes": 82368,
+      "sha256": "3158f72b4b9e93000cbb56a90ed45a4a657ec0005fb767799b44ec08b19b6c0b"
     },
     {
       "path": "runtime/koyomi.model3.json",
-      "bytes": 2697,
-      "sha256": "e33e1b50f31505dfeb9396ffe0f09a2e6f259f45f7e325de230f397535c09bd8"
+      "bytes": 2863,
+      "sha256": "732b8ad227d98e2336a15cccb319ba83e15808b8441ba850ea766c77b52b4a48"
     },
     {
       "path": "runtime/koyomi.physics3.json",
@@ -468,6 +478,11 @@
       "sha256": "0aa54fa23e45d5a130412b3f55304d0b3883d9977de9596b346171f71222f287"
     },
     {
+      "path": "runtime/motions/head-turn-check.motion3.json",
+      "bytes": 4000,
+      "sha256": "a98ab5970429924944784540a3a6be1f9410cb0d6c4ae1b74246c243d5bb6d3d"
+    },
+    {
       "path": "runtime/motions/mouth-check.motion3.json",
       "bytes": 1374,
       "sha256": "f1c910cf6f37aad459ec7813e7d5158429c4d1b82033d9f744328b00468241f5"
@@ -494,8 +509,8 @@
     },
     {
       "path": "runtime/textures/texture_00.png",
-      "bytes": 2160190,
-      "sha256": "3e0ebf2aceace3605a473db3ae8a18366e0893e4d88d7c58356c2e27605293d3"
+      "bytes": 2158387,
+      "sha256": "ddfc86309f9e3bac4c1efcfcd4e4ec36eea4466825093fd26f726bf67555d2ea"
     },
     {
       "path": "source/hair-strands-add.psd",
@@ -563,9 +578,19 @@
       "sha256": "ee9be968b055b732fcaf2e6c0e819da7e9fa04eb89534469e39a29ed94d57da9"
     },
     {
+      "path": "source/koyomi-v31.cmo3",
+      "bytes": 12914546,
+      "sha256": "4ff8ed362fbe9fc8d7b915f6766c423a5c7502b493e390012a8c8573f887ea76"
+    },
+    {
+      "path": "source/koyomi-v31.psd",
+      "bytes": 13276062,
+      "sha256": "df90c94cc08465ff26b0a939ad85e0a7e3c5e10b810ab688054d24ce30095ff9"
+    },
+    {
       "path": "source/layers.json",
       "bytes": 1311,
-      "sha256": "7caab870fddbb6fada894b4688fb6865ed4ae2dcbe288653ce4639675b28fe9f"
+      "sha256": "bc515323c2bbec41b61fc695572cd6312343bfdc236281e14af8a0721a0bfd75"
     },
     {
       "path": "source/parts/01_Hair_Back.png",
@@ -579,13 +604,13 @@
     },
     {
       "path": "source/parts/02_Body_Neck.png",
-      "bytes": 113597,
-      "sha256": "65e1bb7c58876d7f96292c1bca40e7e474360422eb3549d0838525922dfdd98f"
+      "bytes": 107860,
+      "sha256": "54784a34a829f3dec40e0b86b5daf976e97f38d99627895fc4c09454419beea0"
     },
     {
       "path": "source/parts/02_Body_Neck.svg",
-      "bytes": 1421633,
-      "sha256": "eb58f652759487a1dd32d335036b193e5d3aceef486da425fb1f54f7cd7e32a9"
+      "bytes": 1421758,
+      "sha256": "6e4b7d5542d920ed20da796d2c1fda3d8905930e1416c6c6acbcd2188564659b"
     },
     {
       "path": "source/parts/03_Skin_Head.png",
@@ -831,6 +856,16 @@
       "path": "verification/v30-runtime.json",
       "bytes": 6939,
       "sha256": "3969672571934ea483fc7cbeb15a1c692e98209df9df88402629dad8989f2a39"
+    },
+    {
+      "path": "verification/v31-runtime.json",
+      "bytes": 4532,
+      "sha256": "4e9141fd5fa76a0d7b655a57feb89814a2819d931ee255ddf4a393739694f883"
+    },
+    {
+      "path": "verification/v31-source-change.json",
+      "bytes": 227,
+      "sha256": "0ba4b62e312241f771dc1f0a2d5c218127937faaf18aba55afcae972b86d1cd6"
     }
   ]
 }

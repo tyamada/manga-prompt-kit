@@ -1,6 +1,6 @@
 # こよみ Live2Dモデル
 
-『ためし部』の小坂こよみのLive2D制作データ **v30** です。v29の口表示修正・顔立ち・音声同期・6表情・6毛束の物理演算を保ち、**左右独立の眉の角度を追加**しました。
+『ためし部』の小坂こよみのLive2D制作データ **v31** です。v30の正面・音声同期・6表情・眉角度・髪揺れを保ち、**斜め向きを調整し、まばたき中に閉じ口の線が再表示される問題を修正**しました。45〜80度の大きな横顔は未完成です。
 
 ![6表情](preview/six-expressions.jpg)
 
@@ -8,19 +8,29 @@
 
 音声：**VOICEVOX:春日部つむぎ**。最初の約9秒が自己紹介、続いて6表情を比較します。動画の音声・映像を別々にずらす同期補正は行っていません。
 
-[モデル・PSD・CMO3・確認動画のZIP](https://github.com/tyamada/manga-prompt-kit/releases/tag/koyomi-live2d-v30-20261123)
+[モデル・PSD・CMO3・確認動画のZIP](https://github.com/tyamada/manga-prompt-kit/releases/tag/koyomi-live2d-v31-20261124)
 
 ## 再生・編集
 
 1. Cubism Viewerで [`runtime/koyomi.model3.json`](runtime/koyomi.model3.json) を開きます。SDK 5.3対応です。
-2. `motions > HairStrandsCheck` は6毛束の個別確認、`motions > Showcase` は30秒の自己紹介動作と6表情、`GazeCheck` は上下左右・斜めの視線と閉眼・笑顔目、`BrowCheck` は左右の眉、`MouthCheck` は通常・笑顔・驚きの口開閉、`BrowAngleCheck` は左右の眉角度の単独確認です。配布モデルは無音です。[音声を自分の環境で追加する手順](audio/README.md)を参照してください。
+2. `motions > HairStrandsCheck` は6毛束の個別確認、`motions > Showcase` は30秒の自己紹介動作と6表情、`GazeCheck` は上下左右・斜めの視線と閉眼・笑顔目、`BrowCheck` は左右の眉、`MouthCheck` は通常・笑顔・驚きの口開閉、`BrowAngleCheck` は左右の眉角度、`HeadTurnCheck` は左右向きと上下・口・まばたきの組合せ確認です。配布モデルは無音です。[音声を自分の環境で追加する手順](audio/README.md)を参照してください。
 3. `Showcase` と `PhysicsCheck` は**物理演算をオン**にします。`HairStrandsCheck` は直接パラメータを動かすため**物理演算をオフ**にします。自動目パチ・カーソル追従・呼吸・アイドリングモーションと手動表情は解除してください。別版の確認ウィンドウを閉じると描画負荷を減らせます。
 4. 手動の `expressions` ではノーマル・嬉しい・びっくり・ひらめき・やってみよう！・気づいたを選べます。表情を有効にし、モーションを停止して切り替えてください。表情設定は口の開閉値を上書きしないため、音声の口開閉と併用できます。
-5. 編集は [`source/koyomi-v30.cmo3`](source/koyomi-v30.cmo3) をCubism Editorで開きます。原画は [`source/koyomi-v27.psd`](source/koyomi-v27.psd)（35層）と分割PNG・SVGです。追加笑顔目のみのPSDと、髪7パーツだけのPSD・分割PNGも保存しています。PSDはv27から変更していません。以前のCMO3は履歴参照用です。
+5. 編集は [`source/koyomi-v31.cmo3`](source/koyomi-v31.cmo3) をCubism Editorで開きます。原画は [`source/koyomi-v31.psd`](source/koyomi-v31.psd)（35層）と分割PNG・SVGです。追加笑顔目のみのPSDと、髪7パーツだけのPSD・分割PNGも保存しています。PSDは首側の重複顎線のみを修正しました。以前のCMO3は履歴参照用です。
 
-## v30の眉角度
+## v31の斜め向きと目パチ・口の分離
 
-[左右単独の角度確認動画](preview/brow-angle-check.mp4) · [比較画像](preview/brow-angle-comparison.jpg)
+[顔向きと口・まばたきの実行動画](preview/head-turn-check.mp4) · [比較画像](preview/head-turn-comparison.jpg)
+
+左右向きの端点で顔の中心線を段階的に移し、斜め向きを強めました。正面の形状・既存の30秒モーション・音声原本・6表情・髪物理演算はv30と同じです。首素材から重複顎線を除去し、PSD35層のうち他34層は描画内容・位置・可視状態が同一です。顔向きによる変形そのものは変わるため、既存の小振幅シーンも再収録しました。
+
+組合せ検証で、v30以前の閉じ口パーツに左目開閉のキーが入り、閉眼中に口を開けても線が再表示される問題を発見しました。閉じ口からこの誤った連動を外し、開閉0.1以上では閉眼中も非表示にしました。Xの5段階・Yの3段階・口開閉4段階・口形3種・閉眼/開眼の360条件で確認し、新たな三角形の反転はありませんでした。
+
+`HeadTurnCheck`のX±30・Y±8はパラメータ値で、実際の顔の角度ではありません。正面原画の斜め向き調整であり、45〜80度の横顔、鼻の外形・遠い側の目の隠れ方と専用の途中原画は今後の工程です。
+
+## v30の眉角度（維持）
+
+[左右単独の角度確認動画（v30）](preview/brow-angle-check.mp4) · [比較画像](preview/brow-angle-comparison.jpg)
 
 `ParamBrowLAngle` / `ParamBrowRAngle`を追加しました。左右は本人基準、各-1〜1・初期値0・回転約±6度です。各項目は対応する眉だけを動かし、目・口・髪等は動かしません。既存の眉上下・共通表情と併用できます。嬉しいはわずかに内側を上げ、ひらめき・気づいたは片眉の差、やってみよう！は内側を控えめに下げています。右眉は前髪に隠れる部分があります。
 
@@ -47,7 +57,7 @@
 - `ParamBrowLAdjustY/RAdjustY`（本人基準、各-1〜1、初期値0）は左右の眉だけを約7原画px上下させる追加調整です。既存の共通眉制御は維持しています。[左右単独確認動画](preview/brow-check.mp4)と[比較画像](preview/brow-comparison.jpg)は上下調整を追加したv28の記録です。右眉は前髪に隠れる部分があります。
 - 大きな横顔、眉の独立した形状、体・リボン・手の演技、VTube Studio追従は未完了です。
 
-[実機確認記録](verification/v30-runtime.json) · [制作記録](docs/production.md) · [全体計画と残作業](docs/roadmap.md) · [開発資料](development/README.md)
+[実機確認記録](verification/v31-runtime.json) · [制作記録](docs/production.md) · [全体計画と残作業](docs/roadmap.md) · [開発資料](development/README.md)
 
 ## フォルダー構成と利用条件
 

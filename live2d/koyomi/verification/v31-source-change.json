@@ -1,0 +1,7 @@
+{
+  "layers": 35,
+  "changed_layers": [
+    "02_Body_Neck"
+  ],
+  "method": "Editable SVG repaint removes duplicate jaw stroke from neck. All other PSD layers byte-identical after decoding, positions and visibility retained."
+}

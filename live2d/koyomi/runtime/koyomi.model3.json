@@ -74,6 +74,13 @@
           "FadeInTime": 0,
           "FadeOutTime": 0
         }
+      ],
+      "HeadTurnCheck": [
+        {
+          "File": "motions/head-turn-check.motion3.json",
+          "FadeInTime": 0,
+          "FadeOutTime": 0
+        }
       ]
     },
     "Expressions": [
