@@ -4,7 +4,9 @@
 
 ## 波音リツのナレーション改稿
 
-[ナレーションv2の原稿](development/voice-audition/narration-v2.txt)では、初めて聞く人に向けて凪の名前と役割を紹介し、最後に続きを案内します。音声合成と口パクの再調整はこれからです。既存モーションに音声を合わせる場合は、口リグv3の再生手順にある台詞と合成クエリを使用してください。
+[原稿](development/voice-audition/narration-v2.txt) · [合成クエリ](development/front-separation/nagi-narration-v2/narration-v2-query.json) · [Viewer用モデル一式](development/front-separation/nagi-narration-v2/runtime/)
+
+Cubism Viewerで別版の `runtime/nagi-gaze-lipsync-v2.model3.json` を開き、`Narration` を再生すると約13秒の口パクを確認できます。音声を合わせる場合は、合成クエリをVOICEVOX:波音リツ（ノーマル、スタイル9）で合成し、生成したWAVをViewerの「音声」欄で指定します。試作時はEngine 0.26.2、Core 0.17.0を使用しました。音声利用時は「VOICEVOX:波音リツ」を表示してください。
 
 ## 視線＋まばたき＋口パク v2
 
