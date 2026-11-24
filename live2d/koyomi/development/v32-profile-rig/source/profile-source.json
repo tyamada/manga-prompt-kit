@@ -1,0 +1,51 @@
+{
+  "status": "Cubism right45 integration prototype; Viewer voice and six expressions checked; continuous transition, left and80 unfinished",
+  "canvas": [
+    1024,
+    1024
+  ],
+  "new_layers": [
+    {
+      "name": "P32_R45_Back",
+      "bbox": [
+        62,
+        54,
+        949,
+        943
+      ],
+      "visible": true
+    },
+    {
+      "name": "P32_R45_Face",
+      "bbox": [
+        331,
+        381,
+        805,
+        945
+      ],
+      "visible": true
+    },
+    {
+      "name": "P32_R45_Front",
+      "bbox": [
+        151,
+        56,
+        947,
+        945
+      ],
+      "visible": true
+    }
+  ],
+  "base_v31_layers_preserved": 35,
+  "removed_disconnected_alpha_pixels": 29301,
+  "partition_composite_exact": true,
+  "original_generated_alpha_preserved_inside_mask": true,
+  "neck_cut_y": 945,
+  "source_tool": "built-in image_gen; PSD silhouette masks and native layer partition",
+  "limitations": [
+    "3-way partition for display switching, not final independent hair/skin masks or strand physics",
+    "Only right45 integrated. Left45/80 and right80 remain art candidates",
+    "ParamProfileR45 0 and1 endpoints only; intermediate values crossfade overlapping heads and are not production-ready",
+    "Additional feature parent changes oblique feature geometry slightly: see motion-preservation.json"
+  ]
+}

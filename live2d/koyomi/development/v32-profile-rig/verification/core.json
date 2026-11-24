@@ -1,0 +1,28 @@
+{
+  "new_meshes": [
+    "P32_R45_Back",
+    "P32_R45_Face",
+    "P32_R45_Front"
+  ],
+  "profile_default": 0.0,
+  "preservation_cases": 360,
+  "profile_cases": 720,
+  "profile0_max_delta_source_px": 4.737270355224609,
+  "max_old_uv_delta": 0,
+  "new_triangle_inversions": 0,
+  "hidden_collapsed_triangle_sign_changes": 1752,
+  "closed_mouth_hidden": true,
+  "old_skin_and_hair_hidden_at_profile1": true,
+  "six_expressions_checked": [
+    "01_normal.exp3.json",
+    "02_happy.exp3.json",
+    "03_surprised.exp3.json",
+    "04_idea.exp3.json",
+    "05_lets_try.exp3.json",
+    "06_noticed.exp3.json"
+  ],
+  "old_visible_texture_pixels_changed": 0,
+  "native_physics_equal": true,
+  "new_profile_texture_scale_percent": 50,
+  "continuous_transition_status": "Not approved: intermediate crossfade and left/profile80 views remain unfinished."
+}
