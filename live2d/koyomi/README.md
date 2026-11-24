@@ -28,6 +28,8 @@
 
 `HeadTurnCheck`のX±30・Y±8はパラメータ値で、実際の顔の角度ではありません。正面原画の斜め向き調整であり、45〜80度の横顔、鼻の外形・遠い側の目の隠れ方と専用の途中原画は今後の工程です。
 
+45〜80度用の[専用原画候補（v32・制作途中）](development/v32-profile-art/README.md)を追加しました。未分割・未リグで、配布用モデルはv31のままです。
+
 ## v30の眉角度（維持）
 
 [左右単独の角度確認動画（v30）](preview/brow-angle-check.mp4) · [比較画像](preview/brow-angle-comparison.jpg)

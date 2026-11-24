@@ -1,0 +1,41 @@
+{
+  "stage": "unrigged-art-candidates",
+  "tool": "built-in image_gen",
+  "date": "2026-11-24",
+  "runtime_unchanged": "v31",
+  "files": [
+    {
+      "file": "right45-head-candidate.png",
+      "size": 1437958,
+      "sha256": "4687940f605a79614a24c45c04eaf96b5c36a43e899bc78aaa3af19e17b84586",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "transparent_pixels": 684383,
+      "opaque_pixels": 2438,
+      "partial_alpha_pixels": 885695
+    },
+    {
+      "file": "left45-left80-right80-candidates.png",
+      "size": 1491368,
+      "sha256": "56c9479b51d21b19e3e21ba93f0f191fcf5b576d6c4f8803ed33011c2d13b337",
+      "dimensions": [
+        2172,
+        724
+      ],
+      "mode": "RGBA",
+      "transparent_pixels": 664665,
+      "opaque_pixels": 2092,
+      "partial_alpha_pixels": 905771
+    }
+  ],
+  "visual_review": [
+    "右45度候補の耳飾りを除去",
+    "左向き候補では本人右側の髪留めを隠した",
+    "80度候補の遠眼は隠れている",
+    "輪郭周辺の色・白縁、顔立ち・髪量の一致は未修正",
+    "未分割・未リグ、音声動画は未作成"
+  ]
+}
