@@ -1,0 +1,11 @@
+{
+  "video_frames": 373,
+  "fps": 30,
+  "distinct_mouth_patches": 244,
+  "video_seconds": 12.433333,
+  "audio_seconds": 12.426667,
+  "source_motion_sha256": "8b4726cd47c82b129cb9fdb3f4900a656f76bb90541dac708d93149b5ac4cc30",
+  "source_audio_sha256": "73c57fb381fae7eea43d7fde95d2d86e89966363e66f9613dfc3c6b9785ba7a0",
+  "video_sha256": "257fcadf18c51f4c0e2b0bb5a204386c55b268b62e0fa2232b243d43ef072ad7",
+  "cubism_viewer_verified": false
+}

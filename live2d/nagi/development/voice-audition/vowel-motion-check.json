@@ -1,0 +1,20 @@
+{
+  "audio_duration_seconds": 12.426667,
+  "query_predicted_seconds": 12.504821125773201,
+  "timing_scale": 0.993750080469994,
+  "phoneme_count": 131,
+  "voiced_vowel_counts": {
+    "a": 15,
+    "i": 13,
+    "u": 9,
+    "e": 9,
+    "o": 14
+  },
+  "mouth_form_range": [
+    -0.718,
+    0.749
+  ],
+  "mouth_open_maximum": 0.803,
+  "keyframes_per_curve": 374,
+  "cubism_playback_verified": false
+}

@@ -1,0 +1,21 @@
+{
+  "source_sha256": "425321d96a4ddc34d28aff130bf47a0f3b828117084bc4f49c6336bbcc910a5d",
+  "psd_sha256": "0fed97ca3e45e73406520e39d7cf4e4892a853450989d6f31dc4839482b26c50",
+  "preview_sha256": "520b2a56ddf8b0a4d66b12942bea21d9fca5a64001a6bd707bd25c06eb0cae89",
+  "overlap_pixels_by_hand": {
+    "Hand_R_visible_draft": 817,
+    "Hand_L_visible_draft": 829
+  },
+  "comparison_lower_row_translation_px": {
+    "Hand_R_with_overlap": [
+      -2,
+      5
+    ],
+    "Hand_L_with_overlap": [
+      2,
+      5
+    ]
+  },
+  "cubism_import_verified": false,
+  "comparison_rendered_in_cubism": false
+}

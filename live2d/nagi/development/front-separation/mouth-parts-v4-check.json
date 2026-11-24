@@ -1,0 +1,22 @@
+{
+  "source_sha256": "425321d96a4ddc34d28aff130bf47a0f3b828117084bc4f49c6336bbcc910a5d",
+  "psd_sha256": "03b0ae2495aea567aa692dc39737bbb8e3a8b3662a60b47cdce8b38af8aebfb1",
+  "mouth_layers": [
+    "Mouth_Closed",
+    "Mouth_A",
+    "Mouth_I",
+    "Mouth_U",
+    "Mouth_E",
+    "Mouth_O"
+  ],
+  "hidden_by_default_in_psd": [
+    "Mouth_A",
+    "Mouth_I",
+    "Mouth_U",
+    "Mouth_E",
+    "Mouth_O"
+  ],
+  "six_distinct_previews": true,
+  "decoded_psd_matches_neutral": true,
+  "cubism_import_verified": false
+}
