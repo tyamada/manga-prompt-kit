@@ -1,0 +1,362 @@
+{
+  "status": "endpoint-only prototype; not natural intermediate blink/lipsync rig",
+  "drawable_count": 8,
+  "sample_count": 25,
+  "all_finite": true,
+  "endpoint_open_close_work": true,
+  "linear_intermediate_crossfade_known": true,
+  "continuous_mid_blink_and_mouth_not_accepted": true,
+  "v36_editor_runtime_voice_unchanged": true,
+  "samples": [
+    {
+      "eye": 0,
+      "mouth": 0,
+      "opacity": {
+        "R80_Mouth_Open": 0.0,
+        "R80_Eye_Closed": 1.0,
+        "R80_Mouth_Closed": 1.0,
+        "R80_Eye_Open": 0.0,
+        "R80_Brow_Normal": 1.0,
+        "R80_FrontHairClip": 1.0,
+        "R80_FaceEarNeck": 1.0,
+        "R80_BackHair": 1.0
+      }
+    },
+    {
+      "eye": 0,
+      "mouth": 0.25,
+      "opacity": {
+        "R80_Mouth_Open": 0.25,
+        "R80_Eye_Closed": 1.0,
+        "R80_Mouth_Closed": 0.75,
+        "R80_Eye_Open": 0.0,
+        "R80_Brow_Normal": 1.0,
+        "R80_FrontHairClip": 1.0,
+        "R80_FaceEarNeck": 1.0,
+        "R80_BackHair": 1.0
+      }
+    },
+    {
+      "eye": 0,
+      "mouth": 0.5,
+      "opacity": {
+        "R80_Mouth_Open": 0.5,
+        "R80_Eye_Closed": 1.0,
+        "R80_Mouth_Closed": 0.5,
+        "R80_Eye_Open": 0.0,
+        "R80_Brow_Normal": 1.0,
+        "R80_FrontHairClip": 1.0,
+        "R80_FaceEarNeck": 1.0,
+        "R80_BackHair": 1.0
+      }
+    },
+    {
+      "eye": 0,
+      "mouth": 0.75,
+      "opacity": {
+        "R80_Mouth_Open": 0.75,
+        "R80_Eye_Closed": 1.0,
+        "R80_Mouth_Closed": 0.25,
+        "R80_Eye_Open": 0.0,
+        "R80_Brow_Normal": 1.0,
+        "R80_FrontHairClip": 1.0,
+        "R80_FaceEarNeck": 1.0,
+        "R80_BackHair": 1.0
+      }
+    },
+    {
+      "eye": 0,
+      "mouth": 1,
+      "opacity": {
+        "R80_Mouth_Open": 1.0,
+        "R80_Eye_Closed": 1.0,
+        "R80_Mouth_Closed": 0.0,
+        "R80_Eye_Open": 0.0,
+        "R80_Brow_Normal": 1.0,
+        "R80_FrontHairClip": 1.0,
+        "R80_FaceEarNeck": 1.0,
+        "R80_BackHair": 1.0
+      }
+    },
+    {
+      "eye": 0.25,
+      "mouth": 0,
+      "opacity": {
+        "R80_Mouth_Open": 0.0,
+        "R80_Eye_Closed": 0.75,
+        "R80_Mouth_Closed": 1.0,
+        "R80_Eye_Open": 0.25,
+        "R80_Brow_Normal": 1.0,
+        "R80_FrontHairClip": 1.0,
+        "R80_FaceEarNeck": 1.0,
+        "R80_BackHair": 1.0
+      }
+    },
+    {
+      "eye": 0.25,
+      "mouth": 0.25,
+      "opacity": {
+        "R80_Mouth_Open": 0.25,
+        "R80_Eye_Closed": 0.75,
+        "R80_Mouth_Closed": 0.75,
+        "R80_Eye_Open": 0.25,
+        "R80_Brow_Normal": 1.0,
+        "R80_FrontHairClip": 1.0,
+        "R80_FaceEarNeck": 1.0,
+        "R80_BackHair": 1.0
+      }
+    },
+    {
+      "eye": 0.25,
+      "mouth": 0.5,
+      "opacity": {
+        "R80_Mouth_Open": 0.5,
+        "R80_Eye_Closed": 0.75,
+        "R80_Mouth_Closed": 0.5,
+        "R80_Eye_Open": 0.25,
+        "R80_Brow_Normal": 1.0,
+        "R80_FrontHairClip": 1.0,
+        "R80_FaceEarNeck": 1.0,
+        "R80_BackHair": 1.0
+      }
+    },
+    {
+      "eye": 0.25,
+      "mouth": 0.75,
+      "opacity": {
+        "R80_Mouth_Open": 0.75,
+        "R80_Eye_Closed": 0.75,
+        "R80_Mouth_Closed": 0.25,
+        "R80_Eye_Open": 0.25,
+        "R80_Brow_Normal": 1.0,
+        "R80_FrontHairClip": 1.0,
+        "R80_FaceEarNeck": 1.0,
+        "R80_BackHair": 1.0
+      }
+    },
+    {
+      "eye": 0.25,
+      "mouth": 1,
+      "opacity": {
+        "R80_Mouth_Open": 1.0,
+        "R80_Eye_Closed": 0.75,
+        "R80_Mouth_Closed": 0.0,
+        "R80_Eye_Open": 0.25,
+        "R80_Brow_Normal": 1.0,
+        "R80_FrontHairClip": 1.0,
+        "R80_FaceEarNeck": 1.0,
+        "R80_BackHair": 1.0
+      }
+    },
+    {
+      "eye": 0.5,
+      "mouth": 0,
+      "opacity": {
+        "R80_Mouth_Open": 0.0,
+        "R80_Eye_Closed": 0.5,
+        "R80_Mouth_Closed": 1.0,
+        "R80_Eye_Open": 0.5,
+        "R80_Brow_Normal": 1.0,
+        "R80_FrontHairClip": 1.0,
+        "R80_FaceEarNeck": 1.0,
+        "R80_BackHair": 1.0
+      }
+    },
+    {
+      "eye": 0.5,
+      "mouth": 0.25,
+      "opacity": {
+        "R80_Mouth_Open": 0.25,
+        "R80_Eye_Closed": 0.5,
+        "R80_Mouth_Closed": 0.75,
+        "R80_Eye_Open": 0.5,
+        "R80_Brow_Normal": 1.0,
+        "R80_FrontHairClip": 1.0,
+        "R80_FaceEarNeck": 1.0,
+        "R80_BackHair": 1.0
+      }
+    },
+    {
+      "eye": 0.5,
+      "mouth": 0.5,
+      "opacity": {
+        "R80_Mouth_Open": 0.5,
+        "R80_Eye_Closed": 0.5,
+        "R80_Mouth_Closed": 0.5,
+        "R80_Eye_Open": 0.5,
+        "R80_Brow_Normal": 1.0,
+        "R80_FrontHairClip": 1.0,
+        "R80_FaceEarNeck": 1.0,
+        "R80_BackHair": 1.0
+      }
+    },
+    {
+      "eye": 0.5,
+      "mouth": 0.75,
+      "opacity": {
+        "R80_Mouth_Open": 0.75,
+        "R80_Eye_Closed": 0.5,
+        "R80_Mouth_Closed": 0.25,
+        "R80_Eye_Open": 0.5,
+        "R80_Brow_Normal": 1.0,
+        "R80_FrontHairClip": 1.0,
+        "R80_FaceEarNeck": 1.0,
+        "R80_BackHair": 1.0
+      }
+    },
+    {
+      "eye": 0.5,
+      "mouth": 1,
+      "opacity": {
+        "R80_Mouth_Open": 1.0,
+        "R80_Eye_Closed": 0.5,
+        "R80_Mouth_Closed": 0.0,
+        "R80_Eye_Open": 0.5,
+        "R80_Brow_Normal": 1.0,
+        "R80_FrontHairClip": 1.0,
+        "R80_FaceEarNeck": 1.0,
+        "R80_BackHair": 1.0
+      }
+    },
+    {
+      "eye": 0.75,
+      "mouth": 0,
+      "opacity": {
+        "R80_Mouth_Open": 0.0,
+        "R80_Eye_Closed": 0.25,
+        "R80_Mouth_Closed": 1.0,
+        "R80_Eye_Open": 0.75,
+        "R80_Brow_Normal": 1.0,
+        "R80_FrontHairClip": 1.0,
+        "R80_FaceEarNeck": 1.0,
+        "R80_BackHair": 1.0
+      }
+    },
+    {
+      "eye": 0.75,
+      "mouth": 0.25,
+      "opacity": {
+        "R80_Mouth_Open": 0.25,
+        "R80_Eye_Closed": 0.25,
+        "R80_Mouth_Closed": 0.75,
+        "R80_Eye_Open": 0.75,
+        "R80_Brow_Normal": 1.0,
+        "R80_FrontHairClip": 1.0,
+        "R80_FaceEarNeck": 1.0,
+        "R80_BackHair": 1.0
+      }
+    },
+    {
+      "eye": 0.75,
+      "mouth": 0.5,
+      "opacity": {
+        "R80_Mouth_Open": 0.5,
+        "R80_Eye_Closed": 0.25,
+        "R80_Mouth_Closed": 0.5,
+        "R80_Eye_Open": 0.75,
+        "R80_Brow_Normal": 1.0,
+        "R80_FrontHairClip": 1.0,
+        "R80_FaceEarNeck": 1.0,
+        "R80_BackHair": 1.0
+      }
+    },
+    {
+      "eye": 0.75,
+      "mouth": 0.75,
+      "opacity": {
+        "R80_Mouth_Open": 0.75,
+        "R80_Eye_Closed": 0.25,
+        "R80_Mouth_Closed": 0.25,
+        "R80_Eye_Open": 0.75,
+        "R80_Brow_Normal": 1.0,
+        "R80_FrontHairClip": 1.0,
+        "R80_FaceEarNeck": 1.0,
+        "R80_BackHair": 1.0
+      }
+    },
+    {
+      "eye": 0.75,
+      "mouth": 1,
+      "opacity": {
+        "R80_Mouth_Open": 1.0,
+        "R80_Eye_Closed": 0.25,
+        "R80_Mouth_Closed": 0.0,
+        "R80_Eye_Open": 0.75,
+        "R80_Brow_Normal": 1.0,
+        "R80_FrontHairClip": 1.0,
+        "R80_FaceEarNeck": 1.0,
+        "R80_BackHair": 1.0
+      }
+    },
+    {
+      "eye": 1,
+      "mouth": 0,
+      "opacity": {
+        "R80_Mouth_Open": 0.0,
+        "R80_Eye_Closed": 0.0,
+        "R80_Mouth_Closed": 1.0,
+        "R80_Eye_Open": 1.0,
+        "R80_Brow_Normal": 1.0,
+        "R80_FrontHairClip": 1.0,
+        "R80_FaceEarNeck": 1.0,
+        "R80_BackHair": 1.0
+      }
+    },
+    {
+      "eye": 1,
+      "mouth": 0.25,
+      "opacity": {
+        "R80_Mouth_Open": 0.25,
+        "R80_Eye_Closed": 0.0,
+        "R80_Mouth_Closed": 0.75,
+        "R80_Eye_Open": 1.0,
+        "R80_Brow_Normal": 1.0,
+        "R80_FrontHairClip": 1.0,
+        "R80_FaceEarNeck": 1.0,
+        "R80_BackHair": 1.0
+      }
+    },
+    {
+      "eye": 1,
+      "mouth": 0.5,
+      "opacity": {
+        "R80_Mouth_Open": 0.5,
+        "R80_Eye_Closed": 0.0,
+        "R80_Mouth_Closed": 0.5,
+        "R80_Eye_Open": 1.0,
+        "R80_Brow_Normal": 1.0,
+        "R80_FrontHairClip": 1.0,
+        "R80_FaceEarNeck": 1.0,
+        "R80_BackHair": 1.0
+      }
+    },
+    {
+      "eye": 1,
+      "mouth": 0.75,
+      "opacity": {
+        "R80_Mouth_Open": 0.75,
+        "R80_Eye_Closed": 0.0,
+        "R80_Mouth_Closed": 0.25,
+        "R80_Eye_Open": 1.0,
+        "R80_Brow_Normal": 1.0,
+        "R80_FrontHairClip": 1.0,
+        "R80_FaceEarNeck": 1.0,
+        "R80_BackHair": 1.0
+      }
+    },
+    {
+      "eye": 1,
+      "mouth": 1,
+      "opacity": {
+        "R80_Mouth_Open": 1.0,
+        "R80_Eye_Closed": 0.0,
+        "R80_Mouth_Closed": 0.0,
+        "R80_Eye_Open": 1.0,
+        "R80_Brow_Normal": 1.0,
+        "R80_FrontHairClip": 1.0,
+        "R80_FaceEarNeck": 1.0,
+        "R80_BackHair": 1.0
+      }
+    }
+  ]
+}

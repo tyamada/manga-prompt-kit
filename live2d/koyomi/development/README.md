@@ -20,3 +20,5 @@
 - [v35：左斜め向きの土台と左右連続確認](v35-left-turn-study/README.md)
 
 - [v36：左向きの目・鼻・耳と閉眼の仕上げ](v36-left-depth-study/README.md)
+
+- [v37：右80度の専用原画・開閉終点の独立試作](v37-right80-study/README.md)

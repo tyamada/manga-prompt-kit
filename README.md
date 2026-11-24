@@ -18,6 +18,7 @@
 - [鼻筋・遠い目・耳の重なりを調整したv34（開発版）](live2d/koyomi/development/v34-depth-study/README.md)
 - [左斜め向きの土台を追加したv35（開発版）](live2d/koyomi/development/v35-left-turn-study/README.md)
 - [左向きの目・鼻・耳を調整したv36（開発版）](live2d/koyomi/development/v36-left-depth-study/README.md)
+- [右80度の専用原画と開閉終点を確認するv37（独立試作）](live2d/koyomi/development/v37-right80-study/README.md)
 - [音声付き確認動画](live2d/koyomi/preview/showcase-30s.mp4)／[無音版動画](live2d/koyomi/preview/showcase-30s-silent.mp4)
 - **CC BY 4.0**：独自のモデル、編集素材、画像、モーション、文章、動画の映像部分。[適用範囲](live2d/koyomi/LICENSE.md)を参照してください。
 - **音声の例外**：音声付き動画の「VOICEVOX:春日部つむぎ」の音声部分はCC BY 4.0の対象外です。公式規約に従います。音声単体WAVは同梱せず、配布モデルは無音で再生します。[音声の追加手順](live2d/koyomi/audio/README.md)を用意しています。

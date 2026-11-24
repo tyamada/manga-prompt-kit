@@ -1,6 +1,6 @@
 {
-  "version": "v31 stable + v36 left-depth refinements and earlier development",
-  "date": "2026-11-24",
+  "version": "v31 stable + v36 validated + v37 endpoint-only80 degree study",
+  "date": "2026-11-25",
   "files": [
     {
       "path": ".gitignore",
@@ -14,8 +14,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 12370,
-      "sha256": "721211c7a5e3acae32a464fe485d3c7db12dd1e492e5c0f29442d766a2dd1c56"
+      "bytes": 12802,
+      "sha256": "2aec6c54d1592ff1500242e64a51a9e3d69b2e9a96c54edbdfc30b0448cbb013"
     },
     {
       "path": "audio/README.md",
@@ -34,8 +34,8 @@
     },
     {
       "path": "development/README.md",
-      "bytes": 1224,
-      "sha256": "eb87a38b45cdeb99145cb2e6e5be66e42ac88581619569e5b39636058dcb2e47"
+      "bytes": 1318,
+      "sha256": "7cf8fd3e14e3486cde747ee6ecaff429b670a6eae698cfa35f7f5cb6067a6624"
     },
     {
       "path": "development/full-body-hands/README.md",
@@ -1638,19 +1638,149 @@
       "sha256": "cf9ec1141dfafb5daff47e7e488a6765fa86561086d3b34832008aa7002eaf16"
     },
     {
+      "path": "development/v37-right80-study/LICENSE.md",
+      "bytes": 1678,
+      "sha256": "47381eed4b3d78e15815e4f413f7853cd4814a3d6428f87e04ceb3aa82ff0bc4"
+    },
+    {
+      "path": "development/v37-right80-study/README.md",
+      "bytes": 2784,
+      "sha256": "919cd7ddc6e39754317ad47a88bce8197d65442344d5415c785db624754cdf73"
+    },
+    {
+      "path": "development/v37-right80-study/generation-notes.md",
+      "bytes": 2968,
+      "sha256": "bd355b0854e1dc4d21325573aa3eea54603974f1d9b772f6356738eb35d20ee4"
+    },
+    {
+      "path": "development/v37-right80-study/right80-states-check.mp4",
+      "bytes": 168511,
+      "sha256": "8302a4cd993e19e2680444879d12274895b1a98ea6341c34f232f81890727238"
+    },
+    {
+      "path": "development/v37-right80-study/right80-states.jpg",
+      "bytes": 74879,
+      "sha256": "aae3409f2a01841752d6e278a32828925dc0b278f2d86b5ce1b6cc405804f996"
+    },
+    {
+      "path": "development/v37-right80-study/runtime/koyomi-v37-right80-study.2048/texture_00.png",
+      "bytes": 1676029,
+      "sha256": "4a48eca729a81835c2cad8d3bab48b53f55fa06743ec6b51e4c8c2504a70f50a"
+    },
+    {
+      "path": "development/v37-right80-study/runtime/koyomi-v37-right80-study.cdi3.json",
+      "bytes": 2226,
+      "sha256": "46f693beb7ea44d19af1f8152b36b2d21957c3127c11274ccc1dbdd53334a646"
+    },
+    {
+      "path": "development/v37-right80-study/runtime/koyomi-v37-right80-study.moc3",
+      "bytes": 14528,
+      "sha256": "8013d1443fb5ba95d15c0d886b1d9f47424b6ecd77c5813df70b782292d22d5b"
+    },
+    {
+      "path": "development/v37-right80-study/runtime/koyomi-v37-right80-study.model3.json",
+      "bytes": 534,
+      "sha256": "0bf0d044cdb0ace39a194b7f4ca12f41ed634cca64a798a35b7a17c441079478"
+    },
+    {
+      "path": "development/v37-right80-study/runtime/right80-states.motion3.json",
+      "bytes": 795,
+      "sha256": "bb5ca7fbf86fb0327fea39896bb492f04f0093528f384058c84447423916d08e"
+    },
+    {
+      "path": "development/v37-right80-study/runtime-verification.json",
+      "bytes": 8576,
+      "sha256": "43f464e5488b93b90efc830244077ba1c71e6d305b75a327e2b631519748e432"
+    },
+    {
+      "path": "development/v37-right80-study/source/koyomi-v37-right80-study.cmo3",
+      "bytes": 6410211,
+      "sha256": "c5275d45fb9c75345ce62c80a64df69fbc1bc9dc84882c154b3643a9fb97c6d6"
+    },
+    {
+      "path": "development/v37-right80-study/source/koyomi-v37-right80-study.psd",
+      "bytes": 8674210,
+      "sha256": "8c6251b31aaf746c1515dc2f60f26cea3e40d5a36a5f2a1af40ad31deba032ef"
+    },
+    {
+      "path": "development/v37-right80-study/source/right80-blink-speaking.png",
+      "bytes": 1222732,
+      "sha256": "39163849bd7de67c75b34ce5def4f71d03f83f0aea5dc6a460f7fb709e85526b"
+    },
+    {
+      "path": "development/v37-right80-study/source/right80-neutral.png",
+      "bytes": 1126175,
+      "sha256": "2a65543a1de035fb69f2471325e74eea7d2aad77ff0b6c77c592583e400223c4"
+    },
+    {
+      "path": "development/v37-right80-study/source/right80-parts/R80_BackHair.png",
+      "bytes": 610556,
+      "sha256": "216bb262253d108669975e071f598aefd4f5edb3a6269b100a211db7bfaf60e6"
+    },
+    {
+      "path": "development/v37-right80-study/source/right80-parts/R80_Brow_Normal.png",
+      "bytes": 1013619,
+      "sha256": "25515095e8e04833607c32ad86f60142232fde2aecfeb351da90a9d36608861d"
+    },
+    {
+      "path": "development/v37-right80-study/source/right80-parts/R80_Eye_Closed.png",
+      "bytes": 1080217,
+      "sha256": "b410d1640e5f6bfaa7d732c2a8b60a331456c8c6545aa1dc612b15093f50fda3"
+    },
+    {
+      "path": "development/v37-right80-study/source/right80-parts/R80_Eye_Open.png",
+      "bytes": 1015598,
+      "sha256": "61e6f7928357072caf1ca75f6357f5332885ba28c97d265b087237c189dea711"
+    },
+    {
+      "path": "development/v37-right80-study/source/right80-parts/R80_FaceEarNeck.png",
+      "bytes": 241860,
+      "sha256": "110d66ac80c671518b2b300c348853acb213d033c0877ad65cf4c6351cd7c007"
+    },
+    {
+      "path": "development/v37-right80-study/source/right80-parts/R80_FrontHairClip.png",
+      "bytes": 287453,
+      "sha256": "852ed410338c03f086c53a851e991c637b8bb9631f06984618ca924e553b6431"
+    },
+    {
+      "path": "development/v37-right80-study/source/right80-parts/R80_Mouth_Closed.png",
+      "bytes": 1012270,
+      "sha256": "4d114c23f69fef5a082567c223dd50293e1bf6044426965a4fae75f4a30b0470"
+    },
+    {
+      "path": "development/v37-right80-study/source/right80-parts/R80_Mouth_Open.png",
+      "bytes": 1076353,
+      "sha256": "45ed032a19139b71c5f59c3730dc75d36cd1b9ac57677f6e2312524abcde7c04"
+    },
+    {
+      "path": "development/v37-right80-study/source/right80-underpaint.png",
+      "bytes": 1141229,
+      "sha256": "edf7427089cc5b56463f19d66cc70577483c2813e1dc46ab89d6df310d37236a"
+    },
+    {
+      "path": "development/v37-right80-study/source-verification.json",
+      "bytes": 1909,
+      "sha256": "ba04c2bab5e4fd6533aa7384821bab3c3e6f90716ea566360f744ccdefcbc45f"
+    },
+    {
+      "path": "development/v37-right80-study/viewer-states.jpg",
+      "bytes": 63660,
+      "sha256": "da9911c95ead1cfd149a5cfd4a1655c717018c08f0fe3197e232923ccd6f8ddb"
+    },
+    {
       "path": "docs/credits.md",
-      "bytes": 3868,
-      "sha256": "a0033153c7feced6fe9455d364a109cfcb51c9e2cdf739e934c2d8090aee46e5"
+      "bytes": 4100,
+      "sha256": "f6837a0169cca8a61ee2b29bb8d797afc0367ac7e7e961ae1a5e48faa52121af"
     },
     {
       "path": "docs/production.md",
-      "bytes": 22561,
-      "sha256": "83eda911b1f763f1f676e82db06e8f096abd3fe2a1e4c81edc6f20240560e8f1"
+      "bytes": 23349,
+      "sha256": "a279100f34cb91c67c33b7c7f9a8e555180cb248c5b0432afeb33258d58bbaf6"
     },
     {
       "path": "docs/roadmap.md",
-      "bytes": 11699,
-      "sha256": "105bc84b2864b850bd8e0c64425eea6d4398c0e7fa5303165c9dbd11288bcce4"
+      "bytes": 12327,
+      "sha256": "a5dba8f12e0def866d0e5a95c0e84bc66afc5c73b1f7f0fe5da590e13f8c3a58"
     },
     {
       "path": "preview/brow-angle-check.mp4",

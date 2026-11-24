@@ -1,0 +1,102 @@
+{
+  "status": "source study; not integrated v36 runtime; no80 degree motion or six expressions verified",
+  "canvas": [
+    1312,
+    1199
+  ],
+  "layers": [
+    {
+      "name": "R80_BackHair",
+      "bounds": [
+        89,
+        18,
+        1152,
+        1199
+      ],
+      "visible": true
+    },
+    {
+      "name": "R80_FaceEarNeck",
+      "bounds": [
+        547,
+        465,
+        1084,
+        1153
+      ],
+      "visible": true
+    },
+    {
+      "name": "R80_FrontHairClip",
+      "bounds": [
+        600,
+        114,
+        1120,
+        941
+      ],
+      "visible": true
+    },
+    {
+      "name": "R80_Brow_Normal",
+      "bounds": [
+        876,
+        432,
+        1018,
+        509
+      ],
+      "visible": true
+    },
+    {
+      "name": "R80_Eye_Open",
+      "bounds": [
+        879,
+        517,
+        1017,
+        716
+      ],
+      "visible": true
+    },
+    {
+      "name": "R80_Mouth_Closed",
+      "bounds": [
+        970,
+        793,
+        1049,
+        870
+      ],
+      "visible": true
+    },
+    {
+      "name": "R80_Eye_Closed",
+      "bounds": [
+        879,
+        517,
+        1017,
+        716
+      ],
+      "visible": false
+    },
+    {
+      "name": "R80_Mouth_Open",
+      "bounds": [
+        970,
+        793,
+        1048,
+        870
+      ],
+      "visible": false
+    }
+  ],
+  "layer_count": 8,
+  "psd_recomposite_max_visible_channel_delta": 1,
+  "alpha_identical": false,
+  "source_rgba_files_preserved": true,
+  "known_limits": [
+    "Hair partitions need hidden underpaint before moving strands",
+    "Eye states are swap prototypes, not smooth eyelid rig",
+    "Mouth interior prototype does not animate external lip contour",
+    "Generated alpha fringe still requires final cleanup",
+    "45-to80 interpolation and80-degree six expressions are not implemented"
+  ],
+  "alpha_max_channel_delta": 1,
+  "alpha_rounding_different_pixels": 50062
+}
