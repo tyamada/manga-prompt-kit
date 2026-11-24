@@ -1,6 +1,12 @@
-# 瀬尾凪｜Live2D口リグ試作
+# 瀬尾凪｜Live2D口パク・まばたき試作
 
 『ためし部』瀬尾凪の冬の室内制服モデルです。正面全身の原画、分割PSD、編集用CMO3、Cubism Viewerで再生できる口リグ試作を収録しています。
+
+## 左右独立のまばたき＋口パク v1
+
+[Viewer用モデル一式](development/front-separation/nagi-blink-lipsync-v1/runtime/) · [編集用CMO3](development/front-separation/nagi-blink-lipsync-v1/nagi-blink-lipsync-v1.cmo3) · [閉じ目のPSD](development/front-separation/nagi-blink-lipsync-v1/nagi-blink-lids.psd)
+
+Cubism Viewer (for OW) 5.3.05で `nagi-blink-lipsync-v1.model3.json` を開き、`Ritsu` で口パクとまばたきの通しモーションを再生できます。`IndependenceCheck` では本人左目、右目、両目の順に閉じた状態を短く保持するので、発話中の重なりを確認できます。元の口パクv3の2曲線を使用しています。波音リツの音声を合わせる場合は下記の同じ台詞と合成クエリを使い、Viewerで生成したWAVを指定してください。
 
 ## 口リグ試作 v3
 

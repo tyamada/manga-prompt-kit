@@ -147,3 +147,9 @@ Cubism Editor 5.3.05 FREEでv5 PSDを新規モデルに読み込み、口の4つ
 v2では推定音素時刻と波形から、促音などでの閉口と母音切り替えを調整した。Viewerでv2を6区間に分けて再生し、v3ではVOICEVOX Core 0.17.0の量子化と疑問文末の延長を含めた合成時刻に合わせた。WAVは1,165合成フレーム（12.426667秒）に対応する。v2の推定と合成時刻の最大差は約116ms。「願望じゃない？」末尾の「い」の延長は約149ms。発音境界の照合には合成フレームと音量しきい値を使い、Viewerでv3の開閉・口幅の変化と休止・終端の閉口を目視確認した。
 
 [編集用CMO3](../development/front-separation/mouth-rig-v5-prototype/nagi-mouth-rig-v5-prototype.cmo3) · [v2](../development/front-separation/mouth-rig-v5-ritsu-timing-v2/) · [v3](../development/front-separation/mouth-rig-v5-ritsu-timing-v3/) · [発音境界の比較CSV](../development/front-separation/mouth-rig-v5-ritsu-timing-v3/phoneme-boundaries-v2-v3.csv) · [VOICEVOX Core 0.17.0の合成処理](https://github.com/VOICEVOX/voicevox_core/blob/0.17.0/crates/voicevox_core/src/engine/talk/interpret_query.rs)
+
+## 左右独立のまばたきと口パク（2026-11-24）
+
+既存の口リグを元に別のCMO3を作成した。閉じ目を左右別のArtMeshとして描き足し、`ParamEyeLOpen` と `ParamEyeROpen` にそれぞれ2キーを設定して、開閉値に応じて閉じ目の不透明度を変える。新しいモデルの通しモーションと独立確認モーションには、口リグv3の `ParamMouthOpenY` と `ParamMouthForm` の曲線をそのまま使用した。通常再生時の二重表示を抑えるため、収録モーションは全開と閉じ目をステップで切り替える。CMO3上で中間の開閉値を手動指定した場合は、開いた目と閉じ目が重なって見えることがある。
+
+Cubism Viewer 5.3.05で波音リツのWAVを指定し、片目ずつ閉じる状態、両目を閉じる状態、各状態で口が動く場面、終端での復帰を正面拡大表示で確認した。閉じ目は正面用の描き足しで、前髪と接する目尻に補筆の境界がわずかに残る。[モデルと再生手順](../README.md#左右独立のまばたき口パク-v1)
