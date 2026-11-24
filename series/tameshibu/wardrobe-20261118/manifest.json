@@ -190,7 +190,19 @@
       "source_file": "ためし部_制服設定案_冬服.jpg",
       "x_url": "https://x.com/komairo_hiyori/status/2124794466385137917",
       "x_announced_at": "2026-11-23T18:17:53.969085+09:00"
+    },
+    {
+      "pixiv_url": "https://www.pixiv.net/artworks/152439492",
+      "sha256": "c6e5daad52852265a3678cb2c5aa97bb753abc37e5d2e07c3dfc2cd10b3c9999",
+      "evidence": "user_report",
+      "direct_page_verified": false,
+      "reported_on": "2026-11-24",
+      "x_announcement": "completed",
+      "x_url": "https://x.com/komairo_hiyori/status/2125158444579918316",
+      "x_announced_at": "2026-11-24T18:24:26.197572+09:00",
+      "design": "冬服・ブレザー",
+      "source_file": "ためし部_制服設定案_冬服_上着あり.jpg"
     }
   ],
-  "pixiv_publication_note": "夏服と冬服室内の2案はpixiv公開報告・画像付きX告知完了を確認。他4案の採用・GitHub収録はpixiv公開確認を意味しない。"
+  "pixiv_publication_note": "夏服・冬服室内・冬服ブレザーの3案はpixiv公開報告と画像付きX告知を確認。他3案の採用・GitHub収録はpixiv公開確認を意味しない。"
 }
