@@ -1,0 +1,30 @@
+{
+  "mesh_ids_and_count_identical_to_v31": true,
+  "profile0_preservation_cases": 360,
+  "profile0_max_geometry_delta_source_px": 0,
+  "profile0_max_opacity_delta": 0,
+  "profile_test_cases": 1800,
+  "visible_new_triangle_inversions": 0,
+  "hidden_collapsed_triangle_sign_changes": 0,
+  "profile_max_opacity_delta": 0,
+  "closed_mouth_hidden_when_open_ge_point1": true,
+  "max_old_uv_delta": 0,
+  "neck_geometry_max_delta_source_px": 0,
+  "continuous_steps": 1000,
+  "max_vertex_delta_per_point001_step_source_px": 0.14701461791992188,
+  "six_expressions_checked": [
+    "01_normal.exp3.json",
+    "02_happy.exp3.json",
+    "03_surprised.exp3.json",
+    "04_idea.exp3.json",
+    "05_lets_try.exp3.json",
+    "06_noticed.exp3.json"
+  ],
+  "six_expressions_profile_cases": 24,
+  "original_voice_and_motion_bytes_identical": true,
+  "physics_configuration_identical": true,
+  "hair_combination_cases": 56,
+  "texture_alpha_identical": true,
+  "head_image_crossfade": false,
+  "angle_description": "Continuous right-oblique deformation of original frontal artwork, aiming at v32 right45 composition. Not a measured physical45-degree head or finished dedicated profile silhouette."
+}

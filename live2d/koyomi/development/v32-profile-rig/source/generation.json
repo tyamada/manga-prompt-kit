@@ -1,0 +1,17 @@
+{
+  "date": "2026-11-24",
+  "tool": "built-in image_gen",
+  "prompts": [
+    "Use case: identity-preserve. Edit target image1 is Koyomi's right-facing45-degree head candidate. Image2 is authoritative front identity. Produce a revised HEAD AND UPPER NECK ONLY, exact same right45 view, no shoulders/clothing. Preserve one coral rectangular hair clip on near anatomical RIGHT temple (image left), brown round eyes, chestnut round short bob and asymmetric bangs. Bring face proportions closer to image2: rounder cheek, shorter lower face and smaller less pointed chin, restrained tiny nose highlight. Keep head level, neutral closed smile, no jewelry. Primary correction: production-ready clean transparent silhouette, remove ALL detached flecks/speckles, stray colored pixels outside silhouette, white edge fringe, halo and background remnants at hair and neck boundary. Interior skin and hair are fully opaque, only silhouette anti-aliasing semitransparent. Clean fine outline, flat colors with crisp cel shadows matching original. All hair fits with generous clear alpha margin. ONE complete head, no sheet, no labels or text. Do not introduce accessories, earrings, highlights outside original design.",
+    "Use case: precise-object-edit. Edit target image1 is a production Live2D right45 head layer. Remove ONLY both eyes completely (sclera, irises, pupils, upper/lower eyelids and eyelashes), both eyebrows and the mouth line; fill those exact areas with smooth neighboring skin tone, preserving cheek blush. Keep the nose and its tiny mark. Keep all hair, coral clip, bare ear, face/cheek/chin silhouette, neck, head angle, colors and exact framing unchanged. Result is intentionally a featureless face base for a layered animation rig, with eyes and mouth to be added on separate layers. Do not close eyes or draw replacement facial features; all removed features must become uninterrupted blank skin. No shoulders, clothes, jewelry, text. Preserve true transparency and clean silhouette; fully opaque interior, no floating flecks or white halo."
+  ],
+  "inputs": {
+    "edit_target": "v32 right45 head candidate",
+    "identity_reference": "v17 frontal composition"
+  },
+  "final_outputs": [
+    "right45-refined.png",
+    "right45-underpaint.png"
+  ],
+  "notes": "Generated originals retained; PSD-native silhouette masks remove detached alpha; native-layer partition preserves composite RGBA; neutral v31 layers retained."
+}

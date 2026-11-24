@@ -1,0 +1,257 @@
+{
+  "version": "v25",
+  "date": "2026-11-23",
+  "editor": "Cubism 5.3.04 FREE",
+  "runtime": "Cubism Viewer for OW 5.3.04 / SDK 5.3",
+  "native_moc3_sha256": "a3d3af7520b90925beeb8511b4b2013103ba89127d2ab6bc9cce9e44d4fadc76",
+  "native_cmo3_sha256": "383b33a96d67dfa0fbadaf0122db9c3da595a38a891abc191f5a24ac83569666",
+  "original_v21_greeting_9_curve_prefixes_preserved": true,
+  "original_audio_sha256": "08f05eeb739bdc143658fd44346623878f6cb75c65c091c7621ad23354486947",
+  "recorded_audio_source_correlation": 0.9917631859393238,
+  "audio_onset_in_raw_seconds": 1.7739455782312925,
+  "common_audio_video_trim_seconds": 1.6039455782312926,
+  "separate_audio_video_offset_correction": false,
+  "audio_replaced_in_video": false,
+  "estimated_mouth_delay_seconds": 0.014,
+  "measurement_uncertainty_seconds": 0.03333333333333333,
+  "measurement_note": "口領域の面積と既存口開閉曲線の相関による推定。30fpsの1フレーム以内で、ゼロ遅延を保証する測定ではない。",
+  "mouth_and_shoulders": {
+    "frames": 280,
+    "mouth_motion_start_fit_seconds": 0.18400000000000016,
+    "mouth_area_curve_correlation": 0.9346537672243974,
+    "audio_start_seconds": 0.16999999999999993,
+    "audio_minus_mouth_start_seconds": -0.014000000000000234,
+    "shoulders": [
+      {
+        "region": [
+          150,
+          650,
+          60,
+          60
+        ],
+        "max_abs_shift_px": [
+          0,
+          0
+        ],
+        "min_correlation": 0.999833345413208
+      },
+      {
+        "region": [
+          210,
+          650,
+          45,
+          60
+        ],
+        "max_abs_shift_px": [
+          0,
+          0
+        ],
+        "min_correlation": 0.9996045231819153
+      },
+      {
+        "region": [
+          470,
+          650,
+          45,
+          60
+        ],
+        "max_abs_shift_px": [
+          0,
+          0
+        ],
+        "min_correlation": 0.9996851682662964
+      },
+      {
+        "region": [
+          530,
+          650,
+          60,
+          60
+        ],
+        "max_abs_shift_px": [
+          0,
+          0
+        ],
+        "min_correlation": 0.9998677968978882
+      }
+    ],
+    "mouth_area_min_max": [
+      0,
+      2333
+    ]
+  },
+  "gaze_samples": {
+    "start_estimate": 9.117317759030932,
+    "fps": 59.23126201153107,
+    "samples": [
+      {
+        "name": "中央",
+        "motion_seconds": 0.5,
+        "recording_seconds": 9.623296560674886,
+        "iris_R": [
+          286.2724384432089,
+          395.4686258935663,
+          1259
+        ],
+        "iris_L": [
+          451.2853949329359,
+          394.1549925484352,
+          1342
+        ]
+      },
+      {
+        "name": "左",
+        "motion_seconds": 2,
+        "recording_seconds": 11.10899848583171,
+        "iris_R": [
+          279.0167865707434,
+          395.6482813749001,
+          1251
+        ],
+        "iris_L": [
+          445.89840470193116,
+          392.38706968933667,
+          1191
+        ]
+      },
+      {
+        "name": "右",
+        "motion_seconds": 3.6,
+        "recording_seconds": 12.712881245944192,
+        "iris_R": [
+          292.72305140961856,
+          395.01658374792703,
+          1206
+        ],
+        "iris_L": [
+          456.92035398230087,
+          393.6822204344328,
+          1243
+        ]
+      },
+      {
+        "name": "上",
+        "motion_seconds": 5.5,
+        "recording_seconds": 14.620657581656932,
+        "iris_R": [
+          286.16022544283413,
+          391.05555555555554,
+          1242
+        ],
+        "iris_L": [
+          451.3632930513595,
+          389.74018126888217,
+          1324
+        ]
+      },
+      {
+        "name": "下",
+        "motion_seconds": 7,
+        "recording_seconds": 16.123242483235995,
+        "iris_R": [
+          285.98686371100166,
+          399.94499178981937,
+          1218
+        ],
+        "iris_L": [
+          451.8995918367347,
+          397.06857142857143,
+          1225
+        ]
+      },
+      {
+        "name": "左上",
+        "motion_seconds": 8.5,
+        "recording_seconds": 17.60894440839282,
+        "iris_R": [
+          279.0831987075929,
+          391.22294022617126,
+          1238
+        ],
+        "iris_L": [
+          445.16031746031746,
+          390.0095238095238,
+          1260
+        ]
+      },
+      {
+        "name": "閉眼",
+        "motion_seconds": 8.85,
+        "recording_seconds": 17.963486913259786,
+        "iris_R": [
+          276.3333333333333,
+          374.14285714285717,
+          42
+        ],
+        "iris_L": [
+          436.6666666666667,
+          386.75,
+          12
+        ]
+      },
+      {
+        "name": "右下",
+        "motion_seconds": 10.4,
+        "recording_seconds": 19.51672074410556,
+        "iris_R": [
+          291.87220149253733,
+          398.59235074626866,
+          1072
+        ],
+        "iris_L": [
+          456.7717569786535,
+          398.01888341543514,
+          1218
+        ]
+      },
+      {
+        "name": "笑顔目",
+        "motion_seconds": 13.5,
+        "recording_seconds": 22.6231884057971,
+        "iris_R": [
+          268.3157894736842,
+          354.42105263157896,
+          19
+        ],
+        "iris_L": [
+          423.85714285714283,
+          373.35714285714283,
+          14
+        ]
+      }
+    ]
+  },
+  "visual_verification": [
+    "中央・左右・上下・左上・右下で虹彩と瞳孔とハイライトの移動を確認",
+    "視線移動中の閉眼で見える虹彩の残りなし",
+    "専用笑顔目は通常の閉じ目と切り替わり、二重線のない保持状態を確認",
+    "嬉しい表情exp3をViewerで直接選択し両眼の専用形状へ切り替わることを確認",
+    "6表情の30秒シーンをViewerで実再生し、比較画像を録画から抽出"
+  ],
+  "videos": [
+    {
+      "file": "showcase-30s.mp4",
+      "seconds": 30,
+      "fps": 30,
+      "audio": "VOICEVOX:春日部つむぎ / CC BY対象外"
+    },
+    {
+      "file": "showcase-30s-silent.mp4",
+      "seconds": 30,
+      "fps": 30,
+      "audio": false
+    },
+    {
+      "file": "gaze-check.mp4",
+      "seconds": 15.2,
+      "fps": 30,
+      "audio": false
+    }
+  ],
+  "limitations": [
+    "笑顔目はParamEyeLSmileを左右共通使用。両眼EyeOpen=0と併用する。",
+    "眉は共通制御で左右独立ではない。",
+    "大きな横顔・毛束の個別揺れ・全身・体とリボン・手の演技・VTube Studio追従は未完了。",
+    "原音と異なる再生成音声、別アプリや描画負荷の異なる環境での同期精度は別途検証が必要。"
+  ]
+}

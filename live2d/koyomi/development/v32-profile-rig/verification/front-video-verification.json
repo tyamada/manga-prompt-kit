@@ -1,0 +1,65 @@
+{
+  "frames": 280,
+  "mouth_motion_start_fit_seconds": 0.18600000000000017,
+  "mouth_area_curve_correlation": 0.9649957439433612,
+  "audio_start_seconds": 0.16999999999999993,
+  "audio_minus_mouth_start_seconds": -0.016000000000000236,
+  "shoulders": [
+    {
+      "region": [
+        150,
+        650,
+        60,
+        60
+      ],
+      "max_abs_shift_px": [
+        0,
+        0
+      ],
+      "min_correlation": 0.9998207092285156
+    },
+    {
+      "region": [
+        210,
+        650,
+        45,
+        60
+      ],
+      "max_abs_shift_px": [
+        0,
+        0
+      ],
+      "min_correlation": 0.9996288418769836
+    },
+    {
+      "region": [
+        470,
+        650,
+        45,
+        60
+      ],
+      "max_abs_shift_px": [
+        0,
+        0
+      ],
+      "min_correlation": 0.9996642470359802
+    },
+    {
+      "region": [
+        530,
+        650,
+        60,
+        60
+      ],
+      "max_abs_shift_px": [
+        0,
+        0
+      ],
+      "min_correlation": 0.9998316168785095
+    }
+  ],
+  "mouth_area_min_max": [
+    0,
+    2271
+  ]
+}

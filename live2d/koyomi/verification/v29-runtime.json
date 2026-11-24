@@ -1,0 +1,335 @@
+{
+  "version": "v29-mouth",
+  "verified_at": "2026-11-23T20:00:08.049712+09:00",
+  "editor": "Cubism Editor 5.3.05 FREE",
+  "viewer": "Cubism Viewer for OW 5.3.05",
+  "findings": {
+    "closed_line": "v28 retained 60% opacity at MouthOpen .2 and 20% at .4; v29 fades to zero by .1, retaining a short 0-.1 initial crossfade.",
+    "uneven_corners": "Source and normal/round mouths are level. Smile deformation had a 13 source-pixel corner difference; no approved asymmetric design was found. Added Mouth_Level_v29 rotation 0 degrees at Form -1/0 and -6.1 at +1.",
+    "corner_measurement": {
+      "method": "Rasterize actual exported Core ArtMesh3 with atlas texture at 1024px source scale, full opening, frontal head; alpha edge comparison, approximately 1px precision.",
+      "v28_normal_round_smile_px": [
+        0,
+        0,
+        13
+      ],
+      "v29_normal_round_smile_px": [
+        0,
+        0,
+        1
+      ]
+    }
+  },
+  "runtime_core_checks": {
+    "opacity_samples": [
+      {
+        "form": -1,
+        "open": 0,
+        "old_closed": 1.0,
+        "new_closed": 1.0,
+        "new_inside": 0.0
+      },
+      {
+        "form": -1,
+        "open": 0.04,
+        "old_closed": 0.9200000166893005,
+        "new_closed": 0.6000000238418579,
+        "new_inside": 0.3999999761581421
+      },
+      {
+        "form": -1,
+        "open": 0.1,
+        "old_closed": 0.800000011920929,
+        "new_closed": 0.0,
+        "new_inside": 1.0
+      },
+      {
+        "form": -1,
+        "open": 0.2,
+        "old_closed": 0.6000000238418579,
+        "new_closed": 0.0,
+        "new_inside": 1.0
+      },
+      {
+        "form": -1,
+        "open": 0.4,
+        "old_closed": 0.19999998807907104,
+        "new_closed": 0.0,
+        "new_inside": 1.0
+      },
+      {
+        "form": -1,
+        "open": 0.5,
+        "old_closed": 0.0,
+        "new_closed": 0.0,
+        "new_inside": 1.0
+      },
+      {
+        "form": -1,
+        "open": 1,
+        "old_closed": 0.0,
+        "new_closed": 0.0,
+        "new_inside": 1.0
+      },
+      {
+        "form": 0,
+        "open": 0,
+        "old_closed": 1.0,
+        "new_closed": 1.0,
+        "new_inside": 0.0
+      },
+      {
+        "form": 0,
+        "open": 0.04,
+        "old_closed": 0.9200000166893005,
+        "new_closed": 0.6000000238418579,
+        "new_inside": 0.3999999761581421
+      },
+      {
+        "form": 0,
+        "open": 0.1,
+        "old_closed": 0.800000011920929,
+        "new_closed": 0.0,
+        "new_inside": 1.0
+      },
+      {
+        "form": 0,
+        "open": 0.2,
+        "old_closed": 0.6000000238418579,
+        "new_closed": 0.0,
+        "new_inside": 1.0
+      },
+      {
+        "form": 0,
+        "open": 0.4,
+        "old_closed": 0.19999998807907104,
+        "new_closed": 0.0,
+        "new_inside": 1.0
+      },
+      {
+        "form": 0,
+        "open": 0.5,
+        "old_closed": 0.0,
+        "new_closed": 0.0,
+        "new_inside": 1.0
+      },
+      {
+        "form": 0,
+        "open": 1,
+        "old_closed": 0.0,
+        "new_closed": 0.0,
+        "new_inside": 1.0
+      },
+      {
+        "form": 0.5,
+        "open": 0,
+        "old_closed": 1.0,
+        "new_closed": 1.0,
+        "new_inside": 0.0
+      },
+      {
+        "form": 0.5,
+        "open": 0.04,
+        "old_closed": 0.9200000166893005,
+        "new_closed": 0.6000000238418579,
+        "new_inside": 0.3999999761581421
+      },
+      {
+        "form": 0.5,
+        "open": 0.1,
+        "old_closed": 0.800000011920929,
+        "new_closed": 0.0,
+        "new_inside": 1.0
+      },
+      {
+        "form": 0.5,
+        "open": 0.2,
+        "old_closed": 0.6000000238418579,
+        "new_closed": 0.0,
+        "new_inside": 1.0
+      },
+      {
+        "form": 0.5,
+        "open": 0.4,
+        "old_closed": 0.19999998807907104,
+        "new_closed": 0.0,
+        "new_inside": 1.0
+      },
+      {
+        "form": 0.5,
+        "open": 0.5,
+        "old_closed": 0.0,
+        "new_closed": 0.0,
+        "new_inside": 1.0
+      },
+      {
+        "form": 0.5,
+        "open": 1,
+        "old_closed": 0.0,
+        "new_closed": 0.0,
+        "new_inside": 1.0
+      },
+      {
+        "form": 1,
+        "open": 0,
+        "old_closed": 1.0,
+        "new_closed": 1.0,
+        "new_inside": 0.0
+      },
+      {
+        "form": 1,
+        "open": 0.04,
+        "old_closed": 0.9200000166893005,
+        "new_closed": 0.6000000238418579,
+        "new_inside": 0.3999999761581421
+      },
+      {
+        "form": 1,
+        "open": 0.1,
+        "old_closed": 0.800000011920929,
+        "new_closed": 0.0,
+        "new_inside": 1.0
+      },
+      {
+        "form": 1,
+        "open": 0.2,
+        "old_closed": 0.6000000238418579,
+        "new_closed": 0.0,
+        "new_inside": 1.0
+      },
+      {
+        "form": 1,
+        "open": 0.4,
+        "old_closed": 0.19999998807907104,
+        "new_closed": 0.0,
+        "new_inside": 1.0
+      },
+      {
+        "form": 1,
+        "open": 0.5,
+        "old_closed": 0.0,
+        "new_closed": 0.0,
+        "new_inside": 1.0
+      },
+      {
+        "form": 1,
+        "open": 1,
+        "old_closed": 0.0,
+        "new_closed": 0.0,
+        "new_inside": 1.0
+      }
+    ],
+    "non_mouth_max_position_delta": 0.0,
+    "non_mouth_max_opacity_delta": 0.0,
+    "normal_open_geometry_max_delta": 0.0021414668299257755,
+    "frontal_normal_geometry_max_delta": 1.341104507446289e-07,
+    "cases": 84,
+    "existing_motion_audio_identical": true,
+    "physics_unchanged": true,
+    "texture_identical": true
+  },
+  "preservation_limit": "Non-mouth vertices and opacity exactly match v28 in 84 tested states. Frontal normal/round geometry matches within float precision. New parent rotation changes mouth placement under combined head angles by at most 2.2 source px in this grid; it does not establish every extreme combination.",
+  "mouth_audio_measurement": {
+    "frames": 280,
+    "mouth_motion_start_fit_seconds": 0.19600000000000017,
+    "mouth_area_curve_correlation": 0.9624321081399748,
+    "audio_start_seconds": 0.16999999999999993,
+    "audio_minus_mouth_start_seconds": -0.026000000000000245,
+    "shoulders": [
+      {
+        "region": [
+          150,
+          650,
+          60,
+          60
+        ],
+        "max_abs_shift_px": [
+          0,
+          0
+        ],
+        "min_correlation": 0.9998271465301514
+      },
+      {
+        "region": [
+          210,
+          650,
+          45,
+          60
+        ],
+        "max_abs_shift_px": [
+          0,
+          0
+        ],
+        "min_correlation": 0.9996564984321594
+      },
+      {
+        "region": [
+          470,
+          650,
+          45,
+          60
+        ],
+        "max_abs_shift_px": [
+          0,
+          0
+        ],
+        "min_correlation": 0.9996809959411621
+      },
+      {
+        "region": [
+          530,
+          650,
+          60,
+          60
+        ],
+        "max_abs_shift_px": [
+          0,
+          0
+        ],
+        "min_correlation": 0.9998556971549988
+      }
+    ],
+    "mouth_area_min_max": [
+      0,
+      2307
+    ]
+  },
+  "audio_capture": {
+    "audio_onset": 2.5680725623582767,
+    "correlation": 0.9929368995477602,
+    "common_trim_seconds": 2.398072562358277
+  },
+  "audio_video_individual_offset_correction": false,
+  "audio_replacement": false,
+  "measurement_limit": "Mouth image-area fitting at 30fps, about 33ms uncertainty, not phoneme alignment. Estimated mouth lag 26ms is within one frame.",
+  "six_expressions": "All six expression files unchanged; only underlying mouth display corrected.",
+  "physics_texture_source_psd": "Unchanged from v28. Latest shared PSD remains v27.",
+  "unfinished_trial": "Independent eyebrow-angle trial retained separately; not included in this model.",
+  "publication_exclusions": [
+    "standalone WAV",
+    "full-window MOV with personal paths",
+    "SDK/apps/JRE/patches"
+  ],
+  "limitations": [
+    "Large profile, independent eyebrow angle/shape, body/ribbon/hand motions and VTube Studio tracking remain unfinished."
+  ],
+  "original_audio_sha256": "08f05eeb739bdc143658fd44346623878f6cb75c65c091c7621ad23354486947",
+  "deliverables": {
+    "koyomi-v29-mouth.cmo3": {
+      "bytes": 8164140,
+      "sha256": "2d9161154ad7025b315efda97585e24cf694b30267e70f6e204a9ee6e4648153"
+    },
+    "koyomi-v29-mouth.moc3": {
+      "bytes": 82304,
+      "sha256": "8215aa01cfe82530b66278a35daad81167456ec3efe45fa90ad0d2c74188b2d1"
+    },
+    "showcase-30s.mp4": {
+      "bytes": 1559151,
+      "sha256": "7e0cf200dcdea4019820f1eddc560e28557d0e4028d4965a9acedf337e2b4eb1"
+    },
+    "mouth-check.mp4": {
+      "bytes": 350616,
+      "sha256": "2ad584606cabddc5224dc4892ee249e87052f9bf58e1d273414ab4450abdc92b"
+    }
+  }
+}

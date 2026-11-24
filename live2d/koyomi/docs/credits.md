@@ -31,3 +31,9 @@
 - [Cubism Core使用許諾契約](https://www.live2d.com/eula/live2d-proprietary-software-license-agreement_jp.html)
 
 確認結果：Editorの一般ユーザー等向けFREE版は営利・非営利の出力用途を認めています（2.1.4.5）。モデルデータのCC BY 4.0許諾はアプリ・SDKの使用契約を代替しません。
+
+
+v32右45度の開発試作では横顔の見える輪郭・髪・耳・鼻にもAI生成・補完を用いています。上記の元絵の画素保持の説明はこの新規横顔へ一律に適用しません。[v32個別クレジット](../development/v32-profile-rig/CREDITS.md)と[確認動画・制限](../development/v32-profile-rig/README.md)を参照してください。
+
+
+v33はv31の原画を再利用し、隠れる首と髪の下描きを既存SVGから補完しました。新規の横顔生成は行っていません。[v33のクレジットと音声の例外](../development/v33-smooth-turn/CREDITS.md)。制作・実行確認はCubism 5.3.05。

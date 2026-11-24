@@ -1,0 +1,76 @@
+{
+  "neutral_alpha_exact": true,
+  "neutral_premultiplied_rgb_exact": true,
+  "opaque_seam_overlap_px": 8,
+  "disconnected_fixed_fragments_reassigned": [
+    {
+      "pixels": 30761,
+      "reason": "all lower disconnected and connected crown fragments assigned to neighboring movable strands"
+    }
+  ],
+  "layers": [
+    {
+      "name": "60_Hair_Crown_Fixed",
+      "bbox": [
+        201,
+        48,
+        826,
+        349
+      ]
+    },
+    {
+      "name": "61_Hair_Outer_R",
+      "bbox": [
+        36,
+        192,
+        248,
+        838
+      ]
+    },
+    {
+      "name": "62_Hair_Side_R",
+      "bbox": [
+        126,
+        252,
+        436,
+        930
+      ]
+    },
+    {
+      "name": "63_Hair_Bang_R",
+      "bbox": [
+        238,
+        212,
+        478,
+        573
+      ]
+    },
+    {
+      "name": "64_Hair_Bang_C",
+      "bbox": [
+        395,
+        192,
+        653,
+        551
+      ]
+    },
+    {
+      "name": "65_Hair_Side_L",
+      "bbox": [
+        617,
+        232,
+        831,
+        930
+      ]
+    },
+    {
+      "name": "66_Hair_Outer_L",
+      "bbox": [
+        766,
+        242,
+        964,
+        891
+      ]
+    }
+  ]
+}

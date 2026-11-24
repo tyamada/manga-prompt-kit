@@ -1,0 +1,6 @@
+{
+  "basis": "v31 verified model and35-layer PSD; v32 right45 prototype used as visual target",
+  "v31_cmo_sha256": "4ff8ed362fbe9fc8d7b915f6766c423a5c7502b493e390012a8c8573f887ea76",
+  "v31_psd_sha256": "df90c94cc08465ff26b0a939ad85e0a7e3c5e10b810ab688054d24ce30095ff9",
+  "intent": "Reuse existing head deformer with an additional continuous yaw parameter. No layered head-image crossfade."
+}

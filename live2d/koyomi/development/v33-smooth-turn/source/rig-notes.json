@@ -1,0 +1,61 @@
+{
+  "basis": "v31 native hierarchy and original visible artwork, v32 right45 as directional reference",
+  "new_parameter": {
+    "id": "ParamProfileR45",
+    "name": "Profile_R45_Smooth_v33",
+    "min": 0,
+    "default": 0,
+    "max": 1
+  },
+  "existing_deformers_keyed": [
+    "Warp2 (head X)",
+    "Warp4 (hair sway)"
+  ],
+  "new_head_images": 0,
+  "new_opacity_transition": false,
+  "headX_keys": "Original ParamAngleX -30/0/30 retained at profile0; matching right-oblique shapes on each at profile1",
+  "head_control_changes_source_pixels_by_row_2_to8": [
+    [
+      10,
+      40,
+      0
+    ],
+    [
+      30,
+      110,
+      10
+    ],
+    [
+      65,
+      185,
+      20
+    ],
+    [
+      65,
+      205,
+      20
+    ],
+    [
+      65,
+      155,
+      20
+    ],
+    [
+      35,
+      105,
+      10
+    ],
+    [
+      10,
+      40,
+      0
+    ]
+  ],
+  "hair_key_changes": "At profile1, near-side two control points moved right to meet skin; all3 original HairFront -1/0/1 values adjusted. Profile0 retained.",
+  "source_underpainting": "Neck and SkinHead hidden regions only;35-layer frontal composite exact to v31;33 other source layers unchanged.",
+  "limitations": [
+    "Right oblique is a continuous deformation of frontal art aimed at the v32 right45 view, not a physically measured45-degree profile silhouette.",
+    "Dedicated nose/ear occlusion and left/80-degree profile rigs remain separate work.",
+    "VTube Studio tracking and full-body/hand animation not checked here."
+  ]
+}

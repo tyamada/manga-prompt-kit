@@ -1,0 +1,147 @@
+{
+  "version": "v31",
+  "verified_at": "2026-11-24T12:02:37.991006+09:00",
+  "editor": "Cubism Editor 5.3.05 FREE",
+  "viewer": "Cubism Viewer for OW 5.3.05",
+  "changes": [
+    "Adjusted six central control points at each ParamAngleX endpoint to strengthen oblique head turning; shoulders remain independent.",
+    "Repainted duplicate jaw stroke on neck SVG/PSD; 34 other source layers unchanged.",
+    "Removed accidental ParamEyeLOpen keys from closed-mouth ArtMesh4; those keys made the closed line reappear during blinks even with MouthOpen=1 in v30."
+  ],
+  "runtime_core_checks": {
+    "cases": 360,
+    "new_reversed_triangles": 0,
+    "neutral_max_delta": 0.0,
+    "max_yaw_displacement_source_px": 38.17178726196289,
+    "closed_mouth_hidden_at_open_ge_point1": true,
+    "neck_texture_updated": true
+  },
+  "mouth_audio_measurement": {
+    "frames": 280,
+    "mouth_motion_start_fit_seconds": 0.18600000000000017,
+    "mouth_area_curve_correlation": 0.9734063181255047,
+    "audio_start_seconds": 0.16999999999999993,
+    "audio_minus_mouth_start_seconds": -0.016000000000000236,
+    "shoulders": [
+      {
+        "region": [
+          150,
+          650,
+          60,
+          60
+        ],
+        "max_abs_shift_px": [
+          0,
+          0
+        ],
+        "min_correlation": 0.9998438358306885
+      },
+      {
+        "region": [
+          210,
+          650,
+          45,
+          60
+        ],
+        "max_abs_shift_px": [
+          0,
+          0
+        ],
+        "min_correlation": 0.9996137022972107
+      },
+      {
+        "region": [
+          470,
+          650,
+          45,
+          60
+        ],
+        "max_abs_shift_px": [
+          0,
+          0
+        ],
+        "min_correlation": 0.9996644854545593
+      },
+      {
+        "region": [
+          530,
+          650,
+          60,
+          60
+        ],
+        "max_abs_shift_px": [
+          0,
+          0
+        ],
+        "min_correlation": 0.9998618960380554
+      }
+    ],
+    "mouth_area_min_max": [
+      0,
+      2298
+    ]
+  },
+  "head_turn_measurement": {
+    "motion_start_estimated_by_first_mouth_peak": 1.7999999999999998,
+    "shoulders": [
+      {
+        "region": [
+          150,
+          650,
+          60,
+          60
+        ],
+        "max_shift_px": [
+          0,
+          0
+        ]
+      },
+      {
+        "region": [
+          530,
+          650,
+          60,
+          60
+        ],
+        "max_shift_px": [
+          0,
+          0
+        ]
+      }
+    ],
+    "labels": "ParamAngleX/Y values, not measured physical degrees",
+    "mouth_blink_sweep_duration": 24
+  },
+  "audio_capture": {
+    "audio_onset": 1.7985714285714285,
+    "correlation": 0.9934279271319716,
+    "common_trim_seconds": 1.6285714285714286
+  },
+  "preservation": "Frontal default geometry exactly matches v30. Existing 30s motion and original audio bytes, all six expressions and hair physics are unchanged. Neck source texture changed to remove duplicate jaw stroke; 34 other source layers preserved. Mouth opacity correction intentionally changes closed-eye behavior.",
+  "audio_video_individual_offset_correction": false,
+  "audio_replacement": false,
+  "measurement_limit": "Mouth image-area fit at 30fps, about 33ms uncertainty, not phoneme alignment. Head sweep time origin estimated by the first mouth-area peak. Parameter X/Y labels are not measured physical degrees. Mesh sign test detects new triangle inversions, not every visual artifact.",
+  "limitations": [
+    "This is an oblique-view refinement of frontal art, not a finished 45-80 degree profile. Dedicated nose outline, far-eye occlusion and intermediate profile art remain required.",
+    "Independent eyebrow shape, full-body/body/ribbon/hands and VTube Studio tracking remain unfinished."
+  ],
+  "reference_videos": "Earlier mouth/brow/physics/gaze videos retained as historical checks. Current head-turn sweep tests mouth+blink at larger parameter values.",
+  "deliverables": {
+    "koyomi-v31.cmo3": {
+      "bytes": 12914546,
+      "sha256": "4ff8ed362fbe9fc8d7b915f6766c423a5c7502b493e390012a8c8573f887ea76"
+    },
+    "koyomi-v31.moc3": {
+      "bytes": 82368,
+      "sha256": "3158f72b4b9e93000cbb56a90ed45a4a657ec0005fb767799b44ec08b19b6c0b"
+    },
+    "showcase-30s.mp4": {
+      "bytes": 1622209,
+      "sha256": "405b340b1fd68ed09148bdce1fdebae635a289ad3b25bfd55e76561e3e196bc2"
+    },
+    "head-turn-check.mp4": {
+      "bytes": 1826891,
+      "sha256": "0c6f87f9cf29687a137c645c1aedd12e1fe1f802bfa04c3860f8caa3235d41bf"
+    }
+  }
+}

@@ -25,8 +25,24 @@
     "43_Mouth_Tongue",
     "50_Eye_R_Closed",
     "51_Eye_L_Closed",
-    "60_Hair_Front"
+    "60_Hair_Front",
+    "52_Eye_R_Happy",
+    "53_Eye_L_Happy",
+    "60_Hair_Crown_Fixed",
+    "61_Hair_Outer_R",
+    "62_Hair_Side_R",
+    "63_Hair_Bang_R",
+    "64_Hair_Bang_C",
+    "65_Hair_Side_L",
+    "66_Hair_Outer_L"
   ],
   "original_visible_pixels": "SVG vector masks retain original visible hair, face, ears, body and nose. v16 underpainting fills hidden regions only.",
-  "hidden_reference": "00_HeadBase_WithHair"
+  "hidden_reference": "00_HeadBase_WithHair",
+  "editable_psd": "koyomi-v31.psd",
+  "native_model": "koyomi-v31.cmo3",
+  "happy_eyes_default_visibility": false,
+  "hair_addition_psd": "hair-strands-add.psd",
+  "original_front_hair_default_visibility": false,
+  "layer_count": 35,
+  "physics": "Native CMO3 physics settings; runtime/koyomi.physics3.json"
 }

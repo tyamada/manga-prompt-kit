@@ -1,0 +1,235 @@
+{
+  "version": "v32-right45-prototype",
+  "date": "2026-11-24",
+  "status": "development; not stable replacement for v31",
+  "native_editor": "Cubism Editor 5.3.05 FREE",
+  "native_viewer": "Cubism Viewer for OW 5.3.05",
+  "new_layer_partition": "3 display plates; back/face/front; existing 35 layers preserved in 38-layer PSD",
+  "source": {
+    "v31_psd_original_layers_preserved": 35,
+    "name_bbox_visibility_decoded_pixels_exact": true,
+    "existing_motion_original_bytes_preserved": true,
+    "original_wav_bytes_preserved": true,
+    "six_expressions_bytes_preserved": true,
+    "v31_cmo_sha256": "4ff8ed362fbe9fc8d7b915f6766c423a5c7502b493e390012a8c8573f887ea76"
+  },
+  "core": {
+    "new_meshes": [
+      "P32_R45_Back",
+      "P32_R45_Face",
+      "P32_R45_Front"
+    ],
+    "profile_default": 0.0,
+    "preservation_cases": 360,
+    "profile_cases": 720,
+    "profile0_max_delta_source_px": 4.737270355224609,
+    "max_old_uv_delta": 0,
+    "new_triangle_inversions": 0,
+    "hidden_collapsed_triangle_sign_changes": 1752,
+    "closed_mouth_hidden": true,
+    "old_skin_and_hair_hidden_at_profile1": true,
+    "six_expressions_checked": [
+      "01_normal.exp3.json",
+      "02_happy.exp3.json",
+      "03_surprised.exp3.json",
+      "04_idea.exp3.json",
+      "05_lets_try.exp3.json",
+      "06_noticed.exp3.json"
+    ],
+    "old_visible_texture_pixels_changed": 0,
+    "native_physics_equal": true,
+    "new_profile_texture_scale_percent": 50,
+    "continuous_transition_status": "Not approved: intermediate crossfade and left/profile80 views remain unfinished."
+  },
+  "geometry_difference": {
+    "frames": 901,
+    "source_px_max_delta": 2.1788787841796875,
+    "visible_source_px_max_delta": 2.1788787841796875,
+    "source_px_neutral_delta": 0.0002899169921875,
+    "note": "Additional feature parent introduces small interpolation differences; artwork and original curves are preserved.",
+    "mesh_max_deltas": {
+      "ArtMesh": 0.15655517578125,
+      "ArtMesh0": 0.15655517578125,
+      "ArtMesh1": 0.05426025390625,
+      "ArtMesh2": 0.052825927734375,
+      "ArtMesh3": 0.0590362548828125,
+      "ArtMesh4": 0.04974365234375,
+      "ArtMesh5": 2.166473388671875,
+      "ArtMesh6": 2.0508193969726562,
+      "ArtMesh7": 0.0287017822265625,
+      "ArtMesh8": 0.027984619140625,
+      "ArtMesh9": 0.0288238525390625,
+      "ArtMesh10": 2.0189590454101562,
+      "ArtMesh11": 1.844329833984375,
+      "ArtMesh12": 2.1071624755859375,
+      "ArtMesh13": 0.17296600341796875,
+      "ArtMesh14": 0.1651458740234375,
+      "ArtMesh15": 0.1848602294921875,
+      "ArtMesh16": 2.1788787841796875,
+      "ArtMesh17": 0.8204803466796875,
+      "ArtMesh18": 0.1669158935546875,
+      "ArtMesh21": 0.0001735687255859375,
+      "ArtMesh22": 0.000213623046875,
+      "ArtMesh23": 0,
+      "ArtMesh24": 0.000274658203125,
+      "ArtMesh19": 0.6288795471191406,
+      "ArtMesh25": 0.025127410888671875,
+      "ArtMesh26": 0.000274658203125,
+      "ArtMesh27": 0.00018310546875,
+      "ArtMesh28": 0.0001220703125,
+      "ArtMesh29": 6.866455078125e-05,
+      "ArtMesh30": 0.000244140625,
+      "ArtMesh31": 0.000152587890625,
+      "ArtMesh32": 0.00018310546875
+    },
+    "exact_v31_geometry_preservation": false,
+    "comparison_status": "Measured difference; not an exact-preservation pass."
+  },
+  "front_video": {
+    "frames": 280,
+    "mouth_motion_start_fit_seconds": 0.18600000000000017,
+    "mouth_area_curve_correlation": 0.9649957439433612,
+    "audio_start_seconds": 0.16999999999999993,
+    "audio_minus_mouth_start_seconds": -0.016000000000000236,
+    "shoulders": [
+      {
+        "region": [
+          150,
+          650,
+          60,
+          60
+        ],
+        "max_abs_shift_px": [
+          0,
+          0
+        ],
+        "min_correlation": 0.9998207092285156
+      },
+      {
+        "region": [
+          210,
+          650,
+          45,
+          60
+        ],
+        "max_abs_shift_px": [
+          0,
+          0
+        ],
+        "min_correlation": 0.9996288418769836
+      },
+      {
+        "region": [
+          470,
+          650,
+          45,
+          60
+        ],
+        "max_abs_shift_px": [
+          0,
+          0
+        ],
+        "min_correlation": 0.9996642470359802
+      },
+      {
+        "region": [
+          530,
+          650,
+          60,
+          60
+        ],
+        "max_abs_shift_px": [
+          0,
+          0
+        ],
+        "min_correlation": 0.9998316168785095
+      }
+    ],
+    "mouth_area_min_max": [
+      0,
+      2271
+    ]
+  },
+  "right45_video": {
+    "frames": 280,
+    "mouth_motion_start_fit_seconds": 0.20800000000000018,
+    "mouth_area_curve_correlation": 0.967290710114593,
+    "audio_start_seconds": 0.16999999999999993,
+    "audio_minus_mouth_start_seconds": -0.038000000000000256,
+    "shoulders": [
+      {
+        "region": [
+          150,
+          650,
+          60,
+          60
+        ],
+        "max_abs_shift_px": [
+          0,
+          0
+        ],
+        "min_correlation": 0.9998074173927307
+      },
+      {
+        "region": [
+          210,
+          650,
+          45,
+          60
+        ],
+        "max_abs_shift_px": [
+          0,
+          0
+        ],
+        "min_correlation": 0.9996068477630615
+      },
+      {
+        "region": [
+          470,
+          650,
+          45,
+          60
+        ],
+        "max_abs_shift_px": [
+          0,
+          0
+        ],
+        "min_correlation": 0.999676525592804
+      },
+      {
+        "region": [
+          530,
+          650,
+          60,
+          60
+        ],
+        "max_abs_shift_px": [
+          0,
+          0
+        ],
+        "min_correlation": 0.9998507499694824
+      }
+    ],
+    "mouth_area_min_max": [
+      0,
+      2358
+    ]
+  },
+  "audio_video_individual_offset_correction": false,
+  "audio_replacement": false,
+  "video_crop": "model region only; no application title or personal path",
+  "video_measurement_precision_seconds": 0.03333333333333333,
+  "limitations": [
+    "3-way partition for display switching, not final independent hair/skin masks or strand physics",
+    "Only right45 integrated. Left45/80 and right80 remain art candidates",
+    "ParamProfileR45 0 and1 endpoints only; intermediate values crossfade overlapping heads and are not production-ready",
+    "Additional feature parent changes oblique feature geometry slightly: see motion-preservation.json"
+  ],
+  "public_exclusions": [
+    "standalone WAV",
+    "full-screen or application-window MOV",
+    "SDK/apps/Java runtime",
+    "temporary exports and failed trial recordings"
+  ],
+  "cleanup": "No Finder or Preview windows were opened by this task."
+}

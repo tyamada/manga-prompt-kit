@@ -1,0 +1,13 @@
+{
+  "layers": 35,
+  "other_layers_unchanged": 33,
+  "front_composite_exact": true,
+  "skin_alpha_exact": true,
+  "skin_underpaint_changed_pixels": 1839,
+  "neck": {
+    "neck_underpaint_changed_pixels": 5168,
+    "neck_alpha_exact": true,
+    "change": "Neck shadow fill confined to pixels hidden by fully opaque frontal SkinHead. Removes exposed old-face-colored underpaint when head turns."
+  },
+  "change": "Copy opaque original hair into opaque skin underpaint under original opaque fringe only. Frontal35-layer composite identical; no visible facial feature edits."
+}
