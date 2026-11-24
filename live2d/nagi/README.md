@@ -6,6 +6,8 @@
 
 [Viewer用モデル一式](development/front-separation/nagi-narration-v2-accent-v3-full-sync/runtime/) · [発音境界の比較CSV](development/front-separation/nagi-narration-v2-accent-v3-full-sync/phoneme-boundaries.csv)
 
+[音声付き通し再生動画](development/front-separation/nagi-narration-v2-accent-v3-full-sync/nagi-full-phrases-preview.mp4)は13.5秒です。Cubism Viewerのモデル表示を収録し、口の動きとモーションの時刻を照合して、試聴版3の音声を合わせました。音声は **VOICEVOX:波音リツ** です。音声には[波音リツの音源利用規約](https://www.canon-voice.com/terms/)が適用されます。
+
 先に調整した2フレーズに加え、残りを5区間に分けて確認しました。「引っかかった」の促音から後続子音までの閉口、無声母音での口幅、連続する母音の口幅の切り替えを調整しています。Cubism Viewerで `nagi-narration-v2-accent-v3-full-sync.model3.json` を開いて、`Narration` を再生してください。音声は下記のアクセント試聴版3の手順で用意できます。
 
 ## アクセント試聴版3の口パク微調整
