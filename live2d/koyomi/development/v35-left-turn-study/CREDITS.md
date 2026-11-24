@@ -17,5 +17,3 @@ Live2DのSDK・Core・Editor・Viewerおよび改変Viewerの実行ファイル�
 
 - [Cubism Editor使用許諾契約](https://www.live2d.com/eula/live2D-editor-software-license-agreement_jp.html)
 - [Cubism Core使用許諾契約](https://www.live2d.com/eula/live2d-proprietary-software-license-agreement_jp.html)
-
-
