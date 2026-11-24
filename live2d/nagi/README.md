@@ -2,6 +2,12 @@
 
 『ためし部』瀬尾凪の冬の室内制服モデルです。正面全身の原画、分割PSD、編集用CMO3、Cubism Viewerで再生できる口リグ試作を収録しています。
 
+## 視線＋まばたき＋口パク v2
+
+[Viewer用モデル一式](development/front-separation/nagi-gaze-lipsync-v2/runtime/) · [編集用CMO3](development/front-separation/nagi-gaze-lipsync-v2/nagi-gaze-lipsync-v2.cmo3) · [虹彩と白目のPSD](development/front-separation/nagi-gaze-lipsync-v2/nagi-gaze-plates.psd)
+
+視線を大きく動かしたときに見える白目の縁に陰影を加えました。Cubism Viewerで `nagi-gaze-lipsync-v2.model3.json` を開き、`GazeCheck` で視線と左右のまばたき、`Ritsu` で12.43秒の口パクを再生できます。音声を追加する場合は下記の口リグv3の手順を参照してください。
+
 ## 視線＋まばたき＋口パク v1
 
 [Viewer用モデル一式](development/front-separation/nagi-gaze-lipsync-v1/runtime/) · [編集用CMO3](development/front-separation/nagi-gaze-lipsync-v1/nagi-gaze-lipsync-v1.cmo3) · [虹彩と白目のPSD](development/front-separation/nagi-gaze-lipsync-v1/nagi-gaze-plates.psd)

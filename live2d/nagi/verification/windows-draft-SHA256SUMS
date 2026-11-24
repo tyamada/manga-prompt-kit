@@ -69,6 +69,14 @@ a6ba328544b47b2c09cec080fbaa8d4a2d4131b38a0869ddc4f9fe24bb63c0b0  development/fr
 2d3b92f156bde5db949cbc9af7eac4dd516bd9dff9e76f26c34a061ae68d7312  development/front-separation/nagi-gaze-lipsync-v1/runtime/nagi-gaze-lipsync-v1.moc3
 7cdac38eb3ec28b492946ee1f3fdcd5388941abeb9e91ba63d2c779dc54b46bf  development/front-separation/nagi-gaze-lipsync-v1/runtime/nagi-gaze-lipsync-v1.model3.json
 d96b38771c7a8766419bd8245e300482c269dd1686aa48bc921dd2d20db1a7fe  development/front-separation/nagi-gaze-lipsync-v1/runtime/nagi-gaze-lipsync-v1.motion3.json
+eafb19860268ac8573e2f8c715022228112386b78d71bbfbd37d28ef6786659c  development/front-separation/nagi-gaze-lipsync-v2/nagi-gaze-lipsync-v2.cmo3
+c40610b46f9b0829c9fbe66bd1e9320def56c8a2e72f7574fd5ff453c8680a38  development/front-separation/nagi-gaze-lipsync-v2/nagi-gaze-plates.psd
+d3c384a62b225fc914c63aa9d37a873cc3e4c743baec73a2823944388ae5afb7  development/front-separation/nagi-gaze-lipsync-v2/runtime/nagi-gaze-independence-check.motion3.json
+5cd9f5626a519c1e95c698dbf9e15f9bd3fab6a8e8c76f55c536a2766700c713  development/front-separation/nagi-gaze-lipsync-v2/runtime/nagi-gaze-lipsync-v2.2048/texture_00.png
+195d18ed64a77410591f8035339fd5b60ebdbb89864428d62de32f0fb71fd223  development/front-separation/nagi-gaze-lipsync-v2/runtime/nagi-gaze-lipsync-v2.cdi3.json
+2d3b92f156bde5db949cbc9af7eac4dd516bd9dff9e76f26c34a061ae68d7312  development/front-separation/nagi-gaze-lipsync-v2/runtime/nagi-gaze-lipsync-v2.moc3
+2d975a905dd64ae5cc65c03e7df8f8442e4b700edfbdb9aa901421bdef890f53  development/front-separation/nagi-gaze-lipsync-v2/runtime/nagi-gaze-lipsync-v2.model3.json
+d96b38771c7a8766419bd8245e300482c269dd1686aa48bc921dd2d20db1a7fe  development/front-separation/nagi-gaze-lipsync-v2/runtime/nagi-gaze-lipsync-v2.motion3.json
 038df10d9a379e117b4bb40b407892c09546711285b88cca9719d3789604c110  development/front-separation/nagi-mouth-keyform-grid.png
 ff3b7515c9d670284c4db39b02afd903cf6aa8d869abe10a3249c8115fffec6a  development/front-separation/nagi-mouth-keyform-targets.json
 8beddbd6b628aca87866465dfc88784f677ce1fa17bdc962d0914d8ebf3f6814  development/front-separation/nagi-mouth-parts-v4-comparison.png
@@ -89,4 +97,4 @@ f97ae6bfee4a7815710140d89c7739b35f60eda4278ca225f2e9208aec0e9a56  development/fr
 819fe8b80cfc92447419bfe444a848f2bb595cd2ea2f04ef11656ae3c44bf5e2  development/voice-audition/nagi-no7-query.json
 92515bd1fde7752834526105f36c3d5f888b7559d1673b344b10395a4a97e9b4  development/voice-audition/script.txt
 f712cda14db6390fcf2e359879c9381aaf4a6f092fb5a7a7043e3a4db3b09899  development/voice-audition/vowel-motion-check.json
-01053bcfde429a2340c7e4db1006ed081ede257cb51057cc823065c07a5b80e6  docs/windows-production-start.md
+4714c930aced009ddd06b00fb9c3360c76c91ec690cc5e7cf9aa25719100ac50  docs/windows-production-start.md

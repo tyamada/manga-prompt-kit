@@ -177,3 +177,7 @@ Cubism Viewer 5.3.05で波音リツの音声付きで通し再生し、0.88の�
 虹彩と白目のArtMeshを分け、白目で虹彩をクリップした。両眼の虹彩を `ParamEyeBallX` と `ParamEyeBallY` の中立・四方向・四隅のキーで同時に動かす。左右の閉じ目は虹彩の手前に置き、まばたきv4から口パクと左右の開閉曲線を引き継いだ。
 
 Cubism Viewer 5.3.05の正面拡大表示で、四方向の視線、斜めと片目・両目閉じの組み合わせ、波音リツの音声付き口パクを確認した。視線を大きく振ると、拡大時に描き足した白目の縁がわずかに見える。[視線v1](../development/front-separation/nagi-gaze-lipsync-v1/)
+
+## 正面の視線 v2（2026-11-25）
+
+描き足した白目の輪郭付近に陰影を加え、Cubism EditorでPSDを差し替えた。視線、左右の開閉、口パクのモーションはv1と同じ。Cubism Viewerで目元を拡大して視線と片目閉じを確認し、波音リツの音声を割り当てた検証用モデルで通しモーションの表示を確認した。[視線v2](../development/front-separation/nagi-gaze-lipsync-v2/)
