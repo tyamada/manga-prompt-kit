@@ -1,0 +1,23 @@
+{
+  "source_sha256": "425321d96a4ddc34d28aff130bf47a0f3b828117084bc4f49c6336bbcc910a5d",
+  "psd_sha256": "14cfa267fa556853ab0ca17a9a9e3b616dd3abbd5dac45b15ebdc335c170d38a",
+  "layer_visible_pixels": {
+    "Hand_R_visible_draft": 5684,
+    "Hand_L_visible_draft": 5527,
+    "Eye_R_visible": 808,
+    "Eye_L_visible": 752,
+    "Mouth_visible": 340,
+    "Face_visible": 12323,
+    "Ribbon_visible": 6578,
+    "Hair_side_R_visible": 9089,
+    "Hair_side_L_visible": 8388,
+    "Hair_crown_visible": 23857,
+    "Skirt_visible": 81263,
+    "Leg_R_visible": 56085,
+    "Leg_L_visible": 54414,
+    "Torso_sleeves_back_hair_remaining": 114870
+  },
+  "visible_layer_reconstruction_matches": true,
+  "decoded_psd_composite_rgba_matches": true,
+  "occluded_art_added": false
+}

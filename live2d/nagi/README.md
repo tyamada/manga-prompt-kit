@@ -1,6 +1,27 @@
-# 瀬尾凪｜Live2D用正面全身原画
+# 瀬尾凪｜Live2D口リグ試作
 
-『ためし部』瀬尾凪の、冬の室内制服・小物なしの正面全身原画です。2026-11-23制作、原画 v1。**パーツ分け前の1枚のPNG**であり、PSD・Cubismモデル・動作可能なランタイムは含みません。
+『ためし部』瀬尾凪の冬の室内制服モデルです。正面全身の原画、分割PSD、編集用CMO3、Cubism Viewerで再生できる口リグ試作を収録しています。
+
+## 口リグ試作 v3
+
+閉口線・開口輪郭・口内・舌を分け、`ParamMouthOpenY` で口の開閉、`ParamMouthForm` で横幅を制御します。v3では波音リツの合成フレームを元のWAVと照合して、開閉と母音の口幅が切り替わる時刻を調整しました。Cubism Viewer 5.3.05で約12.43秒の通し再生を確認しています。現段階で動作確認した範囲は正面モデルの口です。
+
+| ファイル | 用途 |
+|---|---|
+| [Viewer用モデル一式](development/front-separation/mouth-rig-v5-ritsu-timing-v3/) | model3.json、MOC3、テクスチャ、v3モーション、発音境界の比較CSV |
+| [編集用CMO3](development/front-separation/mouth-rig-v5-prototype/nagi-mouth-rig-v5-prototype.cmo3) | Cubism Editorで口の可動キーを編集 |
+| [口リグ用分割PSD v5](development/front-separation/nagi-mouth-rig-source-v5.psd) | 口の4レイヤーと全身素材 |
+| [口形の確認動画](development/front-separation/nagi-ritsu-lipsync-preview.mp4) | v3以前の画像合成プレビュー。音声は VOICEVOX:波音リツ |
+
+1. Viewer用モデルのフォルダーを一式取得し、Cubism Viewer (for OW) 5.3.05以降で `nagi-mouth-rig-v5-ritsu-timing-v3.model3.json` を開きます。
+2. モーション一覧の `Ritsu` から `nagi-namine-ritsu-vowels-v3` を選び、再生します。配布モデルは無音で再生できます。
+3. 音声を合わせる場合は、[台詞](development/voice-audition/script.txt)と[合成クエリ](development/voice-audition/nagi-namine-ritsu-query.json)を使い、VOICEVOX:波音リツ（ノーマル、スタイル9）で合成します。試作時はVOICEVOX Core 0.17.0を使用しました。生成したWAVをViewerのモーション設定の「音声」で指定します。音声利用時は「VOICEVOX:波音リツ」を表示してください。[VOICEVOX 波音リツ](https://voicevox.hiroshiba.jp/product/namine_ritsu/) · [音源利用規約](https://www.canon-voice.com/terms/)
+
+[Windows制作と検証の記録](docs/windows-production-start.md)
+
+## 正面全身原画
+
+2026年11月23日制作の原画 v1。
 
 [透過PNGを開く](source/nagi-front-winter-indoor-v1.png)
 
@@ -16,7 +37,8 @@
 
 | フォルダー | 内容 |
 |---|---|
-| `source/` | 公開する原画PNG |
+| `source/` | 正面全身の原画PNG |
+| `development/` | 分割PSD、口リグ、Viewer用モデル、モーション、比較資料 |
 | `docs/` | 参照元・制作条件・Windowsへの引き継ぎ |
 | `prompts/` | 組み込み画像生成ツールに渡した生成・修正プロンプト |
 | `verification/` | 画像仕様とSHA-256 |

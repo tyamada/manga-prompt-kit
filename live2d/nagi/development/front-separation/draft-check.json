@@ -1,0 +1,23 @@
+{
+  "source_sha256": "425321d96a4ddc34d28aff130bf47a0f3b828117084bc4f49c6336bbcc910a5d",
+  "canvas": [
+    1024,
+    1536
+  ],
+  "alpha_total": 1572864,
+  "alpha_zero": 1192886,
+  "alpha_1_to_15": 22002,
+  "alpha_16_to_127": 5127,
+  "alpha_128_to_253": 341826,
+  "alpha_254": 11023,
+  "alpha_255": 0,
+  "layers_top_to_bottom": [
+    "Hand_R_visible_draft",
+    "Hand_L_visible_draft",
+    "Base_remaining_draft"
+  ],
+  "neutral_partition_rgba_matches_source": true,
+  "psd_sha256": "f80e7ee9c900a6e79157ff25ee90e896ae5a4ceb71ccdf5fd20276bdb6c49631",
+  "cubism_import_verified": false,
+  "hidden_art_added": false
+}

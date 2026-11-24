@@ -1,0 +1,12 @@
+{
+  "wav_sha256": "73c57fb381fae7eea43d7fde95d2d86e89966363e66f9613dfc3c6b9785ba7a0",
+  "wav_duration_seconds": 12.426666666666666,
+  "motion_duration_seconds": 12.426667,
+  "rms_window_seconds": 0.02,
+  "rms_gate_full_scale": 0.006,
+  "points": 374,
+  "closed_points": 113,
+  "active_points": 261,
+  "maximum_open": 0.992,
+  "checked_in_cubism_viewer": false
+}

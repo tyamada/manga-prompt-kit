@@ -1,0 +1,27 @@
+{
+  "pivot_px": [
+    515.5,
+    224.8
+  ],
+  "mouth_parts_top_to_bottom": [
+    "Mouth_Closed",
+    "Mouth_Open_Tongue",
+    "Mouth_Open_Inner",
+    "Mouth_Open_Outline"
+  ],
+  "open_parts_hidden_at_rest": [
+    "Mouth_Open_Tongue",
+    "Mouth_Open_Inner",
+    "Mouth_Open_Outline"
+  ],
+  "preview_order": [
+    "closed",
+    "assembled open",
+    "tongue",
+    "inner",
+    "outline base"
+  ],
+  "neutral_psd_decode_matches": true,
+  "psd_sha256": "5f278259113f1e9a7700c06dfae1f3fd66795cc89298690ad900196d07598faa",
+  "cubism_import_verified": false
+}
