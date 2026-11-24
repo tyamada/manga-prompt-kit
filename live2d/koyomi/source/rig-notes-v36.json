@@ -1,0 +1,27 @@
+{
+  "basis": "v35 signed oblique head and hair rig retained; original37 artwork layers preserved",
+  "parameter": "ParamProfileR45 -1..1; negative left, positive original right",
+  "new_deformers": {
+    "Warp18": "FarEye_LeftShape_v36: left-facing far eye sclera, lids, closed eye and happy eye; original HeadZ parent",
+    "Warp19": "FarEye_LeftIris_v36: character-right iris/pupil/highlight under original GazeX; gaze preserved"
+  },
+  "deformer_setup": "9x9 transform divisions,2x2 Bezier; shape frame resized around eye with child canvas coordinates preserved, then mild left-only narrowing. Iris has separate matching left key.",
+  "nose": "Existing Warp17/Nose_Depth_v34 positive form mirrored to negative endpoint; original small nose mark retained.",
+  "new_art": {
+    "N36_LeftBridge": "Original skin pixels, clipped at x430..466 y554..637 to match asymmetric artwork; HeadZ parent, draworder510",
+    "H36_LeftEarCover": "Original character-right side-hair pixels clipped at x212..270 y530..708; Strand_Side_R_v26 parent, draworder610"
+  },
+  "visibility": "New2 layers opacity1 at profile-1,0 at0 and+1. v34 right overlays remain unchanged and hidden on left.",
+  "closed_eye_remesh": "50_Eye_R_Closed / ArtMesh0 regenerated from full-canvas quad to a local alpha-following mesh, avoiding large transparent regions in the local eye deformer. Original bitmap and opening opacity curve retained. Final mesh4 to31 vertices; spacing20/20, margins30/30, minimum margin5, minimum points20. Six rasterization-boundary pixels within1 texture texel; no uncovered visible pixels beyond tolerance.",
+  "source_psd": "39 layers: original37 unchanged, new2 default hidden. Original frontal composite exact.",
+  "atlas": "New patches at100%, Ear x1650 y1800, Bridge x1500 y1800. Original visible pixels and alpha outside added patch region retained; invisible transparent RGB padding changes recorded.",
+  "limitations": [
+    "Oblique angles are artistic targets, not measured physical45 degrees.",
+    "No finished80-degree profile, full-body/hand animation or VTube Studio tracking.",
+    "Original topology-changed closed eye is checked visually; pointwise preservation comparison excludes it."
+  ],
+  "references": [
+    "https://docs.live2d.com/cubism-editor-manual/making-and-placement-of-warp-deformer/",
+    "https://docs.live2d.com/cubism-editor-manual/motion-mirroring/"
+  ]
+}

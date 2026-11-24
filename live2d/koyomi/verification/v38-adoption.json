@@ -1,0 +1,141 @@
+{
+  "status": "user-adopted I on2026-11-25; applied to all voiced Viewer motions",
+  "voice": "VOICEVOX:春日部つむぎ",
+  "wave_sha256": "588970d8b6e6ee412efc47dfa1be587ad77b9708a2ac4bcb7235497e2fb03178",
+  "duration_seconds": 9.034671201814058,
+  "same_phoneme_durations_and_sample_count_as_v36": true,
+  "geometry_motion_physics_expressions_preserved": [
+    {
+      "base": "public/source/koyomi-v36.cmo3 (verified roundtrip source)",
+      "new": "koyomi-v38.cmo3",
+      "sha256": "4263c1ef4c6f4526810d204f9f97ce25641bfd32703a0a598b80701a3cc16fc2"
+    },
+    {
+      "base": "koyomi-v36.moc3",
+      "new": "koyomi-v38.moc3",
+      "sha256": "9157554ee946b60a2a4c56449352c5518a2fe9f9f4f3d183fa78e1d24bec6d2c"
+    },
+    {
+      "base": "koyomi-v36.physics3.json",
+      "new": "koyomi-v38.physics3.json",
+      "sha256": "845a8490d16d6ebabde515df8e22eb0ad3168a9fdf6e7cee4d372ffdbb887af0"
+    },
+    {
+      "base": "koyomi-v36.2048/texture_00.png",
+      "new": "koyomi-v38.2048/texture_00.png",
+      "sha256": "f1321069d8c991c27eb635331d0568eb63650aa2d56e544a218b0766d59af0a6"
+    },
+    {
+      "base": "source/koyomi-v36.psd",
+      "new": "source/koyomi-v38.psd",
+      "sha256": "752b277d21cf8f736772d89fca1591a9563b8792c877dedf12aa2429d7c5a890"
+    },
+    {
+      "base": "head-turn-check.motion3.json",
+      "new": "head-turn-check.motion3.json",
+      "sha256": "a98ab5970429924944784540a3a6be1f9410cb0d6c4ae1b74246c243d5bb6d3d"
+    },
+    {
+      "base": "showcase-l45.motion3.json",
+      "new": "showcase-l45.motion3.json",
+      "sha256": "53cff57237c2d3f1f863701eda2c5a49f383e38b14dcbd93f905f932b1919b63"
+    },
+    {
+      "base": "mouth-check.motion3.json",
+      "new": "mouth-check.motion3.json",
+      "sha256": "f1c910cf6f37aad459ec7813e7d5158429c4d1b82033d9f744328b00468241f5"
+    },
+    {
+      "base": "brow-angle-check.motion3.json",
+      "new": "brow-angle-check.motion3.json",
+      "sha256": "ba1c8758270af7f98739b12a64afb67a360200315ba71a09210b50dfa908e16d"
+    },
+    {
+      "base": "showcase-turn.motion3.json",
+      "new": "showcase-turn.motion3.json",
+      "sha256": "f8f1c9447f4f4839583d5f712acc291b90f92757d2f56368eb4953e1213004cf"
+    },
+    {
+      "base": "smooth-turn-check.motion3.json",
+      "new": "smooth-turn-check.motion3.json",
+      "sha256": "801b9eeace0e3581172fe34de1b5f0e3d6ef3e6ced27576b7ae33a0a97a13f3b"
+    },
+    {
+      "base": "physics-check.motion3.json",
+      "new": "physics-check.motion3.json",
+      "sha256": "633841e3bbd84fa4d9bd00d2f8e21a4d9d000396ed710fac03e087011fd0dd2a"
+    },
+    {
+      "base": "showcase-30s.motion3.json",
+      "new": "showcase-30s.motion3.json",
+      "sha256": "c5164b80d0863e4859d8964206444108b730fe00db54f54c93463b4e20aff560"
+    },
+    {
+      "base": "showcase-front.motion3.json",
+      "new": "showcase-front.motion3.json",
+      "sha256": "48ec6b27232d880b8fae6c17e6db186746133c9bb63dc2a406c0805eb9fa07a3"
+    },
+    {
+      "base": "smooth-left-check.motion3.json",
+      "new": "smooth-left-check.motion3.json",
+      "sha256": "c795716b113443d83f57ea70a1eaade315c4ffbffceb2ad359568efdc97938bb"
+    },
+    {
+      "base": "showcase-r45.motion3.json",
+      "new": "showcase-r45.motion3.json",
+      "sha256": "513913e3a6915f0d89b754853d1ac9075fbde2ad1bbc9c7c6b798ce8fb501cb4"
+    },
+    {
+      "base": "showcase-both.motion3.json",
+      "new": "showcase-both.motion3.json",
+      "sha256": "6e6ed2e88cf4e918de9ea775f492fd52291ff3d2dc7126298dad13586befd5aa"
+    },
+    {
+      "base": "gaze-check.motion3.json",
+      "new": "gaze-check.motion3.json",
+      "sha256": "63e1326959b50bd3edead07b3aee91622fad181ab020ec07e0129631e3c44cb5"
+    },
+    {
+      "base": "brow-check.motion3.json",
+      "new": "brow-check.motion3.json",
+      "sha256": "e5e32dd1c70efe520dfff1cd3e77f92af1801c5d73cf0a3f2f88c071142b038e"
+    },
+    {
+      "base": "hair-strands-check.motion3.json",
+      "new": "hair-strands-check.motion3.json",
+      "sha256": "6879c296f288e4915e5077e211cfdeeaae0e4ffa2193d0f0b1601a984094ebec"
+    },
+    {
+      "base": "expressions/05_lets_try.exp3.json",
+      "new": "expressions/05_lets_try.exp3.json",
+      "sha256": "c499a7f1c61d6dd76cc56b4c20f5eafe9e86bf58974fae088a3ca198032afee5"
+    },
+    {
+      "base": "expressions/01_normal.exp3.json",
+      "new": "expressions/01_normal.exp3.json",
+      "sha256": "60df07353446c4f4fe2348e17f6ebfdac755366d22c2ade1013d9e4f8b2717ee"
+    },
+    {
+      "base": "expressions/03_surprised.exp3.json",
+      "new": "expressions/03_surprised.exp3.json",
+      "sha256": "cd35fb24cd70ee978cf8dd063f1f274a2c04195c8b2da734301833f60981bb09"
+    },
+    {
+      "base": "expressions/06_noticed.exp3.json",
+      "new": "expressions/06_noticed.exp3.json",
+      "sha256": "f3069b2d68767c558a8ad78ab027f17a9fa3dda12a9dd40d881b0b60a357bd8e"
+    },
+    {
+      "base": "expressions/04_idea.exp3.json",
+      "new": "expressions/04_idea.exp3.json",
+      "sha256": "4f7402d5becf909c6f754a771641f99507c7024a41aa5eed87a4b9eef9c5a281"
+    },
+    {
+      "base": "expressions/02_happy.exp3.json",
+      "new": "expressions/02_happy.exp3.json",
+      "sha256": "5c2dc0d4a137376f01048eba7a3c2c02f26452768875af45831d22cf87d2461a"
+    }
+  ],
+  "original_v36_and_v37_not_modified": true,
+  "editor_selection_note": "Local root v36.cmo3 was an incomplete draft with two unplaced patches. Original kept; verified public CMO3 chosen and successfully re-exported exact runtime."
+}

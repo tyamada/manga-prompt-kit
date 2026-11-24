@@ -110,10 +110,23 @@
 			"Id": "ParamBrowRAngle",
 			"GroupId": "",
 			"Name": "Brow_R_Angle_v30"
+		},
+		{
+			"Id": "ParamProfileR45",
+			"GroupId": "",
+			"Name": "Profile_R45_Smooth_v33"
 		}
 	],
 	"ParameterGroups": [],
 	"Parts": [
+		{
+			"Id": "Part5",
+			"Name": "left-overlap-add.psd"
+		},
+		{
+			"Id": "Part4",
+			"Name": "depth-overlap-add.psd"
+		},
 		{
 			"Id": "Part3",
 			"Name": "hair-strands-add.psd"

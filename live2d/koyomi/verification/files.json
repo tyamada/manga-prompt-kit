@@ -1,41 +1,45 @@
 {
-  "version": "v31 stable + v36 validated + v37 endpoint-only80 degree study",
-  "date": "2026-11-25",
+  "version": "v38 adopted voice I; public runtime silent",
   "files": [
     {
       "path": ".gitignore",
-      "bytes": 113,
-      "sha256": "45e7b60421b51416a1a0583f0ff0ac9c21813a9ffb0ee46fac62c2a18bc28a7c"
+      "bytes": 22,
+      "sha256": "1c7147a812089f60b1527f02a150853761d50adc9e0de9b0968df6eb290af960"
+    },
+    {
+      "path": "CREDITS.md",
+      "bytes": 1630,
+      "sha256": "377f767d159908fe537e5e7a7f60e940b52c6c59d1ab23c44f4489217e6ff410"
     },
     {
       "path": "LICENSE.md",
-      "bytes": 3069,
-      "sha256": "3789ecf4930d0dcc657cbe24a79cd18c390cc9679c84273671bff4e1fa5d4e08"
+      "bytes": 3320,
+      "sha256": "8267de325e3aedad08b425555388db10f650c56bb1b220dc9c0b6add9cb6ab3d"
     },
     {
       "path": "README.md",
-      "bytes": 12802,
-      "sha256": "2aec6c54d1592ff1500242e64a51a9e3d69b2e9a96c54edbdfc30b0448cbb013"
+      "bytes": 3480,
+      "sha256": "6fff6e9b5f3180eb59990975584164ca6bbc03ebb3111ba3e490b64a98f8072a"
     },
     {
       "path": "audio/README.md",
-      "bytes": 1481,
-      "sha256": "6c50123ca76ae1c1753f1f005d5ed8f9c4dbf7e06f8fcda049fc225b2d3aa5c6"
+      "bytes": 1423,
+      "sha256": "3d45d8e4ed9cccccc7c1fec2c58aeab5fa46e4699fee16cee60e6f29a02b34d9"
     },
     {
       "path": "audio/script.txt",
-      "bytes": 331,
-      "sha256": "bd2b8960e9d53605828e906083f90b9d3aec56b65c1ea1323cd06563a10ba485"
+      "bytes": 162,
+      "sha256": "fac7510a8be06db1be56216b3a0574602bb49c3fee69818409e6cd04e9ba5979"
     },
     {
       "path": "audio/self-introduction.audio-query.json",
-      "bytes": 14840,
-      "sha256": "b257e60b9bae18241274f52f9d888a4c476683c80e4e90664240cc44250c2a4a"
+      "bytes": 14274,
+      "sha256": "7b294450812b3d1b15b131bcc2365aefd1784cd9e216a3731a029e71d6df5e69"
     },
     {
       "path": "development/README.md",
-      "bytes": 1318,
-      "sha256": "7cf8fd3e14e3486cde747ee6ecaff429b670a6eae698cfa35f7f5cb6067a6624"
+      "bytes": 1408,
+      "sha256": "4b713fe10d11df56ac4d988365515b5ca6acb3bd476274d12a3ee942b1f3023e"
     },
     {
       "path": "development/full-body-hands/README.md",
@@ -1769,18 +1773,23 @@
     },
     {
       "path": "docs/credits.md",
-      "bytes": 4100,
-      "sha256": "f6837a0169cca8a61ee2b29bb8d797afc0367ac7e7e961ae1a5e48faa52121af"
+      "bytes": 4424,
+      "sha256": "ed97d39d7c003c79c724ae6f05902320f0a45bf53c5b6e06244522bac0ab0419"
     },
     {
       "path": "docs/production.md",
-      "bytes": 23349,
-      "sha256": "a279100f34cb91c67c33b7c7f9a8e555180cb248c5b0432afeb33258d58bbaf6"
+      "bytes": 23984,
+      "sha256": "cce33d96c99cd3a52e2a07d6849c7bf4c622bd6c18659a626a1a3c00ec9827b7"
     },
     {
       "path": "docs/roadmap.md",
-      "bytes": 12327,
-      "sha256": "a5dba8f12e0def866d0e5a95c0e84bc66afc5c73b1f7f0fe5da590e13f8c3a58"
+      "bytes": 12843,
+      "sha256": "4720648362e47b3ed609de00130611adab03a170ec340685b9cc7ec7835cf530"
+    },
+    {
+      "path": "preview/blink-mouth-check.jpg",
+      "bytes": 176723,
+      "sha256": "aac52a189324d6bbd3dcb16b4ccc2d14896c33ec9a69a8583e02731d6debade1"
     },
     {
       "path": "preview/brow-angle-check.mp4",
@@ -1853,6 +1862,11 @@
       "sha256": "395354e9d7e0f95dccd3fedec5eea73a3c5b67f831b96f24cbacd7ce8082e668"
     },
     {
+      "path": "preview/left-six-expressions.jpg",
+      "bytes": 131304,
+      "sha256": "54c03cc0006f985b55f0fd119e73389e0289c07a0bc9411d1e59ad14c3417775"
+    },
+    {
       "path": "preview/motion-contact-sheet.jpg",
       "bytes": 187790,
       "sha256": "270c4816b7ce2229f303e3205e612961decc4711640d50fd339121f370bde113"
@@ -1894,18 +1908,28 @@
     },
     {
       "path": "preview/showcase-30s-silent.mp4",
-      "bytes": 1447803,
-      "sha256": "f2feda449ce5a7e1a242c142588a026a9d18506947dcc065c1b5642e223acf83"
+      "bytes": 2749255,
+      "sha256": "aaf20f4538e57985dad0660b2eee8732bf501ec99a13adeaa6a2a19448124159"
     },
     {
       "path": "preview/showcase-30s.mp4",
-      "bytes": 1622209,
-      "sha256": "405b340b1fd68ed09148bdce1fdebae635a289ad3b25bfd55e76561e3e196bc2"
+      "bytes": 2923151,
+      "sha256": "280033e94dac17e6af03c94b8693b182935fdaeef1aee4e8e67b5f461ad012ef"
+    },
+    {
+      "path": "preview/showcase-l45-30s-silent.mp4",
+      "bytes": 1635125,
+      "sha256": "52ee308166454040b4b1e7807745a4d93407ac71a5196a6974b8f4ee26bcd751"
+    },
+    {
+      "path": "preview/showcase-l45-30s.mp4",
+      "bytes": 1809136,
+      "sha256": "806ce9e1232c0b1780b9d1d378cdbefe4808f3958014c4801799935cdb727a4d"
     },
     {
       "path": "preview/six-expressions.jpg",
-      "bytes": 129881,
-      "sha256": "e5a5fc649d3ae8288303ce4a4428390b7d4567aeacade9ce2fb5917db8dfbfae"
+      "bytes": 129944,
+      "sha256": "6624fe49183fa6ad46b8a1686f1373cb8daf11a1fa38e00852c0c55089796a7f"
     },
     {
       "path": "runtime/expressions/01_normal.exp3.json",
@@ -1954,18 +1978,18 @@
     },
     {
       "path": "runtime/koyomi.cdi3.json",
-      "bytes": 2086,
-      "sha256": "683720f0354a629d3f3166a0ac7b45dab9463d89b263dc439bdb27cd7301a2e1"
+      "bytes": 2300,
+      "sha256": "d9dacf003b8ae77d0f4b99d320762aae092f7858b0e38d6aee1d59c03f4e605c"
     },
     {
       "path": "runtime/koyomi.moc3",
-      "bytes": 82368,
-      "sha256": "3158f72b4b9e93000cbb56a90ed45a4a657ec0005fb767799b44ec08b19b6c0b"
+      "bytes": 105536,
+      "sha256": "9157554ee946b60a2a4c56449352c5518a2fe9f9f4f3d183fa78e1d24bec6d2c"
     },
     {
       "path": "runtime/koyomi.model3.json",
-      "bytes": 2863,
-      "sha256": "732b8ad227d98e2336a15cccb319ba83e15808b8441ba850ea766c77b52b4a48"
+      "bytes": 3423,
+      "sha256": "abb4d6c2af4bbc634f290e7548121bac015d7a633f5e37a7787bac3113ac2c0b"
     },
     {
       "path": "runtime/koyomi.physics3.json",
@@ -2028,14 +2052,69 @@
       "sha256": "c5164b80d0863e4859d8964206444108b730fe00db54f54c93463b4e20aff560"
     },
     {
+      "path": "runtime/motions/showcase-both.motion3.json",
+      "bytes": 31437,
+      "sha256": "6e6ed2e88cf4e918de9ea775f492fd52291ff3d2dc7126298dad13586befd5aa"
+    },
+    {
+      "path": "runtime/motions/showcase-front.motion3.json",
+      "bytes": 30184,
+      "sha256": "48ec6b27232d880b8fae6c17e6db186746133c9bb63dc2a406c0805eb9fa07a3"
+    },
+    {
+      "path": "runtime/motions/showcase-l45.motion3.json",
+      "bytes": 30186,
+      "sha256": "53cff57237c2d3f1f863701eda2c5a49f383e38b14dcbd93f905f932b1919b63"
+    },
+    {
+      "path": "runtime/motions/showcase-r45.motion3.json",
+      "bytes": 30184,
+      "sha256": "513913e3a6915f0d89b754853d1ac9075fbde2ad1bbc9c7c6b798ce8fb501cb4"
+    },
+    {
+      "path": "runtime/motions/showcase-turn.motion3.json",
+      "bytes": 30985,
+      "sha256": "f8f1c9447f4f4839583d5f712acc291b90f92757d2f56368eb4953e1213004cf"
+    },
+    {
+      "path": "runtime/motions/smooth-left-check.motion3.json",
+      "bytes": 3697,
+      "sha256": "c795716b113443d83f57ea70a1eaade315c4ffbffceb2ad359568efdc97938bb"
+    },
+    {
+      "path": "runtime/motions/smooth-turn-check.motion3.json",
+      "bytes": 3689,
+      "sha256": "801b9eeace0e3581172fe34de1b5f0e3d6ef3e6ced27576b7ae33a0a97a13f3b"
+    },
+    {
       "path": "runtime/sounds/README.md",
       "bytes": 193,
       "sha256": "72d86b82c6b413b9b1369168b5f32c345b284a3946db50887c2d983f68840ef4"
     },
     {
       "path": "runtime/textures/texture_00.png",
-      "bytes": 2158387,
-      "sha256": "ddfc86309f9e3bac4c1efcfcd4e4ec36eea4466825093fd26f726bf67555d2ea"
+      "bytes": 2185439,
+      "sha256": "f1321069d8c991c27eb635331d0568eb63650aa2d56e544a218b0766d59af0a6"
+    },
+    {
+      "path": "source/H36_LeftEarCover.png",
+      "bytes": 19141,
+      "sha256": "0c06e2850b9f0fe44db0797713276a5f0d4b13cb9da96306fe918a873e84fe3e"
+    },
+    {
+      "path": "source/H36_LeftEarCover.svg",
+      "bytes": 371234,
+      "sha256": "4fe892b5c2df91b9b69d991784b99a2b86efe65c9c07fbf521c02d0feae394ac"
+    },
+    {
+      "path": "source/N36_LeftBridge.png",
+      "bytes": 7846,
+      "sha256": "92863e9b48e620840ab8cb8e83948db7819cbc5ec19508e53b4c5720e76c905f"
+    },
+    {
+      "path": "source/N36_LeftBridge.svg",
+      "bytes": 408779,
+      "sha256": "7d9f8fbfb152cf603ddcb46cd9e60441926eb90cff9d28adc7c82097be31f603"
     },
     {
       "path": "source/hair-strands-add.psd",
@@ -2113,9 +2192,29 @@
       "sha256": "df90c94cc08465ff26b0a939ad85e0a7e3c5e10b810ab688054d24ce30095ff9"
     },
     {
+      "path": "source/koyomi-v38.cmo3",
+      "bytes": 22512525,
+      "sha256": "4263c1ef4c6f4526810d204f9f97ce25641bfd32703a0a598b80701a3cc16fc2"
+    },
+    {
+      "path": "source/koyomi-v38.psd",
+      "bytes": 13331314,
+      "sha256": "752b277d21cf8f736772d89fca1591a9563b8792c877dedf12aa2429d7c5a890"
+    },
+    {
       "path": "source/layers.json",
-      "bytes": 1311,
-      "sha256": "bc515323c2bbec41b61fc695572cd6312343bfdc236281e14af8a0721a0bfd75"
+      "bytes": 1054,
+      "sha256": "a60fc19b139598ac0a4d77592a939de564b7a3701674a210af41dad095c079f0"
+    },
+    {
+      "path": "source/left-overlap-add.psd",
+      "bytes": 4226602,
+      "sha256": "cb61590afec10fb2d7f8996a1635640027322c9aeeb156893b360897a8eb6202"
+    },
+    {
+      "path": "source/left-overlap-source.json",
+      "bytes": 484,
+      "sha256": "6be8e0ad534a5780a87a801fa059e56593bb3849c89ab9f3fa7e7ebdb51457f2"
     },
     {
       "path": "source/parts/01_Hair_Back.png",
@@ -2288,6 +2387,11 @@
       "sha256": "8ef97822f05586467501c867e925b35cf5bf5c568b6463d26bae8efade198fe7"
     },
     {
+      "path": "source/rig-notes-v36.json",
+      "bytes": 2387,
+      "sha256": "e6ee203e74039a1347580ffe96aa6b3e017ebbf88777c682fd25954e5c29c8c2"
+    },
+    {
       "path": "source/strands/60_Hair_Crown_Fixed.png",
       "bytes": 134290,
       "sha256": "007b182489bca0b2b0f692584ed40555231c52c641444509ebfe62485e8c44a8"
@@ -2328,6 +2432,31 @@
       "sha256": "1d22e727229faf889efba092572ab71519ddca1d7ae9a86b147366b7b50d5d44"
     },
     {
+      "path": "source/v36-preservation.json",
+      "bytes": 526,
+      "sha256": "03dd58a1976401ef96300de9c052964f02b62f36df6fa3a7d02c30376091cd8c"
+    },
+    {
+      "path": "verification/audio-capture-both.json",
+      "bytes": 112,
+      "sha256": "b1732a1227272b6c7926a47c95528ee65c7c2461dd7c3653459d5e396fc86770"
+    },
+    {
+      "path": "verification/audio-capture-l45.json",
+      "bytes": 113,
+      "sha256": "46e0913d243e0f60ec2062d5dd198ae0223e927eec6201f9c261a46873b9dc8c"
+    },
+    {
+      "path": "verification/both-video-verification.json",
+      "bytes": 1068,
+      "sha256": "9fb60b70ef5d7fffd7c1722cf769fc407161e529b7026da8fb6f7ab91e589d35"
+    },
+    {
+      "path": "verification/editor-roundtrip.json",
+      "bytes": 448,
+      "sha256": "f1d117c37e2119f330ff9637737f294967ad1207cf19502f7593e085a652b70c"
+    },
+    {
       "path": "verification/expression-check.json",
       "bytes": 457,
       "sha256": "960566f7047756e72337cb57b99e8f8dcf36399790ba4cad61cf34ebcd193646"
@@ -2346,6 +2475,11 @@
       "path": "verification/history/v19/sync-trial-1.json",
       "bytes": 1198,
       "sha256": "f3852da947d1296450e9fc12df2b78dd8154e599b5ff7acb060517927bd961ff"
+    },
+    {
+      "path": "verification/l45-video-verification.json",
+      "bytes": 1068,
+      "sha256": "002d333c44b457de29ba165ab4c2fa57c85f6fbaaa46932403791a1b8c08d996"
     },
     {
       "path": "verification/runtime-check.json",
@@ -2391,6 +2525,11 @@
       "path": "verification/v31-source-change.json",
       "bytes": 227,
       "sha256": "0ba4b62e312241f771dc1f0a2d5c218127937faaf18aba55afcae972b86d1cd6"
+    },
+    {
+      "path": "verification/v38-adoption.json",
+      "bytes": 5432,
+      "sha256": "7eb034e3796059f7d5cd707915a522d89597addee52c1688d4687aeb7cb21308"
     }
   ]
 }

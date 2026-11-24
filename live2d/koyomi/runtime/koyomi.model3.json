@@ -7,37 +7,9 @@
     ],
     "DisplayInfo": "koyomi.cdi3.json",
     "Motions": {
-      "Greeting": [
-        {
-          "File": "motions/self-introduction.motion3.json",
-          "FadeInTime": 0,
-          "FadeOutTime": 0
-        }
-      ],
-      "HairTest": [
-        {
-          "File": "motions/hair-test.motion3.json",
-          "FadeInTime": 0,
-          "FadeOutTime": 0
-        }
-      ],
-      "ExpressionTest": [
-        {
-          "File": "motions/expression-test.motion3.json",
-          "FadeInTime": 0,
-          "FadeOutTime": 0
-        }
-      ],
       "Showcase": [
         {
-          "File": "motions/showcase-30s.motion3.json",
-          "FadeInTime": 0,
-          "FadeOutTime": 0
-        }
-      ],
-      "GazeCheck": [
-        {
-          "File": "motions/gaze-check.motion3.json",
+          "File": "motions/showcase-front.motion3.json",
           "FadeInTime": 0,
           "FadeOutTime": 0
         }
@@ -49,9 +21,18 @@
           "FadeOutTime": 0
         }
       ],
+      "GazeCheck": [
+        {
+          "File": "motions/gaze-check.motion3.json",
+          "FadeInTime": 0,
+          "FadeOutTime": 0
+        }
+      ],
       "PhysicsCheck": [
         {
-          "File": "motions/physics-check.motion3.json"
+          "File": "motions/physics-check.motion3.json",
+          "FadeInTime": 0,
+          "FadeOutTime": 0
         }
       ],
       "BrowCheck": [
@@ -78,6 +59,48 @@
       "HeadTurnCheck": [
         {
           "File": "motions/head-turn-check.motion3.json",
+          "FadeInTime": 0,
+          "FadeOutTime": 0
+        }
+      ],
+      "ShowcaseTurn": [
+        {
+          "File": "motions/showcase-turn.motion3.json",
+          "FadeInTime": 0,
+          "FadeOutTime": 0
+        }
+      ],
+      "ShowcaseR45": [
+        {
+          "File": "motions/showcase-r45.motion3.json",
+          "FadeInTime": 0,
+          "FadeOutTime": 0
+        }
+      ],
+      "SmoothTurnCheck": [
+        {
+          "File": "motions/smooth-turn-check.motion3.json",
+          "FadeInTime": 0,
+          "FadeOutTime": 0
+        }
+      ],
+      "ShowcaseBoth": [
+        {
+          "File": "motions/showcase-both.motion3.json",
+          "FadeInTime": 0,
+          "FadeOutTime": 0
+        }
+      ],
+      "ShowcaseL45": [
+        {
+          "File": "motions/showcase-l45.motion3.json",
+          "FadeInTime": 0,
+          "FadeOutTime": 0
+        }
+      ],
+      "SmoothLeftCheck": [
+        {
+          "File": "motions/smooth-left-check.motion3.json",
           "FadeInTime": 0,
           "FadeOutTime": 0
         }

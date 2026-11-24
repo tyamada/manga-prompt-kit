@@ -16,6 +16,7 @@ AI生成・補完部分を含みます。著作権が成立しない部分につ
 以下の動画に含まれる**音声はCC BY 4.0の対象外**です。
 
 - `preview/showcase-30s.mp4`
+- `preview/showcase-l45-30s.mp4`
 - `preview/self-introduction.mp4`
 - `development/v23-expression-study/preview/showcase-30s.mp4`
 - `development/v32-profile-rig/preview/showcase-30s.mp4`
@@ -36,9 +37,12 @@ AI生成・補完部分を含みます。著作権が成立しない部分につ
 ## クレジット例
 
 ```text
-『ためし部』小坂こよみ Live2Dモデル v31
+『ためし部』小坂こよみ Live2Dモデル v38
 © こまいろ日和／校内くらし試作部
 出典：https://github.com/tyamada/manga-prompt-kit/tree/main/live2d/koyomi
 CC BY 4.0 https://creativecommons.org/licenses/by/4.0/
 改変：顔向きモーションを変更（改変した場合の記載例）
 ```
+
+
+v38の現在の音声付き動画2本は採用音声Iです。個別の適用範囲は現在版の[CREDITS.md](CREDITS.md)も参照してください。過去の動画の音声例外も引き続き維持します。
