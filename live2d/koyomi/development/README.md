@@ -10,3 +10,6 @@
 - [全身・手3ポーズの作画資料](full-body-hands/README.md)
 
 単体WAV・個人パスが映る全画面録画は含めません。[CC BY 4.0の範囲と音声の例外](../LICENSE.md)を維持します。
+
+
+- [v33：v31の顔立ちを保つ連続右向き・確認動画・編集データ](v33-smooth-turn/README.md)

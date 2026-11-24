@@ -34,3 +34,6 @@
 
 
 v32右45度の開発試作では横顔の見える輪郭・髪・耳・鼻にもAI生成・補完を用いています。上記の元絵の画素保持の説明はこの新規横顔へ一律に適用しません。[v32個別クレジット](../development/v32-profile-rig/CREDITS.md)と[確認動画・制限](../development/v32-profile-rig/README.md)を参照してください。
+
+
+v33はv31の原画を再利用し、隠れる首と髪の下描きを既存SVGから補完しました。新規の横顔生成は行っていません。[v33のクレジットと音声の例外](../development/v33-smooth-turn/CREDITS.md)。制作・実行確認はCubism 5.3.05。
