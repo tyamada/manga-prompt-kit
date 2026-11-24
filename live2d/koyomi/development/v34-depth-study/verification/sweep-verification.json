@@ -1,0 +1,21 @@
+{
+  "duration": 20,
+  "visual_motion_start_fit_seconds": 1.8540000000000008,
+  "mouth_area_correlation": 0.9976661695958666,
+  "timing_precision_seconds": 0.03333333333333333,
+  "stage_sample_times": [
+    0.5,
+    3.5,
+    6.5,
+    9.5,
+    12.5
+  ],
+  "profile_values": [
+    0,
+    0.25,
+    0.5,
+    0.75,
+    1
+  ],
+  "no_audio": true
+}

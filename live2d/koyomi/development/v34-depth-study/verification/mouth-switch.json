@@ -1,0 +1,13 @@
+{
+  "closed_only_cases": 2000,
+  "mouth_open_y_closed_only_range": [
+    0,
+    0.049
+  ],
+  "mouth_open_y_open_from": 0.05,
+  "inside_and_tongue_hidden_before_switch": true,
+  "closed_line_hidden_at_and_above_point05": true,
+  "original_voice_motion_curves_unchanged": true,
+  "teeth_original_opacity_curve_and_clipping_retained": true,
+  "switch_interval_width": 0.001
+}

@@ -1,0 +1,24 @@
+{
+  "new_layers": [
+    {
+      "name": "N34_BridgeMask",
+      "bbox": [
+        591,
+        554,
+        627,
+        637
+      ]
+    },
+    {
+      "name": "H34_FarEarCover",
+      "bbox": [
+        756,
+        530,
+        811,
+        708
+      ]
+    }
+  ],
+  "material": "Original v33 skin and far-side hair pixels embedded in SVG; no new generation",
+  "default_hidden": true
+}

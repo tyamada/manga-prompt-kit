@@ -15,6 +15,7 @@
 『ためし部』小坂こよみの[Live2Dモデル v31・編集素材・再生手順](live2d/koyomi/README.md)を公開しています。穏やかな顔向き・傾き、まばたき、口の開閉と、前髪・横髪の6毛束の控えめな揺れ、専用の笑顔目・上下左右の視線・6表情に対応しています。
 
 - [モデル・PSD・CMO3・確認動画をZIPでダウンロード](https://github.com/tyamada/manga-prompt-kit/releases/tag/koyomi-live2d-v31-20261124)
+- [鼻筋・遠い目・耳の重なりを調整したv34（開発版）](live2d/koyomi/development/v34-depth-study/README.md)
 - [音声付き確認動画](live2d/koyomi/preview/showcase-30s.mp4)／[無音版動画](live2d/koyomi/preview/showcase-30s-silent.mp4)
 - **CC BY 4.0**：独自のモデル、編集素材、画像、モーション、文章、動画の映像部分。[適用範囲](live2d/koyomi/LICENSE.md)を参照してください。
 - **音声の例外**：音声付き動画の「VOICEVOX:春日部つむぎ」の音声部分はCC BY 4.0の対象外です。公式規約に従います。音声単体WAVは同梱せず、配布モデルは無音で再生します。[音声の追加手順](live2d/koyomi/audio/README.md)を用意しています。

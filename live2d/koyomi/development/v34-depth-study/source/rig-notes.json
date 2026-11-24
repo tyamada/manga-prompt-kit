@@ -1,0 +1,21 @@
+{
+  "basis": "verified final v33 editor restored and re-exported; exact baseline recovery",
+  "parameter": "ParamProfileR45 0..1",
+  "added_deformers": {
+    "Warp15": "FarEye_Shape_v34: five far eye sclera/lid/closed/happy meshes under original head Z",
+    "Warp16": "FarEye_Iris_v34: far iris/pupil/highlight under original GazeX, preserving gaze parents",
+    "Warp17": "Nose_Depth_v34: original nose under original head Z"
+  },
+  "deformer_grid": "9x9 transform,2x2 Bezier",
+  "new_images": 2,
+  "ear": "Skin profile trial removed. H34_FarEarCover follows original Strand_Side_L_v26, draw order610; default opacity0, profile1 opacity1.",
+  "normal_pose": "Neutral nearly exact; new far-eye parent introduces interpolation differences during angle X. See motion-preservation.json.",
+  "nose": "Original nose highlight/mark moved and widened modestly at profile1 to suggest an oblique nose; no new silhouette art.",
+  "limitations": [
+    "Right45 is an artistic target, not a physically measured angle.",
+    "Left/80-degree profile, VTube Studio tracking and full body/hand animation remain unfinished."
+  ],
+  "mouth_visibility": "Inside and tongue stay hidden, closed mouth stays opaque through0.049; switch to open display at0.05. Original sound and motion curve bytes retained. Teeth retain original opacity curve and clipping.",
+  "new_images_description": "Two local SVG clips reusing original skin and hair pixels, not new generated head art",
+  "nose_occlusion": "N34_BridgeMask follows original head Z, draw order510; source skin color clips the nasal corner of the far eye. Default opacity0, profile1 opacity1."
+}

@@ -1,0 +1,259 @@
+{
+  "version": "v34-depth-study",
+  "date": "2026-11-24",
+  "status": "right oblique perspective refinement; stable v31 retained",
+  "core": {
+    "original_mesh_ids_preserved": true,
+    "new_meshes": [
+      "H34_FarEarCover",
+      "N34_BridgeMask"
+    ],
+    "profile0_preservation_cases": 360,
+    "profile0_max_geometry_delta_source_px": 4.6526031494140625,
+    "profile0_max_opacity_delta": 0,
+    "profile_test_cases": 1800,
+    "visible_new_triangle_inversions": 0,
+    "hidden_collapsed_triangle_sign_changes": 0,
+    "profile_max_opacity_delta": 0,
+    "closed_mouth_hidden_when_open_ge_point1": true,
+    "max_old_uv_delta": 0.00021976232528686523,
+    "neck_geometry_max_delta_source_px": 0,
+    "continuous_steps": 1000,
+    "max_vertex_delta_per_point001_step_source_px": 0.194061279296875,
+    "six_expressions_checked": [
+      "01_normal.exp3.json",
+      "02_happy.exp3.json",
+      "03_surprised.exp3.json",
+      "04_idea.exp3.json",
+      "05_lets_try.exp3.json",
+      "06_noticed.exp3.json"
+    ],
+    "six_expressions_profile_cases": 24,
+    "original_voice_and_motion_bytes_identical": true,
+    "physics_configuration_identical": true,
+    "hair_combination_cases": 56,
+    "other_original_atlas_pixels_identical": true,
+    "skin_atlas_rebuilt_with_subpixel_uv_adjustment": true,
+    "skin_uv_max_delta_texture_px": 0.4500732421875,
+    "head_image_crossfade": false,
+    "local_overlap_only": true,
+    "angle_description": "Continuous right-oblique deformation of original frontal artwork, aiming at v32 right45 composition. Not a measured physical45-degree head or finished dedicated profile silhouette."
+  },
+  "motion_comparison": {
+    "frames": 901,
+    "source_px_max_delta": 2.1664505004882812,
+    "visible_source_px_max_delta": 2.1664505004882812,
+    "source_px_neutral_delta": 0.0001678466796875,
+    "note": "Compared against verified v33. Added far-eye and nose parents introduce a small interpolation difference; skin and hair preserved.",
+    "mesh_max_deltas": {
+      "ArtMesh": 0.15673828125,
+      "ArtMesh0": 0,
+      "ArtMesh1": 0.0671539306640625,
+      "ArtMesh2": 3.0517578125e-05,
+      "ArtMesh3": 0.060791015625,
+      "ArtMesh4": 3.0517578125e-05,
+      "ArtMesh5": 2.1664505004882812,
+      "ArtMesh6": 2.0508041381835938,
+      "ArtMesh7": 0.0382232666015625,
+      "ArtMesh8": 0.036895751953125,
+      "ArtMesh9": 0.0359039306640625,
+      "ArtMesh10": 2.0189361572265625,
+      "ArtMesh11": 0,
+      "ArtMesh12": 0,
+      "ArtMesh13": 0,
+      "ArtMesh14": 0,
+      "ArtMesh15": 0,
+      "ArtMesh16": 0,
+      "ArtMesh17": 0,
+      "ArtMesh18": 0,
+      "ArtMesh21": 7.62939453125e-05,
+      "ArtMesh22": 0,
+      "ArtMesh23": 0,
+      "ArtMesh24": 0,
+      "ArtMesh19": 0.6289024353027344,
+      "ArtMesh25": 0,
+      "ArtMesh26": 0,
+      "ArtMesh27": 0,
+      "ArtMesh28": 0,
+      "ArtMesh29": 0,
+      "ArtMesh30": 0,
+      "ArtMesh31": 0,
+      "ArtMesh32": 0
+    },
+    "exact_v31_geometry_preservation": false,
+    "comparison_status": "901 frames compared against v33; maximum interpolation difference is reported, not exact identity."
+  },
+  "mouth_switch": {
+    "closed_only_cases": 2000,
+    "mouth_open_y_closed_only_range": [
+      0,
+      0.049
+    ],
+    "mouth_open_y_open_from": 0.05,
+    "inside_and_tongue_hidden_before_switch": true,
+    "closed_line_hidden_at_and_above_point05": true,
+    "original_voice_motion_curves_unchanged": true,
+    "teeth_original_opacity_curve_and_clipping_retained": true,
+    "switch_interval_width": 0.001
+  },
+  "turn_video": {
+    "frames": 280,
+    "mouth_motion_start_fit_seconds": 0.17800000000000016,
+    "mouth_area_curve_correlation": 0.9706509295232545,
+    "audio_start_seconds": 0.16999999999999993,
+    "audio_minus_mouth_start_seconds": -0.00800000000000023,
+    "shoulders": [
+      {
+        "region": [
+          150,
+          650,
+          60,
+          60
+        ],
+        "max_abs_shift_px": [
+          0,
+          0
+        ],
+        "min_correlation": 0.9998130202293396
+      },
+      {
+        "region": [
+          210,
+          650,
+          45,
+          60
+        ],
+        "max_abs_shift_px": [
+          0,
+          0
+        ],
+        "min_correlation": 0.999584972858429
+      },
+      {
+        "region": [
+          470,
+          650,
+          45,
+          60
+        ],
+        "max_abs_shift_px": [
+          0,
+          0
+        ],
+        "min_correlation": 0.999663770198822
+      },
+      {
+        "region": [
+          530,
+          650,
+          60,
+          60
+        ],
+        "max_abs_shift_px": [
+          0,
+          0
+        ],
+        "min_correlation": 0.9998453855514526
+      }
+    ],
+    "mouth_area_min_max": [
+      0,
+      2291
+    ]
+  },
+  "endpoint_video": {
+    "frames": 280,
+    "mouth_motion_start_fit_seconds": 0.17600000000000016,
+    "mouth_area_curve_correlation": 0.9718704083157662,
+    "audio_start_seconds": 0.16999999999999993,
+    "audio_minus_mouth_start_seconds": -0.006000000000000227,
+    "shoulders": [
+      {
+        "region": [
+          150,
+          650,
+          60,
+          60
+        ],
+        "max_abs_shift_px": [
+          0,
+          0
+        ],
+        "min_correlation": 0.9998361468315125
+      },
+      {
+        "region": [
+          210,
+          650,
+          45,
+          60
+        ],
+        "max_abs_shift_px": [
+          0,
+          0
+        ],
+        "min_correlation": 0.9995747804641724
+      },
+      {
+        "region": [
+          470,
+          650,
+          45,
+          60
+        ],
+        "max_abs_shift_px": [
+          0,
+          0
+        ],
+        "min_correlation": 0.9996592998504639
+      },
+      {
+        "region": [
+          530,
+          650,
+          60,
+          60
+        ],
+        "max_abs_shift_px": [
+          0,
+          0
+        ],
+        "min_correlation": 0.9998595714569092
+      }
+    ],
+    "mouth_area_min_max": [
+      0,
+      2280
+    ]
+  },
+  "editor_roundtrip": {
+    "koyomi-v34.moc3": "70a1b027b1c186f92570b0c9fbe7c82308e288e71d6a71b061cceae94a62830e",
+    "koyomi-v34.physics3.json": "845a8490d16d6ebabde515df8e22eb0ad3168a9fdf6e7cee4d372ffdbb887af0",
+    "koyomi-v34.2048/texture_00.png": "5fd394a524f460e23feebd7c6bcf949706cbd769541eefaf8cd923a4be4b2178",
+    "moc_and_texture_reproduced_from_saved_editor": true,
+    "saved_editor_sha256": "937b188cf35eeedb63fa4a23b7747116e023726709c64248c096f6fe81fa2b8e"
+  },
+  "individual_audio_video_offset": false,
+  "audio_replacement": false,
+  "original_wav_and_motion_bytes_preserved": true,
+  "source_preservation": {
+    "layers": 37,
+    "original_v33_layers_unchanged": 35,
+    "two_added_overlap_layers_default_hidden": true,
+    "front_composite_exact_to_v33": true
+  },
+  "overlap_core": {
+    "cases": 135,
+    "new_visible_triangle_inversions": 0,
+    "new_ids": [
+      "H34_FarEarCover",
+      "N34_BridgeMask"
+    ],
+    "default_hidden": true,
+    "end_visible": true
+  },
+  "limitations": [
+    "Right45 is an artistic target, not a physically measured angle.",
+    "Left/80-degree profile, VTube Studio tracking and full body/hand animation remain unfinished."
+  ]
+}

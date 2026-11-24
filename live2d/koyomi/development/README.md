@@ -13,3 +13,6 @@
 
 
 - [v33：v31の顔立ちを保つ連続右向き・確認動画・編集データ](v33-smooth-turn/README.md)
+
+
+- [v34：鼻筋・遠い目・耳の重なりと口線の表示切替](v34-depth-study/README.md)

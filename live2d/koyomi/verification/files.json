@@ -1,5 +1,5 @@
 {
-  "version": "v31 stable + v33 smooth turn and earlier development",
+  "version": "v31 stable + v34 depth refinement and earlier development",
   "date": "2026-11-24",
   "files": [
     {
@@ -9,13 +9,13 @@
     },
     {
       "path": "LICENSE.md",
-      "bytes": 2692,
-      "sha256": "e3d617c9f99a9cba0b5b9f8981e88bcfa4eab8572dfbff50368c84576c06da9c"
+      "bytes": 2664,
+      "sha256": "582ddbb7b304724541ccefe02fbe526364813903340f3666050cca0946a9234e"
     },
     {
       "path": "README.md",
-      "bytes": 10997,
-      "sha256": "5504e363d19251bf601467cbd75202569996ae949fa4c0a02fbf755a4601983b"
+      "bytes": 11578,
+      "sha256": "c12c0ae0f762079d20c7a6f225291f89ce6626eb2f506469998f094ab90982b9"
     },
     {
       "path": "audio/README.md",
@@ -34,8 +34,8 @@
     },
     {
       "path": "development/README.md",
-      "bytes": 944,
-      "sha256": "e844d9afea3dd912bfc5dcb2d17b95701209414cad8465c0350fb27cff4567b3"
+      "bytes": 1044,
+      "sha256": "9f41d9d5b54b5a14cfbe9f95441c49e37391ae54e031dcd823b7ad337304cbf1"
     },
     {
       "path": "development/full-body-hands/README.md",
@@ -519,8 +519,8 @@
     },
     {
       "path": "development/v33-smooth-turn/README.md",
-      "bytes": 5613,
-      "sha256": "47034a96efb4ebcac351ec3c62b482ff943af1fbddab21c34ef1c1f0c2012af7"
+      "bytes": 6029,
+      "sha256": "2c8a1210c4c1a70a8e74397e7e78085a71bba562bf108b8cb086966d42e5b0ed"
     },
     {
       "path": "development/v33-smooth-turn/preview/profile-r45-six-expressions.jpg",
@@ -704,8 +704,8 @@
     },
     {
       "path": "development/v33-smooth-turn/source/koyomi-v33.cmo3",
-      "bytes": 12916343,
-      "sha256": "d1fa894982a481211a92dcc897555d5236cf954616115fb5f6e16b3669313418"
+      "bytes": 22384569,
+      "sha256": "c2afbb176421012bce1bd406f81b073db08d9ecf45f5ed4f8120d08fee3dbdc7"
     },
     {
       "path": "development/v33-smooth-turn/source/koyomi-v33.psd",
@@ -743,6 +743,11 @@
       "sha256": "87963299e129c98303cf35cba7f0802e9437eddf5386639c2f637bb06de6e0ba"
     },
     {
+      "path": "development/v33-smooth-turn/verification/editor-recovery.json",
+      "bytes": 349,
+      "sha256": "b93b503427a4f6f5b4998d636afa906678edc92abcaadf013cdce7f1b239ed58"
+    },
+    {
       "path": "development/v33-smooth-turn/verification/motion-preservation.json",
       "bytes": 1041,
       "sha256": "e266ab80188b74c05920cdef8507099303ac0281c4167fcd92b89142efe372e9"
@@ -768,19 +773,339 @@
       "sha256": "fe2d4b00e6661afa67fb58b28ce2368ee2d079f7999c2e0b4172b669953e7290"
     },
     {
+      "path": "development/v34-depth-study/CREDITS.md",
+      "bytes": 1806,
+      "sha256": "b90c615ca38f1376189ac577ae42bf581d7b9c816ab7b92eee7290ba74320016"
+    },
+    {
+      "path": "development/v34-depth-study/LICENSE.md",
+      "bytes": 1764,
+      "sha256": "30a0cd647fdeed20c05f6ee496e8b92f023afcf082f0bcdb734b030564fb4210"
+    },
+    {
+      "path": "development/v34-depth-study/README.md",
+      "bytes": 5639,
+      "sha256": "d7eb82965f6351362c05e0a6d1e0e60a3c4e0ebddd6e64b879e614c4f98cec4c"
+    },
+    {
+      "path": "development/v34-depth-study/preview/profile-r45-six-expressions.jpg",
+      "bytes": 130365,
+      "sha256": "023fd83a6aa247b74f6b880a50bd0bfb509d00a6bd9a7c014d262efb1623ec5c"
+    },
+    {
+      "path": "development/v34-depth-study/preview/profile-turn-six-expressions.jpg",
+      "bytes": 129763,
+      "sha256": "ea1db4fd056d67806e50020f5bd25a5f604a7ebb4a3020c874f477af157758c4"
+    },
+    {
+      "path": "development/v34-depth-study/preview/showcase-r45-30s-silent.mp4",
+      "bytes": 1477810,
+      "sha256": "504d06da82aa49c665ac8d0dbe9f0f92f521b845595cd34fd1b3920f04d99e63"
+    },
+    {
+      "path": "development/v34-depth-study/preview/showcase-r45-30s.mp4",
+      "bytes": 1653307,
+      "sha256": "e174fdcf0b4e6d37ca8e3f5bec9d0eaf4d97c50a8a1578378d6e054c7ba905b8"
+    },
+    {
+      "path": "development/v34-depth-study/preview/showcase-turn-30s-silent.mp4",
+      "bytes": 2746691,
+      "sha256": "dbcf109e801342c8c6bdf2cac877e384e99af79b59edc35829ff6f332a7d6e90"
+    },
+    {
+      "path": "development/v34-depth-study/preview/showcase-turn-30s.mp4",
+      "bytes": 2921359,
+      "sha256": "2670a68e411dd8c363274e7434f8428e6f2f960b976fc30ea5998e7d0fd1ab1b"
+    },
+    {
+      "path": "development/v34-depth-study/preview/smooth-turn-check.mp4",
+      "bytes": 1387121,
+      "sha256": "47eef335c0636fd1c1fafb4a5492bba47c0f5267da01c5f37bba8d7bead1ed42"
+    },
+    {
+      "path": "development/v34-depth-study/preview/smooth-turn-comparison.jpg",
+      "bytes": 108219,
+      "sha256": "171f81f5aeb5fe9261887d24f7c3ffc2e4c621ba1386e7fb8e56c231610b91cc"
+    },
+    {
+      "path": "development/v34-depth-study/preview/v33-v34-right-comparison.jpg",
+      "bytes": 86040,
+      "sha256": "c9d5b7bf420ede53de2fdbf2fe37be12e983663b0ce4dc2794f24bee85dceb84"
+    },
+    {
+      "path": "development/v34-depth-study/runtime/expressions/01_normal.exp3.json",
+      "bytes": 1066,
+      "sha256": "60df07353446c4f4fe2348e17f6ebfdac755366d22c2ade1013d9e4f8b2717ee"
+    },
+    {
+      "path": "development/v34-depth-study/runtime/expressions/02_happy.exp3.json",
+      "bytes": 1082,
+      "sha256": "5c2dc0d4a137376f01048eba7a3c2c02f26452768875af45831d22cf87d2461a"
+    },
+    {
+      "path": "development/v34-depth-study/runtime/expressions/03_surprised.exp3.json",
+      "bytes": 1076,
+      "sha256": "cd35fb24cd70ee978cf8dd063f1f274a2c04195c8b2da734301833f60981bb09"
+    },
+    {
+      "path": "development/v34-depth-study/runtime/expressions/04_idea.exp3.json",
+      "bytes": 1086,
+      "sha256": "4f7402d5becf909c6f754a771641f99507c7024a41aa5eed87a4b9eef9c5a281"
+    },
+    {
+      "path": "development/v34-depth-study/runtime/expressions/05_lets_try.exp3.json",
+      "bytes": 1088,
+      "sha256": "c499a7f1c61d6dd76cc56b4c20f5eafe9e86bf58974fae088a3ca198032afee5"
+    },
+    {
+      "path": "development/v34-depth-study/runtime/expressions/06_noticed.exp3.json",
+      "bytes": 1095,
+      "sha256": "f3069b2d68767c558a8ad78ab027f17a9fa3dda12a9dd40d881b0b60a357bd8e"
+    },
+    {
+      "path": "development/v34-depth-study/runtime/koyomi-v34.cdi3.json",
+      "bytes": 2239,
+      "sha256": "344f1d9b56d09ffab5a50a84c3f63950bf68b5778ecc40c75a824f2f52df0b13"
+    },
+    {
+      "path": "development/v34-depth-study/runtime/koyomi-v34.moc3",
+      "bytes": 93056,
+      "sha256": "70a1b027b1c186f92570b0c9fbe7c82308e288e71d6a71b061cceae94a62830e"
+    },
+    {
+      "path": "development/v34-depth-study/runtime/koyomi-v34.model3.json",
+      "bytes": 2941,
+      "sha256": "89520d213f0599e1452c7f3de005575acecc9843eefbc726966915590971c399"
+    },
+    {
+      "path": "development/v34-depth-study/runtime/koyomi-v34.physics3.json",
+      "bytes": 8243,
+      "sha256": "845a8490d16d6ebabde515df8e22eb0ad3168a9fdf6e7cee4d372ffdbb887af0"
+    },
+    {
+      "path": "development/v34-depth-study/runtime/motions/brow-angle-check.motion3.json",
+      "bytes": 1484,
+      "sha256": "ba1c8758270af7f98739b12a64afb67a360200315ba71a09210b50dfa908e16d"
+    },
+    {
+      "path": "development/v34-depth-study/runtime/motions/brow-check.motion3.json",
+      "bytes": 1301,
+      "sha256": "e5e32dd1c70efe520dfff1cd3e77f92af1801c5d73cf0a3f2f88c071142b038e"
+    },
+    {
+      "path": "development/v34-depth-study/runtime/motions/gaze-check.motion3.json",
+      "bytes": 2775,
+      "sha256": "63e1326959b50bd3edead07b3aee91622fad181ab020ec07e0129631e3c44cb5"
+    },
+    {
+      "path": "development/v34-depth-study/runtime/motions/hair-strands-check.motion3.json",
+      "bytes": 130594,
+      "sha256": "6879c296f288e4915e5077e211cfdeeaae0e4ffa2193d0f0b1601a984094ebec"
+    },
+    {
+      "path": "development/v34-depth-study/runtime/motions/head-turn-check.motion3.json",
+      "bytes": 4000,
+      "sha256": "a98ab5970429924944784540a3a6be1f9410cb0d6c4ae1b74246c243d5bb6d3d"
+    },
+    {
+      "path": "development/v34-depth-study/runtime/motions/mouth-check.motion3.json",
+      "bytes": 1374,
+      "sha256": "f1c910cf6f37aad459ec7813e7d5158429c4d1b82033d9f744328b00468241f5"
+    },
+    {
+      "path": "development/v34-depth-study/runtime/motions/physics-check.motion3.json",
+      "bytes": 1472,
+      "sha256": "633841e3bbd84fa4d9bd00d2f8e21a4d9d000396ed710fac03e087011fd0dd2a"
+    },
+    {
+      "path": "development/v34-depth-study/runtime/motions/showcase-30s.motion3.json",
+      "bytes": 30028,
+      "sha256": "c5164b80d0863e4859d8964206444108b730fe00db54f54c93463b4e20aff560"
+    },
+    {
+      "path": "development/v34-depth-study/runtime/motions/showcase-front.motion3.json",
+      "bytes": 30184,
+      "sha256": "48ec6b27232d880b8fae6c17e6db186746133c9bb63dc2a406c0805eb9fa07a3"
+    },
+    {
+      "path": "development/v34-depth-study/runtime/motions/showcase-r45.motion3.json",
+      "bytes": 30184,
+      "sha256": "513913e3a6915f0d89b754853d1ac9075fbde2ad1bbc9c7c6b798ce8fb501cb4"
+    },
+    {
+      "path": "development/v34-depth-study/runtime/motions/showcase-turn.motion3.json",
+      "bytes": 30985,
+      "sha256": "f8f1c9447f4f4839583d5f712acc291b90f92757d2f56368eb4953e1213004cf"
+    },
+    {
+      "path": "development/v34-depth-study/runtime/motions/smooth-turn-check.motion3.json",
+      "bytes": 3689,
+      "sha256": "801b9eeace0e3581172fe34de1b5f0e3d6ef3e6ced27576b7ae33a0a97a13f3b"
+    },
+    {
+      "path": "development/v34-depth-study/runtime/textures/texture_00.png",
+      "bytes": 2166731,
+      "sha256": "5fd394a524f460e23feebd7c6bcf949706cbd769541eefaf8cd923a4be4b2178"
+    },
+    {
+      "path": "development/v34-depth-study/source/02_Body_Neck.png",
+      "bytes": 102439,
+      "sha256": "a8d62d18d933d4f147454bc8b83580810b2760c54f11bc405bd82b6bda54e54b"
+    },
+    {
+      "path": "development/v34-depth-study/source/02_Body_Neck.svg",
+      "bytes": 1833074,
+      "sha256": "32b2aa9c853647ed9bcc94e95dc69783cce269cff7021e6b15f31576ab9fb86e"
+    },
+    {
+      "path": "development/v34-depth-study/source/03_Skin_Head.png",
+      "bytes": 307632,
+      "sha256": "e6bd655e428d99f1b509047710248eba11e53fa93f912b181091d709b057d39d"
+    },
+    {
+      "path": "development/v34-depth-study/source/03_Skin_Head.svg",
+      "bytes": 3027433,
+      "sha256": "fa9a5da2c57ee704dbf7ef3c691bd3350e27793301b5baa14407122931901918"
+    },
+    {
+      "path": "development/v34-depth-study/source/H34_FarEarCover.png",
+      "bytes": 18735,
+      "sha256": "18dcf0373da0f0992cc5676eb2a886c5e7bd4e79eb83e6b375cf7203c5442331"
+    },
+    {
+      "path": "development/v34-depth-study/source/H34_FarEarCover.svg",
+      "bytes": 293938,
+      "sha256": "e4ee79e9157e761fe2c2c47d376024b9e8d03c5ee281ebb98e3334451b745ed8"
+    },
+    {
+      "path": "development/v34-depth-study/source/N34_BridgeMask.png",
+      "bytes": 8085,
+      "sha256": "f0ab382be76c480ff73fdc91f8f92af403d030c8213b19e6c3965df17d2b11e4"
+    },
+    {
+      "path": "development/v34-depth-study/source/N34_BridgeMask.svg",
+      "bytes": 410496,
+      "sha256": "8620f81e53122e9485e4c439f2d7a59c523f68b6a9bfd523acf9a5c59ecce7d6"
+    },
+    {
+      "path": "development/v34-depth-study/source/baseline.json",
+      "bytes": 395,
+      "sha256": "4aeeb058bee1a09ba6f276a37fb30af59de89f67a2be192f294b9bbd938df251"
+    },
+    {
+      "path": "development/v34-depth-study/source/depth-overlap-add.psd",
+      "bytes": 4227518,
+      "sha256": "809b95f32c94c454daa0236e20026885d0f5c5953f68c8050b70ecc5e3834a93"
+    },
+    {
+      "path": "development/v34-depth-study/source/koyomi-v34.cmo3",
+      "bytes": 22445153,
+      "sha256": "937b188cf35eeedb63fa4a23b7747116e023726709c64248c096f6fe81fa2b8e"
+    },
+    {
+      "path": "development/v34-depth-study/source/koyomi-v34.psd",
+      "bytes": 13299162,
+      "sha256": "c592800d8de5d8bc76b40fc3cff9621bcb0773132befd93bfca095385b7c8c2e"
+    },
+    {
+      "path": "development/v34-depth-study/source/neck-update-original-layers.psd",
+      "bytes": 11808530,
+      "sha256": "6a4cea7767a772f22ccfcff5763d72a4928cb1e9e36600b0b202eaa2d40d2079"
+    },
+    {
+      "path": "development/v34-depth-study/source/overlap-source.json",
+      "bytes": 387,
+      "sha256": "8ab3ea7fffaea7a0c344bfce945cb8b885ee1ca21e61f45a5d335ba6d435bebb"
+    },
+    {
+      "path": "development/v34-depth-study/source/rig-notes.json",
+      "bytes": 1629,
+      "sha256": "6e9111434405aa263ca408900c4ad490a95d8c3fc98e41db916c7413d51533cd"
+    },
+    {
+      "path": "development/v34-depth-study/source/source-preservation.json",
+      "bytes": 149,
+      "sha256": "13aacc5db412d90709848273ee1ff85cf9aa5dc1ee730b61ce390e1734b55012"
+    },
+    {
+      "path": "development/v34-depth-study/source/v34-hair-reference.png",
+      "bytes": 110073,
+      "sha256": "ad1d2dcaab7eeffe4e2b140aa547af84c239fe4d44ca35bf58341b48d5332b6a"
+    },
+    {
+      "path": "development/v34-depth-study/verification/audio-capture-r45.json",
+      "bytes": 113,
+      "sha256": "d469585524a01ac57862422dd528699ce443ab535c51bcfdae339152810ac64e"
+    },
+    {
+      "path": "development/v34-depth-study/verification/audio-capture-turn.json",
+      "bytes": 113,
+      "sha256": "c1f077cfeee8b5d590d04425eb0e6a7b8f148a6b67616b26a76310102b7d8397"
+    },
+    {
+      "path": "development/v34-depth-study/verification/core.json",
+      "bytes": 1427,
+      "sha256": "983f58dc45d7abd3c3f487c23f16be5031c82dea765f3118e1509e4bff9f99b0"
+    },
+    {
+      "path": "development/v34-depth-study/verification/editor-roundtrip.json",
+      "bytes": 443,
+      "sha256": "21a4837490ef5465f3870e07536beb7bf0ad907f1fad48ebc9deaaec2a49c7b5"
+    },
+    {
+      "path": "development/v34-depth-study/verification/motion-preservation.json",
+      "bytes": 1361,
+      "sha256": "d0b88247c8a9843e74bb3e392c6b04ab7fecc10ef0dfb72d8a98be4c97a7f508"
+    },
+    {
+      "path": "development/v34-depth-study/verification/mouth-switch.json",
+      "bytes": 373,
+      "sha256": "62f3a6fd9d6296e79dbc43c925737f0579b4791f6b21903b00fa19afde29b404"
+    },
+    {
+      "path": "development/v34-depth-study/verification/overlap-core.json",
+      "bytes": 172,
+      "sha256": "6703a24ed667feeb80967eca2d29f1ac6879ab1baed56fccd2e2ca99e424ea6f"
+    },
+    {
+      "path": "development/v34-depth-study/verification/r45-video-verification.json",
+      "bytes": 1068,
+      "sha256": "6f03ad068527e29900019d4bcbf60cf09bdf99572abe1609b76b68db158467ee"
+    },
+    {
+      "path": "development/v34-depth-study/verification/runtime.json",
+      "bytes": 7148,
+      "sha256": "5919618c00a31ff481a4c4f7c2a956bb9d88b91d1896fc38fa54585ab4ce7744"
+    },
+    {
+      "path": "development/v34-depth-study/verification/sweep-verification.json",
+      "bytes": 342,
+      "sha256": "9e9d84032fb08e9738f48b427554c090bf903a3ba1f42ca0ca7ea4e00e38cfc6"
+    },
+    {
+      "path": "development/v34-depth-study/verification/turn-video-verification.json",
+      "bytes": 1065,
+      "sha256": "f5e6e786b6da690a68dfa09533a3fc735114a78352fa3c80101f4e49213b5bcf"
+    },
+    {
+      "path": "development/v34-depth-study/verification/v33-editor-recovery.json",
+      "bytes": 176,
+      "sha256": "299a23515e49ce21f363e7e7056cf48f5c27b52e7969fd1384bd6619c509a17e"
+    },
+    {
       "path": "docs/credits.md",
-      "bytes": 3214,
-      "sha256": "bc14540ac5afab210c30c926b4fe6a715ab2622f5b995aba980ecbc8d45f3d5c"
+      "bytes": 3460,
+      "sha256": "79c108ba8a338419791d623328dad61eb16a4853ffccc74551c581b04ffdf564"
     },
     {
       "path": "docs/production.md",
-      "bytes": 18895,
-      "sha256": "10bf6b00f4dd1294fc64b6784cb173ac872dd09469b1775f4d7e88694d5b7da1"
+      "bytes": 20548,
+      "sha256": "ac3cd9e11224dee9b1f4455070bb70e4e52fd5b546f0b95986f58f1d8c4937c0"
     },
     {
       "path": "docs/roadmap.md",
-      "bytes": 10031,
-      "sha256": "e0b87570e25b3f3622fca16b68fafda1af680d15476a1e50f0eedc377d0eafe2"
+      "bytes": 10684,
+      "sha256": "93f2f0183b2cab01d01e3c2fb242779cf9e432657ccf79d4bffae3100efc89ac"
     },
     {
       "path": "preview/brow-angle-check.mp4",

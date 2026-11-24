@@ -1,0 +1,10 @@
+{
+  "cases": 135,
+  "new_visible_triangle_inversions": 0,
+  "new_ids": [
+    "H34_FarEarCover",
+    "N34_BridgeMask"
+  ],
+  "default_hidden": true,
+  "end_visible": true
+}
