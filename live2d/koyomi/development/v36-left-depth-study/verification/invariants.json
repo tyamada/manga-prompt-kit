@@ -1,0 +1,17 @@
+{
+  "byte_preserved": [
+    {
+      "file": "koyomi-v36.physics3.json",
+      "sha256": "845a8490d16d6ebabde515df8e22eb0ad3168a9fdf6e7cee4d372ffdbb887af0"
+    },
+    {
+      "file": "こよみ_自己紹介.wav",
+      "sha256": "08f05eeb739bdc143658fd44346623878f6cb75c65c091c7621ad23354486947"
+    }
+  ],
+  "gaze_expression_hair_cases": 1620,
+  "mouth_closed_only_cases": 2000,
+  "right_overlays_hidden_on_left": true,
+  "expression_visible_triangle_inversions": 0,
+  "original_motions_and_six_expressions_unchanged": true
+}

@@ -1,0 +1,143 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamAngleX",
+			"GroupId": "",
+			"Name": "角度 X"
+		},
+		{
+			"Id": "ParamAngleY",
+			"GroupId": "",
+			"Name": "角度 Y"
+		},
+		{
+			"Id": "ParamAngleZ",
+			"GroupId": "",
+			"Name": "角度 Z"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "",
+			"Name": "左目　開閉"
+		},
+		{
+			"Id": "ParamEyeLSmile",
+			"GroupId": "",
+			"Name": "左目　笑顔"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "",
+			"Name": "右目　開閉"
+		},
+		{
+			"Id": "ParamEyeBallX",
+			"GroupId": "",
+			"Name": "目玉 X"
+		},
+		{
+			"Id": "ParamEyeBallY",
+			"GroupId": "",
+			"Name": "目玉 Y"
+		},
+		{
+			"Id": "ParamBrowLY",
+			"GroupId": "",
+			"Name": "左眉　上下"
+		},
+		{
+			"Id": "ParamMouthForm",
+			"GroupId": "",
+			"Name": "口　変形"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "",
+			"Name": "口　開閉"
+		},
+		{
+			"Id": "ParamHairFront",
+			"GroupId": "",
+			"Name": "髪揺れ　前"
+		},
+		{
+			"Id": "ParamHairOuterL",
+			"GroupId": "",
+			"Name": "Strand_Outer_L_v26"
+		},
+		{
+			"Id": "ParamHairSideL",
+			"GroupId": "",
+			"Name": "Strand_Side_L_v26"
+		},
+		{
+			"Id": "ParamHairBangC",
+			"GroupId": "",
+			"Name": "Strand_Bang_C_v26"
+		},
+		{
+			"Id": "ParamHairBangR",
+			"GroupId": "",
+			"Name": "Strand_Bang_R_v26"
+		},
+		{
+			"Id": "ParamHairSideR",
+			"GroupId": "",
+			"Name": "Strand_Side_R_v26"
+		},
+		{
+			"Id": "ParamHairOuterR",
+			"GroupId": "",
+			"Name": "Strand_Outer_R_v26"
+		},
+		{
+			"Id": "ParamBrowLAdjustY",
+			"GroupId": "",
+			"Name": "Brow_L_Adjust_v28"
+		},
+		{
+			"Id": "ParamBrowRAdjustY",
+			"GroupId": "",
+			"Name": "Brow_R_Adjust_v28"
+		},
+		{
+			"Id": "ParamBrowLAngle",
+			"GroupId": "",
+			"Name": "Brow_L_Angle_v30"
+		},
+		{
+			"Id": "ParamBrowRAngle",
+			"GroupId": "",
+			"Name": "Brow_R_Angle_v30"
+		},
+		{
+			"Id": "ParamProfileR45",
+			"GroupId": "",
+			"Name": "Profile_R45_Smooth_v33"
+		}
+	],
+	"ParameterGroups": [],
+	"Parts": [
+		{
+			"Id": "Part5",
+			"Name": "left-overlap-add.psd"
+		},
+		{
+			"Id": "Part4",
+			"Name": "depth-overlap-add.psd"
+		},
+		{
+			"Id": "Part3",
+			"Name": "hair-strands-add.psd"
+		},
+		{
+			"Id": "Part2",
+			"Name": "happy-eyes.psd"
+		},
+		{
+			"Id": "Part",
+			"Name": "こよみ_元絵境界分割_v17.psd（対応無し）"
+		}
+	]
+}

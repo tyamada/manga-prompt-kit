@@ -1,0 +1,18 @@
+{
+  "max_distance_of_uncovered_pixel_texels": 1.0,
+  "uncovered_after_1_texel_rasterization_tolerance": 0,
+  "closed_eye_original_vertices": 4,
+  "closed_eye_new_vertices": 31,
+  "original_texture_visible_pixels_outside_uv_mesh": 6,
+  "alpha_threshold": 20,
+  "standard_trial_missing_pixels": 113,
+  "point_intervals": [
+    20,
+    20
+  ],
+  "boundary_margins": [
+    30,
+    30
+  ],
+  "boundary_min_points": 20
+}

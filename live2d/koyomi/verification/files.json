@@ -1,5 +1,5 @@
 {
-  "version": "v31 stable + v35 left-turn base and earlier development",
+  "version": "v31 stable + v36 left-depth refinements and earlier development",
   "date": "2026-11-24",
   "files": [
     {
@@ -9,13 +9,13 @@
     },
     {
       "path": "LICENSE.md",
-      "bytes": 2865,
-      "sha256": "2947117a14fe2e73ea2cab7c7f82501c654f028000d01f898b8a8ab55b5600ee"
+      "bytes": 3069,
+      "sha256": "3789ecf4930d0dcc657cbe24a79cd18c390cc9679c84273671bff4e1fa5d4e08"
     },
     {
       "path": "README.md",
-      "bytes": 12019,
-      "sha256": "a6a79bca48170f73735bf040116e78f17d46dfc631419b0be3449b2f61372dcb"
+      "bytes": 12370,
+      "sha256": "721211c7a5e3acae32a464fe485d3c7db12dd1e492e5c0f29442d766a2dd1c56"
     },
     {
       "path": "audio/README.md",
@@ -34,8 +34,8 @@
     },
     {
       "path": "development/README.md",
-      "bytes": 1132,
-      "sha256": "39cd0d45bcf4246230e43af6111c5a9129ab57cdbc72f4ac1856dc9aa35a79d7"
+      "bytes": 1224,
+      "sha256": "eb87a38b45cdeb99145cb2e6e5be66e42ac88581619569e5b39636058dcb2e47"
     },
     {
       "path": "development/full-body-hands/README.md",
@@ -1338,19 +1338,319 @@
       "sha256": "b90782f5b51e014ca3163016c09652433e92abde204602770ccf8695244350b3"
     },
     {
+      "path": "development/v36-left-depth-study/CREDITS.md",
+      "bytes": 1626,
+      "sha256": "07e417686a029f20a052235565bffda33cf7ca7acf344eed9fe091b7ed0ba61b"
+    },
+    {
+      "path": "development/v36-left-depth-study/LICENSE.md",
+      "bytes": 1764,
+      "sha256": "836c4aa00419aa5b77f4e3a3d5e06fe1eeef31772f2f58fdc9ec390ed7afb62c"
+    },
+    {
+      "path": "development/v36-left-depth-study/README.md",
+      "bytes": 6007,
+      "sha256": "1b5d5217b2512bf65d8427423b51a4a8bfb60bd7fdc43eb710d7da271b6fc1c9"
+    },
+    {
+      "path": "development/v36-left-depth-study/preview/blink-mouth-check.jpg",
+      "bytes": 213958,
+      "sha256": "454836b01d1d02cb91b3224f9a8065864006ff7e1969e43ff7ea1acc7620ba0a"
+    },
+    {
+      "path": "development/v36-left-depth-study/preview/profile-both-six-expressions.jpg",
+      "bytes": 129947,
+      "sha256": "222168cc674b4cb3978f0f1eb351f734500e5d79588e5cf8102c3d818e1b7eac"
+    },
+    {
+      "path": "development/v36-left-depth-study/preview/profile-l45-six-expressions.jpg",
+      "bytes": 131162,
+      "sha256": "797f9c4623dca010ca9f8c9c65b7eb8c406e76e70c0529a9a4f5707edffa095f"
+    },
+    {
+      "path": "development/v36-left-depth-study/preview/showcase-both-30s-silent.mp4",
+      "bytes": 2759202,
+      "sha256": "cddc5267456fa35d56a3f582a4aea877120b9878cadd95daea9051e88d5111ae"
+    },
+    {
+      "path": "development/v36-left-depth-study/preview/showcase-both-30s.mp4",
+      "bytes": 2934214,
+      "sha256": "0299c7c543b7d16d63493a5b14d2bff8876e2eaf73769834fc5b49013aebd148"
+    },
+    {
+      "path": "development/v36-left-depth-study/preview/showcase-l45-30s-silent.mp4",
+      "bytes": 1636677,
+      "sha256": "54959049c39a2a55535aaef1506c9b4152bfac83e2d27ba647313d9c98131620"
+    },
+    {
+      "path": "development/v36-left-depth-study/preview/showcase-l45-30s.mp4",
+      "bytes": 1812063,
+      "sha256": "d016e6416e46c53b54665c456b63865aa6b4810dae906dc574dffa717f606bf2"
+    },
+    {
+      "path": "development/v36-left-depth-study/preview/smooth-left-check.mp4",
+      "bytes": 1396578,
+      "sha256": "ad1a0c4e791e67486db25600703d6e062b8825176621387ba4f779e71f7976fb"
+    },
+    {
+      "path": "development/v36-left-depth-study/preview/smooth-left-comparison.jpg",
+      "bytes": 108357,
+      "sha256": "67ebc6647a9606ab5a27407d6ecc32e2e3803df4475f7788bf8ed51915ad0bf1"
+    },
+    {
+      "path": "development/v36-left-depth-study/preview/v35-v36-left-comparison.jpg",
+      "bytes": 44902,
+      "sha256": "97ee61ae84be31b937bed3ce32ff7077e9b6ade908fd3ff53a4dd7940be25ae8"
+    },
+    {
+      "path": "development/v36-left-depth-study/runtime/expressions/01_normal.exp3.json",
+      "bytes": 1066,
+      "sha256": "60df07353446c4f4fe2348e17f6ebfdac755366d22c2ade1013d9e4f8b2717ee"
+    },
+    {
+      "path": "development/v36-left-depth-study/runtime/expressions/02_happy.exp3.json",
+      "bytes": 1082,
+      "sha256": "5c2dc0d4a137376f01048eba7a3c2c02f26452768875af45831d22cf87d2461a"
+    },
+    {
+      "path": "development/v36-left-depth-study/runtime/expressions/03_surprised.exp3.json",
+      "bytes": 1076,
+      "sha256": "cd35fb24cd70ee978cf8dd063f1f274a2c04195c8b2da734301833f60981bb09"
+    },
+    {
+      "path": "development/v36-left-depth-study/runtime/expressions/04_idea.exp3.json",
+      "bytes": 1086,
+      "sha256": "4f7402d5becf909c6f754a771641f99507c7024a41aa5eed87a4b9eef9c5a281"
+    },
+    {
+      "path": "development/v36-left-depth-study/runtime/expressions/05_lets_try.exp3.json",
+      "bytes": 1088,
+      "sha256": "c499a7f1c61d6dd76cc56b4c20f5eafe9e86bf58974fae088a3ca198032afee5"
+    },
+    {
+      "path": "development/v36-left-depth-study/runtime/expressions/06_noticed.exp3.json",
+      "bytes": 1095,
+      "sha256": "f3069b2d68767c558a8ad78ab027f17a9fa3dda12a9dd40d881b0b60a357bd8e"
+    },
+    {
+      "path": "development/v36-left-depth-study/runtime/koyomi-v36.cdi3.json",
+      "bytes": 2300,
+      "sha256": "d9dacf003b8ae77d0f4b99d320762aae092f7858b0e38d6aee1d59c03f4e605c"
+    },
+    {
+      "path": "development/v36-left-depth-study/runtime/koyomi-v36.moc3",
+      "bytes": 105536,
+      "sha256": "9157554ee946b60a2a4c56449352c5518a2fe9f9f4f3d183fa78e1d24bec6d2c"
+    },
+    {
+      "path": "development/v36-left-depth-study/runtime/koyomi-v36.model3.json",
+      "bytes": 3435,
+      "sha256": "2194608e87a30aca01a4721eb879af82d232d0e2d768ae0d3f12bc72c53e63dd"
+    },
+    {
+      "path": "development/v36-left-depth-study/runtime/koyomi-v36.physics3.json",
+      "bytes": 8243,
+      "sha256": "845a8490d16d6ebabde515df8e22eb0ad3168a9fdf6e7cee4d372ffdbb887af0"
+    },
+    {
+      "path": "development/v36-left-depth-study/runtime/motions/brow-angle-check.motion3.json",
+      "bytes": 1484,
+      "sha256": "ba1c8758270af7f98739b12a64afb67a360200315ba71a09210b50dfa908e16d"
+    },
+    {
+      "path": "development/v36-left-depth-study/runtime/motions/brow-check.motion3.json",
+      "bytes": 1301,
+      "sha256": "e5e32dd1c70efe520dfff1cd3e77f92af1801c5d73cf0a3f2f88c071142b038e"
+    },
+    {
+      "path": "development/v36-left-depth-study/runtime/motions/gaze-check.motion3.json",
+      "bytes": 2775,
+      "sha256": "63e1326959b50bd3edead07b3aee91622fad181ab020ec07e0129631e3c44cb5"
+    },
+    {
+      "path": "development/v36-left-depth-study/runtime/motions/hair-strands-check.motion3.json",
+      "bytes": 130594,
+      "sha256": "6879c296f288e4915e5077e211cfdeeaae0e4ffa2193d0f0b1601a984094ebec"
+    },
+    {
+      "path": "development/v36-left-depth-study/runtime/motions/head-turn-check.motion3.json",
+      "bytes": 4000,
+      "sha256": "a98ab5970429924944784540a3a6be1f9410cb0d6c4ae1b74246c243d5bb6d3d"
+    },
+    {
+      "path": "development/v36-left-depth-study/runtime/motions/mouth-check.motion3.json",
+      "bytes": 1374,
+      "sha256": "f1c910cf6f37aad459ec7813e7d5158429c4d1b82033d9f744328b00468241f5"
+    },
+    {
+      "path": "development/v36-left-depth-study/runtime/motions/physics-check.motion3.json",
+      "bytes": 1472,
+      "sha256": "633841e3bbd84fa4d9bd00d2f8e21a4d9d000396ed710fac03e087011fd0dd2a"
+    },
+    {
+      "path": "development/v36-left-depth-study/runtime/motions/showcase-30s.motion3.json",
+      "bytes": 30028,
+      "sha256": "c5164b80d0863e4859d8964206444108b730fe00db54f54c93463b4e20aff560"
+    },
+    {
+      "path": "development/v36-left-depth-study/runtime/motions/showcase-both.motion3.json",
+      "bytes": 31437,
+      "sha256": "6e6ed2e88cf4e918de9ea775f492fd52291ff3d2dc7126298dad13586befd5aa"
+    },
+    {
+      "path": "development/v36-left-depth-study/runtime/motions/showcase-front.motion3.json",
+      "bytes": 30184,
+      "sha256": "48ec6b27232d880b8fae6c17e6db186746133c9bb63dc2a406c0805eb9fa07a3"
+    },
+    {
+      "path": "development/v36-left-depth-study/runtime/motions/showcase-l45.motion3.json",
+      "bytes": 30186,
+      "sha256": "53cff57237c2d3f1f863701eda2c5a49f383e38b14dcbd93f905f932b1919b63"
+    },
+    {
+      "path": "development/v36-left-depth-study/runtime/motions/showcase-r45.motion3.json",
+      "bytes": 30184,
+      "sha256": "513913e3a6915f0d89b754853d1ac9075fbde2ad1bbc9c7c6b798ce8fb501cb4"
+    },
+    {
+      "path": "development/v36-left-depth-study/runtime/motions/showcase-turn.motion3.json",
+      "bytes": 30985,
+      "sha256": "f8f1c9447f4f4839583d5f712acc291b90f92757d2f56368eb4953e1213004cf"
+    },
+    {
+      "path": "development/v36-left-depth-study/runtime/motions/smooth-left-check.motion3.json",
+      "bytes": 3697,
+      "sha256": "c795716b113443d83f57ea70a1eaade315c4ffbffceb2ad359568efdc97938bb"
+    },
+    {
+      "path": "development/v36-left-depth-study/runtime/motions/smooth-turn-check.motion3.json",
+      "bytes": 3689,
+      "sha256": "801b9eeace0e3581172fe34de1b5f0e3d6ef3e6ced27576b7ae33a0a97a13f3b"
+    },
+    {
+      "path": "development/v36-left-depth-study/runtime/textures/texture_00.png",
+      "bytes": 2185439,
+      "sha256": "f1321069d8c991c27eb635331d0568eb63650aa2d56e544a218b0766d59af0a6"
+    },
+    {
+      "path": "development/v36-left-depth-study/source/H36_LeftEarCover.png",
+      "bytes": 19141,
+      "sha256": "0c06e2850b9f0fe44db0797713276a5f0d4b13cb9da96306fe918a873e84fe3e"
+    },
+    {
+      "path": "development/v36-left-depth-study/source/H36_LeftEarCover.svg",
+      "bytes": 371234,
+      "sha256": "4fe892b5c2df91b9b69d991784b99a2b86efe65c9c07fbf521c02d0feae394ac"
+    },
+    {
+      "path": "development/v36-left-depth-study/source/N36_LeftBridge.png",
+      "bytes": 7846,
+      "sha256": "92863e9b48e620840ab8cb8e83948db7819cbc5ec19508e53b4c5720e76c905f"
+    },
+    {
+      "path": "development/v36-left-depth-study/source/N36_LeftBridge.svg",
+      "bytes": 408779,
+      "sha256": "7d9f8fbfb152cf603ddcb46cd9e60441926eb90cff9d28adc7c82097be31f603"
+    },
+    {
+      "path": "development/v36-left-depth-study/source/koyomi-v36.cmo3",
+      "bytes": 22512525,
+      "sha256": "4263c1ef4c6f4526810d204f9f97ce25641bfd32703a0a598b80701a3cc16fc2"
+    },
+    {
+      "path": "development/v36-left-depth-study/source/koyomi-v36.psd",
+      "bytes": 13331314,
+      "sha256": "752b277d21cf8f736772d89fca1591a9563b8792c877dedf12aa2429d7c5a890"
+    },
+    {
+      "path": "development/v36-left-depth-study/source/left-overlap-add.psd",
+      "bytes": 4226602,
+      "sha256": "cb61590afec10fb2d7f8996a1635640027322c9aeeb156893b360897a8eb6202"
+    },
+    {
+      "path": "development/v36-left-depth-study/source/left-overlap-source.json",
+      "bytes": 484,
+      "sha256": "6be8e0ad534a5780a87a801fa059e56593bb3849c89ab9f3fa7e7ebdb51457f2"
+    },
+    {
+      "path": "development/v36-left-depth-study/source/rig-notes-v36.json",
+      "bytes": 2387,
+      "sha256": "e6ee203e74039a1347580ffe96aa6b3e017ebbf88777c682fd25954e5c29c8c2"
+    },
+    {
+      "path": "development/v36-left-depth-study/source/v36-preservation.json",
+      "bytes": 526,
+      "sha256": "03dd58a1976401ef96300de9c052964f02b62f36df6fa3a7d02c30376091cd8c"
+    },
+    {
+      "path": "development/v36-left-depth-study/verification/atlas-preservation.json",
+      "bytes": 350,
+      "sha256": "71ab881eccff7a43db673775d592bac99df8ff88d2b976228aa7bbf222cc73b8"
+    },
+    {
+      "path": "development/v36-left-depth-study/verification/audio-capture-both.json",
+      "bytes": 113,
+      "sha256": "74596499aa2114d6dd96d32dc9efd8ba6b59ac36a1f44c00dcd12a173049f458"
+    },
+    {
+      "path": "development/v36-left-depth-study/verification/audio-capture-l45.json",
+      "bytes": 113,
+      "sha256": "f48d6337f796cb304d83c6a7e5fd6ea8818b56018c967a7c1d3245c51c924ad0"
+    },
+    {
+      "path": "development/v36-left-depth-study/verification/both-video-verification.json",
+      "bytes": 1065,
+      "sha256": "61b587829af699f89a937600075fe4afbb209b2446d4b415192870fe200c94f5"
+    },
+    {
+      "path": "development/v36-left-depth-study/verification/closed-mesh-coverage.json",
+      "bytes": 415,
+      "sha256": "18a9a63f7abed6a05f91a3531f652ce4153a827bac87f212991cb74a4c48f290"
+    },
+    {
+      "path": "development/v36-left-depth-study/verification/core.json",
+      "bytes": 352,
+      "sha256": "56a97d32855ac46755528d4d66e62335ef60458c6c11788a7840e603ce9ed8f1"
+    },
+    {
+      "path": "development/v36-left-depth-study/verification/editor-roundtrip.json",
+      "bytes": 437,
+      "sha256": "4c399091bcc992f46a2b475b013e2c7cec699fe70cc59700c883ec8edb9bdeab"
+    },
+    {
+      "path": "development/v36-left-depth-study/verification/invariants.json",
+      "bytes": 526,
+      "sha256": "03dd58a1976401ef96300de9c052964f02b62f36df6fa3a7d02c30376091cd8c"
+    },
+    {
+      "path": "development/v36-left-depth-study/verification/l45-video-verification.json",
+      "bytes": 1064,
+      "sha256": "57f515053bed50fa7b762e6d90171ff7bf51f90459b0db1d791d53da748d407b"
+    },
+    {
+      "path": "development/v36-left-depth-study/verification/motion-preservation.json",
+      "bytes": 1324,
+      "sha256": "6bfd4f238136b6ac479508f93f0d149bde8edbd3b09f3b8c5cb620712b7eea51"
+    },
+    {
+      "path": "development/v36-left-depth-study/verification/sweep-verification.json",
+      "bytes": 346,
+      "sha256": "cf9ec1141dfafb5daff47e7e488a6765fa86561086d3b34832008aa7002eaf16"
+    },
+    {
       "path": "docs/credits.md",
-      "bytes": 3667,
-      "sha256": "3bf812986d617b18d16a0316a92f4d130012e382e38b70ad6d57b939aba9b112"
+      "bytes": 3868,
+      "sha256": "a0033153c7feced6fe9455d364a109cfcb51c9e2cdf739e934c2d8090aee46e5"
     },
     {
       "path": "docs/production.md",
-      "bytes": 21666,
-      "sha256": "0bc9c4be931152a05ece9889a8769da2b6ff375f8715d1debd17110ecbd46aab"
+      "bytes": 22561,
+      "sha256": "83eda911b1f763f1f676e82db06e8f096abd3fe2a1e4c81edc6f20240560e8f1"
     },
     {
       "path": "docs/roadmap.md",
-      "bytes": 11241,
-      "sha256": "40fb57cf2c45bcf6301da1ac24d6520db1a8492fc4c74f3a21d841b82e81951b"
+      "bytes": 11699,
+      "sha256": "105bc84b2864b850bd8e0c64425eea6d4398c0e7fa5303165c9dbd11288bcce4"
     },
     {
       "path": "preview/brow-angle-check.mp4",

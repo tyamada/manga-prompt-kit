@@ -18,3 +18,5 @@
 - [v34：鼻筋・遠い目・耳の重なりと口線の表示切替](v34-depth-study/README.md)
 
 - [v35：左斜め向きの土台と左右連続確認](v35-left-turn-study/README.md)
+
+- [v36：左向きの目・鼻・耳と閉眼の仕上げ](v36-left-depth-study/README.md)

@@ -1,0 +1,26 @@
+{
+  "original_layers_unchanged": 37,
+  "new_layers": [
+    {
+      "name": "N36_LeftBridge",
+      "bbox": [
+        430,
+        554,
+        466,
+        637
+      ]
+    },
+    {
+      "name": "H36_LeftEarCover",
+      "bbox": [
+        212,
+        530,
+        270,
+        708
+      ]
+    }
+  ],
+  "front_composite_exact": true,
+  "new_layers_default_hidden": true,
+  "source": "Original v35 skin and character-right side-hair pixels clipped with SVG; no new image generation"
+}

@@ -1,0 +1,13 @@
+{
+  "original_visible_pixels_outside_new2_placement_identical": true,
+  "original_alpha_outside_new2_placement_identical": true,
+  "transparent_rgb_changed_outside": 149214,
+  "transparent_rgb_change_does_not_change_alpha_or_visible_pixels": true,
+  "new_patch_area": [
+    1480,
+    1780,
+    1730,
+    2000
+  ],
+  "new_layers_scale_percent": 100
+}
