@@ -43,6 +43,13 @@ d1d9c0da7c5bfa90f930bf1f82f8dd77ccd7968a37f18ea5ccbc175ed37e2acb  development/fr
 f4ec994a0ee53311f6466e8ba0eb72fc061ca49126658a0cbb518542ceb81f67  development/front-separation/nagi-blink-lipsync-v2/runtime/nagi-blink-lipsync-v2.moc3
 e51140a27fc0e12cdd3103f1eae28154b3d5fde9201e446cd9e09b951dc0f282  development/front-separation/nagi-blink-lipsync-v2/runtime/nagi-blink-lipsync-v2.model3.json
 afc62a63c95ba6978acbdcf8b792e4c99d860a1251b378bda020e9236821d2c4  development/front-separation/nagi-blink-lipsync-v2/runtime/nagi-blink-lipsync-v2.motion3.json
+4c5a07567c942b3e470898b49abbe626810ae4bd51b3899b60e0653d27b29f93  development/front-separation/nagi-blink-lipsync-v3/nagi-blink-lipsync-v3.cmo3
+e1b73d0e52bae0b789d292856351acca7cdf00812a1c25eaf44fec111d236a08  development/front-separation/nagi-blink-lipsync-v3/runtime/nagi-blink-independence-check.motion3.json
+53af3944ae3f7c8eb873e78c226c8128fa1d7ea6c2064e029ae0856025c3f5df  development/front-separation/nagi-blink-lipsync-v3/runtime/nagi-blink-lipsync-v3.2048/texture_00.png
+2dd3463a5d80cf4b4b4bf3d77ad3f1ad4061468d7e829d99669b1c824b6ab587  development/front-separation/nagi-blink-lipsync-v3/runtime/nagi-blink-lipsync-v3.cdi3.json
+ad2e86258d5da50651bfca341982056d10f6a7412551f4ee4cd8e1d2bd33cfed  development/front-separation/nagi-blink-lipsync-v3/runtime/nagi-blink-lipsync-v3.moc3
+ba55866c48fc7d713501af81e5224a03296af27092cd30932b42d22acf603519  development/front-separation/nagi-blink-lipsync-v3/runtime/nagi-blink-lipsync-v3.model3.json
+afc62a63c95ba6978acbdcf8b792e4c99d860a1251b378bda020e9236821d2c4  development/front-separation/nagi-blink-lipsync-v3/runtime/nagi-blink-lipsync-v3.motion3.json
 50092c184fc6bd7ad7723b742cd6ca27248d09461ef7f115ad95c3043013c491  development/front-separation/nagi-front-hands-draft.cmo3
 f80e7ee9c900a6e79157ff25ee90e896ae5a4ceb71ccdf5fd20276bdb6c49631  development/front-separation/nagi-front-hands-draft.psd
 654f5f3dcde1c151a10444ca56811bced1ae0a6cfd9a21c627d5d42afdde26b9  development/front-separation/nagi-front-separation-v2.cmo3
@@ -67,4 +74,4 @@ f97ae6bfee4a7815710140d89c7739b35f60eda4278ca225f2e9208aec0e9a56  development/fr
 819fe8b80cfc92447419bfe444a848f2bb595cd2ea2f04ef11656ae3c44bf5e2  development/voice-audition/nagi-no7-query.json
 92515bd1fde7752834526105f36c3d5f888b7559d1673b344b10395a4a97e9b4  development/voice-audition/script.txt
 f712cda14db6390fcf2e359879c9381aaf4a6f092fb5a7a7043e3a4db3b09899  development/voice-audition/vowel-motion-check.json
-855880a46aad63dad8fa1073ccb820e34938aa4bcc04801242943cd8da393bbd  docs/windows-production-start.md
+f4cc90cb7279b3cc09769ebe765e22df7a833f71dd549dd0a701d86796a03d73  docs/windows-production-start.md
