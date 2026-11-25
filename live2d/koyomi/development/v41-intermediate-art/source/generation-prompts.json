@@ -1,0 +1,12 @@
+{
+  "method": "built-in image generation",
+  "selected_candidate": "C",
+  "reference_roles": {
+    "right45": "existing model appearance reference",
+    "right80": "existing profile appearance reference"
+  },
+  "prompts": {
+    "candidate": "Use case: identity-preserve. Two established drawings of the SAME Koyomi character are attached: image1 is too close to an 80 degree side profile, image2 is the more frontal three-quarter view. Draw ONE intermediate head whose yaw is precisely HALFWAY BETWEEN THESE TWO images, approximately right60 degrees. Do NOT copy either endpoint pose. Near eye should remain large and round; far eye should be a narrow clearly visible sliver about 15% the near eye's width, partially hidden by the nose bridge and bangs. Show a thin far cheek beyond the nose, only a small portion. This combination is essential: more turned than image2, less turned than image1. Match the same round youthful face, chestnut bob shape, identical bangs and strand divisions, exactly one hollow coral rectangular hairclip, brown eyes, thin brown clean outlines, warm cel shadows. Keep the head upright, no tilt, looking toward image right, neutral closed small gentle smile. Entire head and short neck only, no shoulders/clothes, no text. Square transparent canvas with generous clean margins. Produce a crisp production cutout: continuous fully opaque interior, smooth antialiased edge, NO detached speckles or stray semitransparent pixels, NO shadow on background. Genuine alpha transparency.",
+    "underpaint": "Use case: precise-object-edit. This is a technical underpainting edit for Live2D layer separation, not a redesign. Edit the supplied Koyomi right60-degree head in place. Keep the EXACT canvas, head silhouette, hair, hairclip, ear, nose, jaw, neck, lighting, colors, line art, positions and proportions. Change ONLY the eyes, eyebrows and mouth: erase BOTH complete eyes (white sclera, iris, pupils, eyelashes, upper/lower lid lines), both eyebrows, and the mouth line, and fill those small removed feature regions with smooth matching skin tone and cel shading. The result is the same head with blank skin where the eyes, eyebrows and mouth used to be. Preserve the nose and face outline, cheek blush, hair and all exterior pixels exactly as closely as possible. No replacement facial features, no eye sockets, no new marks. Keep real alpha transparency and margins. This image will only provide hidden skin under the separated feature layers, so do NOT shift or redraw the head."
+  }
+}

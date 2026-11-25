@@ -28,3 +28,5 @@
 - [v39：右80度の連続まばたき・口リグ（移行は未完成）](v39-right80-continuous/README.md)
 
 - [v40：閉眼中の排他的な表示切り替えで二重輪郭を解消した確認モデル](v40-right80-switching/README.md)（連続モーフではありません）
+
+- [v41：連続モーフ用の中間原画候補と仮分割PSD](v41-intermediate-art/README.md)（Cubism未組み込み、動作確認未完了）

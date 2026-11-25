@@ -1,0 +1,93 @@
+{
+  "status": "manual approximate reference landmarks; not native Cubism coordinates",
+  "angle_note": "angles are drawing labels, not measured physical yaw",
+  "references": {
+    "right45": {
+      "canvas": [
+        720,
+        720
+      ],
+      "near_eye": [
+        382,
+        392
+      ],
+      "far_eye": [
+        546,
+        400
+      ],
+      "nose": [
+        461,
+        443
+      ],
+      "mouth": [
+        435,
+        507
+      ],
+      "chin": [
+        432,
+        582
+      ],
+      "ear": [
+        251,
+        427
+      ]
+    },
+    "right60_candidate": {
+      "canvas": [
+        1254,
+        1254
+      ],
+      "near_eye": [
+        848,
+        694
+      ],
+      "far_eye": [
+        990,
+        707
+      ],
+      "nose": [
+        1016,
+        788
+      ],
+      "mouth": [
+        925,
+        891
+      ],
+      "chin": [
+        882,
+        1022
+      ],
+      "ear": [
+        536,
+        746
+      ]
+    },
+    "right80": {
+      "canvas": [
+        1312,
+        1199
+      ],
+      "near_eye": [
+        976,
+        620
+      ],
+      "nose": [
+        1073,
+        730
+      ],
+      "mouth": [
+        1014,
+        826
+      ],
+      "chin": [
+        1009,
+        950
+      ],
+      "ear": [
+        690,
+        688
+      ]
+    }
+  },
+  "next": "register scale/pivot and trace outlines before authoring deformation and occlusion; raw image interpolation is not a morph"
+}

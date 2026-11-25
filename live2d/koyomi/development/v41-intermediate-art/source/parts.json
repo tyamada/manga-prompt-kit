@@ -1,0 +1,155 @@
+{
+  "status": "source preparation only; no Cubism integration or continuous morph verification",
+  "canvas": [
+    1254,
+    1254
+  ],
+  "layers": [
+    {
+      "name": "R41_BackHair",
+      "bounds": [
+        0,
+        17,
+        1170,
+        1254
+      ],
+      "visible": true,
+      "status": "provisional extraction; not blink/ mouth rig-ready"
+    },
+    {
+      "name": "R41_FaceEarNeck",
+      "bounds": [
+        467,
+        440,
+        1039,
+        1231
+      ],
+      "visible": true,
+      "status": "provisional extraction; not blink/ mouth rig-ready"
+    },
+    {
+      "name": "R41_Underpaint_Hidden",
+      "bounds": [
+        693,
+        493,
+        1023,
+        916
+      ],
+      "visible": false,
+      "status": "provisional extraction; not blink/ mouth rig-ready"
+    },
+    {
+      "name": "R41_EyeNear_Whole",
+      "bounds": [
+        693,
+        571,
+        931,
+        781
+      ],
+      "visible": true,
+      "status": "provisional extraction; not blink/ mouth rig-ready"
+    },
+    {
+      "name": "R41_EyeFar_Whole",
+      "bounds": [
+        961,
+        620,
+        1023,
+        786
+      ],
+      "visible": true,
+      "status": "provisional extraction; not blink/ mouth rig-ready"
+    },
+    {
+      "name": "R41_BrowNear",
+      "bounds": [
+        700,
+        493,
+        912,
+        571
+      ],
+      "visible": true,
+      "status": "provisional extraction; not blink/ mouth rig-ready"
+    },
+    {
+      "name": "R41_BrowFar",
+      "bounds": [
+        978,
+        603,
+        1023,
+        642
+      ],
+      "visible": true,
+      "status": "provisional extraction; not blink/ mouth rig-ready"
+    },
+    {
+      "name": "R41_MouthClosed",
+      "bounds": [
+        886,
+        875,
+        963,
+        916
+      ],
+      "visible": true,
+      "status": "provisional extraction; not blink/ mouth rig-ready"
+    },
+    {
+      "name": "R41_FrontHairClip",
+      "bounds": [
+        419,
+        36,
+        1103,
+        1128
+      ],
+      "visible": true,
+      "status": "provisional extraction; not blink/ mouth rig-ready"
+    }
+  ],
+  "reference_candidate": "C",
+  "feature_regions": {
+    "R41_EyeNear_Whole": [
+      693,
+      571,
+      931,
+      781
+    ],
+    "R41_EyeFar_Whole": [
+      961,
+      620,
+      1023,
+      786
+    ],
+    "R41_BrowNear": [
+      700,
+      493,
+      912,
+      571
+    ],
+    "R41_BrowFar": [
+      978,
+      603,
+      1028,
+      642
+    ],
+    "R41_MouthClosed": [
+      886,
+      875,
+      963,
+      916
+    ]
+  },
+  "composite_nontransparent_RGBA_max_difference": 0,
+  "composite_alpha_max_difference": 0,
+  "PSD_reopened_layer_count": 9,
+  "visible_layers": 8,
+  "hidden_underpaint_layers": 1,
+  "source_alpha_interior": "predominantly 253; alpha cleanup still required",
+  "transparent_boundary_detached_pixels_alpha_gt8": 7,
+  "next": [
+    "refine extraction boundaries and remove detached edge pixels",
+    "split eye whites/iris/lids/closed line and mouth opening components",
+    "register 45/60/80 landmarks and deformation topology",
+    "integrate into Cubism; preserve v38/40 and adopted I",
+    "verify genuine continuous morph in runtime without crossfade or discrete replacement"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "status": "source preparation only; no native model or video verification",
+  "PSD_total_layers": 9,
+  "PSD_visible_layers": 8,
+  "PNG_reconstruction_max_visible_RGBA_error": 0,
+  "PSD_reopen_max_visible_RGBA_error": 1,
+  "PSD_reopen_max_alpha_error": 0,
+  "v40_native_unchanged": true,
+  "known_issues": [
+    "provisional extraction boundaries; not rig-ready",
+    "source alpha interior predominantly 253 rather than 255",
+    "7 detached pixels at alpha >8",
+    "eye white/iris/lid and mouth-opening separation incomplete"
+  ]
+}
