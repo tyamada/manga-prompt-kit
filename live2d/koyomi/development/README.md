@@ -24,3 +24,5 @@
 - [v36：左向きの目・鼻・耳と閉眼の仕上げ](v36-left-depth-study/README.md)
 
 - [v37：右80度の専用原画・開閉終点の独立試作](v37-right80-study/README.md)
+
+- [v39：右80度の連続まばたき・口リグ（移行は未完成）](v39-right80-continuous/README.md)

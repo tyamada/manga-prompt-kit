@@ -1,0 +1,148 @@
+{
+  "canvas": [
+    1024,
+    1024
+  ],
+  "transform_from_v37": {
+    "scale": 0.75,
+    "translation": [
+      50,
+      40
+    ]
+  },
+  "parts": [
+    {
+      "name": "R39_BackHair",
+      "bounds": [
+        117,
+        54,
+        914,
+        939
+      ],
+      "default_visible": true
+    },
+    {
+      "name": "R39_FaceEarNeck",
+      "bounds": [
+        458,
+        386,
+        863,
+        907
+      ],
+      "default_visible": true
+    },
+    {
+      "name": "R39_FrontHairClip",
+      "bounds": [
+        498,
+        123,
+        890,
+        748
+      ],
+      "default_visible": true
+    },
+    {
+      "name": "R39_Brow_Normal",
+      "bounds": [
+        707,
+        364,
+        814,
+        422
+      ],
+      "default_visible": true
+    },
+    {
+      "name": "R39_EyeAperture",
+      "bounds": [
+        733,
+        460,
+        803,
+        562
+      ],
+      "default_visible": false
+    },
+    {
+      "name": "R39_EyeTexture",
+      "bounds": [
+        733,
+        460,
+        803,
+        562
+      ],
+      "default_visible": true
+    },
+    {
+      "name": "R39_UpperLid",
+      "bounds": [
+        726,
+        449,
+        804,
+        523
+      ],
+      "default_visible": true
+    },
+    {
+      "name": "R39_LowerLid",
+      "bounds": [
+        733,
+        524,
+        802,
+        563
+      ],
+      "default_visible": true
+    },
+    {
+      "name": "R39_ClosedLine",
+      "bounds": [
+        725,
+        514,
+        802,
+        534
+      ],
+      "default_visible": false
+    },
+    {
+      "name": "R39_MouthInterior",
+      "bounds": [
+        795,
+        650,
+        823,
+        681
+      ],
+      "default_visible": true
+    },
+    {
+      "name": "R39_Tongue",
+      "bounds": [
+        798,
+        662,
+        817,
+        681
+      ],
+      "default_visible": true
+    },
+    {
+      "name": "R39_UpperLip",
+      "bounds": [
+        795,
+        649,
+        824,
+        660
+      ],
+      "default_visible": true
+    },
+    {
+      "name": "R39_LowerLip",
+      "bounds": [
+        795,
+        653,
+        824,
+        682
+      ],
+      "default_visible": true
+    }
+  ],
+  "eye_strategy": "static iris clipped by deforming aperture; lids separate",
+  "mouth_strategy": "geometric opening; upper and lower lip separate",
+  "new_raster_generation": false
+}

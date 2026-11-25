@@ -1,0 +1,175 @@
+{
+  "status": "development; transition not accepted",
+  "v38_preservation": [
+    {
+      "parameters": {},
+      "max_vertex_difference_model_units": 2.980232238769531e-07
+    },
+    {
+      "parameters": {
+        "ParamProfileR45": 1
+      },
+      "max_vertex_difference_model_units": 7.450580596923828e-08
+    },
+    {
+      "parameters": {
+        "ParamProfileR45": -1
+      },
+      "max_vertex_difference_model_units": 2.4586915969848633e-07
+    },
+    {
+      "parameters": {
+        "ParamAngleX": 10,
+        "ParamAngleY": -8,
+        "ParamAngleZ": 4
+      },
+      "max_vertex_difference_model_units": 8.940696716308594e-08
+    },
+    {
+      "parameters": {
+        "ParamEyeLOpen": 0,
+        "ParamEyeROpen": 0
+      },
+      "max_vertex_difference_model_units": 2.980232238769531e-07
+    },
+    {
+      "parameters": {
+        "ParamMouthOpenY": 1
+      },
+      "max_vertex_difference_model_units": 2.980232238769531e-07
+    },
+    {
+      "parameters": {
+        "ParamMouthForm": 1,
+        "ParamBrowLY": -0.75,
+        "ParamEyeLOpen": 0.9,
+        "ParamEyeROpen": 0.9,
+        "ParamEyeLSmile": 0,
+        "ParamEyeBallX": 0,
+        "ParamEyeBallY": -0.1,
+        "ParamBrowLAdjustY": -0.2,
+        "ParamBrowRAdjustY": -0.2,
+        "ParamBrowLAngle": -0.6,
+        "ParamBrowRAngle": 0.6
+      },
+      "max_vertex_difference_model_units": 2.905726432800293e-07
+    },
+    {
+      "parameters": {
+        "ParamMouthForm": 0,
+        "ParamBrowLY": 0,
+        "ParamEyeLOpen": 1,
+        "ParamEyeROpen": 1,
+        "ParamEyeLSmile": 0,
+        "ParamEyeBallX": 0,
+        "ParamEyeBallY": 0,
+        "ParamBrowLAdjustY": 0,
+        "ParamBrowRAdjustY": 0,
+        "ParamBrowLAngle": 0,
+        "ParamBrowRAngle": 0
+      },
+      "max_vertex_difference_model_units": 2.980232238769531e-07
+    },
+    {
+      "parameters": {
+        "ParamMouthForm": -0.95,
+        "ParamBrowLY": 1,
+        "ParamEyeLOpen": 1,
+        "ParamEyeROpen": 1,
+        "ParamEyeLSmile": 0,
+        "ParamEyeBallX": 0,
+        "ParamEyeBallY": 0,
+        "ParamBrowLAdjustY": 0.25,
+        "ParamBrowRAdjustY": 0.25,
+        "ParamBrowLAngle": 0,
+        "ParamBrowRAngle": 0
+      },
+      "max_vertex_difference_model_units": 3.203749656677246e-07
+    },
+    {
+      "parameters": {
+        "ParamMouthForm": -0.7,
+        "ParamBrowLY": 0.45,
+        "ParamEyeLOpen": 0.95,
+        "ParamEyeROpen": 0.95,
+        "ParamEyeLSmile": 0,
+        "ParamEyeBallX": -0.8,
+        "ParamEyeBallY": 0.15,
+        "ParamBrowLAdjustY": 0.35,
+        "ParamBrowRAdjustY": -0.1,
+        "ParamBrowLAngle": 0.35,
+        "ParamBrowRAngle": 0.1
+      },
+      "max_vertex_difference_model_units": 3.129243850708008e-07
+    },
+    {
+      "parameters": {
+        "ParamMouthForm": 0.7,
+        "ParamBrowLY": 0.9,
+        "ParamEyeLOpen": 1,
+        "ParamEyeROpen": 1,
+        "ParamEyeLSmile": 0,
+        "ParamEyeBallX": 0.1,
+        "ParamEyeBallY": 0.7,
+        "ParamBrowLAdjustY": 0.5,
+        "ParamBrowRAdjustY": -0.15,
+        "ParamBrowLAngle": 0.5,
+        "ParamBrowRAngle": -0.15
+      },
+      "max_vertex_difference_model_units": 3.2782554626464844e-07
+    },
+    {
+      "parameters": {
+        "ParamMouthForm": 0.95,
+        "ParamBrowLY": 0.3,
+        "ParamEyeLOpen": 0,
+        "ParamEyeROpen": 0,
+        "ParamEyeLSmile": 1,
+        "ParamEyeBallX": 0,
+        "ParamEyeBallY": 0,
+        "ParamBrowLAdjustY": 0.2,
+        "ParamBrowRAdjustY": 0.2,
+        "ParamBrowLAngle": 0.25,
+        "ParamBrowRAngle": -0.25
+      },
+      "max_vertex_difference_model_units": 1.564621925354004e-07
+    }
+  ],
+  "previous_endpoint_recording_matches_final": [
+    {
+      "parameters": {},
+      "max_vertex_difference": 0.0
+    },
+    {
+      "parameters": {
+        "ParamProfileR80": 1,
+        "ParamProfileR45": 1
+      },
+      "max_vertex_difference": 0.0
+    },
+    {
+      "parameters": {
+        "ParamProfileR80": 1,
+        "ParamProfileR45": 1,
+        "ParamEyeROpen": 0.5,
+        "ParamMouthOpenY": 0.5
+      },
+      "max_vertex_difference": 0.0
+    },
+    {
+      "parameters": {
+        "ParamProfileR80": 1,
+        "ParamProfileR45": 1,
+        "ParamEyeROpen": 0,
+        "ParamMouthOpenY": 1,
+        "ParamAngleZ": 10
+      },
+      "max_vertex_difference": 0.0
+    }
+  ],
+  "known_issues": [
+    "45-to-80 intermediate frames show doubled contours; not accepted as natural transition",
+    "Right80 uses normal brow and blink shapes; six expressions preserved on v38 front/45-degree branch",
+    "Four existing overlap patches atlas density reduced to 65%; remaining original drawable density unchanged"
+  ]
+}

@@ -46,3 +46,6 @@ CC BY 4.0 https://creativecommons.org/licenses/by/4.0/
 
 
 v38の現在の音声付き動画2本は採用音声Iです。個別の適用範囲は現在版の[CREDITS.md](CREDITS.md)も参照してください。過去の動画の音声例外も引き続き維持します。
+
+
+v39開発版の `development/v39-right80-continuous/preview/right80-voice-30s.mp4` と `development/v39-right80-continuous/preview/right80-turn-refined-30s.mp4` も、合成音声はCC BY 4.0対象外です。[開発版の利用条件](development/v39-right80-continuous/LICENSE.md)。過去の音声例外は維持します。
