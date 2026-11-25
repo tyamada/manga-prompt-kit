@@ -26,3 +26,5 @@
 - [v37：右80度の専用原画・開閉終点の独立試作](v37-right80-study/README.md)
 
 - [v39：右80度の連続まばたき・口リグ（移行は未完成）](v39-right80-continuous/README.md)
+
+- [v40：閉眼中の排他的な表示切り替えで二重輪郭を解消した確認モデル](v40-right80-switching/README.md)（連続モーフではありません）

@@ -1,0 +1,18 @@
+[
+  {
+    "file": "showcase-r80.motion3.json",
+    "samples": 3601,
+    "sample_rate_hz": 120,
+    "fractional_display_values": 0,
+    "simultaneous_macro_branches": 0,
+    "blank_macro_branches": 0
+  },
+  {
+    "file": "showcase-r80-voice.motion3.json",
+    "samples": 3601,
+    "sample_rate_hz": 120,
+    "fractional_display_values": 0,
+    "simultaneous_macro_branches": 0,
+    "blank_macro_branches": 0
+  }
+]

@@ -1,0 +1,29 @@
+{
+  "parameter": "ParamProfileR80Visible",
+  "values": [
+    0,
+    1
+  ],
+  "use": "discrete boolean; do not blend or interpolate; switch during a blink",
+  "motion_segment_type": 2,
+  "fade_in_out_seconds": 0,
+  "front_preservation": {
+    "ParamProfileR80": 0,
+    "ParamProfileR80Visible": 0
+  },
+  "right80_endpoint": {
+    "ParamProfileR45": 1,
+    "ParamProfileR80": 1,
+    "ParamProfileR80Visible": 1
+  },
+  "turn_switch_times_seconds": [
+    1.775,
+    4.835,
+    7.83,
+    9.515
+  ],
+  "additional_blink_seconds": [
+    9.41,
+    9.7
+  ]
+}

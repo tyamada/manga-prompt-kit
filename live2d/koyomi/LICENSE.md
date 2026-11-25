@@ -49,3 +49,6 @@ v38の現在の音声付き動画2本は採用音声Iです。個別の適用範
 
 
 v39開発版の `development/v39-right80-continuous/preview/right80-voice-30s.mp4` と `development/v39-right80-continuous/preview/right80-turn-refined-30s.mp4` も、合成音声はCC BY 4.0対象外です。[開発版の利用条件](development/v39-right80-continuous/LICENSE.md)。過去の音声例外は維持します。
+
+
+v40の `development/v40-right80-switching/preview/right80-turn-30s.mp4` と `development/v40-right80-switching/preview/right80-voice-30s.mp4` の合成音声もCC BY 4.0対象外です。[v40の利用条件](development/v40-right80-switching/LICENSE.md)と[クレジット](development/v40-right80-switching/CREDITS.md)を確認してください。既存版の音声例外も維持します。

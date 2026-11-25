@@ -1,0 +1,7 @@
+{
+  "accepted_turn_capture": "right80-turn-30s.mp4",
+  "native_export_sha256": "bfe27eddc1899645fd1855419d8a79ef48c46f36d8940ce755a13d886144ac3f",
+  "first_capture_export_equals_final_export": true,
+  "editor_sha256": "3d0b3e0898f7fd7e8ec4e5461a8e50670f44d74b11445640e0832c71989302eb",
+  "profile_states_sheet": "v39 source; visible rig geometry unchanged in 126 tested eye/mouth/tilt states"
+}

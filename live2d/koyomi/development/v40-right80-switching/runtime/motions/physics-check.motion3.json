@@ -1,0 +1,122 @@
+{
+  "Version": 3,
+  "Meta": {
+    "Duration": 21,
+    "Fps": 30.0,
+    "Loop": false,
+    "AreBeziersRestricted": false,
+    "CurveCount": 4,
+    "TotalSegmentCount": 24,
+    "TotalPointCount": 28,
+    "UserDataCount": 0,
+    "TotalUserDataSize": 0,
+    "FadeInTime": 0,
+    "FadeOutTime": 0
+  },
+  "Curves": [
+    {
+      "Target": "Parameter",
+      "Id": "ParamAngleX",
+      "Segments": [
+        0,
+        0,
+        0,
+        2,
+        0,
+        0,
+        2.5,
+        -6,
+        0,
+        4,
+        -6,
+        0,
+        4.5,
+        6,
+        0,
+        6,
+        6,
+        0,
+        6.5,
+        0,
+        0,
+        10,
+        0,
+        0,
+        10.4,
+        -5,
+        0,
+        10.8,
+        5,
+        0,
+        11.2,
+        -4,
+        0,
+        11.6,
+        4,
+        0,
+        12,
+        0,
+        0,
+        21,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamAngleY",
+      "Segments": [
+        0,
+        0,
+        0,
+        7,
+        0,
+        0,
+        7.5,
+        4,
+        0,
+        8.2,
+        -4,
+        0,
+        8.7,
+        0,
+        0,
+        21,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamAngleZ",
+      "Segments": [
+        0,
+        0,
+        0,
+        13,
+        0,
+        0,
+        13.4,
+        -4,
+        0,
+        14,
+        4,
+        0,
+        14.6,
+        0,
+        0,
+        21,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamProfileR80Visible",
+      "Segments": [
+        0,
+        0,
+        2,
+        21,
+        0
+      ]
+    }
+  ]
+}
