@@ -73,3 +73,6 @@ v47と組み合わせる採用音声Iには[音声の例外](development/v47-int
 
 
 v48と組み合わせる採用音声Iには[音声の例外](development/v48-v42-rig-transfer-study/LICENSE.md)を適用します。
+
+
+v49と組み合わせる採用音声Iには[音声の例外](development/v49-mid-rig-expression-study/LICENSE.md)を適用します。

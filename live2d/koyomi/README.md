@@ -71,3 +71,6 @@
 
 
 [v48のv42中間リグの移植](development/v48-v42-rig-transfer-study/README.md)に採用音声I付きのViewer確認動画と編集データを収録しました。v42のリグを移植し、中間位置で開閉を確認しました。連続変形・中間側の6表情・右80度の仕上げは制作中です。
+
+
+[v49の中間リグの眉調整](development/v49-mid-rig-expression-study/README.md)に採用音声I付きのViewer確認動画と編集データを収録しました。v42側の手前の眉を既存の表情に連動させました。連続変形・襟元・右80度の仕上げは制作中です。
