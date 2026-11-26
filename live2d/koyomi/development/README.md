@@ -40,3 +40,5 @@
 - [v45 横向きの鼻先側の輪郭調整](v45-nose-contour-study/README.md)（右80度とv42統合は制作中）
 
 - [v46 横髪と頬の重なり調整](v46-side-hair-study/README.md)（右80度とv42統合は制作中）
+
+- [v47 中間輪郭と顎の調整](v47-intermediate-contour-study/README.md)

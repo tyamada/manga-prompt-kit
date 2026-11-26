@@ -67,3 +67,6 @@ v45の確認動画の合成音声にも、[v45利用条件](development/v45-nose
 
 
 v46の確認動画の合成音声にも、[v46利用条件](development/v46-side-hair-study/LICENSE.md)に記載の音声例外を適用します。
+
+
+v47と組み合わせる採用音声Iには[音声の例外](development/v47-intermediate-contour-study/LICENSE.md)を適用します。

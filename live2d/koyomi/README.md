@@ -62,3 +62,6 @@
 
 
 [v46の横髪と頬の重なり調整](development/v46-side-hair-study/README.md)にViewer確認動画と編集データを収録しました。右80度とv42の統合は制作中です。
+
+
+[v47の中間輪郭と顎の調整](development/v47-intermediate-contour-study/README.md)に無音のViewer確認動画と編集データを収録しました。v42リグの移植と右80度の仕上げは制作中です。

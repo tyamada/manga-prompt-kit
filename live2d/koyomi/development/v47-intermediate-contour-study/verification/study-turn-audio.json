@@ -1,0 +1,26 @@
+{
+  "segments": [
+    {
+      "source_second": 0,
+      "offset_seconds": 3.846689342403628,
+      "waveform_correlation": 0.9975012889990151
+    },
+    {
+      "source_second": 4,
+      "offset_seconds": 4.166757369614512,
+      "waveform_correlation": 0.9981444528745793
+    },
+    {
+      "source_second": 6,
+      "offset_seconds": 4.166757369614512,
+      "waveform_correlation": 0.9996079998144427
+    },
+    {
+      "source_second": 8,
+      "offset_seconds": 4.166757369614512,
+      "waveform_correlation": 0.999318810060409
+    }
+  ],
+  "full_audio_sync_verified": false,
+  "issue": "change in recorded sound timing within playback"
+}
