@@ -1,0 +1,19 @@
+{
+  "prior_default_bluetooth_recording_change_seconds": 0.320068,
+  "same_default_route_jbr25_change_seconds": 0.320408,
+  "speaker_segment_offsets_seconds": [
+    3.831678,
+    3.831678,
+    3.831655,
+    3.831655
+  ],
+  "source_segment_times_seconds": [
+    0,
+    4,
+    6,
+    8
+  ],
+  "speaker_route_override": "Viewer process only",
+  "source_audio_changed": false,
+  "audio_only_shift_seconds": 0
+}

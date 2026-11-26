@@ -12,6 +12,6 @@ SPDX-License-Identifier: CC-BY-4.0
 
 ## 音声の例外
 
-採用音声Iなどの合成音声はCC BY 4.0対象外で、VOICEVOXおよび春日部つむぎの規約に従います。今回の確認動画は無音です。この公開用配布物には単体WAVを含みません。[クレジット](CREDITS.md)を確認してください。
+採用音声Iなどの合成音声はCC BY 4.0対象外で、VOICEVOXおよび春日部つむぎの規約に従います。採用音声I付き動画の合成音声にもこの例外が適用されます。この公開用配布物には単体WAVを含みません。[クレジット](CREDITS.md)を確認してください。
 
 クレジット例：『ためし部』小坂こよみ Live2D v47開発試作・採用音声I／©こまいろ日和／校内くらし試作部／出典 https://github.com/tyamada/manga-prompt-kit/tree/main/live2d/koyomi ／CC BY 4.0 https://creativecommons.org/licenses/by/4.0/ ／改変内容（改変した場合）。

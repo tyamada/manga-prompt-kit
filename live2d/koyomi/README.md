@@ -65,3 +65,6 @@
 
 
 [v47の中間輪郭と顎の調整](development/v47-intermediate-contour-study/README.md)に無音のViewer確認動画と編集データを収録しました。v42リグの移植と右80度の仕上げは制作中です。
+
+
+[v47の採用音声I付き確認動画](development/v47-intermediate-contour-study/preview/study-turn-speaker-30s.mp4)を追加しました。Viewerでの内蔵出力による再録画です。
