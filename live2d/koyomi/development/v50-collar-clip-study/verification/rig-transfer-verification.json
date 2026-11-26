@@ -1,0 +1,10 @@
+{
+  "new_drawable": "R50_CollarClip",
+  "masked_drawable": "R42_HeadUnderpaint",
+  "previous_masks_unchanged": true,
+  "geometry_opacity_combinations": 303,
+  "existing_uv_max_allowed_delta_atlas_pixels": 0.267,
+  "expressions_and_motions_unchanged": true,
+  "voice_sha256": "588970d8b6e6ee412efc47dfa1be587ad77b9708a2ac4bcb7235497e2fb03178",
+  "full_transition_completed": false
+}

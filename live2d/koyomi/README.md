@@ -74,3 +74,6 @@
 
 
 [v49の中間リグの眉調整](development/v49-mid-rig-expression-study/README.md)に採用音声I付きのViewer確認動画と編集データを収録しました。v42側の手前の眉を既存の表情に連動させました。連続変形・襟元・右80度の仕上げは制作中です。
+
+
+[v50の中間向きの襟元調整](development/v50-collar-clip-study/README.md)に採用音声I付きのViewer確認動画と編集データを収録しました。v42側の襟元に透過マスクを追加しました。二重輪郭・襟端・右80度の仕上げは制作中です。

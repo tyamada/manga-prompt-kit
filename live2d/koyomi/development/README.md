@@ -46,3 +46,5 @@
 - [v48 v42中間リグの移植](v48-v42-rig-transfer-study/README.md)
 
 - [v49 中間リグの眉調整](v49-mid-rig-expression-study/README.md)
+
+- [v50 中間向きの襟元調整](v50-collar-clip-study/README.md)
