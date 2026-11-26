@@ -1,0 +1,29 @@
+{
+  "source_canvas": [
+    1024,
+    1024
+  ],
+  "generated_canvas": [
+    1254,
+    1254
+  ],
+  "registration": "affine alpha alignment, then original skin alpha retained for identical outer pixel coverage",
+  "affine_inverse_map": [
+    [
+      1.0024921894073486,
+      0.006710144691169262,
+      -6.3538432121276855
+    ],
+    [
+      -0.00554997380822897,
+      0.9985125064849854,
+      0.6668213605880737
+    ]
+  ],
+  "alpha_registration_correlation": 0.9909837070466178,
+  "output_alpha_equals_original": true,
+  "new_rgb_is_generated_underpainting": true,
+  "original_source_unchanged": true,
+  "source_sha256": "e6bd655e428d99f1b509047710248eba11e53fa93f912b181091d709b057d39d",
+  "fringe_pixels_nearest_color_extended": 4421
+}

@@ -1,0 +1,100 @@
+{
+  "version": "v44",
+  "status": "development study; 80-degree profile not accepted; v42 rig not yet integrated",
+  "changes": [
+    {
+      "target": "far eye",
+      "parents": [
+        "R44_FarLidVisibility",
+        "R44_FarIrisVisibility"
+      ],
+      "profile_keys": [
+        0,
+        0.4,
+        0.85,
+        1
+      ],
+      "opacity": [
+        1,
+        1,
+        0,
+        0
+      ],
+      "note": "White, lids, closed/happy eye and iris branch are coordinated; gaze parents retained."
+    },
+    {
+      "target": "skin",
+      "new_mesh": "R44_SkinClean",
+      "vertices": 193,
+      "old_mesh": "ArtMesh22",
+      "method": "duplicate original native mesh at neutral; direct opacity keyforms, no extra geometric parent",
+      "new_opacity_keys": [
+        [
+          0,
+          0
+        ],
+        [
+          0.2,
+          1
+        ],
+        [
+          1,
+          1
+        ]
+      ],
+      "old_opacity_keys": [
+        [
+          0,
+          1
+        ],
+        [
+          0.2,
+          1
+        ],
+        [
+          0.4,
+          0
+        ],
+        [
+          1,
+          0
+        ]
+      ],
+      "atlas": {
+        "top_left": [
+          1622,
+          1044
+        ],
+        "scale": 0.65,
+        "size": [
+          2048,
+          2048
+        ],
+        "existing_uvs_and_referenced_texels_unchanged": true
+      }
+    },
+    {
+      "target": "source image",
+      "note": "AI edited skin underpainting removes embedded bangs; registered to original 1024 canvas and original alpha. Outer ear remains and requires profile-specific occlusion."
+    }
+  ],
+  "preserved": [
+    "v38 normal/front-to-45 vertex positions within 1e-6",
+    "adopted voice I",
+    "six expression definitions",
+    "eye/mouth/expression/tilt/hair motion curves",
+    "hair physics"
+  ],
+  "rejected_trials": "Extra geometric skin parents introduced deviations (max about 0.042 model unit at 45 degrees). Replaced with original native mesh; no rejected parent/geometry in final export.",
+  "remaining": [
+    "Integrate v42 intermediate rig into v38-compatible topology and materials",
+    "Build protruding nose, near-eye narrowing and mouth placement for right80",
+    "Far ear and silhouette visibility",
+    "Local jaw/neck connection without moving shoulders",
+    "Full angle/expression visual acceptance"
+  ],
+  "angle80_accepted": false,
+  "v42_rig_integrated": false,
+  "source_export": "export4",
+  "license": "Owned elements, where rights exist: CC BY 4.0; synthesized voice excluded; WAV and raw window recordings excluded from public files"
+}

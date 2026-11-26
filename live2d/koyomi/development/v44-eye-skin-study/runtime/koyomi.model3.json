@@ -1,0 +1,70 @@
+{
+  "Version": 3,
+  "FileReferences": {
+    "Moc": "koyomi.moc3",
+    "Textures": [
+      "textures/texture_00.png"
+    ],
+    "DisplayInfo": "koyomi.cdi3.json",
+    "Motions": {
+      "StudyTurn": [
+        {
+          "File": "motions/study-turn.motion3.json",
+          "FadeInTime": 0,
+          "FadeOutTime": 0
+        }
+      ],
+      "StudyVoice": [
+        {
+          "File": "motions/study-voice.motion3.json",
+          "FadeInTime": 0,
+          "FadeOutTime": 0
+        }
+      ]
+    },
+    "Expressions": [
+      {
+        "Name": "ノーマル",
+        "File": "expressions/01_normal.exp3.json"
+      },
+      {
+        "Name": "嬉しい",
+        "File": "expressions/02_happy.exp3.json"
+      },
+      {
+        "Name": "びっくり",
+        "File": "expressions/03_surprised.exp3.json"
+      },
+      {
+        "Name": "ひらめき",
+        "File": "expressions/04_idea.exp3.json"
+      },
+      {
+        "Name": "やってみよう！",
+        "File": "expressions/05_lets_try.exp3.json"
+      },
+      {
+        "Name": "気づいた",
+        "File": "expressions/06_noticed.exp3.json"
+      }
+    ],
+    "Physics": "koyomi.physics3.json"
+  },
+  "Groups": [
+    {
+      "Target": "Parameter",
+      "Name": "EyeBlink",
+      "Ids": [
+        "ParamEyeLOpen",
+        "ParamEyeROpen"
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Name": "LipSync",
+      "Ids": [
+        "ParamMouthOpenY"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "mode": "built-in image_gen edit",
+  "edit_target": "v34/source/03_Skin_Head.png",
+  "prompt": "Remove every brown/red embedded hair streak and bang outline inside the face skin, fill with matching peach skin. Preserve 1024 canvas, position, scale, outer head silhouette, chin, ears, outline, blush, shading and transparent background. No eyes, eyebrows, mouth, hair, accessories or neck. Preserve small nose skin highlight.",
+  "raw_output": "skin-underpaint-generated.png",
+  "raw_size": [
+    1254,
+    1254
+  ],
+  "accepted_as": "underpaint candidate; registration and runtime QA required"
+}

@@ -1,0 +1,66 @@
+[
+  {
+    "t": 0,
+    "old": 1.0,
+    "new": 0.0,
+    "skin_delta_from_v43": 0.0,
+    "far_iris": 1.0,
+    "far_white": 1.0
+  },
+  {
+    "t": 0.1,
+    "old": 1.0,
+    "new": 0.5,
+    "skin_delta_from_v43": 8.940696716308594e-08,
+    "far_iris": 1.0,
+    "far_white": 1.0
+  },
+  {
+    "t": 0.2,
+    "old": 1.0,
+    "new": 1.0,
+    "skin_delta_from_v43": 8.940696716308594e-08,
+    "far_iris": 1.0,
+    "far_white": 1.0
+  },
+  {
+    "t": 0.3,
+    "old": 0.4999999403953552,
+    "new": 1.0,
+    "skin_delta_from_v43": 8.940696716308594e-08,
+    "far_iris": 1.0,
+    "far_white": 1.0
+  },
+  {
+    "t": 0.4,
+    "old": 0.0,
+    "new": 1.0,
+    "skin_delta_from_v43": 8.940696716308594e-08,
+    "far_iris": 1.0,
+    "far_white": 1.0
+  },
+  {
+    "t": 0.6,
+    "old": 0.0,
+    "new": 1.0,
+    "skin_delta_from_v43": 1.1920928955078125e-07,
+    "far_iris": 0.555555522441864,
+    "far_white": 0.555555522441864
+  },
+  {
+    "t": 0.85,
+    "old": 0.0,
+    "new": 1.0,
+    "skin_delta_from_v43": 0.0,
+    "far_iris": 0.0,
+    "far_white": 0.0
+  },
+  {
+    "t": 1,
+    "old": 0.0,
+    "new": 1.0,
+    "skin_delta_from_v43": 0.0,
+    "far_iris": 0.0,
+    "far_white": 0.0
+  }
+]

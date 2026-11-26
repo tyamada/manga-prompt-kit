@@ -58,3 +58,6 @@ v42の `development/v42-mid60-rig/preview/mid60-voice-30s.mp4` の合成音声�
 
 
 v43の `development/v43-face-turn-study/preview/study-turn-30s.mp4` と `development/v43-face-turn-study/preview/study-voice-30s.mp4` の合成音声もCC BY 4.0対象外です。[v43の利用条件](development/v43-face-turn-study/LICENSE.md)と[クレジット](development/v43-face-turn-study/CREDITS.md)を確認してください。既存版の音声例外を維持します。
+
+
+v44の `development/v44-eye-skin-study/preview/study-turn-30s.mp4` と `development/v44-eye-skin-study/preview/study-voice-30s.mp4` の合成音声もCC BY 4.0対象外です。[v44利用条件](development/v44-eye-skin-study/LICENSE.md)と[クレジット](development/v44-eye-skin-study/CREDITS.md)を参照してください。独自の肌下塗り素材は権利の存在・保有の範囲でCC BY 4.0とし、既存の音声例外を維持します。
