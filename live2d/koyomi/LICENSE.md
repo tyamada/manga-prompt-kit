@@ -52,3 +52,6 @@ v39開発版の `development/v39-right80-continuous/preview/right80-voice-30s.mp
 
 
 v40の `development/v40-right80-switching/preview/right80-turn-30s.mp4` と `development/v40-right80-switching/preview/right80-voice-30s.mp4` の合成音声もCC BY 4.0対象外です。[v40の利用条件](development/v40-right80-switching/LICENSE.md)と[クレジット](development/v40-right80-switching/CREDITS.md)を確認してください。既存版の音声例外も維持します。
+
+
+v42の `development/v42-mid60-rig/preview/mid60-voice-30s.mp4` の合成音声もCC BY 4.0対象外です。[v42の利用条件](development/v42-mid60-rig/LICENSE.md)と[クレジット](development/v42-mid60-rig/CREDITS.md)を確認してください。既存版の音声例外を維持します。

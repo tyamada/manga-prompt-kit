@@ -1,0 +1,26 @@
+{
+  "Version": 3,
+  "FileReferences": {
+    "Moc": "koyomi.moc3",
+    "Textures": [
+      "textures/texture_00.png"
+    ],
+    "DisplayInfo": "koyomi.cdi3.json",
+    "Motions": {
+      "Mid60States": [
+        {
+          "File": "motions/mid60-states.motion3.json",
+          "FadeInTime": 0,
+          "FadeOutTime": 0
+        }
+      ],
+      "Mid60Voice": [
+        {
+          "File": "motions/mid60-voice.motion3.json",
+          "FadeInTime": 0,
+          "FadeOutTime": 0
+        }
+      ]
+    }
+  }
+}

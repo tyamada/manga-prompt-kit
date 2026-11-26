@@ -1,0 +1,188 @@
+{
+  "parameters": [
+    "ParamAngleX",
+    "ParamAngleY",
+    "ParamAngleZ",
+    "ParamEyeLOpen",
+    "ParamEyeLSmile",
+    "ParamEyeROpen",
+    "ParamEyeRSmile",
+    "ParamEyeBallX",
+    "ParamEyeBallY",
+    "ParamBrowLY",
+    "ParamBrowRY",
+    "ParamBrowLX",
+    "ParamBrowRX",
+    "ParamBrowLAngle",
+    "ParamBrowRAngle",
+    "ParamBrowLForm",
+    "ParamBrowRForm",
+    "ParamMouthForm",
+    "ParamMouthOpenY",
+    "ParamCheek",
+    "ParamBodyAngleX",
+    "ParamBodyAngleY",
+    "ParamBodyAngleZ",
+    "ParamBreath",
+    "ParamHairFront",
+    "ParamHairSide",
+    "ParamHairBack"
+  ],
+  "drawables": [
+    "R42_LowerLip",
+    "R42_UpperLip",
+    "R42_Tongue",
+    "R42_MouthInterior",
+    "R42_FarClosedLine",
+    "R42_FarLowerLid",
+    "R42_FarUpperLid",
+    "R42_FarEyeTexture",
+    "R42_FarAperture",
+    "R42_NearClosedLine",
+    "R42_NearLowerLid",
+    "R42_NearUpperLid",
+    "R42_NearEyeTexture",
+    "R42_NearAperture",
+    "R42_BrowFar",
+    "R42_BrowNear",
+    "R42_HeadUnderpaint"
+  ],
+  "tests": [
+    {
+      "parameter": "ParamEyeROpen",
+      "value": 0,
+      "texture_opacity": 0.0,
+      "closed_line_opacity": 1.0,
+      "aperture_height": 0.0018955245614051819
+    },
+    {
+      "parameter": "ParamEyeROpen",
+      "value": 0.025,
+      "texture_opacity": 0.5,
+      "closed_line_opacity": 0.5,
+      "aperture_height": 0.004509232938289642
+    },
+    {
+      "parameter": "ParamEyeROpen",
+      "value": 0.05,
+      "texture_opacity": 1.0,
+      "closed_line_opacity": 0.0,
+      "aperture_height": 0.007122941315174103
+    },
+    {
+      "parameter": "ParamEyeROpen",
+      "value": 0.25,
+      "texture_opacity": 1.0,
+      "closed_line_opacity": 0.0,
+      "aperture_height": 0.02803291752934456
+    },
+    {
+      "parameter": "ParamEyeROpen",
+      "value": 0.5,
+      "texture_opacity": 1.0,
+      "closed_line_opacity": 0.0,
+      "aperture_height": 0.05417037755250931
+    },
+    {
+      "parameter": "ParamEyeROpen",
+      "value": 0.75,
+      "texture_opacity": 1.0,
+      "closed_line_opacity": 0.0,
+      "aperture_height": 0.08030784130096436
+    },
+    {
+      "parameter": "ParamEyeROpen",
+      "value": 1,
+      "texture_opacity": 1.0,
+      "closed_line_opacity": 0.0,
+      "aperture_height": 0.1064452975988388
+    },
+    {
+      "parameter": "ParamEyeLOpen",
+      "value": 0,
+      "texture_opacity": 0.0,
+      "closed_line_opacity": 1.0,
+      "aperture_height": 0.003649214282631874
+    },
+    {
+      "parameter": "ParamEyeLOpen",
+      "value": 0.025,
+      "texture_opacity": 0.5,
+      "closed_line_opacity": 0.5,
+      "aperture_height": 0.005413472652435303
+    },
+    {
+      "parameter": "ParamEyeLOpen",
+      "value": 0.05,
+      "texture_opacity": 1.0,
+      "closed_line_opacity": 0.0,
+      "aperture_height": 0.007177729159593582
+    },
+    {
+      "parameter": "ParamEyeLOpen",
+      "value": 0.25,
+      "texture_opacity": 1.0,
+      "closed_line_opacity": 0.0,
+      "aperture_height": 0.02129162661731243
+    },
+    {
+      "parameter": "ParamEyeLOpen",
+      "value": 0.5,
+      "texture_opacity": 1.0,
+      "closed_line_opacity": 0.0,
+      "aperture_height": 0.038933999836444855
+    },
+    {
+      "parameter": "ParamEyeLOpen",
+      "value": 0.75,
+      "texture_opacity": 1.0,
+      "closed_line_opacity": 0.0,
+      "aperture_height": 0.05657637491822243
+    },
+    {
+      "parameter": "ParamEyeLOpen",
+      "value": 1,
+      "texture_opacity": 1.0,
+      "closed_line_opacity": 0.0,
+      "aperture_height": 0.07421875
+    },
+    {
+      "parameter": "ParamMouthOpenY",
+      "value": 0,
+      "mouth_height": 0.0038443952798843384,
+      "mouth_width": 0.044921889901161194
+    },
+    {
+      "parameter": "ParamMouthOpenY",
+      "value": 0.25,
+      "mouth_height": 0.010695785284042358,
+      "mouth_width": 0.044921889901161194
+    },
+    {
+      "parameter": "ParamMouthOpenY",
+      "value": 0.5,
+      "mouth_height": 0.01754721999168396,
+      "mouth_width": 0.044921889901161194
+    },
+    {
+      "parameter": "ParamMouthOpenY",
+      "value": 0.75,
+      "mouth_height": 0.024398595094680786,
+      "mouth_width": 0.044921889901161194
+    },
+    {
+      "parameter": "ParamMouthOpenY",
+      "value": 1,
+      "mouth_height": 0.031250014901161194,
+      "mouth_width": 0.044921889901161194
+    }
+  ],
+  "masks": {
+    "R42_FarEyeTexture": [
+      "R42_FarAperture"
+    ],
+    "R42_NearEyeTexture": [
+      "R42_NearAperture"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "method": "profile mouth interior pixel area fitted to unchanged mouth-open motion curve; 30fps limits and nonlinear mouth area apply",
+  "mouth_area_curve_correlation": 0.9902824874639085,
+  "audio_start_seconds": 0.16999999999999993,
+  "mouth_motion_start_fit_seconds": 0.1820000000000001,
+  "mouth_lag_relative_to_audio_seconds": 0.012000000000000177,
+  "mouth_roi": [
+    470,
+    430,
+    80,
+    65
+  ],
+  "frames": 280,
+  "audio_only_shift_seconds": 0
+}

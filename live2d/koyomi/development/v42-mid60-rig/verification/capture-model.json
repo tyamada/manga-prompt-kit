@@ -1,0 +1,24 @@
+{
+  "status": "standalone fixed intermediate-direction blink and mouth prototype; not integrated continuous turn",
+  "native_model_sha256": "0de68f3eb5c536d30438962c18b9ef5377c54e2327e04dbd4740c66f2589cc1d",
+  "native_editor_sha256": "0c7b92e29c1a4217df4ba0c8868190a6f5ba75fe8cee24204f17a660f2a80da5",
+  "voice_sha256": "588970d8b6e6ee412efc47dfa1be587ad77b9708a2ac4bcb7235497e2fb03178",
+  "inherited_exact_curves": [
+    "ParamEyeLOpen",
+    "ParamEyeROpen",
+    "ParamMouthOpenY"
+  ],
+  "six_expression_integration": false,
+  "angle_morph": false,
+  "independent_hair": false,
+  "source_parts": 17,
+  "native_warp_deformers": 3,
+  "texture_size": [
+    1024,
+    1024
+  ],
+  "atlas_layout_user_scale_percent": 100,
+  "existing_v40_model_sha256": "bfe27eddc1899645fd1855419d8a79ef48c46f36d8940ce755a13d886144ac3f",
+  "existing_v38_public_model_sha256": "9157554ee946b60a2a4c56449352c5518a2fe9f9f4f3d183fa78e1d24bec6d2c",
+  "source_originals_unchanged": true
+}

@@ -1,0 +1,210 @@
+{
+  "status": "prepared for native rigging; not integrated into v40",
+  "canvas": [
+    1024,
+    1024
+  ],
+  "source_canvas": [
+    1254,
+    1254
+  ],
+  "source_scale": 0.7200956937799043,
+  "translation": [
+    60,
+    35
+  ],
+  "parts": [
+    {
+      "name": "R42_HeadUnderpaint",
+      "bounds": [
+        129,
+        61,
+        853,
+        924
+      ],
+      "default_visible": true
+    },
+    {
+      "name": "R42_BrowNear",
+      "bounds": [
+        567,
+        396,
+        711,
+        438
+      ],
+      "default_visible": true
+    },
+    {
+      "name": "R42_BrowFar",
+      "bounds": [
+        770,
+        483,
+        789,
+        497
+      ],
+      "default_visible": true
+    },
+    {
+      "name": "R42_NearAperture",
+      "bounds": [
+        582,
+        478,
+        712,
+        585
+      ],
+      "default_visible": false
+    },
+    {
+      "name": "R42_NearEyeTexture",
+      "bounds": [
+        582,
+        478,
+        712,
+        585
+      ],
+      "default_visible": true
+    },
+    {
+      "name": "R42_NearUpperLid",
+      "bounds": [
+        565,
+        465,
+        724,
+        542
+      ],
+      "default_visible": true
+    },
+    {
+      "name": "R42_NearLowerLid",
+      "bounds": [
+        582,
+        543,
+        711,
+        586
+      ],
+      "default_visible": true
+    },
+    {
+      "name": "R42_NearClosedLine",
+      "bounds": [
+        569,
+        532,
+        710,
+        555
+      ],
+      "default_visible": false
+    },
+    {
+      "name": "R42_FarAperture",
+      "bounds": [
+        763,
+        501,
+        786,
+        575
+      ],
+      "default_visible": false
+    },
+    {
+      "name": "R42_FarEyeTexture",
+      "bounds": [
+        763,
+        501,
+        786,
+        575
+      ],
+      "default_visible": true
+    },
+    {
+      "name": "R42_FarUpperLid",
+      "bounds": [
+        758,
+        495,
+        788,
+        534
+      ],
+      "default_visible": true
+    },
+    {
+      "name": "R42_FarLowerLid",
+      "bounds": [
+        764,
+        558,
+        785,
+        576
+      ],
+      "default_visible": true
+    },
+    {
+      "name": "R42_FarClosedLine",
+      "bounds": [
+        760,
+        535,
+        787,
+        550
+      ],
+      "default_visible": false
+    },
+    {
+      "name": "R42_MouthInterior",
+      "bounds": [
+        704,
+        664,
+        747,
+        693
+      ],
+      "default_visible": true
+    },
+    {
+      "name": "R42_Tongue",
+      "bounds": [
+        709,
+        676,
+        739,
+        693
+      ],
+      "default_visible": true
+    },
+    {
+      "name": "R42_UpperLip",
+      "bounds": [
+        703,
+        663,
+        747,
+        674
+      ],
+      "default_visible": true
+    },
+    {
+      "name": "R42_LowerLip",
+      "bounds": [
+        703,
+        667,
+        747,
+        693
+      ],
+      "default_visible": true
+    }
+  ],
+  "alpha_cleanup": [
+    {
+      "source": "right60-underpaint.png",
+      "source_sha256": "a783a60ab5987e5b5cc0a70a5a97f8cc7b9450b5253abface5bbab001d5b32cd",
+      "changed_alpha_pixels": 878375,
+      "retained_RGB_changed": 0,
+      "foreground_components_alpha_gt8": 1,
+      "opaque_interior": true
+    },
+    {
+      "source": "right60-candidate-C.png",
+      "source_sha256": "13e90b47847f6f3d1c171806f3eb2caf5656d96dff9947cf53c1a805b160d4a1",
+      "changed_alpha_pixels": 879748,
+      "retained_RGB_changed": 0,
+      "foreground_components_alpha_gt8": 1,
+      "opaque_interior": true
+    }
+  ],
+  "eye_strategy": "static iris texture clipped by deforming aperture; separate lids and closed lines",
+  "mouth_strategy": "geometric opening; interior, tongue, upper and lower lips",
+  "base_limitation": "head and hair combined in static base; not independently hair rigged",
+  "new_image_generation": false
+}
