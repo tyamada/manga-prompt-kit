@@ -2,6 +2,10 @@
 
 『ためし部』瀬尾凪の冬の室内制服モデルです。正面全身の原画、分割PSD、編集用CMO3、Cubism Viewerで再生できる口リグ試作を収録しています。
 
+## 顔角度XYZ試作 v1
+
+補足作画を入れたモデルに、顔を小さく動かすXYZキーを設定しました。Cubism Viewerで視線・まばたき・口パクとの組み合わせを確認できます。[編集用モデル・Viewer用モデル・再生手順](development/nagi-angle-xyz-v1/)
+
 ## 正面PSDの補足作画レイヤー v1
 
 額・左右の耳・首を分け、正面PSDに位置と色を合わせました。[PSDとCubism Editor確認用CMO3](development/head-underpaint-v1/)
