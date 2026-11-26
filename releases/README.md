@@ -1,6 +1,6 @@
 # GitHub Releasesの公開と移行計画
 
-**最新状況（2026年11月25日）**：[公開記録](pixiv-publication-status.md)は29作品・X告知21件。第1話の表紙と全13回（14/14枚）のpixiv投稿完了報告がそろいました。[第1話の本文画像Release](https://github.com/tyamada/manga-prompt-kit/releases/tag/pixiv-tameshibu-ep01-20261111-v1)を公開し、全18添付の匿名取得・整合性検証を完了しました。以下の日付付き更新欄は各日時点の履歴です。
+**最新状況（2026年11月26日）**：[公開記録](pixiv-publication-status.md)は31作品・X告知23件。第1話の表紙と全13回（14/14枚）のpixiv投稿完了報告がそろいました。[第1話の本文画像Release](https://github.com/tyamada/manga-prompt-kit/releases/tag/pixiv-tameshibu-ep01-20261111-v1)を公開し、全18添付の匿名取得・整合性検証を完了しました。以下の日付付き更新欄は各日時点の履歴です。
 
 **最新版のPDFとpixiv用画像の公開先は、この制作資料リポジトリのGitHub Releasesに統一します。** 制作資料と[PDF用Release](https://github.com/tyamada/manga-prompt-kit/releases/tag/manga-pdf-20261103-v1)を公開済みです。人物紹介4枚のReleaseは公開済み、[第1話本文画像14枚](https://github.com/tyamada/manga-prompt-kit/releases/tag/pixiv-tameshibu-ep01-20261111-v1)も公開済みです。旧アプリ用2配布先は現在公開中ですが、移行後に廃止する予定です。廃止日は未定です。
 
@@ -131,3 +131,7 @@ PDFの公開と全件取得検証まで完了しました。次は[アプリ側�
 ## 2026年11月25日 第5回と冬の外出着の公開確認
 
 第2話第5回「遠くなったもの」の制作資料・実使用プロンプトと、冬の外出着設定の公開URL・画像付きX告知URLを[公開記録](pixiv-publication-status.md)へ反映しました。公開29作品、X告知完了21件。未公開回・衣装・部室背景や非公開の正月所沢版は公開対象へ追加せず、画像本体・新しいReleaseも追加していません。
+
+## 2026年11月26日 第6回と夏の体育着の公開確認
+
+第2話第6回「第一便」の制作資料・実使用プロンプトと、夏の体育着設定の公開URL・画像付きX告知URLを[公開記録](pixiv-publication-status.md)へ反映しました。公開31作品、X告知完了23件です。未公開回・衣装・部室背景、非公開の正月所沢版は公開対象へ追加せず、画像本体・新しいReleaseも追加していません。

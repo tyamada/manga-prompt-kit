@@ -214,7 +214,19 @@
       "x_announced_at": "2026-11-25T18:22:52.404695+09:00",
       "design": "冬の外出着",
       "source_file": "ためし部_冬の外出着_設定案.jpg"
+    },
+    {
+      "pixiv_url": "https://www.pixiv.net/artworks/152511447",
+      "sha256": "ee60ad88f96fb19c7b88804b557a1b61cff82d78f5e8a32af16f0f3dfda95ee8",
+      "evidence": "user_report",
+      "direct_page_verified": false,
+      "reported_on": "2026-11-26",
+      "x_announcement": "completed",
+      "x_url": "https://x.com/komairo_hiyori/status/2125880367177662818",
+      "x_announced_at": "2026-11-26T18:12:56.114748+09:00",
+      "design": "体育・夏用",
+      "source_file": "ためし部_夏の体育着_設定案.jpg"
     }
   ],
-  "pixiv_publication_note": "夏服・冬服室内・冬服ブレザー・冬の外出着の4案はpixiv公開報告と画像付きX告知を確認。体育用2案の採用・GitHub収録はpixiv公開確認を意味しない。"
+  "pixiv_publication_note": "夏服・冬服室内・冬服ブレザー・冬の外出着・夏の体育着の5案はpixiv公開報告と画像付きX告知を確認。体育用ジャージの採用・GitHub収録はpixiv公開確認を意味しない。"
 }
