@@ -38,3 +38,5 @@
 - [v44：奥側の目と肌の下塗りの修正試作](v44-eye-skin-study/README.md)（80度未合格・v42リグ未統合）
 
 - [v45 横向きの鼻先側の輪郭調整](v45-nose-contour-study/README.md)（右80度とv42統合は制作中）
+
+- [v46 横髪と頬の重なり調整](v46-side-hair-study/README.md)（右80度とv42統合は制作中）

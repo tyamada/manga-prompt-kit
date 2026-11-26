@@ -64,3 +64,6 @@ v44の `development/v44-eye-skin-study/preview/study-turn-30s.mp4` と `developm
 
 
 v45の確認動画の合成音声にも、[v45利用条件](development/v45-nose-contour-study/LICENSE.md)に記載の音声例外を適用します。
+
+
+v46の確認動画の合成音声にも、[v46利用条件](development/v46-side-hair-study/LICENSE.md)に記載の音声例外を適用します。

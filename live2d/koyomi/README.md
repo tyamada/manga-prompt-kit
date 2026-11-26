@@ -59,3 +59,6 @@
 
 
 [v45の鼻先側の輪郭調整](development/v45-nose-contour-study/README.md)に、Viewer確認動画・編集データ・検証結果を収録しました。右80度の完成とv42の統合は引き続き制作中です。
+
+
+[v46の横髪と頬の重なり調整](development/v46-side-hair-study/README.md)にViewer確認動画と編集データを収録しました。右80度とv42の統合は制作中です。
