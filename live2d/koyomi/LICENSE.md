@@ -70,3 +70,6 @@ v46の確認動画の合成音声にも、[v46利用条件](development/v46-side
 
 
 v47と組み合わせる採用音声Iには[音声の例外](development/v47-intermediate-contour-study/LICENSE.md)を適用します。
+
+
+v48と組み合わせる採用音声Iには[音声の例外](development/v48-v42-rig-transfer-study/LICENSE.md)を適用します。

@@ -42,3 +42,5 @@
 - [v46 横髪と頬の重なり調整](v46-side-hair-study/README.md)（右80度とv42統合は制作中）
 
 - [v47 中間輪郭と顎の調整](v47-intermediate-contour-study/README.md)
+
+- [v48 v42中間リグの移植](v48-v42-rig-transfer-study/README.md)

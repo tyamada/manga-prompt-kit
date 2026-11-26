@@ -68,3 +68,6 @@
 
 
 [v47の採用音声I付き確認動画](development/v47-intermediate-contour-study/preview/study-turn-speaker-30s.mp4)を追加しました。Viewerでの内蔵出力による再録画です。
+
+
+[v48のv42中間リグの移植](development/v48-v42-rig-transfer-study/README.md)に採用音声I付きのViewer確認動画と編集データを収録しました。v42のリグを移植し、中間位置で開閉を確認しました。連続変形・中間側の6表情・右80度の仕上げは制作中です。

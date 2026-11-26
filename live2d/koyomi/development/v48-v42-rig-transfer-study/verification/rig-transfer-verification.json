@@ -1,0 +1,54 @@
+{
+  "transferred_drawables": [
+    "R42_LowerLip",
+    "R42_UpperLip",
+    "R42_Tongue",
+    "R42_MouthInterior",
+    "R42_FarClosedLine",
+    "R42_FarLowerLid",
+    "R42_FarUpperLid",
+    "R42_FarEyeTexture",
+    "R42_FarAperture",
+    "R42_NearClosedLine",
+    "R42_NearLowerLid",
+    "R42_NearUpperLid",
+    "R42_NearEyeTexture",
+    "R42_NearAperture",
+    "R42_BrowFar",
+    "R42_BrowNear",
+    "R42_HeadUnderpaint"
+  ],
+  "preserved_blink_masks": {
+    "R42_FarEyeTexture": [
+      "R42_FarAperture"
+    ],
+    "R42_NearEyeTexture": [
+      "R42_NearAperture"
+    ]
+  },
+  "midpoint_tests": [
+    {
+      "eye_open": 0,
+      "mouth_open": 0,
+      "v42_geometry_max_delta": 0.0,
+      "v42_opacity_max_delta": 0.0
+    },
+    {
+      "eye_open": 0.5,
+      "mouth_open": 0.5,
+      "v42_geometry_max_delta": 7.450580596923828e-09,
+      "v42_opacity_max_delta": 0.0
+    },
+    {
+      "eye_open": 1,
+      "mouth_open": 1,
+      "v42_geometry_max_delta": 0.0,
+      "v42_opacity_max_delta": 0.0
+    }
+  ],
+  "v47_endpoints_preserved": true,
+  "v47_expressions_preserved_at_r80_zero": 6,
+  "non_turn_motion_curves_preserved": true,
+  "blend_finalized": false,
+  "right80_finished": false
+}
