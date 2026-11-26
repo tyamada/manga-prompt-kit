@@ -32,3 +32,5 @@
 - [v41：連続モーフ用の中間原画候補と仮分割PSD](v41-intermediate-art/README.md)（Cubism未組み込み、動作確認未完了）
 
 - [v42：固定中間向きのまばたき・口・採用音声Iの確認モデル](v42-mid60-rig/README.md)（連続モーフ・6表情は未統合）
+
+- [v43：v38の顔を使った連続変形の検証試作](v43-face-turn-study/README.md)（80度未合格・v42リグ未統合）

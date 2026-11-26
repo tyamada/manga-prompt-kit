@@ -1,0 +1,58 @@
+{
+  "turn": {
+    "changed_direction_curves_only": [
+      "ParamProfileR45",
+      "ParamProfileR80",
+      "ParamProfileR80Visible"
+    ],
+    "unchanged_curves": [
+      "ParamAngleZ",
+      "ParamEyeLOpen",
+      "ParamEyeROpen",
+      "ParamMouthOpenY",
+      "ParamAngleX",
+      "ParamAngleY",
+      "ParamHairFront",
+      "ParamMouthForm",
+      "ParamBrowLY",
+      "ParamEyeLSmile",
+      "ParamEyeBallX",
+      "ParamEyeBallY",
+      "ParamBrowLAdjustY",
+      "ParamBrowRAdjustY",
+      "ParamBrowLAngle",
+      "ParamBrowRAngle"
+    ],
+    "legacy_branch_only": true,
+    "v42_role": "intermediate-direction proportion reference only; source rig not yet integrated",
+    "angle80_shape_accepted": false
+  },
+  "voice": {
+    "changed_direction_curves_only": [
+      "ParamProfileR80",
+      "ParamProfileR80Visible"
+    ],
+    "unchanged_curves": [
+      "ParamAngleZ",
+      "ParamEyeLOpen",
+      "ParamEyeROpen",
+      "ParamMouthOpenY",
+      "ParamAngleX",
+      "ParamAngleY",
+      "ParamHairFront",
+      "ParamMouthForm",
+      "ParamBrowLY",
+      "ParamEyeLSmile",
+      "ParamEyeBallX",
+      "ParamEyeBallY",
+      "ParamBrowLAdjustY",
+      "ParamBrowRAdjustY",
+      "ParamBrowLAngle",
+      "ParamBrowRAngle",
+      "ParamProfileR45"
+    ],
+    "legacy_branch_only": true,
+    "v42_role": "intermediate-direction proportion reference only; source rig not yet integrated",
+    "angle80_shape_accepted": false
+  }
+}

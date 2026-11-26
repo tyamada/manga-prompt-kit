@@ -1,0 +1,21 @@
+{
+  "source_voice_sha256": "588970d8b6e6ee412efc47dfa1be587ad77b9708a2ac4bcb7235497e2fb03178",
+  "audio_start_seconds": 0.16999999999999993,
+  "audio_raw_start_seconds": 1.8278231292517007,
+  "source_capture_correlation": 0.993951433950574,
+  "common_av_trim_seconds": 1.6578231292517007,
+  "audio_only_shift_seconds": 0,
+  "crop": [
+    430,
+    230,
+    1160,
+    1160
+  ],
+  "size": [
+    720,
+    720
+  ],
+  "fps": 30,
+  "duration_seconds": 30,
+  "file": "study-voice-30s.mp4"
+}

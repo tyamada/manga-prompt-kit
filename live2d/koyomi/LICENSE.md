@@ -55,3 +55,6 @@ v40の `development/v40-right80-switching/preview/right80-turn-30s.mp4` と `dev
 
 
 v42の `development/v42-mid60-rig/preview/mid60-voice-30s.mp4` の合成音声もCC BY 4.0対象外です。[v42の利用条件](development/v42-mid60-rig/LICENSE.md)と[クレジット](development/v42-mid60-rig/CREDITS.md)を確認してください。既存版の音声例外を維持します。
+
+
+v43の `development/v43-face-turn-study/preview/study-turn-30s.mp4` と `development/v43-face-turn-study/preview/study-voice-30s.mp4` の合成音声もCC BY 4.0対象外です。[v43の利用条件](development/v43-face-turn-study/LICENSE.md)と[クレジット](development/v43-face-turn-study/CREDITS.md)を確認してください。既存版の音声例外を維持します。

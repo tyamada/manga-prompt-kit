@@ -1,0 +1,73 @@
+{
+  "method": "profile mouth interior pixel area fitted to unchanged mouth-open motion curve; 30fps limits and nonlinear mouth area apply",
+  "mouth_area_curve_correlation": 0.9693824187933805,
+  "audio_start_seconds": 0.16999999999999993,
+  "mouth_motion_start_fit_seconds": 0.1820000000000001,
+  "mouth_lag_relative_to_audio_seconds": 0.012000000000000177,
+  "mouth_roi": [
+    440,
+    470,
+    135,
+    105
+  ],
+  "frames": 280,
+  "audio_only_shift_seconds": 0,
+  "shoulders": [
+    {
+      "region": [
+        150,
+        650,
+        60,
+        60
+      ],
+      "max_abs_shift_px": [
+        0,
+        0
+      ],
+      "min_correlation": 0.999828577041626,
+      "reference_stddev": 62.960779825373315
+    },
+    {
+      "region": [
+        210,
+        650,
+        45,
+        60
+      ],
+      "max_abs_shift_px": [
+        0,
+        0
+      ],
+      "min_correlation": 0.9996198415756226,
+      "reference_stddev": 63.35715774115059
+    },
+    {
+      "region": [
+        470,
+        650,
+        45,
+        60
+      ],
+      "max_abs_shift_px": [
+        0,
+        0
+      ],
+      "min_correlation": 0.9996741414070129,
+      "reference_stddev": 62.63264935554718
+    },
+    {
+      "region": [
+        530,
+        650,
+        60,
+        60
+      ],
+      "max_abs_shift_px": [
+        0,
+        0
+      ],
+      "min_correlation": 0.9998612403869629,
+      "reference_stddev": 51.1099377401545
+    }
+  ]
+}

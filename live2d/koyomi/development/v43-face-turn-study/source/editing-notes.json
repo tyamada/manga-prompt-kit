@@ -1,0 +1,76 @@
+{
+  "purpose": "retain v38 face and expression rig while investigating 45-to-80 continuous geometry",
+  "v42_used_as": "intermediate proportion reference, not imported as moving branch",
+  "legacy_parent": "R39_45to80 / Warp22",
+  "parameter": "ParamProfileR80",
+  "keys": [
+    0,
+    0.4,
+    0.85,
+    1
+  ],
+  "visibility_selector": 0,
+  "nonzero_keys_reset_before_edit": true,
+  "source_control_cage": {
+    "x": [
+      1523,
+      1867,
+      2211,
+      2555
+    ],
+    "y": [
+      331,
+      675,
+      1019,
+      1363
+    ],
+    "coordinate_system": "Editor canvas screenshot coordinates at 113 percent; point modifications stored in editing CMO3"
+  },
+  "middle_key_targets": [
+    [
+      1867,
+      675,
+      1977,
+      675
+    ],
+    [
+      2211,
+      675,
+      2271,
+      675
+    ],
+    [
+      2555,
+      675,
+      2520,
+      675
+    ],
+    [
+      1867,
+      1019,
+      2037,
+      1019
+    ],
+    [
+      2211,
+      1019,
+      2331,
+      1019
+    ],
+    [
+      2555,
+      1019,
+      2495,
+      1019
+    ]
+  ],
+  "endpoint_safe_scale": 0.85,
+  "unaccepted_reasons": [
+    "nose silhouette does not reach right80 reference",
+    "far eye still visible at nominal endpoint",
+    "v42 contour and feature correspondence incomplete",
+    "neck connection requires local geometry correction"
+  ],
+  "unused_identity_helper": "R43_NeckFollow: identity only; not a completed neck correction",
+  "completion": false
+}
