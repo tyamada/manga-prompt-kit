@@ -36,3 +36,5 @@
 - [v43：v38の顔を使った連続変形の検証試作](v43-face-turn-study/README.md)（80度未合格・v42リグ未統合）
 
 - [v44：奥側の目と肌の下塗りの修正試作](v44-eye-skin-study/README.md)（80度未合格・v42リグ未統合）
+
+- [v45 横向きの鼻先側の輪郭調整](v45-nose-contour-study/README.md)（右80度とv42統合は制作中）

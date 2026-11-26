@@ -61,3 +61,6 @@ v43の `development/v43-face-turn-study/preview/study-turn-30s.mp4` と `develop
 
 
 v44の `development/v44-eye-skin-study/preview/study-turn-30s.mp4` と `development/v44-eye-skin-study/preview/study-voice-30s.mp4` の合成音声もCC BY 4.0対象外です。[v44利用条件](development/v44-eye-skin-study/LICENSE.md)と[クレジット](development/v44-eye-skin-study/CREDITS.md)を参照してください。独自の肌下塗り素材は権利の存在・保有の範囲でCC BY 4.0とし、既存の音声例外を維持します。
+
+
+v45の確認動画の合成音声にも、[v45利用条件](development/v45-nose-contour-study/LICENSE.md)に記載の音声例外を適用します。

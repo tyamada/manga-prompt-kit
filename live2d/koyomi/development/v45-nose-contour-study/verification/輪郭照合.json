@@ -1,0 +1,420 @@
+{
+  "angles": [
+    {
+      "parameter": 0.0,
+      "skin_max_delta": 0.0
+    },
+    {
+      "parameter": 0.01,
+      "skin_max_delta": 0.0
+    },
+    {
+      "parameter": 0.02,
+      "skin_max_delta": 0.0
+    },
+    {
+      "parameter": 0.03,
+      "skin_max_delta": 0.0
+    },
+    {
+      "parameter": 0.04,
+      "skin_max_delta": 0.0
+    },
+    {
+      "parameter": 0.05,
+      "skin_max_delta": 0.0
+    },
+    {
+      "parameter": 0.06,
+      "skin_max_delta": 0.0
+    },
+    {
+      "parameter": 0.07,
+      "skin_max_delta": 0.0
+    },
+    {
+      "parameter": 0.08,
+      "skin_max_delta": 0.0
+    },
+    {
+      "parameter": 0.09,
+      "skin_max_delta": 0.0
+    },
+    {
+      "parameter": 0.1,
+      "skin_max_delta": 0.0
+    },
+    {
+      "parameter": 0.11,
+      "skin_max_delta": 0.0
+    },
+    {
+      "parameter": 0.12,
+      "skin_max_delta": 0.0
+    },
+    {
+      "parameter": 0.13,
+      "skin_max_delta": 0.0
+    },
+    {
+      "parameter": 0.14,
+      "skin_max_delta": 0.0
+    },
+    {
+      "parameter": 0.15,
+      "skin_max_delta": 0.0
+    },
+    {
+      "parameter": 0.16,
+      "skin_max_delta": 0.0
+    },
+    {
+      "parameter": 0.17,
+      "skin_max_delta": 0.0
+    },
+    {
+      "parameter": 0.18,
+      "skin_max_delta": 0.0
+    },
+    {
+      "parameter": 0.19,
+      "skin_max_delta": 0.0
+    },
+    {
+      "parameter": 0.2,
+      "skin_max_delta": 0.0
+    },
+    {
+      "parameter": 0.21,
+      "skin_max_delta": 0.00035768747329711914
+    },
+    {
+      "parameter": 0.22,
+      "skin_max_delta": 0.0007065236568450928
+    },
+    {
+      "parameter": 0.23,
+      "skin_max_delta": 0.0010465383529663086
+    },
+    {
+      "parameter": 0.24,
+      "skin_max_delta": 0.0013775825500488281
+    },
+    {
+      "parameter": 0.25,
+      "skin_max_delta": 0.0016998052597045898
+    },
+    {
+      "parameter": 0.26,
+      "skin_max_delta": 0.0020131170749664307
+    },
+    {
+      "parameter": 0.27,
+      "skin_max_delta": 0.002317577600479126
+    },
+    {
+      "parameter": 0.28,
+      "skin_max_delta": 0.0026130974292755127
+    },
+    {
+      "parameter": 0.29,
+      "skin_max_delta": 0.0028998255729675293
+    },
+    {
+      "parameter": 0.3,
+      "skin_max_delta": 0.003177642822265625
+    },
+    {
+      "parameter": 0.31,
+      "skin_max_delta": 0.0034465491771698
+    },
+    {
+      "parameter": 0.32,
+      "skin_max_delta": 0.003706634044647217
+    },
+    {
+      "parameter": 0.33,
+      "skin_max_delta": 0.003957837820053101
+    },
+    {
+      "parameter": 0.34,
+      "skin_max_delta": 0.004200100898742676
+    },
+    {
+      "parameter": 0.35000000000000003,
+      "skin_max_delta": 0.0044335126876831055
+    },
+    {
+      "parameter": 0.36,
+      "skin_max_delta": 0.004658043384552002
+    },
+    {
+      "parameter": 0.37,
+      "skin_max_delta": 0.004873752593994141
+    },
+    {
+      "parameter": 0.38,
+      "skin_max_delta": 0.005080521106719971
+    },
+    {
+      "parameter": 0.39,
+      "skin_max_delta": 0.005278438329696655
+    },
+    {
+      "parameter": 0.4,
+      "skin_max_delta": 0.005467504262924194
+    },
+    {
+      "parameter": 0.41000000000000003,
+      "skin_max_delta": 0.00570911169052124
+    },
+    {
+      "parameter": 0.42,
+      "skin_max_delta": 0.00594782829284668
+    },
+    {
+      "parameter": 0.43,
+      "skin_max_delta": 0.006183415651321411
+    },
+    {
+      "parameter": 0.44,
+      "skin_max_delta": 0.0064160823822021484
+    },
+    {
+      "parameter": 0.45,
+      "skin_max_delta": 0.006645649671554565
+    },
+    {
+      "parameter": 0.46,
+      "skin_max_delta": 0.006872236728668213
+    },
+    {
+      "parameter": 0.47000000000000003,
+      "skin_max_delta": 0.007095843553543091
+    },
+    {
+      "parameter": 0.48,
+      "skin_max_delta": 0.0073163509368896484
+    },
+    {
+      "parameter": 0.49,
+      "skin_max_delta": 0.007533907890319824
+    },
+    {
+      "parameter": 0.5,
+      "skin_max_delta": 0.007748395204544067
+    },
+    {
+      "parameter": 0.51,
+      "skin_max_delta": 0.007959872484207153
+    },
+    {
+      "parameter": 0.52,
+      "skin_max_delta": 0.008168309926986694
+    },
+    {
+      "parameter": 0.53,
+      "skin_max_delta": 0.008373796939849854
+    },
+    {
+      "parameter": 0.54,
+      "skin_max_delta": 0.008576244115829468
+    },
+    {
+      "parameter": 0.55,
+      "skin_max_delta": 0.008775681257247925
+    },
+    {
+      "parameter": 0.56,
+      "skin_max_delta": 0.008972078561782837
+    },
+    {
+      "parameter": 0.5700000000000001,
+      "skin_max_delta": 0.009165436029434204
+    },
+    {
+      "parameter": 0.58,
+      "skin_max_delta": 0.009355783462524414
+    },
+    {
+      "parameter": 0.59,
+      "skin_max_delta": 0.009543120861053467
+    },
+    {
+      "parameter": 0.6,
+      "skin_max_delta": 0.00972747802734375
+    },
+    {
+      "parameter": 0.61,
+      "skin_max_delta": 0.0099087655544281
+    },
+    {
+      "parameter": 0.62,
+      "skin_max_delta": 0.010087072849273682
+    },
+    {
+      "parameter": 0.63,
+      "skin_max_delta": 0.010262340307235718
+    },
+    {
+      "parameter": 0.64,
+      "skin_max_delta": 0.010434597730636597
+    },
+    {
+      "parameter": 0.65,
+      "skin_max_delta": 0.010603845119476318
+    },
+    {
+      "parameter": 0.66,
+      "skin_max_delta": 0.010770022869110107
+    },
+    {
+      "parameter": 0.67,
+      "skin_max_delta": 0.010933220386505127
+    },
+    {
+      "parameter": 0.68,
+      "skin_max_delta": 0.011093437671661377
+    },
+    {
+      "parameter": 0.6900000000000001,
+      "skin_max_delta": 0.011250555515289307
+    },
+    {
+      "parameter": 0.7000000000000001,
+      "skin_max_delta": 0.011404693126678467
+    },
+    {
+      "parameter": 0.71,
+      "skin_max_delta": 0.01155582070350647
+    },
+    {
+      "parameter": 0.72,
+      "skin_max_delta": 0.01170387864112854
+    },
+    {
+      "parameter": 0.73,
+      "skin_max_delta": 0.011848986148834229
+    },
+    {
+      "parameter": 0.74,
+      "skin_max_delta": 0.01199108362197876
+    },
+    {
+      "parameter": 0.75,
+      "skin_max_delta": 0.012130111455917358
+    },
+    {
+      "parameter": 0.76,
+      "skin_max_delta": 0.012266159057617188
+    },
+    {
+      "parameter": 0.77,
+      "skin_max_delta": 0.012399137020111084
+    },
+    {
+      "parameter": 0.78,
+      "skin_max_delta": 0.012529134750366211
+    },
+    {
+      "parameter": 0.79,
+      "skin_max_delta": 0.012656092643737793
+    },
+    {
+      "parameter": 0.8,
+      "skin_max_delta": 0.012780040502548218
+    },
+    {
+      "parameter": 0.81,
+      "skin_max_delta": 0.012901008129119873
+    },
+    {
+      "parameter": 0.8200000000000001,
+      "skin_max_delta": 0.013018906116485596
+    },
+    {
+      "parameter": 0.8300000000000001,
+      "skin_max_delta": 0.013133823871612549
+    },
+    {
+      "parameter": 0.84,
+      "skin_max_delta": 0.01324567198753357
+    },
+    {
+      "parameter": 0.85,
+      "skin_max_delta": 0.01335453987121582
+    },
+    {
+      "parameter": 0.86,
+      "skin_max_delta": 0.013559997081756592
+    },
+    {
+      "parameter": 0.87,
+      "skin_max_delta": 0.013765454292297363
+    },
+    {
+      "parameter": 0.88,
+      "skin_max_delta": 0.013970911502838135
+    },
+    {
+      "parameter": 0.89,
+      "skin_max_delta": 0.01441115140914917
+    },
+    {
+      "parameter": 0.9,
+      "skin_max_delta": 0.014985978603363037
+    },
+    {
+      "parameter": 0.91,
+      "skin_max_delta": 0.015560746192932129
+    },
+    {
+      "parameter": 0.92,
+      "skin_max_delta": 0.016135573387145996
+    },
+    {
+      "parameter": 0.93,
+      "skin_max_delta": 0.016710340976715088
+    },
+    {
+      "parameter": 0.9400000000000001,
+      "skin_max_delta": 0.017285078763961792
+    },
+    {
+      "parameter": 0.9500000000000001,
+      "skin_max_delta": 0.017859965562820435
+    },
+    {
+      "parameter": 0.96,
+      "skin_max_delta": 0.018434613943099976
+    },
+    {
+      "parameter": 0.97,
+      "skin_max_delta": 0.019009411334991455
+    },
+    {
+      "parameter": 0.98,
+      "skin_max_delta": 0.019584178924560547
+    },
+    {
+      "parameter": 0.99,
+      "skin_max_delta": 0.020159006118774414
+    },
+    {
+      "parameter": 1.0,
+      "skin_max_delta": 0.020733773708343506
+    }
+  ],
+  "byte_equal": [
+    "study-turn.motion3.json",
+    "study-voice.motion3.json",
+    "こよみ_自己紹介_採用I.wav",
+    "expressions/01_normal.exp3.json",
+    "expressions/02_happy.exp3.json",
+    "expressions/03_surprised.exp3.json",
+    "expressions/04_idea.exp3.json",
+    "expressions/05_lets_try.exp3.json",
+    "expressions/06_noticed.exp3.json"
+  ],
+  "texture_and_physics_byte_equal": true
+}
