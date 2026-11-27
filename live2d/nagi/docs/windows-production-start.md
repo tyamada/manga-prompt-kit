@@ -293,3 +293,7 @@ Cubism Viewerで0–0.92秒、2.52–5.43秒、7.27–8.63秒、8.92–10.40秒�
 ## 新規Live2D用設定画 v2
 
 制作を設定画から再開した。正面・左右斜めの胸上を新たに描き起こし、中央の正面を次の原画の基準にする。[設定画 v2](../development/nagi-setting-art-v2/)
+
+## 新規Live2D用 正面原画 v2
+
+設定画 v2 の中央を透過PNGと10レイヤーのPSDにした。Cubism Editorで全パーツ表示と前髪・左右の耳・左右の目・口の表示切り替えを確認した。[原画・PSD](../development/nagi-new-front-v2/)
