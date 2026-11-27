@@ -317,3 +317,7 @@ Cubism Viewerで0–0.92秒、2.52–5.43秒、7.27–8.63秒、8.92–10.40秒�
 ## 正面原画の口パク用パーツ分け v1
 
 閉口線・開口輪郭・口内・舌を別レイヤーに分け、Cubism Editorで閉じ口と開き口の重なりを確認した。[修正版PSD・確認用CMO3](../development/nagi-new-front-mouth-parts-v1/)
+
+## 新規正面モデルの口リグ v1
+
+口パク用パーツ分け v1 の別版に開閉2キーと口幅3キーを設定し、開口輪郭・口内・舌を同じワープデフォーマにまとめた。Cubism Editorで開閉と口幅の組み合わせを確認した。[編集用CMO3](../development/nagi-new-front-mouth-rig-v1/)
