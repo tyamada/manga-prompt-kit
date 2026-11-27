@@ -305,3 +305,7 @@ Cubism Viewerで0–0.92秒、2.52–5.43秒、7.27–8.63秒、8.92–10.40秒�
 ## 正面原画の下地修正版 v3
 
 前髪の境界に残った線を前髪側に移し、額からこめかみの肌色を描き直した。Cubism Editorで前髪の表示と非表示を確認した。[修正版PSD・確認用CMO3](../development/nagi-new-front-underpaint-v3/)
+
+## 正面原画の下地修正版 v4
+
+目レイヤーの縁と目の下地の肌色を調整した。Cubism Editorで前髪・右目・左目の表示切り替えを確認した。[修正版PSD・確認用CMO3](../development/nagi-new-front-underpaint-v4/)
