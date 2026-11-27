@@ -97,7 +97,7 @@ f97ae6bfee4a7815710140d89c7739b35f60eda4278ca225f2e9208aec0e9a56  development/fr
 819fe8b80cfc92447419bfe444a848f2bb595cd2ea2f04ef11656ae3c44bf5e2  development/voice-audition/nagi-no7-query.json
 92515bd1fde7752834526105f36c3d5f888b7559d1673b344b10395a4a97e9b4  development/voice-audition/script.txt
 f712cda14db6390fcf2e359879c9381aaf4a6f092fb5a7a7043e3a4db3b09899  development/voice-audition/vowel-motion-check.json
-cfa6c13f31916e1793ef4dda15574ca4c5e4bbb7ea73ebc31ac27e5c477235b1  docs/windows-production-start.md
+b71d1c4c0e773bf026783a52804f4413a6df78b6a5d9206f0fd8749a233735a0  docs/windows-production-start.md
 462ef47835091cd06520dac05df2ba45c3ea2c27114468f5e5db937565b84fcf  development/voice-audition/narration-v2.txt
 eafb19860268ac8573e2f8c715022228112386b78d71bbfbd37d28ef6786659c  development/front-separation/nagi-narration-v2/nagi-gaze-lipsync-v2.cmo3
 c40610b46f9b0829c9fbe66bd1e9320def56c8a2e72f7574fd5ff453c8680a38  development/front-separation/nagi-narration-v2/nagi-gaze-plates.psd
@@ -244,3 +244,12 @@ cf8bd61ebd8c4b998d85a9516fab5c38be739cfed23b2496d54e23a8e70b3b17  development/na
 25e713773bc107ed6750296d49f3ac26fcaf36ce8c73b03eebe51009d6d82202  development/nagi-angle-xyz-v10/runtime/nagi-angle-xyz-v10.moc3
 687c90b57c36ba436391299c3ea1d3da72be4950747fc529bc6800a29297bbd4  development/nagi-angle-xyz-v10/runtime/nagi-angle-xyz-v10.model3.json
 7d4d5cc6ef67bc633fbe068c1860d9d3f3f5d7f7559962df64d90928e3c91fb0  development/nagi-angle-xyz-v10/runtime/nagi-angle-xyz-v10.motion3.json
+e3de23e9e7522bc8d79ff054c97e3234ac5eeaed4567bf3e128a115c0b8e1806  development/nagi-angle-xyz-v11/nagi-angle-xyz-v11.cmo3
+31349d04bf305bd63eb522b89d49606f2915997e592e53f3e60ecfd293dda6d8  development/nagi-angle-xyz-v11/nagi-v11-preview.mp4
+0bcba1f38fba077bb24cebaaf07a78220b3d77e56ff0087f7e72ae7ea81bc04f  development/nagi-angle-xyz-v11/narration-v2-accent-preview-3-query.json
+5f973b0b6481ac76977c9260e5e36c5e52de8b9334b1be302e3425f10f58b8ec  development/nagi-angle-xyz-v11/README.md
+cd2406019d8c46c0114cb176a31c68ae74c53997f0bd6c61385cac2ef151d154  development/nagi-angle-xyz-v11/runtime/nagi-angle-xyz-v11.2048/texture_00.png
+cf8bd61ebd8c4b998d85a9516fab5c38be739cfed23b2496d54e23a8e70b3b17  development/nagi-angle-xyz-v11/runtime/nagi-angle-xyz-v11.cdi3.json
+1c6df19bfab2b31c187f52eb803dde9fb38484f7752e21a63c37ae3225ee6052  development/nagi-angle-xyz-v11/runtime/nagi-angle-xyz-v11.moc3
+f1ecf69f6ed2b4557d18c907fe7f6ea0ae6b159afa1b76b9ba3c7a025b6cc9e0  development/nagi-angle-xyz-v11/runtime/nagi-angle-xyz-v11.model3.json
+7d4d5cc6ef67bc633fbe068c1860d9d3f3f5d7f7559962df64d90928e3c91fb0  development/nagi-angle-xyz-v11/runtime/nagi-angle-xyz-v11.motion3.json
