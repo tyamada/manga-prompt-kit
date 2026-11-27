@@ -297,3 +297,7 @@ Cubism Viewerで0–0.92秒、2.52–5.43秒、7.27–8.63秒、8.92–10.40秒�
 ## 新規Live2D用 正面原画 v2
 
 設定画 v2 の中央を透過PNGと10レイヤーのPSDにした。Cubism Editorで全パーツ表示と前髪・左右の耳・左右の目・口の表示切り替えを確認した。[原画・PSD](../development/nagi-new-front-v2/)
+
+## 正面原画 v2 の下地追加版
+
+額・こめかみ、左右の目、口の肌を4レイヤー追加した。Cubism Editorで描画順を設定し、全表示と前髪・左右の目・口の表示切り替えを確認した。[下地追加PSD・確認用CMO3](../development/nagi-new-front-underpaint-v2/)
