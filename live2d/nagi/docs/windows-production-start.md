@@ -309,3 +309,7 @@ Cubism Viewerで0–0.92秒、2.52–5.43秒、7.27–8.63秒、8.92–10.40秒�
 ## 正面原画の下地修正版 v4
 
 目レイヤーの縁と目の下地の肌色を調整した。Cubism Editorで前髪・右目・左目の表示切り替えを確認した。[修正版PSD・確認用CMO3](../development/nagi-new-front-underpaint-v4/)
+
+## 正面原画の下地修正版 v5
+
+口の下地の肌色を周囲に合わせた。Cubism Editorで前髪と口の表示切り替えを確認した。[修正版PSD・確認用CMO3](../development/nagi-new-front-underpaint-v5/)
