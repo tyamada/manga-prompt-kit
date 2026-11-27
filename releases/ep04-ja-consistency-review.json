@@ -39,5 +39,8 @@
     "GitHub Release本文に最終確認・取得検証・閲覧注意・X告知を反映"
   ],
   "unpublished_images_added": false,
-  "new_x_post_sent": false
+  "new_x_post_sent": false,
+  "updated_public_catalog_verified": true,
+  "updated_public_catalog_sha256": "c263e16e13963ee173a353f550436a476e76641826eb282d2c6fd9cd12d28241",
+  "updated_public_catalog_verified_at_jst": "2026-11-28T00:46:03.859556+09:00"
 }
