@@ -185,3 +185,5 @@
 ## 2026年11月27日 第4話日本語版の正式公開
 
 [第4話「風と、なかよく。」日本語版](https://github.com/tyamada/manga-prompt-kit/releases/tag/manga-pdf-20261127-ep4-ja-v1)を、読み順修正後の最終確認と全4添付の匿名取得検証を経て公開しました。[制作資料](examples/published/ep04-ja/README.md)。最新版JSONへep4_jaを追加し、14言語のダウンロードページから日本語版を選べます。第4話の他言語版は未公開です。既存51冊・旧URLは保持しています。
+
+第4話の正式公開後、2026年11月28日0:42（JST）に[@tyamada22の公開案内](https://x.com/tyamada22/status/2126340932371132648)を投稿し、個別ポストを確認しました。[告知記録](releases/ep04-ja-announcement.json)。

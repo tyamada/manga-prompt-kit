@@ -16,3 +16,5 @@ PDF、manifest.json、SHA256SUMS、LICENSE.mdの4件を添付します。第4話
 [公開Release](https://github.com/tyamada/manga-prompt-kit/releases/tag/manga-pdf-20261127-ep4-ja-v1)・[最終確認](ep04-ja-final-review.json)・[全4添付の匿名取得検証](ep04-ja-public-verification.json)。
 
 macOSプレビューの2ページ表示は左2・右3となりR2Lに追従しませんでした。右綴じの見開きは対応ビューア、または単ページで読んでください。PDFのR2L指定自体は保持しています。
+
+2026年11月28日0:42（JST）、公開・取得確認後に[@tyamada22で公開案内](https://x.com/tyamada22/status/2126340932371132648)を投稿しました。[告知記録](ep04-ja-announcement.json)。

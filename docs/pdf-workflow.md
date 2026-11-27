@@ -24,7 +24,7 @@
 - ファイル名、言語・地域、版、ページ数、バイト数、SHA-256を記録する。
 - 公開済みPDFと固定URLを保持し、改訂は別の版として扱う。
 
-移行中の既存PDFは[Viewerの旧固定リリース](https://github.com/tyamada/MihirakiPDFViewer_Android/releases/tag/sample-manga-v2)と[Utilityの旧固定リリース](https://github.com/tyamada/MihirakiPDFUtility_Android/releases/tag/sample-manga-v2)に案内されています。このパッケージではPDFの再生成、既存リリースの変更、アプリの更新は行っていません。
+移行中の既存PDFは[Viewerの旧固定リリース](https://github.com/tyamada/MihirakiPDFViewer_Android/releases/tag/sample-manga-v2)と[Utilityの旧固定リリース](https://github.com/tyamada/MihirakiPDFUtility_Android/releases/tag/sample-manga-v2)に案内されています。既存51冊の移行ではPDFを再生成せず、公開済みPDFの内容も変更していません。第4話は別の新規固定Releaseで公開しています。
 
 ## 既存の公開PDFを新しいReleaseへ移す
 
@@ -35,3 +35,11 @@
 ## 新配布先の公開結果
 
 [PDF用Release](https://github.com/tyamada/manga-prompt-kit/releases/tag/manga-pdf-20261103-v1)に51冊を公開し、全件の匿名取得・サイズ・SHA-256・PDF実体・8ページを確認しました。旧URLの廃止とアプリ側のカタログ更新はまだ行っていません。
+
+## 第4話の追加公開（2026年11月27日）
+
+[第4話日本語版の制作資料](../examples/published/ep04-ja/README.md)と[最終確認記録](../releases/ep04-ja-final-review.json)に、白ブラウス・画板の連続性、第13回4コマ目の凪→みつきの読み順修正、本文65件の照合を記録しました。第4話は日本語1冊のみ追加し、最新版JSONと14言語の案内は合計52冊です。各言語の第4話PDFが公開されたという意味ではありません。
+
+macOSプレビューの2ページ表示はR2Lに追従せず、左2ページ・右3ページでした。PDFの右綴じ指定と、ビューアの実際の配置を区別し、対応ビューアか単ページ表示で確認します。
+
+正式公開後は実際の閲覧・取得を確認し、[公開案内ルール](publication-announcement-policy.md)に従って@tyamada22で告知します。[第4話のX告知記録](../releases/ep04-ja-announcement.json)。

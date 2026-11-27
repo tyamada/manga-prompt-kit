@@ -145,3 +145,5 @@ PDFの公開と全件取得検証まで完了しました。次は[アプリ側�
 [第4話の新規PDF Release](https://github.com/tyamada/manga-prompt-kit/releases/tag/manga-pdf-20261127-ep4-ja-v1)を公開し、PDFと付属3件を匿名取得・容量・SHA-256照合しました。既存51冊は旧固定版のまま維持。最新版JSONは同一schemaにep4_jaを加えた52冊で、14言語の案内も更新しました。PDF移行の過去記録の51冊は当時の対象数です。[最終確認](ep04-ja-final-review.json)・[公開取得検証](ep04-ja-public-verification.json)。
 
 2026年11月28日0:42（JST）、正式公開・取得確認後に[@tyamada22で第4話の公開案内](https://x.com/tyamada22/status/2126340932371132648)を投稿しました。[本文・確認記録](ep04-ja-announcement.json)。
+
+2026年11月28日、公開記録・制作資料・最新版JSON・14言語ページ・X告知URLを[全体照合]( ep04-ja-consistency-review.json)しました。
