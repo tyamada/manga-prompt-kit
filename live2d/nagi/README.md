@@ -2,6 +2,10 @@
 
 『ためし部』瀬尾凪の冬の室内制服モデルです。正面全身の原画、分割PSD、編集用CMO3、Cubism Viewerで再生できる口リグ試作を収録しています。
 
+## 正面原画の下地修正版 v3
+
+前髪を隠したときの額とこめかみの線を除き、肌色をつなげました。[修正版PSD・確認用CMO3](development/nagi-new-front-underpaint-v3/)
+
 ## 正面原画 v2 の下地追加版
 
 額・こめかみと左右の目・口の下地を描き足し、Cubism Editorで表示切り替えを確認しました。[下地追加PSD・確認用CMO3](development/nagi-new-front-underpaint-v2/)

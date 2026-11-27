@@ -97,7 +97,7 @@ f97ae6bfee4a7815710140d89c7739b35f60eda4278ca225f2e9208aec0e9a56  development/fr
 819fe8b80cfc92447419bfe444a848f2bb595cd2ea2f04ef11656ae3c44bf5e2  development/voice-audition/nagi-no7-query.json
 92515bd1fde7752834526105f36c3d5f888b7559d1673b344b10395a4a97e9b4  development/voice-audition/script.txt
 f712cda14db6390fcf2e359879c9381aaf4a6f092fb5a7a7043e3a4db3b09899  development/voice-audition/vowel-motion-check.json
-9a0b37c65ea81bed298ce52c61e12061e23412f3214c9208c4901b5fcc25d2d5  docs/windows-production-start.md
+497f109178943a0969bc2d6294ae29835becaebc14fb0f8e530ec7f7ce2e772a  docs/windows-production-start.md
 462ef47835091cd06520dac05df2ba45c3ea2c27114468f5e5db937565b84fcf  development/voice-audition/narration-v2.txt
 eafb19860268ac8573e2f8c715022228112386b78d71bbfbd37d28ef6786659c  development/front-separation/nagi-narration-v2/nagi-gaze-lipsync-v2.cmo3
 c40610b46f9b0829c9fbe66bd1e9320def56c8a2e72f7574fd5ff453c8680a38  development/front-separation/nagi-narration-v2/nagi-gaze-plates.psd
@@ -275,3 +275,6 @@ fe00197a25269389a1b428ff09aa6150fe02d27b75ffc5ca5fac49f1e1b7f1b3  development/na
 3d2bd71a28c4730d9a0f3e45f2a9ee3d99abb98fadf6ba226d78cc94636e9db9  development/nagi-new-front-underpaint-v2/nagi-new-front-underpaint-v2.cmo3
 e0eeec79f7b16316dc1cd306a0a265467cfce89a86930edd807012713179cff8  development/nagi-new-front-underpaint-v2/nagi-new-front-underpaint-v2.psd
 82675c66891fca7a103e771f496fdaac56518d2f9f7fd2fffa2f0020cd3f4283  development/nagi-new-front-underpaint-v2/README.md
+91ead6401cc7e8979eb1d3b80e05c3d767b183d08d9259abcff4770ae9d18815  development/nagi-new-front-underpaint-v3/nagi-new-front-underpaint-v3.cmo3
+2c2106df47020de4b8cd3bcca3e5b5e96173c11b96019661090b31847a694e6c  development/nagi-new-front-underpaint-v3/nagi-new-front-underpaint-v3.psd
+b8e8616d033bf50190f3d5e94a77f1398c2ebaa388e3671c0d653aa0f07a4ad4  development/nagi-new-front-underpaint-v3/README.md

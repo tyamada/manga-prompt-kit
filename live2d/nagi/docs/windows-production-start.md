@@ -301,3 +301,7 @@ Cubism Viewerで0–0.92秒、2.52–5.43秒、7.27–8.63秒、8.92–10.40秒�
 ## 正面原画 v2 の下地追加版
 
 額・こめかみ、左右の目、口の肌を4レイヤー追加した。Cubism Editorで描画順を設定し、全表示と前髪・左右の目・口の表示切り替えを確認した。[下地追加PSD・確認用CMO3](../development/nagi-new-front-underpaint-v2/)
+
+## 正面原画の下地修正版 v3
+
+前髪の境界に残った線を前髪側に移し、額からこめかみの肌色を描き直した。Cubism Editorで前髪の表示と非表示を確認した。[修正版PSD・確認用CMO3](../development/nagi-new-front-underpaint-v3/)
