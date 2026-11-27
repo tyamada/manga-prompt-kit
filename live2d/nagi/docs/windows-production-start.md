@@ -325,3 +325,7 @@ Cubism Viewerで0–0.92秒、2.52–5.43秒、7.27–8.63秒、8.92–10.40秒�
 ## 新規正面モデルの口リグ v2
 
 口リグ v1 の別版に開閉0.5の中間キーを追加し、半開きの開口側を100%、閉口線を0%に調整した。Cubism Editorで開閉と口幅の組み合わせを確認した。[編集用CMO3](../development/nagi-new-front-mouth-rig-v2/)
+
+## 新規正面モデルの波音リツ口パク v1
+
+口リグ v2 を書き出し、アクセント試聴版3の開閉・口幅カーブを調整した。Cubism Viewerで音声を割り当て、口形の変化と終端の閉口を目視確認した。[Viewer用モデルと再生手順](../development/nagi-new-front-ritsu-lipsync-v1/)
