@@ -19,3 +19,5 @@ macOSプレビューでも表紙単独と2ページ表示を確認しました�
 sample_idは`ep4_ja`、配布名は`tameshibu_episode4_ja.pdf`。SHA-256：`7c4bde39dc25800aa097854c6e47f31934abe12b3a05d97450fb73523af3c3dc`。原本を保持し、配布コピーも同じハッシュで照合しました。第1〜3話の既存51冊のID・URL・ハッシュは維持し、第4話は日本語1冊のみ追加しています。[最新版JSON](../../../releases/pdf-manifest.json)・[全52冊の一覧](../../../releases/pdf-catalog.md)。
 
 [CC BY 4.0](../../../LICENSE.md)。埋め込み書体のSIL OFL 1.1表示はPDF内に保持しています。作画・脚本・編集に生成AIを使用しています。Androidコードやストア設定、旧Releaseの削除・PDFの内容上書きは行っていません。
+
+2026年11月28日0:42（JST）、正式公開・取得確認後に[@tyamada22で第4話の公開案内](https://x.com/tyamada22/status/2126340932371132648)を投稿しました。[本文・確認記録](../../../releases/ep04-ja-announcement.json)。

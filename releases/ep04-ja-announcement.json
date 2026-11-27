@@ -1,0 +1,16 @@
+{
+  "account": "tyamada22",
+  "status": "posted_and_individual_post_verified",
+  "post_url": "https://x.com/tyamada22/status/2126340932371132648",
+  "posted_at_jst": "2026-11-28T00:42:00+09:00",
+  "posted_at_precision": "minute_as_displayed_by_X",
+  "verified_at_jst": "2026-11-28T00:43:27.550275+09:00",
+  "text": "『ためし部』第4話「風と、なかよく。」日本語版PDFを正式公開しました。\n全8ページ・13本の4コマ。本文を検索できるPDFです。CC BY 4.0。\nダウンロード：\nhttps://github.com/tyamada/manga-prompt-kit/releases/tag/manga-pdf-20261127-ep4-ja-v1\n#ためし部 #4コマ漫画",
+  "release_url": "https://github.com/tyamada/manga-prompt-kit/releases/tag/manga-pdf-20261127-ep4-ja-v1",
+  "public_verification_record": "ep04-ja-public-verification.json",
+  "duplicate_check": "投稿直前の本人プロフィール最新投稿を確認。同じ第4話PDFの案内なし。",
+  "account_verification": "メインメニューのプロフィールURLと本人プロフィールを確認し、投稿後の個別ポストで@tyamada22を確認。",
+  "safari_conflict_check": "X投稿チャットの完了・関連チャットの非実行状態と未送信入力のない画面を確認後、新規タブで実施。",
+  "result_evidence": "送信完了表示、本人プロフィールへの追加、個別ポストの本文・日時・Releaseリンクカードを確認。",
+  "new_tab_closed": true
+}
