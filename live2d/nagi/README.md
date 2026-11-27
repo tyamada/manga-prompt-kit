@@ -6,6 +6,8 @@
 
 右端のこめかみ付近のハイライトを調整し、視線・まばたき・口パクを含む通し再生を確認しました。[編集用モデル・Viewer用モデル・再生手順](development/nagi-angle-xyz-v8/)
 
+[v8の音声付き通し再生動画](development/nagi-angle-xyz-v8/nagi-v8-preview.mp4)で左右端の髪、視線・まばたき・口パクを確認できます。
+
 ## 顔角度XYZ v7
 
 左右端で後ろ髪の外縁を調整し、視線・まばたき・口パクを含む通し再生を確認しました。[編集用モデル・Viewer用モデル・再生手順](development/nagi-angle-xyz-v7/)
