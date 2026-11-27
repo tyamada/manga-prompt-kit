@@ -226,7 +226,19 @@
       "x_announced_at": "2026-11-26T18:12:56.114748+09:00",
       "design": "体育・夏用",
       "source_file": "ためし部_夏の体育着_設定案.jpg"
+    },
+    {
+      "pixiv_url": "https://www.pixiv.net/artworks/152547448",
+      "sha256": "1c8218df1f14f89b2ac11b49d7ddccd9551fd073a07b4b89ae566062ecdd3734",
+      "evidence": "user_report",
+      "direct_page_verified": false,
+      "reported_on": "2026-11-27",
+      "x_announcement": "not_performed_at_publication_report",
+      "x_status_recorded_on": "2026-11-27",
+      "x_note": "投稿担当のSafari操作制限により未実施。今回のGitHub更新ではX操作・迂回・重複投稿を行わない。",
+      "design": "体育・長袖ジャージ",
+      "source_file": "ためし部_体育用トレーニングウェア_設定案.jpg"
     }
   ],
-  "pixiv_publication_note": "夏服・冬服室内・冬服ブレザー・冬の外出着・夏の体育着の5案はpixiv公開報告と画像付きX告知を確認。体育用ジャージの採用・GitHub収録はpixiv公開確認を意味しない。"
+  "pixiv_publication_note": "全6案のpixiv公開報告を確認。X告知は先行5案が完了、体育用ジャージはSafari操作制限により未実施。採用・GitHub収録・pixiv公開・X告知を区別。"
 }

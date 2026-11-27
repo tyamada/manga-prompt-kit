@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-26",
+  "as_of": "2026-11-27",
   "evidence": "user_report",
   "direct_pixiv_page_verified": false,
   "note": "投稿完了報告と提供URLによる確認。サイト制限を迂回しない。予約日時を公開完了の根拠にしない。",
@@ -634,6 +634,60 @@
       "x_announced_at": "2026-11-26T18:12:56.114748+09:00",
       "x_evidence": "posting_chat_record_with_individual_post_and_image_confirmation",
       "github_image_release": "not_created"
+    },
+    {
+      "work_id": "tameshibu-ep02-07",
+      "series": "ためし部",
+      "episode": 2,
+      "strip": 7,
+      "title": "第2話「机、ひろがる。」第7回「注文の多い船」",
+      "filename": "ep02_07_strip.jpg",
+      "source_filename": "第07回_注文の多い船.jpg",
+      "version": "最新共通ルール・背景整理版2026-11-21",
+      "adopted_on": "2026-11-21",
+      "production_document": "examples/published/ep02-07/README.md",
+      "pixiv_url": "https://www.pixiv.net/artworks/152547441",
+      "sha256": "272bf443d63e8599077771e2f26fd2153020c2b42ed9e40e7cf8a7f9d982f6fd",
+      "bytes": 782848,
+      "width": 800,
+      "height": 2400,
+      "evidence": "user_report",
+      "direct_page_verified": false,
+      "reported_on": "2026-11-27",
+      "recorded_on": "2026-11-27",
+      "source_chat": "pixivマンガ投稿",
+      "scheduled_for": "2026-11-27T18:00:00+09:00",
+      "actual_publication_time": null,
+      "x_announcement": "not_performed_at_publication_report",
+      "x_status_recorded_on": "2026-11-27",
+      "x_note": "投稿担当のSafari操作制限により未実施。今回のGitHub更新ではX操作・迂回・重複投稿を行わない。",
+      "github_image_release": "not_created"
+    },
+    {
+      "work_id": "tameshibu-training-wear-20261118",
+      "series": "ためし部",
+      "title": "4人の衣装設定・体育用トレーニングウェア（体育用ジャージ）",
+      "filename": "ためし部_体育用トレーニングウェア_設定案.jpg",
+      "version": "2026-11-18採用・体育用ジャージ設定",
+      "adopted_on": "2026-11-18",
+      "production_document": "series/tameshibu/wardrobe-20261118/README.md",
+      "github_documentation_image": "series/tameshibu/wardrobe-20261118/assets/ためし部_体育用トレーニングウェア_設定案.jpg",
+      "pixiv_url": "https://www.pixiv.net/artworks/152547448",
+      "sha256": "1c8218df1f14f89b2ac11b49d7ddccd9551fd073a07b4b89ae566062ecdd3734",
+      "bytes": 426399,
+      "width": 1536,
+      "height": 1024,
+      "evidence": "user_report",
+      "direct_page_verified": false,
+      "reported_on": "2026-11-27",
+      "recorded_on": "2026-11-27",
+      "source_chat": "pixivマンガ投稿",
+      "scheduled_for": "2026-11-27T18:00:00+09:00",
+      "actual_publication_time": null,
+      "x_announcement": "not_performed_at_publication_report",
+      "x_status_recorded_on": "2026-11-27",
+      "x_note": "投稿担当のSafari操作制限により未実施。今回のGitHub更新ではX操作・迂回・重複投稿を行わない。",
+      "github_image_release": "not_created"
     }
   ],
   "reconciliation": {
@@ -657,12 +711,12 @@
     }
   ],
   "latest_reconciliation": {
-    "date": "2026-11-26",
-    "current_adopted_works": 31,
+    "date": "2026-11-27",
+    "current_adopted_works": 33,
     "confirmed_x_announcements": 23,
-    "excluded": "第2話第7〜13回・体育用ジャージ・部室背景v2・非公開正月所沢版は公開済み一覧へ追加しない。",
+    "excluded": "第2話第8〜13回・部室背景v2・非公開正月所沢版は公開済み一覧へ追加しない。",
     "source_chat": "pixivマンガ投稿",
     "direct_pixiv_page_verified": false,
-    "pending_x_announcements": 0
+    "pending_x_announcements": 2
   }
 }
