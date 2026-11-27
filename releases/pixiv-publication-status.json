@@ -658,10 +658,15 @@
       "source_chat": "pixivマンガ投稿",
       "scheduled_for": "2026-11-27T18:00:00+09:00",
       "actual_publication_time": null,
-      "x_announcement": "not_performed_at_publication_report",
-      "x_status_recorded_on": "2026-11-27",
-      "x_note": "投稿担当のSafari操作制限により未実施。今回のGitHub更新ではX操作・迂回・重複投稿を行わない。",
-      "github_image_release": "not_created"
+      "x_announcement": "completed",
+      "github_image_release": "not_created",
+      "x_url": "https://x.com/komairo_hiyori/status/2126249894537281633",
+      "x_evidence": "user_manual_post_report_with_url_and_work_mapping",
+      "x_direct_post_verified": false,
+      "x_attached_image_verified": false,
+      "x_reported_at": "2026-11-27T18:42:38.895640+09:00",
+      "x_announced_at": null,
+      "x_note": "ユーザーの手動投稿完了報告と作品対応が根拠。本文・添付画像の直接確認、実際の投稿時刻の検証は未実施。"
     },
     {
       "work_id": "tameshibu-training-wear-20261118",
@@ -684,10 +689,15 @@
       "source_chat": "pixivマンガ投稿",
       "scheduled_for": "2026-11-27T18:00:00+09:00",
       "actual_publication_time": null,
-      "x_announcement": "not_performed_at_publication_report",
-      "x_status_recorded_on": "2026-11-27",
-      "x_note": "投稿担当のSafari操作制限により未実施。今回のGitHub更新ではX操作・迂回・重複投稿を行わない。",
-      "github_image_release": "not_created"
+      "x_announcement": "completed",
+      "github_image_release": "not_created",
+      "x_url": "https://x.com/komairo_hiyori/status/2126250019246465124",
+      "x_evidence": "user_manual_post_report_with_url_and_work_mapping",
+      "x_direct_post_verified": false,
+      "x_attached_image_verified": false,
+      "x_reported_at": "2026-11-27T18:42:38.895640+09:00",
+      "x_announced_at": null,
+      "x_note": "ユーザーの手動投稿完了報告と作品対応が根拠。本文・添付画像の直接確認、実際の投稿時刻の検証は未実施。"
     }
   ],
   "reconciliation": {
@@ -713,10 +723,11 @@
   "latest_reconciliation": {
     "date": "2026-11-27",
     "current_adopted_works": 33,
-    "confirmed_x_announcements": 23,
+    "confirmed_x_announcements": 25,
     "excluded": "第2話第8〜13回・部室背景v2・非公開正月所沢版は公開済み一覧へ追加しない。",
     "source_chat": "pixivマンガ投稿",
     "direct_pixiv_page_verified": false,
-    "pending_x_announcements": 2
+    "pending_x_announcements": 0,
+    "user_report_only_x_announcements": 2
   }
 }
