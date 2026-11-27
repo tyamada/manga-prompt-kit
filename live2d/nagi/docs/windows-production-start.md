@@ -313,3 +313,7 @@ Cubism Viewerで0–0.92秒、2.52–5.43秒、7.27–8.63秒、8.92–10.40秒�
 ## 正面原画の下地修正版 v5
 
 口の下地の肌色を周囲に合わせた。Cubism Editorで前髪と口の表示切り替えを確認した。[修正版PSD・確認用CMO3](../development/nagi-new-front-underpaint-v5/)
+
+## 正面原画の口パク用パーツ分け v1
+
+閉口線・開口輪郭・口内・舌を別レイヤーに分け、Cubism Editorで閉じ口と開き口の重なりを確認した。[修正版PSD・確認用CMO3](../development/nagi-new-front-mouth-parts-v1/)
