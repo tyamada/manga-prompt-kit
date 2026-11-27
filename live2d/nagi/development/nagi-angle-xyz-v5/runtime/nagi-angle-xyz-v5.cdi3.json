@@ -140,6 +140,14 @@
 	"ParameterGroups": [],
 	"Parts": [
 		{
+			"Id": "Part6",
+			"Name": "nagi-temple-hair-overlap-draft.psd"
+		},
+		{
+			"Id": "Part5",
+			"Name": "nagi-temple-hair-bridge.psd"
+		},
+		{
 			"Id": "Part4",
 			"Name": "nagi-head-seam-backing.psd"
 		},

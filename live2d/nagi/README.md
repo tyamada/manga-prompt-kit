@@ -2,9 +2,91 @@
 
 『ためし部』瀬尾凪の冬の室内制服モデルです。正面全身の原画、分割PSD、編集用CMO3、Cubism Viewerで再生できる口リグ試作を収録しています。
 
+## 新規正面モデルの波音リツ口パク v2
+
+アクセント試聴版3の波形に合わせて、休止と語尾で閉じ口に戻るタイミングを調整しました。[Viewer用モデル・モーション・再生手順](development/nagi-new-front-ritsu-lipsync-v2/)
+
+## 新規正面モデルの波音リツ口パク v1
+
+口リグ v2 にアクセント試聴版3の口パクを合わせ、Cubism Viewerで再生を確認しました。[Viewer用モデル・モーション・再生手順](development/nagi-new-front-ritsu-lipsync-v1/)
+
+## 新規正面モデルの口リグ v2
+
+半開きの口内が淡く見える補間を調整し、Cubism Editorで開閉と口幅の組み合わせを確認しました。[編集用CMO3と確認内容](development/nagi-new-front-mouth-rig-v2/)
+
+## 新規正面モデルの口リグ v1
+
+開閉と口幅のキーを設定し、Cubism Editorで組み合わせを確認しました。[編集用CMO3と確認内容](development/nagi-new-front-mouth-rig-v1/)
+
+## 正面原画の口パク用パーツ分け v1
+
+閉口線・開口輪郭・口内・舌を分け、Cubism Editorで重なりを確認しました。[修正版PSD・確認用CMO3](development/nagi-new-front-mouth-parts-v1/)
+
+## 正面原画の下地修正版 v5
+
+口を隠したときに見える下地を、周囲の肌色に合わせました。[修正版PSD・確認用CMO3](development/nagi-new-front-underpaint-v5/)
+
+## 正面原画の下地修正版 v4
+
+左右の目の縁と下地の肌色を、周囲の肌に合わせました。[修正版PSD・確認用CMO3](development/nagi-new-front-underpaint-v4/)
+
+## 正面原画の下地修正版 v3
+
+前髪を隠したときの額とこめかみの線を除き、肌色をつなげました。[修正版PSD・確認用CMO3](development/nagi-new-front-underpaint-v3/)
+
+## 正面原画 v2 の下地追加版
+
+額・こめかみと左右の目・口の下地を描き足し、Cubism Editorで表示切り替えを確認しました。[下地追加PSD・確認用CMO3](development/nagi-new-front-underpaint-v2/)
+
+## 新規Live2D用 正面原画 v2
+
+設定画 v2 の中央を透過原画と10レイヤーのPSDにしました。Cubism Editorで正面の重なりを確認済みです。[原画・PSD](development/nagi-new-front-v2/)
+
+## 新規Live2D用設定画 v2
+
+新しい制作の出発点として、胸上の正面と左右斜めを描き起こしました。[設定画 v2](development/nagi-setting-art-v2/)
+
+## 新規Live2D用 正面原画 v1
+
+設定画を基に胸上の正面原画を作り、10レイヤーのPSDに分けました。[原画・PSD・確認結果](development/nagi-new-front-v1/)
+
+## 新規Live2D用設定画
+
+胸上の正面・左右斜めを並べた[瀬尾凪の設定画](development/nagi-setting-art-v1/)を掲載しました。
+
+## 顔角度XYZ v12
+
+右端のこめかみのつなぎ目を調整しました。[波音リツの音声付き通し再生動画](development/nagi-angle-xyz-v12/nagi-v12-preview.mp4)も収録しました。[編集用モデル・Viewer用モデル・再生手順](development/nagi-angle-xyz-v12/)
+
+## 顔角度XYZ v11
+
+右端のこめかみのつなぎ目を調整しました。[波音リツの音声付き通し再生動画](development/nagi-angle-xyz-v11/nagi-v11-preview.mp4)も収録しました。[編集用モデル・Viewer用モデル・再生手順](development/nagi-angle-xyz-v11/)
+
+## 顔角度XYZ v10
+
+右端のこめかみのつなぎ目を調整しました。[波音リツの音声付き通し再生動画](development/nagi-angle-xyz-v10/nagi-v10-preview.mp4)も収録しました。[編集用モデル・Viewer用モデル・再生手順](development/nagi-angle-xyz-v10/)
+
+## 顔角度XYZ v9
+
+右端のこめかみのつなぎ目を調整しました。[波音リツの音声付き通し再生動画](development/nagi-angle-xyz-v9/nagi-v9-preview.mp4)も収録しました。[編集用モデル・Viewer用モデル・再生手順](development/nagi-angle-xyz-v9/)
+
+## 顔角度XYZ v8
+
+右端のこめかみ付近のハイライトを調整し、視線・まばたき・口パクを含む通し再生を確認しました。[編集用モデル・Viewer用モデル・再生手順](development/nagi-angle-xyz-v8/)
+
+[v8の音声付き通し再生動画](development/nagi-angle-xyz-v8/nagi-v8-preview.mp4)で左右端の髪、視線・まばたき・口パクを確認できます。
+
+## 顔角度XYZ v7
+
+左右端で後ろ髪の外縁を調整し、視線・まばたき・口パクを含む通し再生を確認しました。[編集用モデル・Viewer用モデル・再生手順](development/nagi-angle-xyz-v7/)
+
+## 顔角度XYZ v6
+
+左右端で奥側の髪と耳の継ぎ目を調整し、視線・まばたき・口パクを含む通し再生を確認しました。[編集用モデル・Viewer用モデル・再生手順](development/nagi-angle-xyz-v6/)
+
 ## 顔角度XYZ v5
 
-横髪と耳の重なりを角度ごとに調整しました。[編集用モデル・Viewer用モデル・再生手順](development/nagi-angle-xyz-v5/)
+横髪と耳の重なりを角度ごとに調整し、左右端で奥側の耳に重なる補足作画を加え、Cubism Viewerで視線・まばたき・口パクを含む通し再生を確認しました。[編集用モデル・Viewer用モデル・再生手順](development/nagi-angle-xyz-v5/)
 
 ## 顔角度XYZ v4
 
