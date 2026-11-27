@@ -6,7 +6,7 @@
 
 プロンプトを一度送って完成を待つだけでなく、試作を読んで修正し、採用稿を選ぶ工程を重視しています。画像生成AIを使い、作品を自分で確認しながら作りたい方を対象にしています。
 
-**初版 2026年11月12日**。[GitHubリポジトリ](https://github.com/tyamada/manga-prompt-kit)で制作資料を公開しています。アプリ用PDF51冊をReleasesで公開しています。人物紹介4枚はReleasesで公開済み、[第1話本文画像14枚](https://github.com/tyamada/manga-prompt-kit/releases/tag/pixiv-tameshibu-ep01-20261111-v1)もReleasesで公開済みです。
+**初版 2026年11月12日**。[GitHubリポジトリ](https://github.com/tyamada/manga-prompt-kit)で制作資料を公開しています。アプリ用PDF52冊（第1〜3話51冊＋第4話日本語1冊）をReleasesで公開しています。人物紹介4枚はReleasesで公開済み、[第1話本文画像14枚](https://github.com/tyamada/manga-prompt-kit/releases/tag/pixiv-tameshibu-ep01-20261111-v1)もReleasesで公開済みです。
 
 ![こよみの人物紹介](examples/01-character/assets/adopted.jpg)
 
@@ -93,7 +93,8 @@
 
 - [第1話の表紙と全13回のカラー画像・ZIPをダウンロード](https://github.com/tyamada/manga-prompt-kit/releases/tag/pixiv-tameshibu-ep01-20261111-v1)
 
-- [最新版アプリ用PDF51冊をダウンロード](https://github.com/tyamada/manga-prompt-kit/releases/tag/manga-pdf-20261103-v1)
+- [最新版アプリ用PDF52冊をダウンロード](https://tyamada.github.io/manga-prompt-kit/samples/)
+- [第4話「風と、なかよく。」日本語版](https://github.com/tyamada/manga-prompt-kit/releases/tag/manga-pdf-20261127-ep4-ja-v1)
 
 - [ためし部の第1回をpixivで読む](https://www.pixiv.net/artworks/151828086)
 - [マンガ制作記事の連載一覧](https://qiita.com/tyamada22/stocks/ea14e9a9d04ec8292263)
@@ -103,7 +104,7 @@
 
 この資料集はPDFビューアアプリ本体を含みません。最新版のPDFと投稿用画像は、**この制作資料リポジトリのGitHub Releasesへ集約する計画**です。アプリ側の既存2つのReleaseは移行中の旧配布先で、将来廃止予定です。新しいReleaseの公開・検証と利用アプリの移行が終わるまでは旧URLを維持します。
 
-アプリ用PDF51冊は[新しいPDF Release](https://github.com/tyamada/manga-prompt-kit/releases/tag/manga-pdf-20261103-v1)で公開済みです。全件の匿名ダウンロードと整合性を確認しました。pixiv用人物紹介4枚をReleaseで公開済みです。第1話本文画像14枚も公開済みで、瀬尾家6枚は投稿完了未確認のため待機中です。アプリ側の参照先更新と旧2配布先の廃止は未実施です。[配布対象と移行手順](releases/README.md)を参照してください。
+既存の第1〜3話51冊は[従来のPDF Release](https://github.com/tyamada/manga-prompt-kit/releases/tag/manga-pdf-20261103-v1)で公開済みです。全件の匿名ダウンロードと整合性を確認しました。pixiv用人物紹介4枚をReleaseで公開済みです。第1話本文画像14枚も公開済みで、瀬尾家6枚は投稿完了未確認のため待機中です。アプリ側の参照先更新と旧2配布先の廃止は未実施です。[配布対象と移行手順](releases/README.md)を参照してください。
 
 ## ライセンス
 
@@ -180,3 +181,7 @@
 ## 2026年11月27日 第7回と体育用ジャージの公開確認
 
 第2話第7回「注文の多い船」の制作資料・実使用プロンプトと体育用ジャージ設定の公開URLを[公開記録](releases/pixiv-publication-status.md)へ反映しました。公開33作品、X告知完了25件。新規2件はユーザーの手動投稿完了報告と作品対応確認に基づき告知URLを追記しました。本文・添付画像は直接未確認です。衣装6案すべてのpixiv公開報告を確認しましたが、新しい画像Releaseは作成していません。未公開回・背景・非公開の正月所沢版は追加していません。
+
+## 2026年11月27日 第4話日本語版の正式公開
+
+[第4話「風と、なかよく。」日本語版](https://github.com/tyamada/manga-prompt-kit/releases/tag/manga-pdf-20261127-ep4-ja-v1)を、読み順修正後の最終確認と全4添付の匿名取得検証を経て公開しました。[制作資料](examples/published/ep04-ja/README.md)。最新版JSONへep4_jaを追加し、14言語のダウンロードページから日本語版を選べます。第4話の他言語版は未公開です。既存51冊・旧URLは保持しています。

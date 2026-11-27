@@ -1,15 +1,13 @@
 {
-  "date": "2026-11-20",
+  "date": "2026-11-27",
   "language_pages": 14,
-  "pdf_links_per_page": 51,
+  "pdf_links_per_page": 52,
   "local_links_checked": 224,
-  "published_release_asset_metadata_matched": 51,
   "source": "releases/pdf-manifest.json",
-  "source_sha256": "4ffcdc152b18fe631b7db4f749907caa1ccf5888511137784d23774abf5d7ed4",
+  "source_sha256": "01a5348488df3ba808a084669816f39083d6bc7f7eea94ecb047e2ac22e96501",
   "pdf_files_added_to_docs": 0,
-  "app_pdf_files_deleted": 0,
-  "github_pages_enabled": true,
-  "public_language_pages_verified": 14,
-  "public_html_matches_generated": true,
-  "public_visual_review": "Japanese desktop page reviewed in browser"
+  "legacy_51_entries_unchanged": true,
+  "new_pdf_anonymous_download_verified": true,
+  "public_language_pages_verification": "pending_after_deployment",
+  "prior_verification": "verification-20261120.json"
 }

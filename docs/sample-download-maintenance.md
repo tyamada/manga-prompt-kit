@@ -2,7 +2,7 @@
 
 公開先：<https://tyamada.github.io/manga-prompt-kit/samples/>。
 
-14言語の静的ページを、公開済み[PDF一覧](../releases/pdf-manifest.json)と`scripts/sample-page-locales.json`から生成します。PDF実体は固定版のGitHub Releasesに置き、`docs/`へコピーしません。JavaScriptを使わず全51冊へ到達できます。
+14言語の静的ページを、公開済み[PDF一覧](../releases/pdf-manifest.json)と`scripts/sample-page-locales.json`から生成します。PDF実体は固定版のGitHub Releasesに置き、`docs/`へコピーしません。JavaScriptを使わず全52冊へ到達できます。
 
 ## 更新手順
 
@@ -26,3 +26,5 @@ GitHub Pagesはmainブランチの`/docs`をソースとし、`.nojekyll`で静�
 ## PDF実体を整理するとき
 
 各アプリの`testdata/`・`docs/`に残る漫画PDFは、アプリ・テスト・撮影・BSD等の検証スクリプトの依存を解消し、必要な配信・原本保管を確認してから削除します。一般回帰PDF、利用者が取得したPDF、同梱一覧JSONは対象外です。Git履歴の書き換えや旧2Releaseの廃止は別工程です。
+
+2026年11月27日追加：第4話は日本語1冊のみ。既存51冊の固定URLを維持し、同一schemaの最新版JSONへep4_jaを追加しました。PDF添付の古いmanifestは当時の固定版で、現在の集約一覧はリポジトリのJSONを参照します。

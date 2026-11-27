@@ -1,0 +1,41 @@
+{
+  "date": "2026-11-27",
+  "sha256": "7c4bde39dc25800aa097854c6e47f31934abe12b3a05d97450fb73523af3c3dc",
+  "bytes": 99981486,
+  "pages": 8,
+  "pdf_version": "1.5",
+  "layout": "TwoPageRight",
+  "direction": "R2L",
+  "searchable_phrases": 65,
+  "scenario_typography_matches": 65,
+  "panel_ratio": "70:50",
+  "panel_count": 52,
+  "author_colophon_license_verified": true,
+  "pixel_identical_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "page8_other_regions_pixel_identical": [
+    "profiles_colophon",
+    "strip13_panels1to3"
+  ],
+  "reading_order_visual_review": "passed_nagi_upper_left_then_mitsuki_lower_right",
+  "publication_status": "published",
+  "final_review": "passed",
+  "visual_review_basis": "全8ページと右綴じ想定見開きの旧版レビュー、修正版1〜7ページと8ページ目対象外のピクセル一致、修正版8ページ全体と第13回4コマ目の拡大目視。ネイティブアプリの見開き動作検証とは区別。",
+  "release_url": "https://github.com/tyamada/manga-prompt-kit/releases/tag/manga-pdf-20261127-ep4-ja-v1",
+  "native_preview_check": {
+    "cover_alone": true,
+    "two_page_rendering": true,
+    "observed_page_2_position": "left",
+    "observed_page_3_position": "right",
+    "rtl_viewer_preference_followed_by_preview": false,
+    "note": "macOSプレビューの2ページ表示は左2・右3。PDFのR2Lは維持。右綴じのページ配置に対応するビューアを使用。",
+    "document_closed_after_check": true
+  }
+}

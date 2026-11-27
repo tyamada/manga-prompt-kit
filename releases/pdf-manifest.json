@@ -6,8 +6,8 @@
   "repository": "tyamada/manga-prompt-kit",
   "tag_candidate": "manga-pdf-20261103-v1",
   "repository_url": "https://github.com/tyamada/manga-prompt-kit",
-  "pdf_count": 51,
-  "unique_bytes": 1254726790,
+  "pdf_count": 52,
+  "unique_bytes": 1354708276,
   "local_hashes_match_legacy_release_metadata": true,
   "entries": [
     {
@@ -1335,9 +1335,41 @@
           "url": "https://github.com/tyamada/MihirakiPDFUtility_Android/releases/download/sample-manga-v2/tameshibu_episode3_ja.pdf"
         }
       ]
+    },
+    {
+      "sample_id": "ep4_ja",
+      "episode": 4,
+      "language_key": "ja",
+      "locale": "ja-JP",
+      "title": "ためし部 第4話 風と、なかよく。",
+      "filename": "tameshibu_episode4_ja.pdf",
+      "pages": 8,
+      "bytes": 99981486,
+      "sha256": "7c4bde39dc25800aa097854c6e47f31934abe12b3a05d97450fb73523af3c3dc",
+      "license": "CC-BY-4.0",
+      "status": "published_new_repository_release",
+      "new_download_url": "https://github.com/tyamada/manga-prompt-kit/releases/download/manga-pdf-20261127-ep4-ja-v1/tameshibu_episode4_ja.pdf",
+      "legacy": [],
+      "edition": "2026-11-27 読み順修正版",
+      "published_on": "2026-11-27",
+      "release_tag": "manga-pdf-20261127-ep4-ja-v1"
     }
   ],
   "fixed_tag": "manga-pdf-20261103-v1",
   "release_url": "https://github.com/tyamada/manga-prompt-kit/releases/tag/manga-pdf-20261103-v1",
-  "verification_scope": "Same bytes as legacy published PDFs; local signature, size, SHA-256 and eight-page structure verified before transfer."
+  "verification_scope": "Same bytes as legacy published PDFs; local signature, size, SHA-256 and eight-page structure verified before transfer.",
+  "updated_on": "2026-11-27",
+  "latest_release_tag": "manga-pdf-20261127-ep4-ja-v1",
+  "distribution": "multiple_fixed_releases",
+  "legacy_metadata_verification_scope": "既存第1〜3話51冊のみ。第4話は新しい最終確認・匿名取得検証に基づく。",
+  "release_groups": [
+    {
+      "tag": "manga-pdf-20261103-v1",
+      "pdf_count": 51
+    },
+    {
+      "tag": "manga-pdf-20261127-ep4-ja-v1",
+      "pdf_count": 1
+    }
+  ]
 }
