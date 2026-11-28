@@ -6,8 +6,8 @@
   "repository": "tyamada/manga-prompt-kit",
   "tag_candidate": "manga-pdf-20261103-v1",
   "repository_url": "https://github.com/tyamada/manga-prompt-kit",
-  "pdf_count": 52,
-  "unique_bytes": 1354708276,
+  "pdf_count": 56,
+  "unique_bytes": 1595469853,
   "local_hashes_match_legacy_release_metadata": true,
   "entries": [
     {
@@ -1353,13 +1353,85 @@
       "edition": "2026-11-27 読み順修正版",
       "published_on": "2026-11-27",
       "release_tag": "manga-pdf-20261127-ep4-ja-v1"
+    },
+    {
+      "sample_id": "ep4_en",
+      "episode": 4,
+      "language_key": "en",
+      "locale": "en-US",
+      "filename": "tameshibu_episode4_en.pdf",
+      "sha256": "192b2625236cf38749a463d2539543033262aa5b1988e6229be9aea147eb7a85",
+      "bytes": 59359742,
+      "pages": 8,
+      "title": "THE TRY-IT CLUB / Episode 4 / Friends with the Wind",
+      "license": "CC-BY-4.0",
+      "status": "published_new_repository_release",
+      "legacy": [],
+      "edition": "2026-11-28 翻訳版初版",
+      "published_on": "2026-11-28",
+      "release_tag": "manga-pdf-20261128-ep4-translations-v1",
+      "new_download_url": "https://github.com/tyamada/manga-prompt-kit/releases/download/manga-pdf-20261128-ep4-translations-v1/tameshibu_episode4_en.pdf"
+    },
+    {
+      "sample_id": "ep4_ko",
+      "episode": 4,
+      "language_key": "ko",
+      "locale": "ko-KR",
+      "filename": "tameshibu_episode4_ko.pdf",
+      "sha256": "83bfc5a0ac71adb3199331a65e031adf0dc221e582a08384c4a224aba7698748",
+      "bytes": 59347536,
+      "pages": 8,
+      "title": "해봄부 / 제4화 / 바람과 친해지기",
+      "license": "CC-BY-4.0",
+      "status": "published_new_repository_release",
+      "legacy": [],
+      "edition": "2026-11-28 翻訳版初版",
+      "published_on": "2026-11-28",
+      "release_tag": "manga-pdf-20261128-ep4-translations-v1",
+      "new_download_url": "https://github.com/tyamada/manga-prompt-kit/releases/download/manga-pdf-20261128-ep4-translations-v1/tameshibu_episode4_ko.pdf"
+    },
+    {
+      "sample_id": "ep4_zh_cn",
+      "episode": 4,
+      "language_key": "zh_cn",
+      "locale": "zh-CN",
+      "filename": "tameshibu_episode4_zh_cn.pdf",
+      "sha256": "bf02d6ff76e2ff8a1f8526b569eb1891efd3b21c4666a68c349dcece21a41e1f",
+      "bytes": 59358006,
+      "pages": 8,
+      "title": "试试社 / 第4话 / 和风做朋友",
+      "license": "CC-BY-4.0",
+      "status": "published_new_repository_release",
+      "legacy": [],
+      "edition": "2026-11-28 翻訳版初版",
+      "published_on": "2026-11-28",
+      "release_tag": "manga-pdf-20261128-ep4-translations-v1",
+      "new_download_url": "https://github.com/tyamada/manga-prompt-kit/releases/download/manga-pdf-20261128-ep4-translations-v1/tameshibu_episode4_zh_cn.pdf"
+    },
+    {
+      "sample_id": "ep4_zh_tw",
+      "episode": 4,
+      "language_key": "zh_tw",
+      "locale": "zh-TW",
+      "filename": "tameshibu_episode4_zh_tw.pdf",
+      "sha256": "1ac3ee7998ce2a96ac36dbaf7640348eef9de7031efd00e8ab435a9ca2e7015a",
+      "bytes": 62696293,
+      "pages": 8,
+      "title": "試試社 / 第4話 / 和風做朋友",
+      "license": "CC-BY-4.0",
+      "status": "published_new_repository_release",
+      "legacy": [],
+      "edition": "2026-11-28 翻訳版初版",
+      "published_on": "2026-11-28",
+      "release_tag": "manga-pdf-20261128-ep4-translations-v1",
+      "new_download_url": "https://github.com/tyamada/manga-prompt-kit/releases/download/manga-pdf-20261128-ep4-translations-v1/tameshibu_episode4_zh_tw.pdf"
     }
   ],
   "fixed_tag": "manga-pdf-20261103-v1",
   "release_url": "https://github.com/tyamada/manga-prompt-kit/releases/tag/manga-pdf-20261103-v1",
-  "verification_scope": "第1〜3話51冊は従来の公開版と同一。第4話日本語1冊は読み順修正後の最終確認と匿名取得でサイズ・SHA-256を検証。",
-  "updated_on": "2026-11-27",
-  "latest_release_tag": "manga-pdf-20261127-ep4-ja-v1",
+  "verification_scope": "第1〜3話51冊は従来の公開版と同一。第4話の日本語・翻訳版5冊は最終確認後の匿名取得でサイズ・SHA-256を検証。",
+  "updated_on": "2026-11-28",
+  "latest_release_tag": "manga-pdf-20261128-ep4-translations-v1",
   "distribution": "multiple_fixed_releases",
   "legacy_metadata_verification_scope": "既存第1〜3話51冊のみ。第4話は新しい最終確認・匿名取得検証に基づく。",
   "release_groups": [
@@ -1370,6 +1442,10 @@
     {
       "tag": "manga-pdf-20261127-ep4-ja-v1",
       "pdf_count": 1
+    },
+    {
+      "tag": "manga-pdf-20261128-ep4-translations-v1",
+      "pdf_count": 4
     }
   ],
   "legacy_release_fields_scope": "tag_candidate・fixed_tag・release_urlは既存51冊の固定Releaseを示す互換項目。集約一覧の取得にはentries[].new_download_urlを使用し、最新追加版はlatest_release_tag、配布内訳はrelease_groupsを参照。"

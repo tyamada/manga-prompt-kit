@@ -6,7 +6,7 @@
 
 プロンプトを一度送って完成を待つだけでなく、試作を読んで修正し、採用稿を選ぶ工程を重視しています。画像生成AIを使い、作品を自分で確認しながら作りたい方を対象にしています。
 
-**初版 2026年11月12日**。[GitHubリポジトリ](https://github.com/tyamada/manga-prompt-kit)で制作資料を公開しています。アプリ用PDF52冊（第1〜3話51冊＋第4話日本語1冊）をReleasesで公開しています。人物紹介4枚はReleasesで公開済み、[第1話本文画像14枚](https://github.com/tyamada/manga-prompt-kit/releases/tag/pixiv-tameshibu-ep01-20261111-v1)もReleasesで公開済みです。
+**初版 2026年11月12日**。[GitHubリポジトリ](https://github.com/tyamada/manga-prompt-kit)で制作資料を公開しています。アプリ用PDF56冊（第1〜3話51冊＋第4話5冊）をReleasesで公開しています。人物紹介4枚はReleasesで公開済み、[第1話本文画像14枚](https://github.com/tyamada/manga-prompt-kit/releases/tag/pixiv-tameshibu-ep01-20261111-v1)もReleasesで公開済みです。
 
 ![こよみの人物紹介](examples/01-character/assets/adopted.jpg)
 
@@ -93,7 +93,7 @@
 
 - [第1話の表紙と全13回のカラー画像・ZIPをダウンロード](https://github.com/tyamada/manga-prompt-kit/releases/tag/pixiv-tameshibu-ep01-20261111-v1)
 
-- [最新版アプリ用PDF52冊をダウンロード](https://tyamada.github.io/manga-prompt-kit/samples/)
+- [最新版アプリ用PDF56冊をダウンロード](https://tyamada.github.io/manga-prompt-kit/samples/)
 - [第4話「風と、なかよく。」日本語版](https://github.com/tyamada/manga-prompt-kit/releases/tag/manga-pdf-20261127-ep4-ja-v1)
 
 - [ためし部の第1回をpixivで読む](https://www.pixiv.net/artworks/151828086)
@@ -184,6 +184,8 @@
 
 ## 2026年11月27日 第4話日本語版の正式公開
 
-[第4話「風と、なかよく。」日本語版](https://github.com/tyamada/manga-prompt-kit/releases/tag/manga-pdf-20261127-ep4-ja-v1)を、読み順修正後の最終確認と全4添付の匿名取得検証を経て公開しました。[制作資料](examples/published/ep04-ja/README.md)。最新版JSONへep4_jaを追加し、14言語のダウンロードページから日本語版を選べます。第4話の他言語版は未公開です。既存51冊・旧URLは保持しています。
+[第4話「風と、なかよく。」日本語版](https://github.com/tyamada/manga-prompt-kit/releases/tag/manga-pdf-20261127-ep4-ja-v1)を、読み順修正後の最終確認と全4添付の匿名取得検証を経て公開しました。[制作資料](examples/published/ep04-ja/README.md)。最新版JSONへep4_jaを追加し、14言語のダウンロードページから日本語版を選べます。当日の配布対象は日本語版でした。既存51冊・旧URLは保持しています。
 
 第4話の正式公開後、2026年11月28日0:42（JST）に[@tyamada22の公開案内](https://x.com/tyamada22/status/2126340932371132648)を投稿し、個別ポストを確認しました。[告知記録](releases/ep04-ja-announcement.json)。
+
+2026年11月28日、第4話の[翻訳版4冊](https://github.com/tyamada/manga-prompt-kit/releases/tag/manga-pdf-20261128-ep4-translations-v1)を正式公開しました。第4話は日本語・英語・韓国語・中国語（簡体字／繁体字・台湾）の5冊、集約一覧は全56冊です。

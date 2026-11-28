@@ -1,6 +1,6 @@
 # 公開PDF一覧
 
-第1〜3話51冊（14言語・17言語地域区分）と第4話日本語1冊の計52冊です。第4話の他言語版は未公開です。各PDFは固定Releaseで配布し、既存51冊のURL・内容は保持しています。[最新版JSON](pdf-manifest.json)・[ダウンロードページ](https://tyamada.github.io/manga-prompt-kit/samples/)。旧2配布先の移行対応表は既存第1〜3話の[pdf-migration.csv](pdf-migration.csv)です。
+第1〜3話51冊（14言語・17言語地域区分）と第4話5冊の計56冊です。第4話は日本語・英語・韓国語・中国語（簡体字／繁体字・台湾）です。各PDFは固定Releaseで配布し、既存51冊のURL・内容は保持しています。[最新版JSON](pdf-manifest.json)・[ダウンロードページ](https://tyamada.github.io/manga-prompt-kit/samples/)。旧2配布先の移行対応表は既存第1〜3話の[pdf-migration.csv](pdf-migration.csv)です。
 
 | 話 | 言語キー | 地域 | 配布PDF | ページ | バイト数 |
 |---|---|---|---|---|---|
@@ -56,3 +56,7 @@
 | 3 | zh_tw | zh-Hant-TW | [tameshibu_episode3_2_zh_tw.pdf](https://github.com/tyamada/manga-prompt-kit/releases/download/manga-pdf-20261103-v1/tameshibu_episode3_2_zh_tw.pdf) | 8 | 23,274,083 |
 | 3 | ja | ja-JP | [tameshibu_episode3_ja.pdf](https://github.com/tyamada/manga-prompt-kit/releases/download/manga-pdf-20261103-v1/tameshibu_episode3_ja.pdf) | 8 | 23,238,613 |
 | 4 | ja | ja-JP | [tameshibu_episode4_ja.pdf](https://github.com/tyamada/manga-prompt-kit/releases/download/manga-pdf-20261127-ep4-ja-v1/tameshibu_episode4_ja.pdf) | 8 | 99,981,486 |
+| 4 | en | en-US | [tameshibu_episode4_en.pdf](https://github.com/tyamada/manga-prompt-kit/releases/download/manga-pdf-20261128-ep4-translations-v1/tameshibu_episode4_en.pdf) | 8 | 59,359,742 |
+| 4 | ko | ko-KR | [tameshibu_episode4_ko.pdf](https://github.com/tyamada/manga-prompt-kit/releases/download/manga-pdf-20261128-ep4-translations-v1/tameshibu_episode4_ko.pdf) | 8 | 59,347,536 |
+| 4 | zh_cn | zh-CN | [tameshibu_episode4_zh_cn.pdf](https://github.com/tyamada/manga-prompt-kit/releases/download/manga-pdf-20261128-ep4-translations-v1/tameshibu_episode4_zh_cn.pdf) | 8 | 59,358,006 |
+| 4 | zh_tw | zh-TW | [tameshibu_episode4_zh_tw.pdf](https://github.com/tyamada/manga-prompt-kit/releases/download/manga-pdf-20261128-ep4-translations-v1/tameshibu_episode4_zh_tw.pdf) | 8 | 62,696,293 |

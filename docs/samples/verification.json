@@ -1,15 +1,14 @@
 {
-  "date": "2026-11-27",
+  "date": "2026-11-28",
   "language_pages": 14,
-  "pdf_links_per_page": 52,
+  "pdf_links_per_page": 56,
   "local_links_checked": 224,
   "source": "releases/pdf-manifest.json",
-  "source_sha256": "c263e16e13963ee173a353f550436a476e76641826eb282d2c6fd9cd12d28241",
+  "source_sha256": "a527a9532b75154d8a2b2e53b6e90d7217c21258da25527de1e0596abd8aa913",
   "pdf_files_added_to_docs": 0,
   "legacy_51_entries_unchanged": true,
   "new_pdf_anonymous_download_verified": true,
-  "public_language_pages_verification": "passed_14_pages_and_latest_json",
-  "prior_verification": "verification-20261120.json",
-  "public_verified_on": "2026-11-28",
-  "public_pages_match_local": true
+  "public_language_pages_verification": "pending",
+  "prior_verification": "verification-20261128-ep4-ja.json",
+  "public_pages_match_local": false
 }

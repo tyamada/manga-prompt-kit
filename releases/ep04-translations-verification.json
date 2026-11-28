@@ -1,0 +1,103 @@
+{
+  "date": "2026-11-28",
+  "release_url": "https://github.com/tyamada/manga-prompt-kit/releases/tag/manga-pdf-20261128-ep4-translations-v1",
+  "visual_review": "全32ページの描画、表紙・奥付、最終コマの凪→みつきの吹き出し配置を確認。",
+  "pdfs": {
+    "en": {
+      "locale": "en-US",
+      "filename": "tameshibu_episode4_en.pdf",
+      "sha256": "192b2625236cf38749a463d2539543033262aa5b1988e6229be9aea147eb7a85",
+      "bytes": 59359742,
+      "pages": 8,
+      "searchable": 65,
+      "author": "Komairo Hiyori",
+      "title": "THE TRY-IT CLUB / Episode 4 / Friends with the Wind",
+      "layout": "TwoPageRight",
+      "direction": "R2L",
+      "embedded_fonts": true
+    },
+    "ko": {
+      "locale": "ko-KR",
+      "filename": "tameshibu_episode4_ko.pdf",
+      "sha256": "83bfc5a0ac71adb3199331a65e031adf0dc221e582a08384c4a224aba7698748",
+      "bytes": 59347536,
+      "pages": 8,
+      "searchable": 65,
+      "author": "코마이로 히요리",
+      "title": "해봄부 / 제4화 / 바람과 친해지기",
+      "layout": "TwoPageRight",
+      "direction": "R2L",
+      "embedded_fonts": true
+    },
+    "zh_cn": {
+      "locale": "zh-CN",
+      "filename": "tameshibu_episode4_zh_cn.pdf",
+      "sha256": "bf02d6ff76e2ff8a1f8526b569eb1891efd3b21c4666a68c349dcece21a41e1f",
+      "bytes": 59358006,
+      "pages": 8,
+      "searchable": 65,
+      "author": "小真彩日和",
+      "title": "试试社 / 第4话 / 和风做朋友",
+      "layout": "TwoPageRight",
+      "direction": "R2L",
+      "embedded_fonts": true
+    },
+    "zh_tw": {
+      "locale": "zh-TW",
+      "filename": "tameshibu_episode4_zh_tw.pdf",
+      "sha256": "1ac3ee7998ce2a96ac36dbaf7640348eef9de7031efd00e8ab435a9ca2e7015a",
+      "bytes": 62696293,
+      "pages": 8,
+      "searchable": 65,
+      "author": "小舞樓日和",
+      "title": "試試社 / 第4話 / 和風做朋友",
+      "layout": "TwoPageRight",
+      "direction": "R2L",
+      "embedded_fonts": true
+    }
+  },
+  "anonymous_downloads": [
+    {
+      "filename": "LICENSE.md",
+      "bytes": 2535,
+      "sha256": "c45989dcedd0a3a6c23730250cde6996ecef7c7116c9e105069cb3ecdf97bebb",
+      "url": "https://github.com/tyamada/manga-prompt-kit/releases/download/manga-pdf-20261128-ep4-translations-v1/LICENSE.md"
+    },
+    {
+      "filename": "SHA256SUMS",
+      "bytes": 531,
+      "sha256": "7302c0abad3ebeafe6da32fec3edcff2f5f2ccc26823ddd253ec55190c81ec93",
+      "url": "https://github.com/tyamada/manga-prompt-kit/releases/download/manga-pdf-20261128-ep4-translations-v1/SHA256SUMS"
+    },
+    {
+      "filename": "manifest.json",
+      "bytes": 3224,
+      "sha256": "3306a54b1f0664592e22d426beba03914aa63e461e833359daedd370827e237f",
+      "url": "https://github.com/tyamada/manga-prompt-kit/releases/download/manga-pdf-20261128-ep4-translations-v1/manifest.json"
+    },
+    {
+      "filename": "tameshibu_episode4_en.pdf",
+      "bytes": 59359742,
+      "sha256": "192b2625236cf38749a463d2539543033262aa5b1988e6229be9aea147eb7a85",
+      "url": "https://github.com/tyamada/manga-prompt-kit/releases/download/manga-pdf-20261128-ep4-translations-v1/tameshibu_episode4_en.pdf"
+    },
+    {
+      "filename": "tameshibu_episode4_ko.pdf",
+      "bytes": 59347536,
+      "sha256": "83bfc5a0ac71adb3199331a65e031adf0dc221e582a08384c4a224aba7698748",
+      "url": "https://github.com/tyamada/manga-prompt-kit/releases/download/manga-pdf-20261128-ep4-translations-v1/tameshibu_episode4_ko.pdf"
+    },
+    {
+      "filename": "tameshibu_episode4_zh_cn.pdf",
+      "bytes": 59358006,
+      "sha256": "bf02d6ff76e2ff8a1f8526b569eb1891efd3b21c4666a68c349dcece21a41e1f",
+      "url": "https://github.com/tyamada/manga-prompt-kit/releases/download/manga-pdf-20261128-ep4-translations-v1/tameshibu_episode4_zh_cn.pdf"
+    },
+    {
+      "filename": "tameshibu_episode4_zh_tw.pdf",
+      "bytes": 62696293,
+      "sha256": "1ac3ee7998ce2a96ac36dbaf7640348eef9de7031efd00e8ab435a9ca2e7015a",
+      "url": "https://github.com/tyamada/manga-prompt-kit/releases/download/manga-pdf-20261128-ep4-translations-v1/tameshibu_episode4_zh_tw.pdf"
+    }
+  ]
+}

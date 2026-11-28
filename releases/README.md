@@ -12,7 +12,7 @@
 
 | 対象 | 新しい配布先の状態 | 内容 | タグ候補 |
 |---|---|---|---|
-| アプリ用公開版PDF | 公開済み・匿名取得検証済み | 第1〜3話51冊＋第4話日本語1冊、計52冊 | manga-pdf-20261103-v1 / manga-pdf-20261127-ep4-ja-v1 |
+| アプリ用公開版PDF | 公開済み・匿名取得検証済み | 第1〜3話51冊＋第4話5冊、計56冊 | manga-pdf-20261103-v1 / manga-pdf-20261127-ep4-ja-v1 / manga-pdf-20261128-ep4-translations-v1 |
 | ためし部 pixiv本文 | 公開済み・全18添付検証済み | 11月11日採用版の表紙1枚と全13回、計14枚 | pixiv-tameshibu-ep01-20261111-v1 |
 | ためし部 人物紹介 | 公開済み | こよみv10、凪・くるみ・すみれv1、計4枚 | pixiv-tameshibu-characters-20261109-v1 |
 | 瀬尾家 pixiv本文 | 公開予定 | 三姉妹の中心v2、最後のアイスv2、お風呂の順番v6、宿題の先生v12、休日の予定v2、しっかり者のお願いv2、計6枚 | pixiv-seo-strips01-06-20261108-v1 |
@@ -32,7 +32,7 @@ Utility側はアプリ最新版との混同を避けるためプレリリース�
 
 [PDF一覧](pdf-manifest.json)には話数・言語・地域・ファイル名・ページ数・サイズ・SHA-256を、[移行対応表](pdf-migration.csv)には旧2配布先の102件から新しい51冊への対応を収録しています。リポジトリ名はtyamada/manga-prompt-kitで確定し、PDF Releaseの固定URLはJSONとCSVへ反映済みです。第1話本文画像と人物紹介のダウンロードURLは確定し、画像一覧に収録しています。瀬尾家の画像Releaseは未作成です。
 
-読みやすい[全52冊の一覧表](pdf-catalog.md)も収録しています。
+読みやすい[全56冊の一覧表](pdf-catalog.md)も収録しています。
 
 全51冊のローカル原本を、両旧ReleaseのAPIメタデータにあるバイト数とSHA-256へ照合しました。PDF本体約1.25GBは確認用ZIPへ重複同梱していません。新しいReleaseには各PDFを個別添付済みです。公開後に全51冊と付属4件を匿名ダウンロードし、最終HTTP 200、HTTPS、サイズ、SHA-256、PDF実体と8ページ構成を確認しました。[全件検証記録](pdf-public-verification.json)を参照してください。
 
@@ -142,8 +142,12 @@ PDFの公開と全件取得検証まで完了しました。次は[アプリ側�
 
 ## 2026年11月27日 第4話日本語版追加
 
-[第4話の新規PDF Release](https://github.com/tyamada/manga-prompt-kit/releases/tag/manga-pdf-20261127-ep4-ja-v1)を公開し、PDFと付属3件を匿名取得・容量・SHA-256照合しました。既存51冊は旧固定版のまま維持。最新版JSONは同一schemaにep4_jaを加えた52冊で、14言語の案内も更新しました。PDF移行の過去記録の51冊は当時の対象数です。[最終確認](ep04-ja-final-review.json)・[公開取得検証](ep04-ja-public-verification.json)。
+[第4話の新規PDF Release](https://github.com/tyamada/manga-prompt-kit/releases/tag/manga-pdf-20261127-ep4-ja-v1)を公開し、PDFと付属3件を匿名取得・容量・SHA-256照合しました。既存51冊は旧固定版のまま維持。当日のJSONは同一schemaにep4_jaを加えた52冊で、14言語の案内も更新しました。PDF移行の過去記録の51冊は当時の対象数です。[最終確認](ep04-ja-final-review.json)・[公開取得検証](ep04-ja-public-verification.json)。
 
 2026年11月28日0:42（JST）、正式公開・取得確認後に[@tyamada22で第4話の公開案内](https://x.com/tyamada22/status/2126340932371132648)を投稿しました。[本文・確認記録](ep04-ja-announcement.json)。
 
 2026年11月28日、公開記録・制作資料・最新版JSON・14言語ページ・X告知URLを[全体照合]( ep04-ja-consistency-review.json)しました。
+
+2026年11月28日、第4話の[翻訳版4冊](https://github.com/tyamada/manga-prompt-kit/releases/tag/manga-pdf-20261128-ep4-translations-v1)を正式公開しました。第4話は日本語・英語・韓国語・中国語（簡体字／繁体字・台湾）の5冊、集約一覧は全56冊です。
+
+[翻訳版の最終確認・匿名取得照合](ep04-translations-verification.json)。

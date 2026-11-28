@@ -2,7 +2,7 @@
 
 公開先：<https://tyamada.github.io/manga-prompt-kit/samples/>。
 
-14言語の静的ページを、公開済み[PDF一覧](../releases/pdf-manifest.json)と`scripts/sample-page-locales.json`から生成します。PDF実体は固定版のGitHub Releasesに置き、`docs/`へコピーしません。JavaScriptを使わず全52冊へ到達できます。
+14言語の静的ページを、公開済み[PDF一覧](../releases/pdf-manifest.json)と`scripts/sample-page-locales.json`から生成します。PDF実体は固定版のGitHub Releasesに置き、`docs/`へコピーしません。JavaScriptを使わず全56冊へ到達できます。
 
 ## 更新手順
 
@@ -27,4 +27,6 @@ GitHub Pagesはmainブランチの`/docs`をソースとし、`.nojekyll`で静�
 
 各アプリの`testdata/`・`docs/`に残る漫画PDFは、アプリ・テスト・撮影・BSD等の検証スクリプトの依存を解消し、必要な配信・原本保管を確認してから削除します。一般回帰PDF、利用者が取得したPDF、同梱一覧JSONは対象外です。Git履歴の書き換えや旧2Releaseの廃止は別工程です。
 
-2026年11月27日追加：第4話は日本語1冊のみ。既存51冊の固定URLを維持し、同一schemaの最新版JSONへep4_jaを追加しました。PDF添付の古いmanifestは当時の固定版で、現在の集約一覧はリポジトリのJSONを参照します。
+2026年11月27日追加：当日の第4話追加は日本語1冊。既存51冊の固定URLを維持し、同一schemaの最新版JSONへep4_jaを追加しました。PDF添付の古いmanifestは当時の固定版で、現在の集約一覧はリポジトリのJSONを参照します。
+
+2026年11月28日、第4話の[翻訳版4冊](https://github.com/tyamada/manga-prompt-kit/releases/tag/manga-pdf-20261128-ep4-translations-v1)を正式公開しました。第4話は日本語・英語・韓国語・中国語（簡体字／繁体字・台湾）の5冊、集約一覧は全56冊です。

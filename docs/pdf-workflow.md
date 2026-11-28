@@ -38,8 +38,10 @@
 
 ## 第4話の追加公開（2026年11月27日）
 
-[第4話日本語版の制作資料](../examples/published/ep04-ja/README.md)と[最終確認記録](../releases/ep04-ja-final-review.json)に、白ブラウス・画板の連続性、第13回4コマ目の凪→みつきの読み順修正、本文65件の照合を記録しました。第4話は日本語1冊のみ追加し、最新版JSONと14言語の案内は合計52冊です。各言語の第4話PDFが公開されたという意味ではありません。
+[第4話日本語版の制作資料](../examples/published/ep04-ja/README.md)と[最終確認記録](../releases/ep04-ja-final-review.json)に、白ブラウス・画板の連続性、第13回4コマ目の凪→みつきの読み順修正、本文65件の照合を記録しました。当日は日本語版1冊を追加し、一覧は52冊になりました。
 
 macOSプレビューの2ページ表示はR2Lに追従せず、左2ページ・右3ページでした。PDFの右綴じ指定と、ビューアの実際の配置を区別し、対応ビューアか単ページ表示で確認します。
 
 正式公開後は実際の閲覧・取得を確認し、[公開案内ルール](publication-announcement-policy.md)に従って@tyamada22で告知します。[第4話のX告知記録](../releases/ep04-ja-announcement.json)。
+
+2026年11月28日、第4話の[翻訳版4冊](https://github.com/tyamada/manga-prompt-kit/releases/tag/manga-pdf-20261128-ep4-translations-v1)を正式公開しました。第4話は日本語・英語・韓国語・中国語（簡体字／繁体字・台湾）の5冊、集約一覧は全56冊です。
