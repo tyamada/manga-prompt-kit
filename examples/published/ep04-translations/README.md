@@ -7,3 +7,14 @@
 [日本語版の制作資料](../ep04-ja/README.md)・[翻訳版の確認記録](../../../releases/ep04-translations-verification.json)。
 
 2026年11月28日12:52（JST）、[Xで翻訳版の公開を案内](https://x.com/tyamada22/status/2126524722561380610)しました。
+
+配布版ごとのカタログIDと案内ページです。
+
+| 版 | ID | 配布案内 |
+|---|---|---|
+| 英語 | `ep4_en` | [PDF](https://github.com/tyamada/manga-prompt-kit/releases/download/manga-pdf-20261128-ep4-translations-v1/tameshibu_episode4_en.pdf) · [言語ページ](https://tyamada.github.io/manga-prompt-kit/samples/en/#en) |
+| 韓国語 | `ep4_ko` | [PDF](https://github.com/tyamada/manga-prompt-kit/releases/download/manga-pdf-20261128-ep4-translations-v1/tameshibu_episode4_ko.pdf) · [言語ページ](https://tyamada.github.io/manga-prompt-kit/samples/ko/#ko) |
+| 中国語・簡体字（中国大陸） | `ep4_zh_cn` | [PDF](https://github.com/tyamada/manga-prompt-kit/releases/download/manga-pdf-20261128-ep4-translations-v1/tameshibu_episode4_zh_cn.pdf) · [言語ページ](https://tyamada.github.io/manga-prompt-kit/samples/zh-Hans/#zh_cn) |
+| 中国語・繁体字（台湾） | `ep4_zh_tw` | [PDF](https://github.com/tyamada/manga-prompt-kit/releases/download/manga-pdf-20261128-ep4-translations-v1/tameshibu_episode4_zh_tw.pdf) · [言語ページ](https://tyamada.github.io/manga-prompt-kit/samples/zh-Hant/#zh_tw) |
+
+集約JSONと配布ページには文字体系を明示する `zh-Hans-CN` と `zh-Hant-TW` を使います。PDFの内部言語タグと固定Release添付の公開時点の一覧では、それぞれ `zh-CN` と `zh-TW` です。PDFは各版8ページで、CC BY 4.0です。

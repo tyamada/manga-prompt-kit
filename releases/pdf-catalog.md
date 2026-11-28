@@ -58,5 +58,5 @@
 | 4 | ja | ja-JP | [tameshibu_episode4_ja.pdf](https://github.com/tyamada/manga-prompt-kit/releases/download/manga-pdf-20261127-ep4-ja-v1/tameshibu_episode4_ja.pdf) | 8 | 99,981,486 |
 | 4 | en | en-US | [tameshibu_episode4_en.pdf](https://github.com/tyamada/manga-prompt-kit/releases/download/manga-pdf-20261128-ep4-translations-v1/tameshibu_episode4_en.pdf) | 8 | 59,359,742 |
 | 4 | ko | ko-KR | [tameshibu_episode4_ko.pdf](https://github.com/tyamada/manga-prompt-kit/releases/download/manga-pdf-20261128-ep4-translations-v1/tameshibu_episode4_ko.pdf) | 8 | 59,347,536 |
-| 4 | zh_cn | zh-CN | [tameshibu_episode4_zh_cn.pdf](https://github.com/tyamada/manga-prompt-kit/releases/download/manga-pdf-20261128-ep4-translations-v1/tameshibu_episode4_zh_cn.pdf) | 8 | 59,358,006 |
-| 4 | zh_tw | zh-TW | [tameshibu_episode4_zh_tw.pdf](https://github.com/tyamada/manga-prompt-kit/releases/download/manga-pdf-20261128-ep4-translations-v1/tameshibu_episode4_zh_tw.pdf) | 8 | 62,696,293 |
+| 4 | zh_cn | zh-Hans-CN | [tameshibu_episode4_zh_cn.pdf](https://github.com/tyamada/manga-prompt-kit/releases/download/manga-pdf-20261128-ep4-translations-v1/tameshibu_episode4_zh_cn.pdf) | 8 | 59,358,006 |
+| 4 | zh_tw | zh-Hant-TW | [tameshibu_episode4_zh_tw.pdf](https://github.com/tyamada/manga-prompt-kit/releases/download/manga-pdf-20261128-ep4-translations-v1/tameshibu_episode4_zh_tw.pdf) | 8 | 62,696,293 |

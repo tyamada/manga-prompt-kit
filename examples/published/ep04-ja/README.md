@@ -23,3 +23,5 @@ sample_idは`ep4_ja`、配布名は`tameshibu_episode4_ja.pdf`。SHA-256：`7c4b
 2026年11月28日0:42（JST）、正式公開・取得確認後に[@tyamada22で第4話の公開案内](https://x.com/tyamada22/status/2126340932371132648)を投稿しました。[本文・確認記録](../../../releases/ep04-ja-announcement.json)。
 
 2026年11月28日、公開記録・制作資料・最新版JSON・14言語ページ・X告知URLを[全体照合]( ../../../releases/ep04-ja-consistency-review.json)しました。
+
+各版の取得先と組版・検証の記録は[翻訳版の制作資料](../ep04-translations/README.md)を参照してください。

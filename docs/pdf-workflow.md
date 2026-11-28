@@ -45,3 +45,5 @@ macOSプレビューの2ページ表示はR2Lに追従せず、左2ページ・�
 正式公開後は実際の閲覧・取得を確認し、[公開案内ルール](publication-announcement-policy.md)に従って@tyamada22で告知します。[第4話のX告知記録](../releases/ep04-ja-announcement.json)。
 
 2026年11月28日、第4話の[翻訳版4冊](https://github.com/tyamada/manga-prompt-kit/releases/tag/manga-pdf-20261128-ep4-translations-v1)を正式公開しました。第4話は日本語・英語・韓国語・中国語（簡体字／繁体字・台湾）の5冊、集約一覧は全56冊です。
+
+各版の取得先と組版・検証の記録は[翻訳版の制作資料](../examples/published/ep04-translations/README.md)を参照してください。

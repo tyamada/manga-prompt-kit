@@ -153,3 +153,5 @@ PDFの公開と全件取得検証まで完了しました。次は[アプリ側�
 [翻訳版の最終確認・匿名取得照合](ep04-translations-verification.json)。
 
 2026年11月28日12:52（JST）、[Xで翻訳版の公開を案内](https://x.com/tyamada22/status/2126524722561380610)しました。
+
+各版の取得先と組版・検証の記録は[翻訳版の制作資料](../examples/published/ep04-translations/README.md)を参照してください。
