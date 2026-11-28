@@ -151,3 +151,5 @@ PDFの公開と全件取得検証まで完了しました。次は[アプリ側�
 2026年11月28日、第4話の[翻訳版4冊](https://github.com/tyamada/manga-prompt-kit/releases/tag/manga-pdf-20261128-ep4-translations-v1)を正式公開しました。第4話は日本語・英語・韓国語・中国語（簡体字／繁体字・台湾）の5冊、集約一覧は全56冊です。
 
 [翻訳版の最終確認・匿名取得照合](ep04-translations-verification.json)。
+
+2026年11月28日12:52（JST）、[Xで翻訳版の公開を案内](https://x.com/tyamada22/status/2126524722561380610)しました。
