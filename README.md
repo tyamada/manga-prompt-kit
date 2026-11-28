@@ -1,6 +1,6 @@
 # 4コママンガのプロンプトと制作手順
 
-**最新状況（2026年11月27日）**：[公開記録](releases/pixiv-publication-status.md)は33作品・X告知25件（新規2件はユーザー手動投稿報告）。第1話の表紙と全13回（14/14枚）のpixiv投稿完了報告がそろいました。[第1話の本文画像Release](https://github.com/tyamada/manga-prompt-kit/releases/tag/pixiv-tameshibu-ep01-20261111-v1)を公開し、全18添付の匿名取得・整合性検証を完了しました。以下の日付付き更新欄は各日時点の履歴です。
+**最新状況（2026年11月28日）**：[公開記録](releases/pixiv-publication-status.md)は34作品・X告知25件（第2話第8回は告知未実施）。第1話の表紙と全13回（14/14枚）のpixiv投稿完了報告がそろいました。[第1話の本文画像Release](https://github.com/tyamada/manga-prompt-kit/releases/tag/pixiv-tameshibu-ep01-20261111-v1)を公開し、全18添付の匿名取得・整合性検証を完了しました。以下の日付付き更新欄は各日時点の履歴です。
 
 『ためし部』と『瀬尾家』の制作を実例に、人物設定、4コマ脚本、作画、縦書き、部分修正、投稿用画像の準備をまとめた資料集です。検索できる冊子PDFと多言語版の作り方も扱います。
 
@@ -193,3 +193,5 @@
 2026年11月28日12:52（JST）、[Xで翻訳版の公開を案内](https://x.com/tyamada22/status/2126524722561380610)しました。
 
 各版の取得先と組版・検証の記録は[翻訳版の制作資料](examples/published/ep04-translations/README.md)を参照してください。
+
+2026年11月28日、第2話第8回「最短の方法」のpixiv公開報告と制作資料を[公開記録](releases/pixiv-publication-status.md)に反映しました。

@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-27",
+  "as_of": "2026-11-28",
   "evidence": "user_report",
   "direct_pixiv_page_verified": false,
   "note": "投稿完了報告と提供URLによる確認。サイト制限を迂回しない。予約日時を公開完了の根拠にしない。",
@@ -698,6 +698,34 @@
       "x_reported_at": "2026-11-27T18:42:38.895640+09:00",
       "x_announced_at": null,
       "x_note": "ユーザーの手動投稿完了報告と作品対応が根拠。本文・添付画像の直接確認、実際の投稿時刻の検証は未実施。"
+    },
+    {
+      "work_id": "tameshibu-ep02-08",
+      "series": "ためし部",
+      "episode": 2,
+      "strip": 8,
+      "title": "第2話「机、ひろがる。」第8回「最短の方法」",
+      "filename": "ep02_08_strip.jpg",
+      "source_filename": "第08回_最短の方法.jpg",
+      "version": "最新共通ルール・背景整理版2026-11-21",
+      "adopted_on": "2026-11-21",
+      "production_document": "examples/published/ep02-08/README.md",
+      "pixiv_url": "https://www.pixiv.net/artworks/152588909",
+      "sha256": "ed2c9388091f75d0d95d65e3e888ccb7086d1bc911bdf73e8569a114c05cedde",
+      "bytes": 765343,
+      "width": 800,
+      "height": 2400,
+      "evidence": "user_report",
+      "direct_page_verified": false,
+      "reported_on": "2026-11-28",
+      "recorded_on": "2026-11-28",
+      "source_chat": "pixivマンガ投稿",
+      "scheduled_for": "2026-11-28T18:00:00+09:00",
+      "actual_publication_time": null,
+      "x_announcement": "not_performed_at_publication_report",
+      "x_status_recorded_on": "2026-11-28",
+      "x_note": "投稿担当チャットでは先行Safari操作制限の解除を確認できず未実施。",
+      "github_image_release": "not_created"
     }
   ],
   "reconciliation": {
@@ -721,13 +749,13 @@
     }
   ],
   "latest_reconciliation": {
-    "date": "2026-11-27",
-    "current_adopted_works": 33,
+    "date": "2026-11-28",
+    "current_adopted_works": 34,
     "confirmed_x_announcements": 25,
-    "excluded": "第2話第8〜13回・部室背景v2・非公開正月所沢版は公開済み一覧へ追加しない。",
+    "excluded": "第2話第9〜13回・第3話の未公開素材・部室背景v2・非公開正月所沢版は公開済み一覧の対象外。",
     "source_chat": "pixivマンガ投稿",
     "direct_pixiv_page_verified": false,
-    "pending_x_announcements": 0,
+    "pending_x_announcements": 1,
     "user_report_only_x_announcements": 2
   }
 }

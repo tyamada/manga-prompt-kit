@@ -1,6 +1,6 @@
 # GitHub Releasesの公開と移行計画
 
-**最新状況（2026年11月27日）**：[公開記録](pixiv-publication-status.md)は33作品・X告知25件（新規2件はユーザー手動投稿報告）。第1話の表紙と全13回（14/14枚）のpixiv投稿完了報告がそろいました。[第1話の本文画像Release](https://github.com/tyamada/manga-prompt-kit/releases/tag/pixiv-tameshibu-ep01-20261111-v1)を公開し、全18添付の匿名取得・整合性検証を完了しました。以下の日付付き更新欄は各日時点の履歴です。
+**最新状況（2026年11月28日）**：[公開記録](pixiv-publication-status.md)は34作品・X告知25件（第2話第8回は告知未実施）。第1話の表紙と全13回（14/14枚）のpixiv投稿完了報告がそろいました。[第1話の本文画像Release](https://github.com/tyamada/manga-prompt-kit/releases/tag/pixiv-tameshibu-ep01-20261111-v1)を公開し、全18添付の匿名取得・整合性検証を完了しました。以下の日付付き更新欄は各日時点の履歴です。
 
 **最新版のPDFとpixiv用画像の公開先は、この制作資料リポジトリのGitHub Releasesに統一します。** 制作資料と[PDF用Release](https://github.com/tyamada/manga-prompt-kit/releases/tag/manga-pdf-20261103-v1)を公開済みです。人物紹介4枚のReleaseは公開済み、[第1話本文画像14枚](https://github.com/tyamada/manga-prompt-kit/releases/tag/pixiv-tameshibu-ep01-20261111-v1)も公開済みです。旧アプリ用2配布先は現在公開中ですが、移行後に廃止する予定です。廃止日は未定です。
 
@@ -155,3 +155,5 @@ PDFの公開と全件取得検証まで完了しました。次は[アプリ側�
 2026年11月28日12:52（JST）、[Xで翻訳版の公開を案内](https://x.com/tyamada22/status/2126524722561380610)しました。
 
 各版の取得先と組版・検証の記録は[翻訳版の制作資料](../examples/published/ep04-translations/README.md)を参照してください。
+
+2026年11月28日、第2話第8回「最短の方法」のpixiv公開報告と制作資料を[公開記録](pixiv-publication-status.md)に反映しました。
