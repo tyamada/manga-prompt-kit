@@ -8,8 +8,9 @@
   "pdf_files_added_to_docs": 0,
   "legacy_51_entries_unchanged": true,
   "new_pdf_anonymous_download_verified": true,
-  "public_language_pages_verification": "pending_after_locale_correction",
+  "public_language_pages_verification": "passed_14_pages_and_latest_json",
   "prior_verification": "verification-20261128-ep4-ja.json",
-  "public_pages_match_local": false,
-  "public_verified_on": "2026-11-28"
+  "public_pages_match_local": true,
+  "public_verified_on": "2026-11-28",
+  "raw_main_alias_matches": true
 }
