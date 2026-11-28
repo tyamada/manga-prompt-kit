@@ -1,0 +1,19 @@
+{
+  "Version": 3,
+  "FileReferences": {
+    "Moc": "nagi-new-front-ritsu-lipsync-v1.moc3",
+    "Textures": [
+      "nagi-new-front-ritsu-lipsync-v1.2048/texture_00.png"
+    ],
+    "DisplayInfo": "nagi-new-front-ritsu-lipsync-v1.cdi3.json",
+    "Motions": {
+      "Narration": [
+        {
+          "File": "nagi-new-front-ritsu-lipsync-v3.motion3.json",
+          "FadeInTime": 0,
+          "FadeOutTime": 0
+        }
+      ]
+    }
+  }
+}

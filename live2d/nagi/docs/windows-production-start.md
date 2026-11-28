@@ -333,3 +333,7 @@ Cubism Viewerで0–0.92秒、2.52–5.43秒、7.27–8.63秒、8.92–10.40秒�
 ## 新規正面モデルの波音リツ口パク v2
 
 波形と既存の推定境界を照合し、10区間の閉口保持と口幅を調整した。Cubism Viewerで音声を割り当て、口形の変化と終端の閉口を目視確認した。[Viewer用モデルと再生手順](../development/nagi-new-front-ritsu-lipsync-v2/)
+
+## 新規正面モデルの波音リツ口パク v3
+
+マ行・バ行10箇所の閉口前後と口幅、促音3箇所の開閉補間を調整した。Cubism Viewerで音声を割り当て、口形の変化と終端の閉口を目視確認した。[Viewer用モデルと再生手順](../development/nagi-new-front-ritsu-lipsync-v3/)
